@@ -1,6 +1,11 @@
 # ☕ Java & Security Daily Digest
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### 🛠️ Automation Stack:
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
 📅 Last Update: 2026-01-30 23:10 (Local Time)
 
