@@ -1,0 +1,36 @@
+name: Daily Tech Update
+
+on:
+  schedule:
+    # Se ejecuta a las 08:00 AM UTC (Aprox 03:00 AM en Colombia)
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Esto permite que lo actives manualmente desde la web
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # IMPORTANTE: Permite al bot escribir en tu repo
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        run: python bot.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: daily tech news update [skip ci]" || echo "No changes to commit"
+          git push
+
