@@ -2,15 +2,14 @@ name: Daily Tech Update
 
 on:
   schedule:
-    # Se ejecuta a las 08:00 AM UTC (Aprox 03:00 AM en Colombia)
     - cron: '0 8 * * *'
-  workflow_dispatch: # Esto permite que lo actives manualmente desde la web
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # IMPORTANTE: Permite al bot escribir en tu repo
+      contents: write 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
