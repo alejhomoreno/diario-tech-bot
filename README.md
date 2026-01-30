@@ -1,13 +1,13 @@
 # ☕ Java & Security Daily Digest
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-### 🛠️ Automation Stack:
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-📅 Last Update: 2026-01-30 23:10 (Local Time)
+### 🛠️ Built with:
+<code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
+
+📅 **Last Update:** 2026-01-30 23:52 (UTC)
+
+---
 
 ## 🔖 Top Java
 * **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)**
@@ -22,4 +22,9 @@
 * **[vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)**
 * **[Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)**
 * **[Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)**
+
+## 🔖 Top Networking
+* **[系统代理配置不可持久化的问题排查与解决](https://dev.to/amoorzheyu/xi-tong-dai-li-pei-zhi-bu-ke-chi-jiu-hua-de-wen-ti-pai-cha-yu-jie-jue-23j8)**
+* **[How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)**
+* **[How DNS Resolution Works](https://dev.to/rajesh_kumar_b7a2c16a37b1/how-dns-resolution-works-17jg)**
 
