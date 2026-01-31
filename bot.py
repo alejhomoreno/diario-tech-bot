@@ -30,9 +30,9 @@ def get_tech_articles():
 
     for tag in TAGS:
         try:
-            # Timeout es vital para no colgar el proceso
+            
             response = requests.get(f"{API_URL}{tag}&top=7&per_page=3", timeout=10)
-            response.raise_for_status() # Lanza error si la web responde 404 o 500
+            response.raise_for_status() 
             articles = response.json()
             
             if articles:
