@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-01-31 13:06 (UTC)
+📅 **Last Update:** 2026-01-31 13:25 (UTC)
 
 ---
 
 ## 🔖 Top Java
 * **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)**
-* **[I built a lightweight Java framework for Japan's "SI" projects (third attempt in 10 years)](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)**
 * **[Java Finally Gets TOON Support: json-io 4.85.0](https://dev.to/john_deregnaucourt/java-finally-gets-toon-support-json-io-4850-bpp)**
+* **[I built a lightweight Java framework for Japan's "SI" projects (third attempt in 10 years)](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)**
 
 ## 🔖 Top Keycloak
 * **[Grafana with Keycloak - editing dashboards](https://dev.to/12ww1160/grafana-with-keycloak-editing-dashboards-9ie)**
