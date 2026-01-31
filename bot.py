@@ -11,7 +11,9 @@ ICON_GITHUB = "https://raw.githubusercontent.com/devicons/devicon/master/icons/g
 ICON_LINUX = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
 
 def get_tech_articles():
-    current_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')
+    
+    now = datetime.now(timezone.utc)
+    current_time = now.strftime('%Y-%m-%d %H:%M')
     
     content = f"""# ☕ Java & Security Daily Digest
 
