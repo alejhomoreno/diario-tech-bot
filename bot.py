@@ -1,59 +1,24 @@
-import requests
-from datetime import datetime, timezone
+import requests, datetime, time
+TAGS = ["java","keycloak","devops","networking"]
+BASE = "https://dev.to/api/articles"
+def top3_for(tag):
+    r = requests.get(BASE, params={"tag":tag,"per_page":30})
+    r.raise_for_status()
+    items = r.json()
+    items.sort(key=lambda a: (a.get("positive_reactions_count",0), a.get("comments_count",0)), reverse=True)
+    return items[:3]
 
-TAGS = ['java', 'keycloak', 'spring-boot', 'devops', 'networking']
-API_URL = "https://dev.to/api/articles?tag="
-
-BADGE_PYTHON = "https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"
-BADGE_ACTIONS = "https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"
-ICON_PYTHON = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-ICON_GITHUB = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-ICON_LINUX = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-
-def get_tech_articles():
-    
-    now = datetime.now(timezone.utc)
-    current_time = now.strftime('%Y-%m-%d %H:%M')
-    
-    content = f"""# ☕ Java & Security Daily Digest
-
-![Python]({BADGE_PYTHON}) ![GitHub Actions]({BADGE_ACTIONS})
-
-### 🛠️ Built with:
-<code><img height='30' src='{ICON_PYTHON}'></code> <code><img height='30' src='{ICON_GITHUB}'></code> <code><img height='30' src='{ICON_LINUX}'></code>
-
-📅 **Last Update:** {current_time} (UTC)
-
----
-
-"""
-
-    found_something = False
-
-    for tag in TAGS:
-        try:
-            response = requests.get(f"{API_URL}{tag}&top=7&per_page=3", timeout=10)
-            response.raise_for_status() 
-            articles = response.json()
-            
-            if articles:
-                found_something = True
-                content += f"## 🔖 Top {tag.capitalize()}\n"
-                for art in articles:
-                    content += f"* **[{art['title']}]({art['url']})**\n"
-                content += "\n"
-                
-        except Exception as e:
-            print(f"⚠️ Warning: Could not fetch data for {tag}. Error: {e}")
-    
-    if not found_something:
-        content += "## 💡 Daily Note\n"
-        content += "Focusing on core engineering principles today. Keep building! 🚀\n"
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    
-    print("✅ README.md generated successfully.")
+def build_readme(selections):
+    ts = datetime.datetime.utcnow().isoformat(timespec='microseconds')+'Z'
+    lines = ["# Noticias técnicas", f"> **Log ID:** {ts}", ""]
+    for tag, articles in selections.items():
+        lines.append(f"## {tag}")
+        for a in articles:
+            lines.append(f"- [{a['title']}]({a['url']}) — **{a.get('positive_reactions_count',0)}** 👍")
+        lines.append("")
+    return "\n".join(lines)
 
 if __name__ == "__main__":
-    get_tech_articles()
+    sel = {t: top3_for(t) for t in TAGS}
+    readme = build_readme(sel)
+    open("README.md","w",encoding="utf-8").write(readme)
