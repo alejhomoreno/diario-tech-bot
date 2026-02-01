@@ -5,23 +5,23 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-01-31 13:54 (UTC)
+📅 **Last Update:** 2026-02-01 13:45 (UTC)
 
 ---
 
 ## 🔖 Top Java
 * **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)**
-* **[Java Finally Gets TOON Support: json-io 4.85.0](https://dev.to/john_deregnaucourt/java-finally-gets-toon-support-json-io-4850-bpp)**
-* **[I built a lightweight Java framework for Japan's "SI" projects (third attempt in 10 years)](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)**
+* **[Java Is Modern—So Why Does It Still Feel Verbose?](https://dev.to/anand_jaisy_2f7644a12001b/java-is-modern-so-why-does-it-still-feel-verbose-460a)**
+* **[AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)**
 
 ## 🔖 Top Keycloak
 * **[Grafana with Keycloak - editing dashboards](https://dev.to/12ww1160/grafana-with-keycloak-editing-dashboards-9ie)**
 * **[Unlock Advanced Login Journeys with Keycloak Custom Authentication Flows](https://dev.to/iamdevbox/unlock-advanced-login-journeys-with-keycloak-custom-authentication-flows-k22)**
 
 ## 🔖 Top Devops
-* **[vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)**
-* **[Don’t Learn DevOps Before Understanding Web Development](https://dev.to/tusharsharma099/dont-learn-devops-before-understanding-web-development-fb)**
-* **[Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)**
+* **[300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)**
+* **[Pourquoi j'ai créé un projet pour apprendre GitLab CI/CD (et pourquoi la doc ne suffit pas)](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)**
+* **[Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha)**
 
 ## 🔖 Top Networking
 * **[系统代理配置不可持久化的问题排查与解决](https://dev.to/amoorzheyu/xi-tong-dai-li-pei-zhi-bu-ke-chi-jiu-hua-de-wen-ti-pai-cha-yu-jie-jue-23j8)**
