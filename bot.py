@@ -9,7 +9,7 @@ def top3_for(tag):
     return items[:3]
 
 def build_readme(selections):
-    ts = datetime.datetime.isoformat(timespec='microseconds')+'Z'
+    ts = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='microseconds')+'Z'
     lines = ["# Noticias técnicas", f"> **Log ID:** {ts}", ""]
     for tag, articles in selections.items():
         lines.append(f"## {tag}")
@@ -22,6 +22,3 @@ if __name__ == "__main__":
     sel = {t: top3_for(t) for t in TAGS}
     readme = build_readme(sel)
     open("README.md","w",encoding="utf-8").write(readme)
-
-
-
