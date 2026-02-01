@@ -1,30 +1,22 @@
-# ☕ Java & Security Daily Digest
+# Noticias técnicas
+> **Log ID:** 2026-02-01T23:11:53.624000+00:00Z
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+## java
+- [Myth we believe #2](https://dev.to/taqmuraz/myth-we-believe-2-2l0i) — **7** 👍
+- [From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3) — **5** 👍
+- [SPRING BOOT EXCEPTION HANDLING](https://dev.to/bhu_kalki/spring-boot-exception-handling-3m9a) — **5** 👍
 
-### 🛠️ Built with:
-<code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
+## keycloak
+- [Integrating KC Authorization Services into NestJS API](https://dev.to/haithamoumer/integrating-kc-authorization-services-into-nestjs-api-46kd) — **8** 👍
+- [Расширяем Keycloak: Пишем Java-плагин для загрузки пользователей из внешнего API](https://dev.to/_2974322d72d5f53d8c2c/rasshiriaiem-keycloak-pishiem-java-plaghin-dlia-zaghruzki-polzovatieliei-iz-vnieshniegho-api-4gb0) — **6** 👍
+- [RKE2'de Liman MYS & Keycloak Kurulumu: Longhorn ve Docker Hub Hata Çözümleri Dahil Tam Rehber](https://dev.to/aciklab/rke2de-liman-mys-keycloak-kurulumu-longhorn-ve-docker-hub-hata-cozumleri-dahil-tam-rehber-4nfe) — **5** 👍
 
-📅 **Last Update:** 2026-02-01 13:45 (UTC)
+## devops
+- [App Center alternatives for mobile beta distribution in 2026](https://dev.to/r0bbie/app-center-alternatives-for-mobile-beta-distribution-in-2026-565) — **10** 👍
+- [I Built QualityHub: AI-Powered Quality Intelligence for Your Releases](https://dev.to/younes_bentlili_9480340f/i-built-qualityhub-ai-powered-quality-intelligence-for-your-releases-40d3) — **2** 👍
+- [Solved: Do y’all not tier support support staff anymore?](https://dev.to/techresolve/solved-do-yall-not-tier-support-support-staff-anymore-49kf) — **1** 👍
 
----
-
-## 🔖 Top Java
-* **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)**
-* **[Java Is Modern—So Why Does It Still Feel Verbose?](https://dev.to/anand_jaisy_2f7644a12001b/java-is-modern-so-why-does-it-still-feel-verbose-460a)**
-* **[AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 2 Create Capacity Provider](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-2-create-capacity-provider-4cgo)**
-
-## 🔖 Top Keycloak
-* **[Grafana with Keycloak - editing dashboards](https://dev.to/12ww1160/grafana-with-keycloak-editing-dashboards-9ie)**
-* **[Unlock Advanced Login Journeys with Keycloak Custom Authentication Flows](https://dev.to/iamdevbox/unlock-advanced-login-journeys-with-keycloak-custom-authentication-flows-k22)**
-
-## 🔖 Top Devops
-* **[300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)**
-* **[Pourquoi j'ai créé un projet pour apprendre GitLab CI/CD (et pourquoi la doc ne suffit pas)](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)**
-* **[Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha)**
-
-## 🔖 Top Networking
-* **[系统代理配置不可持久化的问题排查与解决](https://dev.to/amoorzheyu/xi-tong-dai-li-pei-zhi-bu-ke-chi-jiu-hua-de-wen-ti-pai-cha-yu-jie-jue-23j8)**
-* **[How DNS Resolution Works](https://dev.to/anoop-rajoriya/how-dns-resolution-works-2n4i)**
-* **[How DNS Resolution Works](https://dev.to/rajesh_kumar_b7a2c16a37b1/how-dns-resolution-works-17jg)**
-
+## networking
+- [LinkedIn is Microsoft Infrastructure](https://dev.to/ben-santora/linkedin-microsoft-infrastructure-45aa) — **8** 👍
+- [Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an) — **5** 👍
+- [Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m) — **5** 👍
