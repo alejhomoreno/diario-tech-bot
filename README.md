@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-02 18:32 (UTC)
+📅 **Last Update:** 2026-02-02 23:29 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)** — **5** 👍 · 0 💬
-* **[SPRING BOOT EXCEPTION HANDLING](https://dev.to/bhu_kalki/spring-boot-exception-handling-3m9a)** — **5** 👍 · 0 💬
-* **[Switch on RUST](https://dev.to/igor_martynkin_1e64dabaca/switch-on-rust-ed9)** — **1** 👍 · 1 💬
+* **[Password Management - SpringBoot](https://dev.to/phoenix_238501d86d417e/password-management-springboot-56n3)** — **1** 👍 · 0 💬
+* **[Complete Java Tutorial: From Zero to Building Real Applications](https://dev.to/deividas-strole/complete-java-tutorial-from-zero-to-building-real-applications-5o0)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[Kubernetes Is Overkill for 99% of Apps (We Run 500k Logs/Day on Docker Compose)](https://dev.to/polliog/kubernetes-is-overkill-for-99-of-apps-we-run-500k-logsday-on-docker-compose-2ode)** — **10** 👍 · 1 💬
 * **[Self-Hosting Node-RED: Build Local Automations and Access Them Anywhere](https://dev.to/lightningdev123/self-hosting-node-red-build-local-automations-and-access-them-anywhere-1lab)** — **5** 👍 · 0 💬
-* **[7 WebRTC Trends Shaping Real-Time Communication in 2026](https://dev.to/alakkadshaw/7-webrtc-trends-shaping-real-time-communication-in-2026-1o07)** — **3** 👍 · 1 💬
-* **[Mother CLAUDE: Instant Retrospectives Assign Quality Enforcement to Your AI](https://dev.to/dorothyjb/mother-claude-instant-retrospectives-assign-quality-enforcement-to-your-ai-3n4b)** — **2** 👍 · 0 💬
+* **[Building Hierarchical Budget Controls for Multi-Tenant LLM Gateways](https://dev.to/pranay_batta/building-hierarchical-budget-controls-for-multi-tenant-llm-gateways-ceo)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
 * **[What Really Happens When You Type a URL and Press Enter?](https://dev.to/janmejaisingh/what-really-happens-when-you-type-a-url-and-press-enter-4a2l)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-02T18:32:13.020133+00:00 -->
+<!-- Log-ID: 2026-02-02T23:29:04.488742+00:00 -->
