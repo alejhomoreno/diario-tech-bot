@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-01 23:26 (UTC)
+📅 **Last Update:** 2026-02-02 14:03 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[App Center alternatives for mobile beta distribution in 2026](https://dev.to/r0bbie/app-center-alternatives-for-mobile-beta-distribution-in-2026-565)** — **10** 👍 · 0 💬
-* **[I Built QualityHub: AI-Powered Quality Intelligence for Your Releases](https://dev.to/younes_bentlili_9480340f/i-built-qualityhub-ai-powered-quality-intelligence-for-your-releases-40d3)** — **2** 👍 · 2 💬
-* **[Solved: Do y’all not tier support support staff anymore?](https://dev.to/techresolve/solved-do-yall-not-tier-support-support-staff-anymore-49kf)** — **1** 👍 · 0 💬
+* **[The Hidden Cost of AI Tools in Software Development](https://dev.to/jaideepparashar/the-hidden-cost-of-ai-tools-in-software-development-32o2)** — **21** 👍 · 5 💬
+* **[Self-Hosting Node-RED: Build Local Automations and Access Them Anywhere](https://dev.to/lightningdev123/self-hosting-node-red-build-local-automations-and-access-them-anywhere-1lab)** — **5** 👍 · 0 💬
+* **[Hooks Are Not Governance: Why Deterministic Filters Can't Contain Agent-Layer Risk](https://dev.to/narnaiezzsshaa/hooks-are-not-governance-why-deterministic-filters-cant-contain-agent-layer-risk-2n74)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[LinkedIn is Microsoft Infrastructure](https://dev.to/ben-santora/linkedin-microsoft-infrastructure-45aa)** — **8** 👍 · 4 💬
+* **[LinkedIn is Microsoft Infrastructure](https://dev.to/ben-santora/linkedin-microsoft-infrastructure-45aa)** — **10** 👍 · 8 💬
 * **[Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)** — **5** 👍 · 1 💬
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-01T23:26:43.252444+00:00 -->
+<!-- Log-ID: 2026-02-02T14:03:25.831922+00:00 -->
