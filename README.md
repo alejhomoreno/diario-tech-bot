@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-02 14:03 (UTC)
+📅 **Last Update:** 2026-02-02 15:33 (UTC)
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[LinkedIn is Microsoft Infrastructure](https://dev.to/ben-santora/linkedin-microsoft-infrastructure-45aa)** — **10** 👍 · 8 💬
 * **[Coturn Alternative: How to Migrate from Self-Hosted Coturn to a Managed TURN Service](https://dev.to/alakkadshaw/coturn-alternative-how-to-migrate-from-self-hosted-coturn-to-a-managed-turn-service-51an)** — **5** 👍 · 1 💬
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
+* **[What Really Happens When You Type a URL and Press Enter?](https://dev.to/janmejaisingh/what-really-happens-when-you-type-a-url-and-press-enter-4a2l)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-02T14:03:25.831922+00:00 -->
+<!-- Log-ID: 2026-02-02T15:33:55.897087+00:00 -->
