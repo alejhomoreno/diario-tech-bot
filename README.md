@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-03 14:05 (UTC)
+📅 **Last Update:** 2026-02-03 18:44 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Kubernetes Is Overkill for 99% of Apps (We Run 500k Logs/Day on Docker Compose)](https://dev.to/polliog/kubernetes-is-overkill-for-99-of-apps-we-run-500k-logsday-on-docker-compose-2ode)** — **21** 👍 · 4 💬
-* **[How AI Is Reshaping Open Source Contributions](https://dev.to/jaideepparashar/how-ai-is-reshaping-open-source-contributions-1p0)** — **16** 👍 · 1 💬
-* **[AI is not replacing contributors. It’s changing what contribution means. This reshaping will define the next decade of open source.](https://dev.to/jaideepparashar/ai-is-not-replacing-contributors-its-changing-what-contribution-means-this-reshaping-will-define-13j2)** — **15** 👍 · 0 💬
+* **[Kubernetes Is Overkill for 99% of Apps (We Run 500k Logs/Day on Docker Compose)](https://dev.to/polliog/kubernetes-is-overkill-for-99-of-apps-we-run-500k-logsday-on-docker-compose-2ode)** — **23** 👍 · 4 💬
+* **[Vibe Hosting with Cursor](https://dev.to/yulei-chen/vibe-hosting-with-cursor-496m)** — **10** 👍 · 1 💬
+* **[AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
 * **[What Really Happens When You Type a URL and Press Enter?](https://dev.to/janmejaisingh/what-really-happens-when-you-type-a-url-and-press-enter-4a2l)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-03T14:05:53.522053+00:00 -->
+<!-- Log-ID: 2026-02-03T18:44:42.766429+00:00 -->
