@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-03 23:28 (UTC)
+📅 **Last Update:** 2026-02-04 14:04 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Kubernetes Is Overkill for 99% of Apps (We Run 500k Logs/Day on Docker Compose)](https://dev.to/polliog/kubernetes-is-overkill-for-99-of-apps-we-run-500k-logsday-on-docker-compose-2ode)** — **23** 👍 · 4 💬
-* **[Vibe Hosting with Cursor](https://dev.to/yulei-chen/vibe-hosting-with-cursor-496m)** — **10** 👍 · 1 💬
-* **[AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)** — **1** 👍 · 0 💬
+* **[Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)** — **15** 👍 · 0 💬
+* **[Automatic Failover When Your Primary LLM Provider Goes Down](https://dev.to/pranay_batta/automatic-failover-when-your-primary-llm-provider-goes-down-1p4o)** — **5** 👍 · 0 💬
+* **[Your LLM Provider Just Went Down. Here's How to Stay Online.](https://dev.to/debmckinney/your-llm-provider-just-went-down-heres-how-to-stay-online-5d9i)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
 * **[What Really Happens When You Type a URL and Press Enter?](https://dev.to/janmejaisingh/what-really-happens-when-you-type-a-url-and-press-enter-4a2l)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-03T23:28:38.527217+00:00 -->
+<!-- Log-ID: 2026-02-04T14:04:10.198692+00:00 -->
