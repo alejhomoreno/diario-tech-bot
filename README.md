@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-04 18:37 (UTC)
+📅 **Last Update:** 2026-02-04 23:29 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[From a JAR to a full-fledged MacOS app](https://dev.to/nfrankel/from-a-jar-to-a-full-fledged-macos-app-4dm3)** — **5** 👍 · 0 💬
-* **[Password Management - SpringBoot](https://dev.to/phoenix_238501d86d417e/password-management-springboot-56n3)** — **1** 👍 · 0 💬
-* **[Complete Java Tutorial: From Zero to Building Real Applications](https://dev.to/deividas-strole/complete-java-tutorial-from-zero-to-building-real-applications-5o0)** — **1** 👍 · 0 💬
+* **[Java Architecture](https://dev.to/s_sarumathi_a1de306480d33/java-architecture-5cgl)** — **2** 👍 · 0 💬
+* **[#Rant: Java Is Not Dead, It Is Not Cool, It Is Lukewarm, But It Is Far From Dead!](https://dev.to/vulinh64/rant-java-is-not-dead-it-is-not-cool-it-is-lukewarm-but-it-is-far-from-dead-4oga)** — **1** 👍 · 0 💬
+* **[Demystifying Time and Space Complexity for Beginners](https://dev.to/saptarshisarkar/demystifying-time-and-space-complexity-for-beginners-m60)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -31,6 +31,6 @@
 
 * **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
-* **[Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)** — **0** 👍 · 0 💬
+* **[When "Internal" Stops Meaning Safe](https://dev.to/iyanu_david/when-internal-stops-meaning-safe-2a0e)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-04T18:37:19.884152+00:00 -->
+<!-- Log-ID: 2026-02-04T23:29:15.382727+00:00 -->
