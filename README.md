@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-04 23:29 (UTC)
+📅 **Last Update:** 2026-02-05 14:06 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Architecture](https://dev.to/s_sarumathi_a1de306480d33/java-architecture-5cgl)** — **2** 👍 · 0 💬
-* **[#Rant: Java Is Not Dead, It Is Not Cool, It Is Lukewarm, But It Is Far From Dead!](https://dev.to/vulinh64/rant-java-is-not-dead-it-is-not-cool-it-is-lukewarm-but-it-is-far-from-dead-4oga)** — **1** 👍 · 0 💬
-* **[Demystifying Time and Space Complexity for Beginners](https://dev.to/saptarshisarkar/demystifying-time-and-space-complexity-for-beginners-m60)** — **1** 👍 · 0 💬
+* **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
+* **[Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)** — **2** 👍 · 0 💬
+* **[Features_of_Java](https://dev.to/ajayr18/featuresofjava-4fkb)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)** — **15** 👍 · 0 💬
-* **[Automatic Failover When Your Primary LLM Provider Goes Down](https://dev.to/pranay_batta/automatic-failover-when-your-primary-llm-provider-goes-down-1p4o)** — **5** 👍 · 0 💬
-* **[Top 10 Cloudflare Tunnel Alternatives in 2026: A Practical Guide for Developers](https://dev.to/lightningdev123/top-10-cloudflare-tunnel-alternatives-in-2026-a-practical-guide-for-developers-2akg)** — **5** 👍 · 0 💬
+* **[In an AI-driven workflow, the highest leverage isn’t in how much work the system does for developers. It's how well it works for developers.](https://dev.to/jaideepparashar/in-an-ai-driven-workflow-the-highest-leverage-isnt-in-how-much-work-the-system-does-for-51im)** — **15** 👍 · 0 💬
+* **[A verdade oculta por trás do Serverless](https://dev.to/giarmani/a-verdade-oculta-por-tras-do-serverless-55f7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
 * **[When "Internal" Stops Meaning Safe](https://dev.to/iyanu_david/when-internal-stops-meaning-safe-2a0e)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-04T23:29:15.382727+00:00 -->
+<!-- Log-ID: 2026-02-05T14:06:28.001999+00:00 -->
