@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-05 14:06 (UTC)
+📅 **Last Update:** 2026-02-05 18:38 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)** — **15** 👍 · 0 💬
-* **[In an AI-driven workflow, the highest leverage isn’t in how much work the system does for developers. It's how well it works for developers.](https://dev.to/jaideepparashar/in-an-ai-driven-workflow-the-highest-leverage-isnt-in-how-much-work-the-system-does-for-51im)** — **15** 👍 · 0 💬
-* **[A verdade oculta por trás do Serverless](https://dev.to/giarmani/a-verdade-oculta-por-tras-do-serverless-55f7)** — **1** 👍 · 0 💬
+* **[Weighted Load Balancing Across LLM Providers Without Code Changes](https://dev.to/pranay_batta/weighted-load-balancing-across-llm-providers-without-code-changes-2mjj)** — **6** 👍 · 0 💬
+* **[Automating AI Red Teaming: From Manual Prompts to Fuzzing Pipelines 🧪](https://dev.to/hleliofficiel/automating-ai-red-teaming-from-manual-prompts-to-fuzzing-pipelines-40ip)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
 * **[When "Internal" Stops Meaning Safe](https://dev.to/iyanu_david/when-internal-stops-meaning-safe-2a0e)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-05T14:06:28.001999+00:00 -->
+<!-- Log-ID: 2026-02-05T18:38:10.495550+00:00 -->
