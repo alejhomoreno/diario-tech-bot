@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-05 23:24 (UTC)
+📅 **Last Update:** 2026-02-06 14:03 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
+* **[Sharding Databases with Spring Boot: Patterns, Pitfalls, and Failure Modes](https://dev.to/adamthedeveloper/sharding-databases-with-spring-boot-patterns-pitfalls-and-failure-modes-4p37)** — **4** 👍 · 0 💬
 * **[Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)** — **2** 👍 · 0 💬
-* **[Features_of_Java](https://dev.to/ajayr18/featuresofjava-4fkb)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,11 @@
 
 ## 🔖 Top Devops
 
-* **[Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)** — **15** 👍 · 0 💬
+* **[Building a 10x Developer Workflow Using AI and Automation](https://dev.to/jaideepparashar/building-a-10x-developer-workflow-using-ai-and-automation-b33)** — **17** 👍 · 1 💬
+* **[A 10 developer workflow is not about writing code ten times faster.
+
+It’s about: making better decisions earlier, automating execution safely, preserving intent, and designing for reversibility and trust.](https://dev.to/jaideepparashar/a-10x-developer-workflow-is-not-about-writing-code-ten-times-faster-its-about-making-better-3c2o)** — **15** 👍 · 0 💬
 * **[Weighted Load Balancing Across LLM Providers Without Code Changes](https://dev.to/pranay_batta/weighted-load-balancing-across-llm-providers-without-code-changes-2mjj)** — **6** 👍 · 0 💬
-* **[How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +35,4 @@
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
 * **[When "Internal" Stops Meaning Safe](https://dev.to/iyanu_david/when-internal-stops-meaning-safe-2a0e)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-05T23:24:00.898228+00:00 -->
+<!-- Log-ID: 2026-02-06T14:03:28.058667+00:00 -->
