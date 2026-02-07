@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-07 18:23 (UTC)
+📅 **Last Update:** 2026-02-07 23:31 (UTC)
 
 ---
 
@@ -27,7 +27,7 @@
 
 It’s about: making better decisions earlier, automating execution safely, preserving intent, and designing for reversibility and trust.](https://dev.to/jaideepparashar/a-10x-developer-workflow-is-not-about-writing-code-ten-times-faster-its-about-making-better-3c2o)** — **15** 👍 · 0 💬
 * **[How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)** — **5** 👍 · 0 💬
-* **[The Uncomfortable Truth: Why CLIs Are Still Beating MCP Servers in the Age of AI Agents](https://dev.to/mechcloud_academy/the-uncomfortable-truth-why-clis-are-still-beating-mcp-servers-in-the-age-of-ai-agents-4n9f)** — **2** 👍 · 0 💬
+* **[->> Day-21 AWS Policy and Governance Setup Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-21-aws-policy-and-governance-setup-using-terraform-2aae)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -35,4 +35,4 @@ It’s about: making better decisions earlier, automating execution safely, pres
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
 * **[Kubernetes CNI (Container Network Interface) Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-07T18:23:09.567964+00:00 -->
+<!-- Log-ID: 2026-02-07T23:31:09.604965+00:00 -->
