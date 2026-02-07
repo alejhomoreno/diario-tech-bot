@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-07 13:46 (UTC)
+📅 **Last Update:** 2026-02-07 18:23 (UTC)
 
 ---
 
@@ -23,18 +23,16 @@
 
 ## 🔖 Top Devops
 
-* **[The Developer’s Guide to Writing Less Code and Doing More](https://dev.to/jaideepparashar/the-developers-guide-to-writing-less-code-and-doing-more-5182)** — **18** 👍 · 1 💬
 * **[A 10 developer workflow is not about writing code ten times faster.
 
 It’s about: making better decisions earlier, automating execution safely, preserving intent, and designing for reversibility and trust.](https://dev.to/jaideepparashar/a-10x-developer-workflow-is-not-about-writing-code-ten-times-faster-its-about-making-better-3c2o)** — **15** 👍 · 0 💬
-* **[The future of development isn’t about typing less. It’s about needing less to be typed.
-
-Great developers don’t need to prove their value by how much code they produce.](https://dev.to/jaideepparashar/the-future-of-development-isnt-about-typing-less-its-about-needing-less-to-be-typed-great-5ajo)** — **15** 👍 · 0 💬
+* **[How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)** — **5** 👍 · 0 💬
+* **[The Uncomfortable Truth: Why CLIs Are Still Beating MCP Servers in the Age of AI Agents](https://dev.to/mechcloud_academy/the-uncomfortable-truth-why-clis-are-still-beating-mcp-servers-in-the-age-of-ai-agents-4n9f)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers](https://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m)** — **5** 👍 · 0 💬
+* **[Building Production-Grade Networking Foundations — From Single Server to Kubernetes](https://dev.to/im_nishant/building-production-grade-networking-foundations-from-single-server-to-kubernetes-7gp)** — **3** 👍 · 2 💬
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
-* **[When "Internal" Stops Meaning Safe](https://dev.to/iyanu_david/when-internal-stops-meaning-safe-2a0e)** — **0** 👍 · 0 💬
+* **[Kubernetes CNI (Container Network Interface) Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-07T13:46:10.263655+00:00 -->
+<!-- Log-ID: 2026-02-07T18:23:09.567964+00:00 -->
