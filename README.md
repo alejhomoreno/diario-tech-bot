@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-07 23:31 (UTC)
+📅 **Last Update:** 2026-02-08 13:48 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
-* **[Sharding Databases with Spring Boot: Patterns, Pitfalls, and Failure Modes](https://dev.to/adamthedeveloper/sharding-databases-with-spring-boot-patterns-pitfalls-and-failure-modes-4p37)** — **4** 👍 · 0 💬
-* **[Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)** — **2** 👍 · 0 💬
+* **[4 Ways to Concatenate Arrays in Java: From System.arraycopy to Stream API](https://dev.to/lifeportal20002010/4-ways-to-concatenate-arrays-in-java-from-systemarraycopy-to-stream-api-2a4k)** — **1** 👍 · 0 💬
+* **[Understanding Data Types in Java: A Complete Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-data-types-in-java-a-complete-guide-1da9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,11 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A 10 developer workflow is not about writing code ten times faster.
-
-It’s about: making better decisions earlier, automating execution safely, preserving intent, and designing for reversibility and trust.](https://dev.to/jaideepparashar/a-10x-developer-workflow-is-not-about-writing-code-ten-times-faster-its-about-making-better-3c2o)** — **15** 👍 · 0 💬
-* **[How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)** — **5** 👍 · 0 💬
-* **[->> Day-21 AWS Policy and Governance Setup Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-21-aws-policy-and-governance-setup-using-terraform-2aae)** — **5** 👍 · 0 💬
+* **[Why AI Can’t Replace Debugging Skills (And What You Can Do Instead)](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)** — **19** 👍 · 2 💬
+* **[404ping: From "It Works" to "It's Actually Really Good" 🚀](https://dev.to/toklas495/404ping-from-it-works-to-its-actually-really-good-18ie)** — **6** 👍 · 0 💬
+* **[Best Programming Languages for 2026](https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -35,4 +33,4 @@ It’s about: making better decisions earlier, automating execution safely, pres
 * **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
 * **[Kubernetes CNI (Container Network Interface) Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-07T23:31:09.604965+00:00 -->
+<!-- Log-ID: 2026-02-08T13:48:24.270949+00:00 -->
