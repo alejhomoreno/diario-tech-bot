@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-09 18:46 (UTC)
+📅 **Last Update:** 2026-02-09 23:37 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The End of Heroku: What It Means for Your Apps](https://dev.to/encore/the-end-of-heroku-what-it-means-for-your-apps-5a8i)** — **41** 👍 · 0 💬
 * **[List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)** — **6** 👍 · 0 💬
-* **[I Built a Tool That Lets Claude Read My Terminal Logs — Here's Why You Need One Too](https://dev.to/tomoyaf/i-built-a-tool-that-lets-claude-read-my-terminal-logs-heres-why-you-need-one-too-3pi)** — **4** 👍 · 0 💬
+* **[I shipped v0.1.0 of an open source project, realized it was fundamentally wrong, and I’m rebuilding it for v1.0.0](https://dev.to/officialdennisn/i-shipped-v010-of-an-open-source-project-realized-it-was-fundamentally-wrong-and-im-rebuilding-1kme)** — **2** 👍 · 0 💬
+* **[Changing Messy Data, DAX, and Dashboards to a Course of action with Power BI](https://dev.to/miranda1gatwiri/changing-messy-data-dax-and-dashboards-to-a-course-of-action-with-power-bi-252k)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[⚙️ “El Enlace Invisible: Cómo AWS mantiene conectada toda tu arquitectura”](https://dev.to/oscar_gaviria_2b862594738/el-enlace-invisible-como-aws-mantiene-conectada-toda-tu-arquitectura-709)** — **1** 👍 · 1 💬
 * **[Networking Fundamentals - Part 1: IP Addressing](https://dev.to/kervie_sazon/networking-fundamentals-part-1-ip-addressing-1pg4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-09T18:46:00.416996+00:00 -->
+<!-- Log-ID: 2026-02-09T23:37:34.694861+00:00 -->
