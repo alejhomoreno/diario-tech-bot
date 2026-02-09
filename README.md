@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-09 14:15 (UTC)
+📅 **Last Update:** 2026-02-09 18:46 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[JAVA CODING QUESTIONS FOR SPRING BOOT DEVELOPER](https://dev.to/bhu_kalki/java-coding-questions-for-spring-boot-developer-2efc)** — **5** 👍 · 0 💬
 * **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
-* **[The Mechanics of Good Object “immutable proxy that animate data”](https://dev.to/andreas_wagner_1111e1d3c7/the-mechanics-of-good-object-immutable-proxy-that-animate-data-part-2-oop-java-860)** — **1** 👍 · 0 💬
-* **[4 Ways to Concatenate Arrays in Java: From System.arraycopy to Stream API](https://dev.to/lifeportal20002010/4-ways-to-concatenate-arrays-in-java-from-systemarraycopy-to-stream-api-2a4k)** — **1** 👍 · 0 💬
+* **[Exception Handling in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/exception-handling-in-java-31ed)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The End of Heroku: What It Means for Your Apps](https://dev.to/encore/the-end-of-heroku-what-it-means-for-your-apps-5a8i)** — **36** 👍 · 0 💬
-* **[Every AI agent framework focuses on making agents smarter. None of them ask what happens when agents screw up.](https://dev.to/yaron_torjeman_5288cbab83/every-ai-agent-framework-focuses-on-making-agents-smarter-none-of-them-ask-what-happens-when-1da1)** — **1** 👍 · 0 💬
-* **[Changing Messy Data, DAX, and Dashboards to a Course of action with Power BI](https://dev.to/miranda1gatwiri/changing-messy-data-dax-and-dashboards-to-a-course-of-action-with-power-bi-252k)** — **1** 👍 · 0 💬
+* **[The End of Heroku: What It Means for Your Apps](https://dev.to/encore/the-end-of-heroku-what-it-means-for-your-apps-5a8i)** — **41** 👍 · 0 💬
+* **[List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)** — **6** 👍 · 0 💬
+* **[I Built a Tool That Lets Claude Read My Terminal Logs — Here's Why You Need One Too](https://dev.to/tomoyaf/i-built-a-tool-that-lets-claude-read-my-terminal-logs-heres-why-you-need-one-too-3pi)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Building Production-Grade Networking Foundations — From Single Server to Kubernetes](https://dev.to/im_nishant/building-production-grade-networking-foundations-from-single-server-to-kubernetes-7gp)** — **3** 👍 · 2 💬
-* **[Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o)** — **3** 👍 · 0 💬
-* **[Kubernetes CNI (Container Network Interface) Explained](https://dev.to/godofgeeks/kubernetes-cni-container-network-interface-explained-3dd0)** — **1** 👍 · 0 💬
+* **[Two Bugs, One Symptom](https://dev.to/wkusnierczyk/two-bugs-one-symptom-24h3)** — **2** 👍 · 0 💬
+* **[⚙️ “El Enlace Invisible: Cómo AWS mantiene conectada toda tu arquitectura”](https://dev.to/oscar_gaviria_2b862594738/el-enlace-invisible-como-aws-mantiene-conectada-toda-tu-arquitectura-709)** — **1** 👍 · 1 💬
+* **[Networking Fundamentals - Part 1: IP Addressing](https://dev.to/kervie_sazon/networking-fundamentals-part-1-ip-addressing-1pg4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-09T14:15:37.838516+00:00 -->
+<!-- Log-ID: 2026-02-09T18:46:00.416996+00:00 -->
