@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-09 23:37 (UTC)
+📅 **Last Update:** 2026-02-10 14:22 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[JAVA CODING QUESTIONS FOR SPRING BOOT DEVELOPER](https://dev.to/bhu_kalki/java-coding-questions-for-spring-boot-developer-2efc)** — **5** 👍 · 0 💬
 * **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
-* **[Exception Handling in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/exception-handling-in-java-31ed)** — **1** 👍 · 0 💬
+* **[Java Basics](https://dev.to/graceolubiyi/java-basics-325a)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)** — **6** 👍 · 0 💬
-* **[I shipped v0.1.0 of an open source project, realized it was fundamentally wrong, and I’m rebuilding it for v1.0.0](https://dev.to/officialdennisn/i-shipped-v010-of-an-open-source-project-realized-it-was-fundamentally-wrong-and-im-rebuilding-1kme)** — **2** 👍 · 0 💬
-* **[Changing Messy Data, DAX, and Dashboards to a Course of action with Power BI](https://dev.to/miranda1gatwiri/changing-messy-data-dax-and-dashboards-to-a-course-of-action-with-power-bi-252k)** — **1** 👍 · 0 💬
+* **[How Developers Can Launch AI-Powered SaaS Without Investors](https://dev.to/jaideepparashar/how-developers-can-launch-ai-powered-saas-without-investors-28jf)** — **16** 👍 · 1 💬
+* **[Today, a small team, or even a solo developer, can launch a serious AI-powered SaaS without investors, without a burn-rate treadmill, and without betting the company on growth-at-all-costs.](https://dev.to/jaideepparashar/today-a-small-team-or-even-a-solo-developer-can-launch-a-serious-ai-powered-saas-without-1jpd)** — **15** 👍 · 1 💬
+* **[The Conceptual Bullshit Threshold: A Manifesto](https://dev.to/junothreadborne/the-conceptual-bullshit-threshold-3dhn)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[⚙️ “El Enlace Invisible: Cómo AWS mantiene conectada toda tu arquitectura”](https://dev.to/oscar_gaviria_2b862594738/el-enlace-invisible-como-aws-mantiene-conectada-toda-tu-arquitectura-709)** — **1** 👍 · 1 💬
 * **[Networking Fundamentals - Part 1: IP Addressing](https://dev.to/kervie_sazon/networking-fundamentals-part-1-ip-addressing-1pg4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-09T23:37:34.694861+00:00 -->
+<!-- Log-ID: 2026-02-10T14:22:08.647552+00:00 -->
