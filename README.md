@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-10 14:22 (UTC)
+📅 **Last Update:** 2026-02-10 18:56 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[JAVA CODING QUESTIONS FOR SPRING BOOT DEVELOPER](https://dev.to/bhu_kalki/java-coding-questions-for-spring-boot-developer-2efc)** — **5** 👍 · 0 💬
-* **[Feedback on checked exceptions and lambdas](https://dev.to/nfrankel/feedback-on-checked-exceptions-and-lambdas-pap)** — **5** 👍 · 0 💬
-* **[Java Basics](https://dev.to/graceolubiyi/java-basics-325a)** — **1** 👍 · 2 💬
+* **[The Zombie Entity: Why my Spring Boot API returned "200 OK" but refused to Delete](https://dev.to/vigneshwaralingam/the-zombie-entity-why-my-spring-boot-api-returned-200-ok-but-refused-to-delete-46f3)** — **5** 👍 · 0 💬
+* **[Are Virtual Threads a Replacement for ExecutorService?](https://dev.to/realnamehidden1_61/are-virtual-threads-a-replacement-for-executorservice-1gfk)** — **3** 👍 · 0 💬
+* **[Contstructor](https://dev.to/indumathy_57522d1a06c9a23/contstructor-4lcg)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[⚙️ “El Enlace Invisible: Cómo AWS mantiene conectada toda tu arquitectura”](https://dev.to/oscar_gaviria_2b862594738/el-enlace-invisible-como-aws-mantiene-conectada-toda-tu-arquitectura-709)** — **1** 👍 · 1 💬
 * **[Networking Fundamentals - Part 1: IP Addressing](https://dev.to/kervie_sazon/networking-fundamentals-part-1-ip-addressing-1pg4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-10T14:22:08.647552+00:00 -->
+<!-- Log-ID: 2026-02-10T18:56:08.600416+00:00 -->
