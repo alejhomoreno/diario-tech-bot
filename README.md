@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-12 18:51 (UTC)
+📅 **Last Update:** 2026-02-12 23:30 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[How JVM Thread Scheduling Impacts Application Performance](https://dev.to/realnamehidden1_61/how-jvm-thread-scheduling-impacts-application-performance-17dg)** — **5** 👍 · 0 💬
 * **[Contstructor](https://dev.to/indumathy_57522d1a06c9a23/contstructor-4lcg)** — **2** 👍 · 1 💬
-* **[Map-Based Design - I built a lightweight Java framework for Japan's "SI" projects (third attempt in 10 years) #007](https://dev.to/sugaiketadao/map-based-design-i-built-a-lightweight-java-framework-for-japans-si-projects-third-attempt-in-515i)** — **1** 👍 · 0 💬
+* **[Open Source Radar (February 2026): Agentic AI, Zero Trust CI/CD, and Java GC](https://dev.to/deeppressanalysis/open-source-radar-february-2026-agentic-ai-zero-trust-cicd-and-java-gc-2ikf)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Duplicate “Follow” Button Text in User Profile Hover Card](https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121)** — **55** 👍 · 7 💬
+* **[Duplicate “Follow” Button Text in User Profile Hover Card](https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121)** — **55** 👍 · 10 💬
 * **[The startups that win in AI won’t just be the ones with the best tech. They’ll be the ones with the calmest, clearest, most intentional economics behind it.](https://dev.to/jaideepparashar/the-startups-that-win-in-ai-wont-just-be-the-ones-with-the-best-tech-theyll-be-the-ones-with-the-a4k)** — **15** 👍 · 0 💬
-* **[How diffChangelog and Snapshots Work Together](https://dev.to/sonichigo/how-diffchangelog-and-snapshots-work-together-2l0i)** — **5** 👍 · 0 💬
+* **[The Hidden Cost of Slow Code Reviews: Data from 8 Million PRs](https://dev.to/vitalii_petrenko_dev/the-hidden-cost-of-slow-code-reviews-data-from-8-million-prs-5fei)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[mTLS in Service Mesh](https://dev.to/godofgeeks/mtls-in-service-mesh-mme)** — **1** 👍 · 0 💬
 * **[How Companies Scan Their Own Networks: A Practical Red Team View with Nmap](https://dev.to/ganesh_hari_18/how-companies-scan-their-own-networks-a-practical-red-team-view-with-nmap-58el)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-12T18:51:26.162428+00:00 -->
+<!-- Log-ID: 2026-02-12T23:30:29.711576+00:00 -->
