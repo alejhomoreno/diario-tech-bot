@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-13 14:03 (UTC)
+📅 **Last Update:** 2026-02-13 18:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[I Got Java 25 Running on the RISC-V BeagleBoard BeagleV-Fire](https://dev.to/fdelporte/i-got-java-25-running-on-the-risc-v-beagleboard-beaglev-fire-202e)** — **5** 👍 · 0 💬
 * **[How Does ExecutorService Manage Threads Efficiently?](https://dev.to/realnamehidden1_61/how-does-executorservice-manage-threads-efficiently-57ii)** — **5** 👍 · 0 💬
 * **[How JVM Thread Scheduling Impacts Application Performance](https://dev.to/realnamehidden1_61/how-jvm-thread-scheduling-impacts-application-performance-17dg)** — **5** 👍 · 0 💬
-* **[Why Senior Java Developers Are Still in High Demand in 2026](https://dev.to/naveenkumar1/why-senior-java-developers-are-still-in-high-demand-in-2026-412h)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Best Platforms for AI Governance: Guardrails, Policy Enforcement, and Compliance](https://dev.to/debmckinney/best-platforms-for-ai-governance-guardrails-policy-enforcement-and-compliance-4dpd)** — **6** 👍 · 0 💬
-* **[SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)** — **5** 👍 · 0 💬
-* **[Building a Real-World DevSecOps Pipeline (Project Overview)](https://dev.to/techgirli/building-a-real-world-devsecops-pipeline-project-overview-1g6n)** — **1** 👍 · 1 💬
+* **[SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)** — **5** 👍 · 1 💬
+* **[How I Built Graft Absorb: Turning Terraform Drift into Code](https://dev.to/mshenglu/how-i-built-graft-absorb-turning-terraform-drift-into-code-55g)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[mTLS in Service Mesh](https://dev.to/godofgeeks/mtls-in-service-mesh-mme)** — **1** 👍 · 0 💬
 * **[How Companies Scan Their Own Networks: A Practical Red Team View with Nmap](https://dev.to/ganesh_hari_18/how-companies-scan-their-own-networks-a-practical-red-team-view-with-nmap-58el)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-13T14:03:07.047434+00:00 -->
+<!-- Log-ID: 2026-02-13T18:35:28.212117+00:00 -->
