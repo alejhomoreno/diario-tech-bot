@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-14 23:25 (UTC)
+📅 **Last Update:** 2026-02-15 13:48 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[How I Built Graft Absorb: Turning Terraform Drift into Code](https://dev.to/mshenglu/how-i-built-graft-absorb-turning-terraform-drift-into-code-55g)** — **2** 👍 · 1 💬
+* **[Backpressure, Buffers, and Logging Sidecars](https://dev.to/bala101/backpressure-buffers-and-logging-sidecars-j00)** — **2** 👍 · 0 💬
 * **[Using GitHub Copilot Coding Agent for DevOps Automation](https://dev.to/pwd9000/using-github-copilot-coding-agent-for-devops-automation-3f43)** — **2** 👍 · 0 💬
-* **[The Great IaC Tradeoff: Authoring Experience vs API Synchronization](https://dev.to/mechcloud_academy/the-great-iac-tradeoff-authoring-experience-vs-api-synchronization-3hek)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Networking Fundamentals - Part 3: Gateway & Routing](https://dev.to/kervie_sazon/networking-fundamentals-part-3-gateway-routing-4hf9)** — **1** 👍 · 0 💬
 * **[WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-14T23:25:38.251078+00:00 -->
+<!-- Log-ID: 2026-02-15T13:48:44.142366+00:00 -->
