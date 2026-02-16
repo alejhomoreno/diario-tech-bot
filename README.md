@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-16 18:32 (UTC)
+📅 **Last Update:** 2026-02-16 23:30 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Would You Trust an AI With Production AWS?](https://dev.to/suliman_abdulrazzaq_14907/would-you-trust-an-ai-with-production-aws-n4l)** — **3** 👍 · 0 💬
-* **[How I Cut My LLM Costs by 70% Without Losing Quality](https://dev.to/choutos/how-i-cut-my-llm-costs-by-70-without-losing-quality-4enf)** — **2** 👍 · 0 💬
+* **[How I Cut My LLM Costs by 70% Without Losing Quality](https://dev.to/choutos/how-i-cut-my-llm-costs-by-70-without-losing-quality-4enf)** — **3** 👍 · 1 💬
+* **[Vibe Coding Security: Why Traditional AppSec Breaks](https://dev.to/xygenisecurity/vibe-coding-security-why-traditional-appsec-breaks-471k)** — **2** 👍 · 0 💬
 * **[Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[NDM-TCP Hyper-Embedded (v3.0): Technical Overview](https://dev.to/hejhdiss/ndm-tcp-hyper-embedded-v30-technical-overview-39fm)** — **1** 👍 · 0 💬
-* **[Networking Fundamentals - Part 3: Gateway & Routing](https://dev.to/kervie_sazon/networking-fundamentals-part-3-gateway-routing-4hf9)** — **1** 👍 · 0 💬
 * **[WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)** — **1** 👍 · 0 💬
+* **[Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-02-16T18:32:17.800392+00:00 -->
+<!-- Log-ID: 2026-02-16T23:30:11.004997+00:00 -->
