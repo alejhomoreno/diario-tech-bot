@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-17 14:07 (UTC)
+📅 **Last Update:** 2026-02-17 18:45 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)** — **2** 👍 · 0 💬
 * **[Build a Telegram Bot in Java with the N1netails Telegram Client](https://dev.to/shahidfoy/build-a-telegram-bot-in-java-with-the-n1netails-telegram-client-3p4c)** — **2** 👍 · 0 💬
-* **[Java basics like Class,Datatype,Static....](https://dev.to/abishek_44a09d1e1af19b4ca/java-basics-like-classdatatypeobject-4n3j)** — **1** 👍 · 0 💬
-* **[Java Concepts #1 (Java8, Mircro-services, String)](https://dev.to/axtant/java-concepts-1-java8-mircro-services-string-3hid)** — **1** 👍 · 0 💬
+* **[Data Structures & Algorithms (DSA) in Java](https://dev.to/krishnarao_inturi_75fb929/data-structures-algorithms-dsa-in-java-lel)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[From Script to Spreadsheet: Building a Self-Serve Etsy Competitor Tracker](https://dev.to/anderecit/from-script-to-spreadsheet-building-a-self-serve-etsy-competitor-tracker-4o13)** — **2** 👍 · 0 💬
-* **[Automating Catalog Sync: Designing Resilient Scrapers for Dynamic Marketplaces](https://dev.to/sommic/automating-catalog-sync-designing-resilient-scrapers-for-dynamic-marketplaces-jp4)** — **2** 👍 · 0 💬
-* **[From MVP to Production: A React Native Checklist](https://dev.to/iamsaadmehmood/from-mvp-to-production-a-react-native-checklist-5982)** — **1** 👍 · 0 💬
+* **[How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)** — **5** 👍 · 0 💬
+* **[Linux Devices and Drivers](https://dev.to/khadijah/linux-devices-and-drivers-beo)** — **5** 👍 · 0 💬
+* **[How to Get Real-Time Notifications When AWS Glue Schema Registry Changes](https://dev.to/pratik_26/how-to-get-real-time-notifications-when-aws-glue-schema-registry-changes-4nbd)** — **4** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)** — **1** 👍 · 0 💬
 * **[Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-02-17T14:07:41.840881+00:00 -->
+<!-- Log-ID: 2026-02-17T18:45:00.663501+00:00 -->
