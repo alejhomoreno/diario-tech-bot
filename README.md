@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-17 18:45 (UTC)
+📅 **Last Update:** 2026-02-17 23:30 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)** — **5** 👍 · 0 💬
+* **[Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)** — **15** 👍 · 0 💬
+* **[How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)** — **7** 👍 · 1 💬
 * **[Linux Devices and Drivers](https://dev.to/khadijah/linux-devices-and-drivers-beo)** — **5** 👍 · 0 💬
-* **[How to Get Real-Time Notifications When AWS Glue Schema Registry Changes](https://dev.to/pratik_26/how-to-get-real-time-notifications-when-aws-glue-schema-registry-changes-4nbd)** — **4** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)** — **1** 👍 · 0 💬
 * **[Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-02-17T18:45:00.663501+00:00 -->
+<!-- Log-ID: 2026-02-17T23:30:09.859459+00:00 -->
