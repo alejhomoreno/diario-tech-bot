@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-16 23:30 (UTC)
+📅 **Last Update:** 2026-02-17 14:07 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How I Cut My LLM Costs by 70% Without Losing Quality](https://dev.to/choutos/how-i-cut-my-llm-costs-by-70-without-losing-quality-4enf)** — **3** 👍 · 1 💬
-* **[Vibe Coding Security: Why Traditional AppSec Breaks](https://dev.to/xygenisecurity/vibe-coding-security-why-traditional-appsec-breaks-471k)** — **2** 👍 · 0 💬
-* **[Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)** — **1** 👍 · 0 💬
+* **[From Script to Spreadsheet: Building a Self-Serve Etsy Competitor Tracker](https://dev.to/anderecit/from-script-to-spreadsheet-building-a-self-serve-etsy-competitor-tracker-4o13)** — **2** 👍 · 0 💬
+* **[Automating Catalog Sync: Designing Resilient Scrapers for Dynamic Marketplaces](https://dev.to/sommic/automating-catalog-sync-designing-resilient-scrapers-for-dynamic-marketplaces-jp4)** — **2** 👍 · 0 💬
+* **[From MVP to Production: A React Native Checklist](https://dev.to/iamsaadmehmood/from-mvp-to-production-a-react-native-checklist-5982)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)** — **1** 👍 · 0 💬
 * **[Linux Networking Commands to Master](https://dev.to/kervie_sazon/linux-networking-commands-to-master-4505)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-02-16T23:30:11.004997+00:00 -->
+<!-- Log-ID: 2026-02-17T14:07:41.840881+00:00 -->
