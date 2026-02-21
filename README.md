@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-20 23:29 (UTC)
+📅 **Last Update:** 2026-02-21 13:43 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Design pattern visualization: Creational Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-creational-design-patterns-29gj)** — **5** 👍 · 0 💬
-* **[STREAM API IN JAVA](https://dev.to/bhu_kalki/stream-api-in-java-2kl9)** — **4** 👍 · 0 💬
-* **[Unit vs Component Tests in Spring: Where the Boundary Lies and Why You Need Both](https://dev.to/dmitry_turmyshev/unit-vs-component-tests-in-spring-where-the-boundary-lies-and-why-you-need-both-3g4p)** — **2** 👍 · 0 💬
+* **[Preventing Conflicting Business Logic in Growing Software Systems](https://dev.to/leonpennings/preventing-conflicting-business-logic-in-growing-software-systems-34a9)** — **2** 👍 · 0 💬
+* **[Java Edition of Claude Code CLI is Here! Solon Code CLI Released](https://dev.to/noear/java-edition-of-claude-code-cli-is-here-solon-code-cli-released-1lpb)** — **1** 👍 · 0 💬
+* **[Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-reliable-docker-runs-l1o)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)** — **83** 👍 · 29 💬
-* **[Building AgentSecrets: Secrets Manager for the AI Era](https://dev.to/the_seventeen/building-agentsecrets-secrets-manager-for-the-ai-era-4hc0)** — **5** 👍 · 0 💬
-* **[Color Always Haunts Me](https://dev.to/no_arms_studio/color-always-haunts-me-5b3b)** — **2** 👍 · 1 💬
+* **[Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)** — **83** 👍 · 31 💬
+* **[How to Evaluate AI Tools Before Committing Your Time and Code](https://dev.to/jaideepparashar/how-to-evaluate-ai-tools-before-committing-your-time-and-code-46pa)** — **16** 👍 · 1 💬
+* **[LAB 1 — GitLab CI + Pages From Scratch](https://dev.to/jumptotech/lab-1-gitlab-ci-pages-from-scratch-53ok)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[I Got Lazy With My Home Network—So I Rebuilt It Properly (1/3)](https://dev.to/n20amaral/i-got-lazy-with-my-home-network-so-i-rebuilt-it-properly-13-4e33)** — **1** 👍 · 0 💬
 * **[My Multiplayer Identity Logic Was Wrong at First](https://dev.to/dinesh_04/my-multiplayer-identity-logic-was-wrong-at-first-3j6c)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-20T23:29:16.738105+00:00 -->
+<!-- Log-ID: 2026-02-21T13:43:40.339971+00:00 -->
