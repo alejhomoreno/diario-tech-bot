@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-21 23:25 (UTC)
+📅 **Last Update:** 2026-02-22 13:46 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)** — **84** 👍 · 32 💬
-* **[How to Evaluate AI Tools Before Committing Your Time and Code](https://dev.to/jaideepparashar/how-to-evaluate-ai-tools-before-committing-your-time-and-code-46pa)** — **16** 👍 · 1 💬
-* **[My 2026 Developer Workflow: Combining Good Engineering Habits with AI Tools](https://dev.to/saschadev/my-2026-developer-workflow-combining-good-engineering-habits-with-ai-tools-33da)** — **1** 👍 · 0 💬
+* **[Suffering from BUGS: How I Almost Deleted My Entire Project](https://dev.to/maame-codes/suffering-from-bugs-how-i-almost-deleted-my-entire-project-1eef)** — **84** 👍 · 33 💬
+* **[Building a Secure and Observable E-commerce Microservices Platform on AWS EKS](https://dev.to/chris-amaechi/building-a-secure-and-observable-e-commerce-microservices-platform-on-aws-eks-2o18)** — **5** 👍 · 2 💬
+* **[I Built a Free, Self-Hosted SNMP Toolkit — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-that-replaces-500-tools-now-with-real-time-websocket-38p6)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why NDM-TCP's Entropy-Guided Sawtooth Pattern Reveals Real Research Potential](https://dev.to/hejhdiss/why-ndm-tcps-entropy-guided-sawtooth-pattern-reveals-real-research-potential-524o)** — **2** 👍 · 0 💬
-* **[I Got Lazy With My Home Network—So I Rebuilt It Properly (1/3)](https://dev.to/n20amaral/i-got-lazy-with-my-home-network-so-i-rebuilt-it-properly-13-4e33)** — **1** 👍 · 0 💬
-* **[My Multiplayer Identity Logic Was Wrong at First](https://dev.to/dinesh_04/my-multiplayer-identity-logic-was-wrong-at-first-3j6c)** — **1** 👍 · 0 💬
+* **[I Built a Real-Time Video Calling App Using WebRTC in React Native, And It Was Harder Than I Expected](https://dev.to/prateek_mangalgi/i-built-a-real-time-video-calling-app-using-webrtc-in-react-native-and-it-was-harder-than-i-lph)** — **5** 👍 · 0 💬
+* **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
+* **[How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-21T23:25:10.613232+00:00 -->
+<!-- Log-ID: 2026-02-22T13:46:07.234450+00:00 -->
