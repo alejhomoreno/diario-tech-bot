@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-23 14:08 (UTC)
+📅 **Last Update:** 2026-02-23 18:52 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How I Use AI for Rapid Prototyping and MVP Development](https://dev.to/jaideepparashar/how-i-use-ai-for-rapid-prototyping-and-mvp-development-2hm2)** — **16** 👍 · 2 💬
+* **[The Missing Workspace Layer for Agentic Polyrepo Development](https://dev.to/dean0x/the-missing-workspace-layer-for-agentic-polyrepo-development-pae)** — **10** 👍 · 0 💬
 * **[Completely Automate Penetration Testing with AI](https://dev.to/lightningdev123/completely-automate-penetration-testing-with-ai-4j94)** — **6** 👍 · 0 💬
-* **[I Built a Free, Self-Hosted SNMP Toolkit — Now With Real-Time WebSocket Push](https://dev.to/tosumitdhaka/i-built-a-free-self-hosted-snmp-toolkit-that-replaces-500-tools-now-with-real-time-websocket-38p6)** — **2** 👍 · 0 💬
+* **[How to test LLM integrations in CI without burning tokens](https://dev.to/akarshc/how-to-test-llm-integrations-in-ci-without-burning-tokens-1ibh)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
 * **[How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-23T14:08:19.251475+00:00 -->
+<!-- Log-ID: 2026-02-23T18:52:19.925792+00:00 -->
