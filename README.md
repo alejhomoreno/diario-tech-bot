@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-24 14:11 (UTC)
+📅 **Last Update:** 2026-02-24 18:50 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Java’s Fork/Join Framework: How It Works Under the Hood](https://dev.to/realnamehidden1_61/javas-forkjoin-framework-how-it-works-under-the-hood-2pfh)** — **5** 👍 · 0 💬
 * **[What Problems Does Future Solve in Concurrent Java Programming?](https://dev.to/realnamehidden1_61/what-problems-does-future-solve-in-concurrent-java-programming-eag)** — **5** 👍 · 0 💬
-* **[Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 4 Implement similarity search](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-4-implement-4mm1)** — **2** 👍 · 0 💬
+* **[Comparable and Comparator](https://dev.to/dinesh_g_909f4a82c67f5bbd/comparable-and-comparator-52ia)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How to Build a Personal AI Sandbox Without Breaking Anything](https://dev.to/jaideepparashar/how-to-build-a-personal-ai-sandbox-without-breaking-anything-3n7o)** — **18** 👍 · 4 💬
 * **[Experimentation is where progress comes from. It’s also where most accidental outages, broken workflows, and corrupted data come from, especially with AI in the loop. A personal AI sandbox can solve this problem.](https://dev.to/jaideepparashar/experimentation-is-where-progress-comes-from-its-also-where-most-accidental-outages-broken-4f45)** — **15** 👍 · 0 💬
-* **[The Missing Workspace Layer for Agentic Polyrepo Development](https://dev.to/dean0x/the-missing-workspace-layer-for-agentic-polyrepo-development-pae)** — **10** 👍 · 0 💬
+* **[🚀 Building an AI-Powered CI/CD Copilot with Jenkins and AWS Lambda](https://dev.to/aws-builders/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l)** — **5** 👍 · 0 💬
+* **[Template de testes de API com K6](https://dev.to/marcos_vile/template-de-testes-de-api-com-k6-2k3d)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
 * **[How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-24T14:11:55.856906+00:00 -->
+<!-- Log-ID: 2026-02-24T18:50:52.149477+00:00 -->
