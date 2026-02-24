@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-23 23:34 (UTC)
+📅 **Last Update:** 2026-02-24 14:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Virtual Threads em Produção de Verdade: Docker, Kubernetes e o que os Dashboards não te Contam](https://dev.to/dhellano_castro_c5aba0c56/virtual-threads-em-producao-de-verdade-docker-kubernetes-e-o-que-os-dashboards-nao-te-contam-3na6)** — **5** 👍 · 2 💬
+* **[Java’s Fork/Join Framework: How It Works Under the Hood](https://dev.to/realnamehidden1_61/javas-forkjoin-framework-how-it-works-under-the-hood-2pfh)** — **5** 👍 · 0 💬
 * **[What Problems Does Future Solve in Concurrent Java Programming?](https://dev.to/realnamehidden1_61/what-problems-does-future-solve-in-concurrent-java-programming-eag)** — **5** 👍 · 0 💬
-* **[Virtual Threads in Real Production: Docker, Kubernetes, and What the Dashboards Don't Tell You](https://dev.to/dhellano_castro_c5aba0c56/virtual-threads-in-real-production-docker-kubernetes-and-what-the-dashboards-dont-tell-you-4pg)** — **5** 👍 · 0 💬
+* **[Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 4 Implement similarity search](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-4-implement-4mm1)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[How to Build a Personal AI Sandbox Without Breaking Anything](https://dev.to/jaideepparashar/how-to-build-a-personal-ai-sandbox-without-breaking-anything-3n7o)** — **18** 👍 · 4 💬
+* **[Experimentation is where progress comes from. It’s also where most accidental outages, broken workflows, and corrupted data come from, especially with AI in the loop. A personal AI sandbox can solve this problem.](https://dev.to/jaideepparashar/experimentation-is-where-progress-comes-from-its-also-where-most-accidental-outages-broken-4f45)** — **15** 👍 · 0 💬
 * **[The Missing Workspace Layer for Agentic Polyrepo Development](https://dev.to/dean0x/the-missing-workspace-layer-for-agentic-polyrepo-development-pae)** — **10** 👍 · 0 💬
-* **[Completely Automate Penetration Testing with AI](https://dev.to/lightningdev123/completely-automate-penetration-testing-with-ai-4j94)** — **6** 👍 · 0 💬
-* **[How to test LLM integrations in CI without burning tokens](https://dev.to/akarshc/how-to-test-llm-integrations-in-ci-without-burning-tokens-1ibh)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
 * **[How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-23T23:34:50.948906+00:00 -->
+<!-- Log-ID: 2026-02-24T14:11:55.856906+00:00 -->
