@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-24 18:50 (UTC)
+📅 **Last Update:** 2026-02-24 23:32 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Experimentation is where progress comes from. It’s also where most accidental outages, broken workflows, and corrupted data come from, especially with AI in the loop. A personal AI sandbox can solve this problem.](https://dev.to/jaideepparashar/experimentation-is-where-progress-comes-from-its-also-where-most-accidental-outages-broken-4f45)** — **15** 👍 · 0 💬
-* **[🚀 Building an AI-Powered CI/CD Copilot with Jenkins and AWS Lambda](https://dev.to/aws-builders/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l)** — **5** 👍 · 0 💬
-* **[Template de testes de API com K6](https://dev.to/marcos_vile/template-de-testes-de-api-com-k6-2k3d)** — **5** 👍 · 0 💬
+* **[🚀 Building an AI-Powered CI/CD Copilot with Jenkins and AWS Lambda](https://dev.to/aws-builders/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l)** — **8** 👍 · 0 💬
+* **[Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
 * **[How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-24T18:50:52.149477+00:00 -->
+<!-- Log-ID: 2026-02-24T23:32:49.667249+00:00 -->
