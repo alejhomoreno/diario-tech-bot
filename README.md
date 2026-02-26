@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-25 23:28 (UTC)
+📅 **Last Update:** 2026-02-26 14:10 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Mastering Modern Async: How Does CompletableFuture Simplify Asynchronous Programming in Java?](https://dev.to/realnamehidden1_61/mastering-modern-async-how-does-completablefuture-simplify-asynchronous-programming-in-java-5865)** — **5** 👍 · 0 💬
-* **[Java’s Fork/Join Framework: How It Works Under the Hood](https://dev.to/realnamehidden1_61/javas-forkjoin-framework-how-it-works-under-the-hood-2pfh)** — **5** 👍 · 0 💬
-* **[Building an Explainable Graph RAG System with SAGE (JSON-LD, Percentile Pruning, Multi-Hop Retrieval)](https://dev.to/vishalmysore/building-an-explainable-graph-rag-system-with-sage-json-ld-percentile-pruning-multi-hop-10p2)** — **1** 👍 · 0 💬
+* **[JVM timing options](https://dev.to/nfrankel/jvm-timing-options-3hlj)** — **6** 👍 · 0 💬
+* **[Building an Explainable Graph RAG System with SAGE (JSON-LD, Percentile Pruning, Multi-Hop Retrieval)](https://dev.to/vishalmysore/building-an-explainable-graph-rag-system-with-sage-json-ld-percentile-pruning-multi-hop-10p2)** — **2** 👍 · 0 💬
+* **[Translating a Website into 8 Languages with AI Agents in One Night](https://dev.to/brunoborges/translating-a-website-into-8-languages-with-ai-agents-in-one-night-50k7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)** — **26** 👍 · 1 💬
 * **[The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession.](https://dev.to/jaideepparashar/the-next-five-years-of-ai-wont-make-developers-irrelevant-theyll-make-clarity-judgment-and-584d)** — **15** 👍 · 0 💬
-* **[Provide storage for a new company app](https://dev.to/rahimah_dev/provide-storage-for-a-new-company-app-4dl3)** — **6** 👍 · 2 💬
+* **[The teams that win won’t be the ones with the most tools. Remote work already changed where teams operate. That’s the real transformation coming to remote development.](https://dev.to/jaideepparashar/the-teams-that-win-wont-be-the-ones-with-the-most-tools-remote-work-already-changed-where-teams-5ae0)** — **15** 👍 · 0 💬
+* **[Kubernetes'te StorageClass Nedir?](https://dev.to/tarikanafarta/kuberneteste-storageclass-nedir-dha)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[I Built a Real-Time Video Calling App Using WebRTC in React Native, And It Was Harder Than I Expected](https://dev.to/prateek_mangalgi/i-built-a-real-time-video-calling-app-using-webrtc-in-react-native-and-it-was-harder-than-i-lph)** — **5** 👍 · 0 💬
-* **[How to Create an EC2 instance in AWS free tier: A Step-by-Step Guide](https://dev.to/louis_oodo_a59b230b894609/how-to-create-an-ec2-instance-in-aws-free-tier-a-step-by-step-guide-2kh)** — **5** 👍 · 0 💬
 * **[Automating Nmap Scans Using Python: From Command Line to Structured Data](https://dev.to/ganesh_hari_18/automating-nmap-scans-using-python-from-command-line-to-structured-data-2f8k)** — **2** 👍 · 0 💬
+* **[Connecting Ubuntu to Azure VPN: The "No-Nonsense" StrongSwan Guide (2026 Edition)](https://dev.to/pilgrim2go/connecting-ubuntu-to-azure-vpn-the-no-nonsense-strongswan-guide-2026-edition-3mji)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-25T23:28:54.169814+00:00 -->
+<!-- Log-ID: 2026-02-26T14:10:51.568705+00:00 -->
