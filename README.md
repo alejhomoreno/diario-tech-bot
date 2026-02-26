@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-26 14:10 (UTC)
+📅 **Last Update:** 2026-02-26 18:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[JVM timing options](https://dev.to/nfrankel/jvm-timing-options-3hlj)** — **6** 👍 · 0 💬
+* **[IA: una historia real](https://dev.to/baltasarq/ia-una-historia-real-1n19)** — **6** 👍 · 0 💬
 * **[Building an Explainable Graph RAG System with SAGE (JSON-LD, Percentile Pruning, Multi-Hop Retrieval)](https://dev.to/vishalmysore/building-an-explainable-graph-rag-system-with-sage-json-ld-percentile-pruning-multi-hop-10p2)** — **2** 👍 · 0 💬
-* **[Translating a Website into 8 Languages with AI Agents in One Night](https://dev.to/brunoborges/translating-a-website-into-8-languages-with-ai-agents-in-one-night-50k7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[I Let an AI Agent Become My DevOps Engineer](https://dev.to/aws-builders/i-let-an-ai-agent-become-my-devops-engineer-529)** — **31** 👍 · 31 💬
 * **[The next five years of AI won’t make developers irrelevant. They’ll make clarity, judgment, and systems thinking the core of the profession.](https://dev.to/jaideepparashar/the-next-five-years-of-ai-wont-make-developers-irrelevant-theyll-make-clarity-judgment-and-584d)** — **15** 👍 · 0 💬
-* **[The teams that win won’t be the ones with the most tools. Remote work already changed where teams operate. That’s the real transformation coming to remote development.](https://dev.to/jaideepparashar/the-teams-that-win-wont-be-the-ones-with-the-most-tools-remote-work-already-changed-where-teams-5ae0)** — **15** 👍 · 0 💬
-* **[Kubernetes'te StorageClass Nedir?](https://dev.to/tarikanafarta/kuberneteste-storageclass-nedir-dha)** — **1** 👍 · 0 💬
+* **[I Let AI Agents Run My Production Server for 7 Days. Here's What Burned.](https://dev.to/harsh2644/i-let-ai-agents-run-my-production-server-for-7-days-heres-what-burned-4f72)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Automating Nmap Scans Using Python: From Command Line to Structured Data](https://dev.to/ganesh_hari_18/automating-nmap-scans-using-python-from-command-line-to-structured-data-2f8k)** — **2** 👍 · 0 💬
 * **[Connecting Ubuntu to Azure VPN: The "No-Nonsense" StrongSwan Guide (2026 Edition)](https://dev.to/pilgrim2go/connecting-ubuntu-to-azure-vpn-the-no-nonsense-strongswan-guide-2026-edition-3mji)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-26T14:10:51.568705+00:00 -->
+<!-- Log-ID: 2026-02-26T18:40:37.661015+00:00 -->
