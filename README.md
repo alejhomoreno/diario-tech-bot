@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-27 18:30 (UTC)
+📅 **Last Update:** 2026-02-27 23:25 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[💡 Beginner-Friendly Guide 'Minimum Operations to Equalize Binary String' - Problem 3666 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)** — **15** 👍 · 0 💬
 * **[IA: una historia real](https://dev.to/baltasarq/ia-una-historia-real-1n19)** — **7** 👍 · 0 💬
-* **[Building AI Applications with Spring AI and Azure OpenAI](https://dev.to/ayshriv/building-ai-applications-with-spring-ai-and-azure-openai-j6k)** — **2** 👍 · 0 💬
+* **[Why I built a Spring CRUD Generator as a Maven plugin (not a CLI)](https://dev.to/mzivkovicdev/why-i-built-a-spring-crud-generator-as-a-maven-plugin-not-a-cli-pfl)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Let AI Agents Run My Production Server for 7 Days. Here's What Burned.](https://dev.to/harsh2644/i-let-ai-agents-run-my-production-server-for-7-days-heres-what-burned-4f72)** — **21** 👍 · 9 💬
-* **[Linux Isn’t What You Think: Day 1 DevOps Foundation](https://dev.to/harsh_devops/linux-isnt-what-you-think-day-1-devops-foundation-1d93)** — **6** 👍 · 2 💬
-* **[My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)** — **3** 👍 · 0 💬
+* **[Linux Isn’t What You Think: Day 1 DevOps Foundation](https://dev.to/harsh_devops/linux-isnt-what-you-think-day-1-devops-foundation-1d93)** — **7** 👍 · 2 💬
+* **[I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)** — **5** 👍 · 1 💬
+* **[->> Day-24 Highly Available and Scalable Architecture Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-24-highly-available-and-scalable-architecture-using-terraform-3508)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[title: The Worst Wi-Fi Security Advice I Found on Facebook 🤦‍♂️ (And Why It's Dangerous)](https://dev.to/freerave/title-the-worst-wi-fi-security-advice-i-found-on-facebook-and-why-its-dangerous-3dam)** — **2** 👍 · 0 💬
+* **[India Blocked Superbase: How to Bypass the Jio Supabase Block](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)** — **6** 👍 · 0 💬
 * **[Automating Nmap Scans Using Python: From Command Line to Structured Data](https://dev.to/ganesh_hari_18/automating-nmap-scans-using-python-from-command-line-to-structured-data-2f8k)** — **2** 👍 · 0 💬
-* **[How to Connect Multiple ESP32 in a Mesh Network to Extend Communication Range](https://dev.to/prince20218/how-to-connect-multiple-esp32-in-a-mesh-network-to-extend-communication-range-4hmh)** — **1** 👍 · 0 💬
+* **[Automated Azure Multi-VM Private Networking with Terraform (Infrastructure as Code](https://dev.to/subair09/automated-azure-multi-vm-private-networking-with-terraform-infrastructure-as-code-29pg)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-27T18:30:17.549344+00:00 -->
+<!-- Log-ID: 2026-02-27T23:25:53.693992+00:00 -->
