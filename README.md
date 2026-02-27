@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-27 14:01 (UTC)
+📅 **Last Update:** 2026-02-27 18:30 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[💡 Beginner-Friendly Guide 'Minimum Operations to Equalize Binary String' - Problem 3666 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)** — **15** 👍 · 0 💬
 * **[IA: una historia real](https://dev.to/baltasarq/ia-una-historia-real-1n19)** — **7** 👍 · 0 💬
-* **[Understanding the 4 Pillars of OOPs in java](https://dev.to/realnamehidden1_61/understanding-the-4-pillars-of-oops-in-java-553n)** — **5** 👍 · 0 💬
+* **[Building AI Applications with Spring AI and Azure OpenAI](https://dev.to/ayshriv/building-ai-applications-with-spring-ai-and-azure-openai-j6k)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Let AI Agents Run My Production Server for 7 Days. Here's What Burned.](https://dev.to/harsh2644/i-let-ai-agents-run-my-production-server-for-7-days-heres-what-burned-4f72)** — **19** 👍 · 5 💬
-* **[Solved: Access Package Report Script](https://dev.to/techresolve/solved-access-package-report-script-2k1i)** — **2** 👍 · 0 💬
-* **[Multi-Cloud Cascading Failure Risks: Why Active-Active is a Trap](https://dev.to/ntctech/multi-cloud-cascading-failure-risks-why-active-active-is-a-trap-3810)** — **1** 👍 · 0 💬
+* **[I Let AI Agents Run My Production Server for 7 Days. Here's What Burned.](https://dev.to/harsh2644/i-let-ai-agents-run-my-production-server-for-7-days-heres-what-burned-4f72)** — **21** 👍 · 9 💬
+* **[Linux Isn’t What You Think: Day 1 DevOps Foundation](https://dev.to/harsh_devops/linux-isnt-what-you-think-day-1-devops-foundation-1d93)** — **6** 👍 · 2 💬
+* **[My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Automating Nmap Scans Using Python: From Command Line to Structured Data](https://dev.to/ganesh_hari_18/automating-nmap-scans-using-python-from-command-line-to-structured-data-2f8k)** — **2** 👍 · 0 💬
 * **[How to Connect Multiple ESP32 in a Mesh Network to Extend Communication Range](https://dev.to/prince20218/how-to-connect-multiple-esp32-in-a-mesh-network-to-extend-communication-range-4hmh)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-27T14:01:02.085107+00:00 -->
+<!-- Log-ID: 2026-02-27T18:30:17.549344+00:00 -->
