@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-02-28 23:22 (UTC)
+📅 **Last Update:** 2026-03-01 13:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Abstraction in Java: Making Sense of Complexity (with Real-World Examples)](https://dev.to/realnamehidden1_61/abstraction-in-java-making-sense-of-complexity-with-real-world-examples-4cep)** — **3** 👍 · 0 💬
+* **[How I finally wrapped my head around unit testing](https://dev.to/davidgrath/how-i-finally-wrapped-my-head-around-unit-testing-1l3n)** — **2** 👍 · 0 💬
 * **[Why I built a Spring CRUD Generator as a Maven plugin (not a CLI)](https://dev.to/mzivkovicdev/why-i-built-a-spring-crud-generator-as-a-maven-plugin-not-a-cli-pfl)** — **2** 👍 · 0 💬
 * **[Building AI Applications with Spring AI and Azure OpenAI](https://dev.to/ayshriv/building-ai-applications-with-spring-ai-and-azure-openai-j6k)** — **2** 👍 · 0 💬
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Introducing codespaces.el: The Best Way to Use GitHub Codespaces](https://dev.to/f4ban/introducing-codespacesel-the-best-way-to-use-github-codespaces-1cd)** — **8** 👍 · 1 💬
-* **[The Difference Between an AI Agent That Consumes Secrets and One That Operates Them](https://dev.to/the_seventeen/the-difference-between-an-ai-agent-that-consumes-secrets-and-one-that-operates-them-5ec2)** — **6** 👍 · 0 💬
-* **[Announcing Google Cloud Support in MechCloud 🚀](https://dev.to/mechcloud/announcing-google-cloud-support-in-mechcloud-33fh)** — **3** 👍 · 0 💬
+* **[How a silent cron job failure made me build my own monitoring tool](https://dev.to/cronbeats/how-a-silent-cron-job-failure-made-me-build-my-own-monitoring-tool-5gh1)** — **2** 👍 · 0 💬
+* **[The "Invisible Tunnel": Host from Your Laptop via Oracle Cloud and Tailscale](https://dev.to/vimal/the-invisible-tunnel-host-from-your-laptop-via-oracle-cloud-and-tailscale-18b5)** — **2** 👍 · 0 💬
+* **[We Shipped a Product With 9 AI Agents. Here's What Actually Happened.](https://dev.to/seakai/we-shipped-a-product-with-9-ai-agents-heres-what-actually-happened-2g3f)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
 * **[India Blocked Superbase: How to Bypass the Jio Supabase Block](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)** — **6** 👍 · 0 💬
-* **[Pushing data in real time. (Long polling vs SSE vs Websocket vs QUIC with working example)](https://dev.to/rizwan_c/pushing-data-in-real-time-long-polling-vs-sse-vs-websocket-vs-quic-with-working-example-4pj9)** — **1** 👍 · 0 💬
-* **[MOSSDeF packages update](https://dev.to/stangri/mossdef-packages-update-2m0e)** — **1** 👍 · 0 💬
+* **[I Built a Terminal-Based WiFi & LAN Security Scanner in Go (NOVA)](https://dev.to/zayanmohamed/i-built-a-terminal-based-wifi-lan-security-scanner-in-go-nova-918)** — **3** 👍 · 0 💬
+* **[The "Invisible Tunnel": Host from Your Laptop via Oracle Cloud and Tailscale](https://dev.to/vimal/the-invisible-tunnel-host-from-your-laptop-via-oracle-cloud-and-tailscale-18b5)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-02-28T23:22:20.056273+00:00 -->
+<!-- Log-ID: 2026-03-01T13:40:25.118216+00:00 -->
