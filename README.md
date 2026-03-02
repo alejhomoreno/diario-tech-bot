@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-01 23:24 (UTC)
+📅 **Last Update:** 2026-03-02 14:01 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[How PageIndex Works: A Step-by-Step Technical Walkthrough](https://dev.to/vishalmysore/how-pageindex-works-a-step-by-step-technical-walkthrough-d14)** — **2** 👍 · 0 💬
+* **[UoPeople Smart Academic Planner](https://dev.to/osazuwa_john_1580bf90e07f/uopeople-smart-academic-planner-509e)** — **2** 👍 · 0 💬
 * **[#java #oop #inheritance #programming](https://dev.to/kanishkashr/java-oop-inheritance-programming-4bg)** — **2** 👍 · 0 💬
-* **[How I finally wrapped my head around unit testing](https://dev.to/davidgrath/how-i-finally-wrapped-my-head-around-unit-testing-1l3n)** — **2** 👍 · 0 💬
-* **[Why I built a Spring CRUD Generator as a Maven plugin (not a CLI)](https://dev.to/mzivkovicdev/why-i-built-a-spring-crud-generator-as-a-maven-plugin-not-a-cli-pfl)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[We Shipped a Product With 9 AI Agents. Here's What Actually Happened.](https://dev.to/seakai/we-shipped-a-product-with-9-ai-agents-heres-what-actually-happened-2g3f)** — **3** 👍 · 4 💬
-* **[Your LLM Is Ignoring Its Tools — A Field Guide to On-Prem Tool Calling with Elastic Agent Builder](https://dev.to/alexey_sokolov_10deecd763/your-llm-is-ignoring-its-tools-a-field-guide-to-on-prem-tool-calling-with-elastic-agent-builder-28nm)** — **3** 👍 · 1 💬
-* **[How a silent cron job failure made me build my own monitoring tool](https://dev.to/cronbeats/how-a-silent-cron-job-failure-made-me-build-my-own-monitoring-tool-5gh1)** — **2** 👍 · 0 💬
+* **[->> Provisioning an AWS S3 Bucket using HCP Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-provisioning-an-aws-s3-bucket-using-hcp-terraform-1mjc)** — **5** 👍 · 0 💬
+* **[Solved: Where can I find logs to practice SOC Analyst work?](https://dev.to/techresolve/solved-where-can-i-find-logs-to-practice-soc-analyst-work-4cn3)** — **2** 👍 · 0 💬
+* **[DockWatch: Lightweight Docker Monitoring with Anomaly Detection & Telegram Alerts](https://dev.to/dohelper_0f75b617be84c9bf/dockwatch-lightweight-docker-monitoring-with-anomaly-detection-telegram-alerts-a10)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[How CloudFront Delivers Traffic to AWS Workloads](https://dev.to/irfansatrio/how-cloudfront-delivers-traffic-to-aws-workloads-3m38)** — **10** 👍 · 0 💬
 * **[India Blocked Superbase: How to Bypass the Jio Supabase Block](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)** — **6** 👍 · 0 💬
 * **[I Built a Terminal-Based WiFi & LAN Security Scanner in Go (NOVA)](https://dev.to/zayanmohamed/i-built-a-terminal-based-wifi-lan-security-scanner-in-go-nova-918)** — **3** 👍 · 0 💬
-* **[HTTP/1.1 Deep Dive: Headers, Methods & Status Codes for API Builders](https://dev.to/ali_algmass/http11-deep-diveheaders-methods-status-codesfor-api-builders-5h10)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-01T23:24:51.005172+00:00 -->
+<!-- Log-ID: 2026-03-02T14:01:30.147318+00:00 -->
