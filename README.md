@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-02 23:27 (UTC)
+📅 **Last Update:** 2026-03-03 14:00 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Understanding Encapsulation in Java: The "Capsule" of Modern Coding](https://dev.to/realnamehidden1_61/understanding-encapsulation-in-java-the-capsule-of-modern-coding-1hc0)** — **5** 👍 · 0 💬
-* **[AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 4 Monitoring, unsupported features, challenges and pricing](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-4-monitoring-unsupported-features-9l6)** — **2** 👍 · 0 💬
-* **[How PageIndex Works: A Step-by-Step Technical Walkthrough](https://dev.to/vishalmysore/how-pageindex-works-a-step-by-step-technical-walkthrough-d14)** — **2** 👍 · 0 💬
+* **[Understanding Encapsulation in Java: The "Capsule" of Modern Coding](https://dev.to/realnamehidden1_61/understanding-encapsulation-in-java-the-capsule-of-modern-coding-1hc0)** — **6** 👍 · 0 💬
+* **[Part-4 Functional Interface(Function)](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacefunction-3555)** — **5** 👍 · 0 💬
+* **[Part-4 Functional Interface(Supplier)](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacesupplier-5f2b)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Logtide 0.7.0: Full Observability Stack, Service Maps, and Audit Logs](https://dev.to/polliog/logtide-070-full-observability-stack-service-maps-and-audit-logs-2ibo)** — **5** 👍 · 0 💬
+* **[I Was Flying Blind in Production. Then I Found DeepTracer.](https://dev.to/deeptracer_gautam/i-was-flying-blind-in-production-then-i-found-deeptracer-11nj)** — **11** 👍 · 5 💬
+* **[->> Day-27 Automating AWS Infrastructure Using Terraform & Github Actions](https://dev.to/amit_kumar_7db8e36a64dd45/-day-27-automating-aws-infrastructure-using-terraform-github-actions-g42)** — **6** 👍 · 0 💬
 * **[Solved: Why do I still feel broke even though the business is doing well?](https://dev.to/techresolve/solved-why-do-i-still-feel-broke-even-though-the-business-is-doing-well-ne4)** — **2** 👍 · 0 💬
-* **[Solved: Where can I find logs to practice SOC Analyst work?](https://dev.to/techresolve/solved-where-can-i-find-logs-to-practice-soc-analyst-work-4cn3)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[How CloudFront Delivers Traffic to AWS Workloads](https://dev.to/irfansatrio/how-cloudfront-delivers-traffic-to-aws-workloads-3m38)** — **10** 👍 · 0 💬
-* **[India Blocked Superbase: How to Bypass the Jio Supabase Block](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)** — **6** 👍 · 0 💬
-* **[I Built a Terminal-Based WiFi & LAN Security Scanner in Go (NOVA)](https://dev.to/zayanmohamed/i-built-a-terminal-based-wifi-lan-security-scanner-in-go-nova-918)** — **3** 👍 · 0 💬
+* **[Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)** — **3** 👍 · 0 💬
+* **[The burning AWS UAE facility, showing the physical impact of the attack on the "mec1-az2" zone.](https://dev.to/pasindu_tsx/the-burning-aws-uae-facility-showing-the-physical-impact-of-the-attack-on-the-mec1-az2-zone-17md)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-02T23:27:04.670117+00:00 -->
+<!-- Log-ID: 2026-03-03T14:00:51.660757+00:00 -->
