@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-03 23:28 (UTC)
+📅 **Last Update:** 2026-03-04 13:59 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Understanding Encapsulation in Java: The "Capsule" of Modern Coding](https://dev.to/realnamehidden1_61/understanding-encapsulation-in-java-the-capsule-of-modern-coding-1hc0)** — **6** 👍 · 0 💬
-* **[What is Inheritance? The Power of "Family Trees" in Java](https://dev.to/realnamehidden1_61/what-is-inheritance-the-power-of-family-trees-in-java-4c0a)** — **6** 👍 · 0 💬
-* **[Part-4 Functional Interface(Supplier)](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacesupplier-5f2b)** — **5** 👍 · 0 💬
+* **[Part-3 Functional Interface (Consumer)](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-3-functional-interface-consumer-1fia)** — **5** 👍 · 0 💬
+* **[AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 4 Monitoring, unsupported features, challenges and pricing](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-4-monitoring-unsupported-features-9l6)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Top 5 Cloudflare AI Gateway Alternatives in 2026](https://dev.to/pranay_batta/top-5-cloudflare-ai-gateway-alternatives-in-2026-521e)** — **5** 👍 · 0 💬
-* **[Docs-as-Code: The Complete CI/CD Workflow (From Git to Production)](https://dev.to/bipin_rimal314/docs-as-code-the-complete-cicd-workflow-from-git-to-production-89b)** — **4** 👍 · 0 💬
-* **[I Built a Full AWS CI/CD Pipeline with Blue/Green Deployments, Here's Everything I Learned](https://dev.to/augusthottie/i-built-a-full-aws-cicd-pipeline-with-bluegreen-deployments-heres-everything-i-learned-5899)** — **2** 👍 · 1 💬
+* **[I built a zero-cost end-to-end DevOps pipeline (GitHub Actions + Docker + Kubernetes + Docker Hub)](https://dev.to/rufilboss/i-built-a-zero-cost-end-to-end-devops-pipeline-github-actions-docker-kubernetes-docker-hub-2g9n)** — **2** 👍 · 0 💬
+* **[The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)** — **1** 👍 · 0 💬
+* **[Documentation That Works When Everything Breaks](https://dev.to/sonia_bobrik_1939cdddd79d/documentation-that-works-when-everything-breaks-17mp)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)** — **3** 👍 · 0 💬
 * **[The burning AWS UAE facility, showing the physical impact of the attack on the "mec1-az2" zone.](https://dev.to/pasindu_tsx/the-burning-aws-uae-facility-showing-the-physical-impact-of-the-attack-on-the-mec1-az2-zone-17md)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-03T23:28:36.140599+00:00 -->
+<!-- Log-ID: 2026-03-04T13:59:28.380350+00:00 -->
