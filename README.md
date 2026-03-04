@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-04 18:36 (UTC)
+📅 **Last Update:** 2026-03-04 23:31 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here's the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)** — **2** 👍 · 0 💬
+* **[I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)** — **2** 👍 · 0 💬
 * **[Meet WatchClaw: One Command to Harden a Linux Server](https://dev.to/kashifeqbal/meet-watchclaw-one-command-to-harden-a-linux-server-50kl)** — **1** 👍 · 0 💬
-* **[Construí la plataforma AWS que todos los DevOps querrían tener](https://dev.to/hsniama/construi-la-plataforma-aws-que-todos-los-devops-querrian-tener-2ab2)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The burning AWS UAE facility, showing the physical impact of the attack on the "mec1-az2" zone.](https://dev.to/pasindu_tsx/the-burning-aws-uae-facility-showing-the-physical-impact-of-the-attack-on-the-mec1-az2-zone-17md)** — **2** 👍 · 0 💬
 * **[Custom Tailscale DERP Server](https://dev.to/lucifer1004/custom-tailscale-derp-server-n73)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-04T18:36:23.052343+00:00 -->
+<!-- Log-ID: 2026-03-04T23:31:22.882094+00:00 -->
