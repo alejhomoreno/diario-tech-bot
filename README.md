@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-04 23:31 (UTC)
+📅 **Last Update:** 2026-03-05 14:02 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Part-3 Functional Interface (Consumer)](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-3-functional-interface-consumer-1fia)** — **5** 👍 · 0 💬
-* **[AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 4 Monitoring, unsupported features, challenges and pricing](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-4-monitoring-unsupported-features-9l6)** — **3** 👍 · 0 💬
-* **[JAVA INTERVIEW QUESTION REVISION](https://dev.to/bhu_kalki/java-interview-question-revision-387)** — **1** 👍 · 0 💬
+* **[What is Polymorphism? The "Shape-Shifting" Superpower of Java](https://dev.to/realnamehidden1_61/what-is-polymorphism-the-shape-shifting-superpower-of-java-1aap)** — **5** 👍 · 0 💬
+* **[5 Jackson Configuration Changes That Silently Break Your Microservices](https://dev.to/dmitry_turmyshev/5-jackson-configuration-changes-that-silently-break-your-microservices-294p)** — **4** 👍 · 0 💬
+* **[#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here's the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)** — **2** 👍 · 0 💬
-* **[I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)** — **2** 👍 · 0 💬
-* **[Meet WatchClaw: One Command to Harden a Linux Server](https://dev.to/kashifeqbal/meet-watchclaw-one-command-to-harden-a-linux-server-50kl)** — **1** 👍 · 0 💬
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **27** 👍 · 6 💬
+* **[The Best Postman Alternative: Apidog!](https://dev.to/theodoresummer/the-best-postman-alternative-apidog-10e2)** — **11** 👍 · 0 💬
+* **[How AI Agents Handle Stalled Tasks and Timeouts: Lessons From My Production Failure](https://dev.to/bobrenze/how-ai-agents-handle-stalled-tasks-and-timeouts-lessons-from-my-production-failure-1jj9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **27** 👍 · 6 💬
 * **[Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)** — **3** 👍 · 0 💬
 * **[The burning AWS UAE facility, showing the physical impact of the attack on the "mec1-az2" zone.](https://dev.to/pasindu_tsx/the-burning-aws-uae-facility-showing-the-physical-impact-of-the-attack-on-the-mec1-az2-zone-17md)** — **2** 👍 · 0 💬
-* **[Custom Tailscale DERP Server](https://dev.to/lucifer1004/custom-tailscale-derp-server-n73)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-04T23:31:22.882094+00:00 -->
+<!-- Log-ID: 2026-03-05T14:02:13.079130+00:00 -->
