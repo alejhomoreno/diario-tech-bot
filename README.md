@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-05 19:09 (UTC)
+📅 **Last Update:** 2026-03-05 23:51 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[What is Polymorphism? The "Shape-Shifting" Superpower of Java](https://dev.to/realnamehidden1_61/what-is-polymorphism-the-shape-shifting-superpower-of-java-1aap)** — **5** 👍 · 0 💬
 * **[5 Jackson Configuration Changes That Silently Break Your Microservices](https://dev.to/dmitry_turmyshev/5-jackson-configuration-changes-that-silently-break-your-microservices-294p)** — **4** 👍 · 0 💬
 * **[AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)** — **3** 👍 · 0 💬
+* **[#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **41** 👍 · 15 💬
-* **[I Broke My AWS Pipeline on Purpose and Codified Everything in Terraform](https://dev.to/augusthottie/i-broke-my-aws-pipeline-on-purpose-and-codified-everything-in-terraform-n7k)** — **2** 👍 · 0 💬
-* **[Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h)** — **2** 👍 · 0 💬
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **47** 👍 · 16 💬
+* **[The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)** — **3** 👍 · 0 💬
+* **[Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **41** 👍 · 15 💬
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **47** 👍 · 16 💬
 * **[Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)** — **3** 👍 · 0 💬
-* **[The burning AWS UAE facility, showing the physical impact of the attack on the "mec1-az2" zone.](https://dev.to/pasindu_tsx/the-burning-aws-uae-facility-showing-the-physical-impact-of-the-attack-on-the-mec1-az2-zone-17md)** — **2** 👍 · 0 💬
+* **[Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-05T19:09:56.250317+00:00 -->
+<!-- Log-ID: 2026-03-05T23:51:50.901599+00:00 -->
