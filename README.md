@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-05 23:51 (UTC)
+📅 **Last Update:** 2026-03-06 13:56 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[5 Jackson Configuration Changes That Silently Break Your Microservices](https://dev.to/dmitry_turmyshev/5-jackson-configuration-changes-that-silently-break-your-microservices-294p)** — **4** 👍 · 0 💬
-* **[AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)** — **3** 👍 · 0 💬
-* **[#java #collections #programming #datastructures](https://dev.to/kanishkashr/java-collections-programming-datastructures-4jbk)** — **2** 👍 · 0 💬
+* **[429: TOO MANY REQUESTS](https://dev.to/_a_m_a_n_pandey/429-too-many-requests-53nh)** — **2** 👍 · 0 💬
+* **[Boost Any Java AI App with Rust: Offload CPU-Bound Core Logic](https://dev.to/sourabh_nazarkar_216a2688/boost-any-java-ai-app-with-rust-offload-cpu-bound-core-logic-473p)** — **1** 👍 · 0 💬
+* **[TreeSet in Java](https://dev.to/nanthini_ammu_ac02ad32802/treeset-in-java-5eg7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **47** 👍 · 16 💬
-* **[The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)** — **3** 👍 · 0 💬
-* **[Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)** — **2** 👍 · 0 💬
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **50** 👍 · 18 💬
+* **[Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf)** — **16** 👍 · 1 💬
+* **[The Silent Behavioral Shift: Why GPT-5.4 Exposes the UI's Fragile Dependence on Backend Semantics](https://dev.to/sovereignrevenueguard/the-silent-behavioral-shift-why-gpt-54-exposes-the-uis-fragile-dependence-on-backend-semantics-1lkl)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **47** 👍 · 16 💬
-* **[Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)** — **3** 👍 · 0 💬
-* **[Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)** — **2** 👍 · 0 💬
+* **[How My "Illegal" Visit to Tech Show London Turned Into a Summer Internship Win](https://dev.to/maame-codes/how-my-illegal-visit-to-tech-show-london-turned-into-a-summer-internship-win-336o)** — **50** 👍 · 18 💬
+* **[I built a Python library to make TCP networking as simple as Fastapi](https://dev.to/nytrox/i-built-a-python-library-to-make-tcp-networking-as-simple-as-fastapi-4il6)** — **3** 👍 · 2 💬
+* **[Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS](https://dev.to/cynthia-cycy/deep-dive-resolving-dns-issues-with-github-and-understanding-ssh-vs-https-4bom)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-05T23:51:50.901599+00:00 -->
+<!-- Log-ID: 2026-03-06T13:56:31.940437+00:00 -->
