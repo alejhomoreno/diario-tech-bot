@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-08 13:41 (UTC)
+📅 **Last Update:** 2026-03-08 18:22 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)** — **5** 👍 · 0 💬
+* **[How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)** — **7** 👍 · 0 💬
 * **[CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)** — **5** 👍 · 0 💬
 * **[Building and Configuring Custom Docker Images: From Execution Mechanics to Global Distribution](https://dev.to/anusha_kuppili/building-and-configuring-custom-docker-images-from-execution-mechanics-to-global-distribution-2h12)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)** — **2** 👍 · 0 💬
-* **[SwiftUI Circuit Breakers & Network Resilience Patterns (Prevent Cascading Failures)](https://dev.to/sebastienlato/swiftui-circuit-breakers-network-resilience-patterns-prevent-cascading-failures-i0o)** — **1** 👍 · 0 💬
+* **[SwiftUI Rate Limiting & Backpressure (Protect Your Backend From Your Own App)](https://dev.to/sebastienlato/swiftui-rate-limiting-backpressure-protect-your-backend-from-your-own-app-aha)** — **1** 👍 · 0 💬
 * **[Implementing `onicecandidateerror` in Firefox — A Missing Piece of the WebRTC Spec](https://dev.to/anshul_malik/implementing-onicecandidateerror-in-firefox-a-missing-piece-of-the-webrtc-spec-4jj)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-08T13:41:38.360468+00:00 -->
+<!-- Log-ID: 2026-03-08T18:22:24.539894+00:00 -->
