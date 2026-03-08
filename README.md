@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-08 18:22 (UTC)
+📅 **Last Update:** 2026-03-08 23:25 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)** — **7** 👍 · 0 💬
-* **[CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)** — **5** 👍 · 0 💬
+* **[Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc)** — **5** 👍 · 2 💬
 * **[Building and Configuring Custom Docker Images: From Execution Mechanics to Global Distribution](https://dev.to/anusha_kuppili/building-and-configuring-custom-docker-images-from-execution-mechanics-to-global-distribution-2h12)** — **4** 👍 · 0 💬
+* **[The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)** — **2** 👍 · 0 💬
-* **[SwiftUI Rate Limiting & Backpressure (Protect Your Backend From Your Own App)](https://dev.to/sebastienlato/swiftui-rate-limiting-backpressure-protect-your-backend-from-your-own-app-aha)** — **1** 👍 · 0 💬
-* **[Implementing `onicecandidateerror` in Firefox — A Missing Piece of the WebRTC Spec](https://dev.to/anshul_malik/implementing-onicecandidateerror-in-firefox-a-missing-piece-of-the-webrtc-spec-4jj)** — **1** 👍 · 0 💬
+* **[🚀 My Hands-On Experience Deploying Applications on Azure cloud](https://dev.to/tufail_mohammed_822ce7383/my-hands-on-experience-deploying-applications-on-azure-cloud-o2n)** — **1** 👍 · 0 💬
+* **[SOCKS5 vs HTTP Proxies: Which Protocol Should You Choose?](https://dev.to/xavier_fok/socks5-vs-http-proxies-which-protocol-should-you-choose-56db)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-08T18:22:24.539894+00:00 -->
+<!-- Log-ID: 2026-03-08T23:25:49.499017+00:00 -->
