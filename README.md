@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-10 14:02 (UTC)
+📅 **Last Update:** 2026-03-10 18:36 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)** — **20** 👍 · 2 💬
+* **[TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6)** — **8** 👍 · 0 💬
 * **[Claude Code Hooks: 5 Automations That Replaced My Manual Workflow](https://dev.to/klement_gunndu/claude-code-hooks-5-automations-that-replaced-my-manual-workflow-47f4)** — **8** 👍 · 0 💬
-* **[Beyond the Hype: The Realignment of AI Power and the Rise of Model-Agnostic Infrastructure](https://dev.to/faithomobude/beyond-the-hype-the-realignment-of-ai-power-and-the-rise-of-model-agnostic-infrastructure-1h7n)** — **6** 👍 · 0 💬
+* **[How to Evaluate AI Coding Tools Without Wasting 3 Months](https://dev.to/klement_gunndu/how-to-evaluate-ai-coding-tools-without-wasting-3-months-d1g)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[SOCKS5 vs HTTP Proxies: Which Protocol Should You Choose?](https://dev.to/xavier_fok/socks5-vs-http-proxies-which-protocol-should-you-choose-56db)** — **1** 👍 · 0 💬
 * **[Why Your Neighbor Screams “Goal!” Before You Do: A Deep Dive into System Strategy](https://dev.to/shubham_pandeyconnoisse/why-your-neighbor-screams-goal-before-you-do-a-deep-dive-into-system-strategy-2oah)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-10T14:02:37.418210+00:00 -->
+<!-- Log-ID: 2026-03-10T18:36:51.967948+00:00 -->
