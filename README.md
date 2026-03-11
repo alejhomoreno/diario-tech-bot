@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-11 14:06 (UTC)
+📅 **Last Update:** 2026-03-11 18:42 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.](https://dev.to/krakenhavoc/tls-certificates-are-about-to-expire-way-more-often-heres-how-im-handling-it-40p6)** — **35** 👍 · 5 💬
-* **[🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга (и спас свои нервы)](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)** — **10** 👍 · 0 💬
-* **[Advanced Traffic Management Patterns using AWS CloudFront and Lambda@Edge](https://dev.to/aws-builders/advanced-traffic-management-patterns-using-aws-cloudfront-and-lambdaedge-1l9e)** — **6** 👍 · 0 💬
+* **[🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга (и спас свои нервы)](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)** — **15** 👍 · 0 💬
+* **[Top 5 Enterprise AI Gateways for Tackling Rate Limiting in LLM Apps](https://dev.to/pranay_batta/top-5-enterprise-ai-gateways-for-tackling-rate-limiting-in-llm-apps-1hl6)** — **5** 👍 · 0 💬
+* **[Docker Multi-Stage Builds: How I Reduced Image Sizes by 94% (With Real Examples)](https://dev.to/sanjaysundarmurthy/docker-multi-stage-builds-how-i-reduced-image-sizes-by-94-with-real-examples-276d)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[P2P For Web Devs, Prologue: Why should I care?](https://dev.to/erndob/p2p-for-web-devs-prologue-why-should-i-care-2gfm)** — **1** 👍 · 0 💬
 * **[Hidden Bottleneck in Large-Scale LoRaWAN Deployment: Air Resource Congestion and Three Optimization Strategies](https://dev.to/manthink/hidden-bottleneck-in-large-scale-lorawan-deployment-air-resource-congestion-and-three-optimization-2bgn)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-11T14:06:26.767530+00:00 -->
+<!-- Log-ID: 2026-03-11T18:42:55.801080+00:00 -->
