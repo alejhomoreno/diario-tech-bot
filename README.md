@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-12 14:04 (UTC)
+📅 **Last Update:** 2026-03-12 18:41 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[STREAM API INTERVIEW QUESTION](https://dev.to/bhu_kalki/stream-api-interview-question-3b7h)** — **6** 👍 · 0 💬
+* **[I Built a Full-Stack Personal Finance Tracker — Here's What Makes It Different 💰](https://dev.to/gokul_mithran_dev/i-built-a-full-stack-personal-finance-tracker-heres-what-makes-it-different-2j58)** — **6** 👍 · 0 💬
 * **[What is Method Overriding? Giving Your Code a Personality](https://dev.to/realnamehidden1_61/what-is-method-overriding-giving-your-code-a-personality-12pm)** — **5** 👍 · 0 💬
 * **[Part 2: Kill Switches and Scheduled Flags — Feature Flags in Production (Java)](https://dev.to/david_frigolet_35ec54c7b2/part-2-kill-switches-and-scheduled-flags-feature-flags-in-production-java-243f)** — **4** 👍 · 2 💬
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform](https://dev.to/fernandoandrade/do-commit-ao-deploy-cicd-de-uma-api-na-aws-usando-github-actions-ecs-e-terraform-433g)** — **31** 👍 · 1 💬
-* **[How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)** — **2** 👍 · 0 💬
-* **[Meet My Agent: Why Your AI Should Have a Link You Can Share](https://dev.to/agenium_platform/meet-my-agent-why-your-ai-should-have-a-link-you-can-share-87)** — **1** 👍 · 0 💬
+* **[Helm Charts from Scratch: Package, Version, and Deploy Kubernetes Apps Like a Pro](https://dev.to/sanjaysundarmurthy/helm-charts-from-scratch-package-version-and-deploy-kubernetes-apps-like-a-pro-335)** — **4** 👍 · 0 💬
+* **[10 AWS Cost Optimization Mistakes I See in Real Accounts](https://dev.to/devops_descent/10-aws-cost-optimization-mistakes-i-see-in-real-accounts-p2e)** — **4** 👍 · 0 💬
+* **[HTTP 500 on AWS Amplify After Deployment — Solved by a Monorepo Dependency Mismatch](https://dev.to/ikramdeveloper/http-500-on-aws-amplify-after-deployment-solved-by-a-monorepo-dependency-mismatch-4gfo)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
+* **[I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE](https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k)** — **9** 👍 · 3 💬
+* **[Building Zero-Config LAN Discovery in Node.js (mDNS + UDP Broadcast)](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)** — **2** 👍 · 0 💬
 * **[Microsoft Azure Management Tasks: Update the Virtual Network](https://dev.to/rahimah_dev/microsoft-azure-management-tasks-update-the-virtual-network-oai)** — **2** 👍 · 0 💬
-* **[Building Zero-Config LAN Discovery in Node.js (mDNS + UDP Broadcast)](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)** — **1** 👍 · 0 💬
-* **[Provisioning a Virtual Network and Virtual Machine in Azure with Azure CLI](https://dev.to/pirrezz/provisioning-a-virtual-network-and-virtual-machine-in-azure-with-azure-cli-5f1g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-12T14:04:04.792325+00:00 -->
+<!-- Log-ID: 2026-03-12T18:41:18.054588+00:00 -->
