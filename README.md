@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-11 23:27 (UTC)
+📅 **Last Update:** 2026-03-12 14:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[STREAM API INTERVIEW QUESTION](https://dev.to/bhu_kalki/stream-api-interview-question-3b7h)** — **6** 👍 · 0 💬
-* **[ALL QUESTIONS RELATED TO THREAD](https://dev.to/bhu_kalki/all-questions-related-to-thread-119m)** — **6** 👍 · 0 💬
+* **[What is Method Overriding? Giving Your Code a Personality](https://dev.to/realnamehidden1_61/what-is-method-overriding-giving-your-code-a-personality-12pm)** — **5** 👍 · 0 💬
 * **[Part 2: Kill Switches and Scheduled Flags — Feature Flags in Production (Java)](https://dev.to/david_frigolet_35ec54c7b2/part-2-kill-switches-and-scheduled-flags-feature-flags-in-production-java-243f)** — **4** 👍 · 2 💬
 
 ## 🔖 Top Keycloak
 
-* **[Расширяем Keycloak: Пишем Java-плагин для загрузки пользователей из внешнего API](https://dev.to/_2974322d72d5f53d8c2c/rasshiriaiem-keycloak-pishiem-java-plaghin-dlia-zaghruzki-polzovatieliei-iz-vnieshniegho-api-4gb0)** — **6** 👍 · 1 💬
 * **[RKE2'de Liman MYS & Keycloak Kurulumu: Longhorn ve Docker Hub Hata Çözümleri Dahil Tam Rehber](https://dev.to/aciklab/rke2de-liman-mys-keycloak-kurulumu-longhorn-ve-docker-hub-hata-cozumleri-dahil-tam-rehber-4nfe)** — **5** 👍 · 0 💬
 * **[Keycloak Spring Boot OAuth2 Integration: Complete Developer Guide](https://dev.to/iamdevbox/keycloak-spring-boot-oauth2-integration-complete-developer-guide-3iop)** — **3** 👍 · 0 💬
+* **[3 Pitfalls of Multi-Portal Authentication with Keycloak [Part 5]](https://dev.to/kochan/3-pitfalls-of-multi-portal-authentication-with-keycloak-part-5-4dcj)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[I Let an AI Agent Review My GitHub Repos](https://dev.to/aws-builders/i-let-an-ai-agent-review-my-github-repos-72)** — **11** 👍 · 1 💬
-* **[I Built a DevOps Simulator to Practice Kubernetes Debugging](https://dev.to/farooqshabbir/i-built-a-devops-simulator-to-practice-kubernetes-debugging-3pc5)** — **3** 👍 · 1 💬
-* **[Why Git Is an Essential Skill for DevOps Beginners](https://dev.to/sandhya_rani_techie/why-git-is-an-essential-skill-for-devops-beginners-3flp)** — **1** 👍 · 0 💬
+* **[Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform](https://dev.to/fernandoandrade/do-commit-ao-deploy-cicd-de-uma-api-na-aws-usando-github-actions-ecs-e-terraform-433g)** — **31** 👍 · 1 💬
+* **[How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)** — **2** 👍 · 0 💬
+* **[Meet My Agent: Why Your AI Should Have a Link You Can Share](https://dev.to/agenium_platform/meet-my-agent-why-your-ai-should-have-a-link-you-can-share-87)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Subnet Planning for Kubernetes: Why Most Calculators Are Wrong](https://dev.to/krhatland/subnet-planning-for-kubernetes-why-most-calculators-are-wrong-1gdl)** — **2** 👍 · 0 💬
-* **[P2P For Web Devs, Prologue: Why should I care?](https://dev.to/erndob/p2p-for-web-devs-prologue-why-should-i-care-2gfm)** — **1** 👍 · 0 💬
-* **[Hidden Bottleneck in Large-Scale LoRaWAN Deployment: Air Resource Congestion and Three Optimization Strategies](https://dev.to/manthink/hidden-bottleneck-in-large-scale-lorawan-deployment-air-resource-congestion-and-three-optimization-2bgn)** — **1** 👍 · 0 💬
+* **[Microsoft Azure Management Tasks: Update the Virtual Network](https://dev.to/rahimah_dev/microsoft-azure-management-tasks-update-the-virtual-network-oai)** — **2** 👍 · 0 💬
+* **[Building Zero-Config LAN Discovery in Node.js (mDNS + UDP Broadcast)](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)** — **1** 👍 · 0 💬
+* **[Provisioning a Virtual Network and Virtual Machine in Azure with Azure CLI](https://dev.to/pirrezz/provisioning-a-virtual-network-and-virtual-machine-in-azure-with-azure-cli-5f1g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-11T23:27:12.858246+00:00 -->
+<!-- Log-ID: 2026-03-12T14:04:04.792325+00:00 -->
