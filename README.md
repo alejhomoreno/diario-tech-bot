@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-12 18:41 (UTC)
+📅 **Last Update:** 2026-03-12 23:28 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Helm Charts from Scratch: Package, Version, and Deploy Kubernetes Apps Like a Pro](https://dev.to/sanjaysundarmurthy/helm-charts-from-scratch-package-version-and-deploy-kubernetes-apps-like-a-pro-335)** — **4** 👍 · 0 💬
-* **[10 AWS Cost Optimization Mistakes I See in Real Accounts](https://dev.to/devops_descent/10-aws-cost-optimization-mistakes-i-see-in-real-accounts-p2e)** — **4** 👍 · 0 💬
-* **[HTTP 500 on AWS Amplify After Deployment — Solved by a Monorepo Dependency Mismatch](https://dev.to/ikramdeveloper/http-500-on-aws-amplify-after-deployment-solved-by-a-monorepo-dependency-mismatch-4gfo)** — **2** 👍 · 1 💬
+* **[Chaos Engineering for AWS Lambda: failure-lambda 1.0](https://dev.to/gunnargrosch/chaos-engineering-for-aws-lambda-failure-lambda-10-fpm)** — **6** 👍 · 0 💬
+* **[10 AWS Cost Optimization Mistakes I See in Real Accounts](https://dev.to/devops_descent/10-aws-cost-optimization-mistakes-i-see-in-real-accounts-p2e)** — **5** 👍 · 0 💬
+* **[Your Uptime Monitor Says Green. Your Users Disagree.](https://dev.to/ramon_galego/your-uptime-monitor-says-green-your-users-disagree-b1o)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE](https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k)** — **9** 👍 · 3 💬
-* **[Building Zero-Config LAN Discovery in Node.js (mDNS + UDP Broadcast)](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)** — **2** 👍 · 0 💬
+* **[I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE](https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k)** — **14** 👍 · 6 💬
+* **[Building Zero-Config LAN Discovery in Node.js (mDNS + UDP Broadcast)](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)** — **3** 👍 · 0 💬
 * **[Microsoft Azure Management Tasks: Update the Virtual Network](https://dev.to/rahimah_dev/microsoft-azure-management-tasks-update-the-virtual-network-oai)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-12T18:41:18.054588+00:00 -->
+<!-- Log-ID: 2026-03-12T23:28:37.648142+00:00 -->
