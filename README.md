@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-14 23:28 (UTC)
+📅 **Last Update:** 2026-03-15 13:50 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Abstract Class vs. Interface: The "Blueprint" Battle in Java](https://dev.to/realnamehidden1_61/abstract-class-vs-interface-the-blueprint-battle-in-java-47kf)** — **6** 👍 · 1 💬
 * **[How I escaped "XML Hell" and reshaped PowerPoint automation in Java.](https://dev.to/quaternion8192/tired-of-apache-pois-xml-hell-so-i-spent-my-weekends-building-a-fluent-wrapper-thoughts-1669)** — **6** 👍 · 1 💬
-* **[The Magic of Choice: Understanding Dynamic Method Dispatch in Java](https://dev.to/realnamehidden1_61/the-magic-of-choice-understanding-dynamic-method-dispatch-in-java-2p44)** — **6** 👍 · 0 💬
+* **[Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)** — **6** 👍 · 0 💬
-* **[Logtide 0.8.0: Browser Observability, MongoDB Support, and Golden Signals](https://dev.to/polliog/logtide-080-browser-observability-mongodb-support-and-golden-signals-87i)** — **5** 👍 · 0 💬
-* **[#3 Docker - Network](https://dev.to/stv4ns/-3-docker-network-2eff)** — **1** 👍 · 0 💬
+* **[Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)** — **10** 👍 · 0 💬
+* **[Logtide 0.8.0: Browser Observability, MongoDB Support, and Golden Signals](https://dev.to/polliog/logtide-080-browser-observability-mongodb-support-and-golden-signals-87i)** — **7** 👍 · 0 💬
+* **[A Guide to API Proxy Revisioning in Apigee X : The "Undo" Button for Your APIs](https://dev.to/realnamehidden1_61/a-guide-to-api-proxy-revisioning-in-apigee-x-the-undo-button-for-your-apis-4ecc)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[What is Forg.to? (And Why I Think It's Going to Be Big for Developers)](https://dev.to/kislay/what-is-forgto-and-why-i-think-its-going-to-be-big-for-developers-3p5b)** — **5** 👍 · 2 💬
 * **[#3 Docker - Network](https://dev.to/stv4ns/-3-docker-network-2eff)** — **1** 👍 · 0 💬
-* **[Frontend System Design: Communication Protocols & Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)** — **1** 👍 · 0 💬
+* **[Termix v2.0.0 - RDP, VNC, and Telnet Support (self-hosted Termius alternative that syncs across all devices)](https://dev.to/luke_gustafson_b876923974/termix-v200-rdp-vnc-and-telnet-support-self-hosted-termius-alternative-that-syncs-across-all-hl)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-14T23:28:30.198705+00:00 -->
+<!-- Log-ID: 2026-03-15T13:50:10.805680+00:00 -->
