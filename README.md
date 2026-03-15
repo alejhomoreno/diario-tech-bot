@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-15 18:27 (UTC)
+📅 **Last Update:** 2026-03-15 23:30 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Installing Terraform and Setting Up Your Environment](https://dev.to/sarvar_04/installing-terraform-and-setting-up-your-environment-1j9b)** — **10** 👍 · 0 💬
-* **[Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)** — **4** 👍 · 2 💬
+* **[Build a Kubernetes Cluster at Home with Raspberry Pis](https://dev.to/anavalo/building-a-kubernetes-cluster-at-home-with-raspberry-pis-1l8c)** — **6** 👍 · 2 💬
 * **[10 DevOps Mistakes Beginners Make (and How to Avoid Them)](https://dev.to/devops_descent/10-devops-mistakes-beginners-make-and-how-to-avoid-them-2e7i)** — **4** 👍 · 0 💬
+* **[Picking a Package Manager for Your CI/CD Pipeline](https://dev.to/ymerzouka/picking-a-package-manager-for-your-cicd-pipeline-59lc)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[#3 Docker - Network](https://dev.to/stv4ns/-3-docker-network-2eff)** — **1** 👍 · 0 💬
 * **[Termix v2.0.0 - RDP, VNC, and Telnet Support (self-hosted Termius alternative that syncs across all devices)](https://dev.to/luke_gustafson_b876923974/termix-v200-rdp-vnc-and-telnet-support-self-hosted-termius-alternative-that-syncs-across-all-hl)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-15T18:27:23.623374+00:00 -->
+<!-- Log-ID: 2026-03-15T23:30:18.278929+00:00 -->
