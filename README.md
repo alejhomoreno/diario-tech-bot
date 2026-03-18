@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-17 23:33 (UTC)
+📅 **Last Update:** 2026-03-18 14:22 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Streaming Large Financial Transaction Exports Without Breaking Your API](https://dev.to/abhiram_k/streaming-large-financial-transaction-exports-without-breaking-your-api-h5g)** — **3** 👍 · 0 💬
+* **[Can Constructor Be Overridden in Java? Clearing the Confusion](https://dev.to/realnamehidden1_61/can-constructor-be-overridden-in-java-clearing-the-confusion-3aib)** — **5** 👍 · 0 💬
 * **[Camunda BPMN Deep Dive – Service Task vs External Task & Parallel Gateway Issues](https://dev.to/nirankari/camunda-bpmn-deep-dive-service-task-vs-external-task-parallel-gateway-issues-1859)** — **2** 👍 · 0 💬
-* **[7 Java Stream Mistakes That Quietly Hurt Your Production Code ⚠️](https://dev.to/pramod_kumar_0820/7-java-stream-mistakes-that-quietly-hurt-your-production-code-1o49)** — **1** 👍 · 1 💬
+* **[Java 26 Released 🚀: What’s New, What Matters & Why It’s Faster Than Ever](https://dev.to/pramod_kumar_0820/java-26-released-whats-new-what-matters-why-its-faster-than-ever-3kcd)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Architecting the Agentic Future: OpenClaw vs. NanoClaw vs. Nvidia's NemoClaw](https://dev.to/mechcloud_academy/architecting-the-agentic-future-openclaw-vs-nanoclaw-vs-nvidias-nemoclaw-9f8)** — **6** 👍 · 1 💬
-* **[What's in a flow?](https://dev.to/missamarakay/whats-in-a-flow-532l)** — **4** 👍 · 1 💬
-* **[Your Vector Database Decision Is Simpler Than You Think](https://dev.to/reneza/your-vector-database-decision-is-simpler-than-you-think-3ape)** — **3** 👍 · 0 💬
+* **[I Bought a Domain at 15. Now It Powers 400,000+ Users.](https://dev.to/edwardhsing/i-bought-a-domain-at-15-now-it-powers-400000-users-7ol)** — **5** 👍 · 3 💬
+* **[Why Your Azure Subscription Looks Like a Teenager's Bedroom (And How to Fix It)](https://dev.to/sanjaysundarmurthy/why-your-azure-subscription-looks-like-a-teenagers-bedroom-and-how-to-fix-it-2f1i)** — **5** 👍 · 1 💬
+* **[I built a free, open-source alternative to LocalStack — CloudDev](https://dev.to/jeffrin-dev/i-built-a-free-open-source-alternative-to-localstack-clouddev-59k)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Hot take: JWTs were never real security. Change my mind.](https://dev.to/thuangf45/hot-take-jwts-were-never-real-security-change-my-mind-3do0)** — **8** 👍 · 0 💬
-* **[My Second Terraform Deployment: Building a Complete AWS Network from Scratch (And What I Learned That Surprised Me)](https://dev.to/vivian_okose/my-second-terraform-deployment-building-a-complete-aws-network-from-scratch-and-what-i-learned-2nc4)** — **1** 👍 · 0 💬
-* **[#3 Docker - Network](https://dev.to/stv4ns/-3-docker-network-2eff)** — **1** 👍 · 0 💬
+* **[When systemd-resolved Picks the Wrong DNS Server](https://dev.to/krjakbrjak/when-systemd-resolved-picks-the-wrong-dns-server-3pk5)** — **2** 👍 · 0 💬
+* **[Why I built determinism into a physics engine from day one (and what I learned)](https://dev.to/bearpacksalzy/why-i-built-determinism-into-a-physics-engine-from-day-one-and-what-i-learned-4n7a)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-17T23:33:45.514486+00:00 -->
+<!-- Log-ID: 2026-03-18T14:22:12.447553+00:00 -->
