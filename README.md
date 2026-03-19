@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-19 14:08 (UTC)
+📅 **Last Update:** 2026-03-19 18:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Can Constructor Be Overridden in Java? Clearing the Confusion](https://dev.to/realnamehidden1_61/can-constructor-be-overridden-in-java-clearing-the-confusion-3aib)** — **6** 👍 · 0 💬
-* **[Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)** — **2** 👍 · 0 💬
-* **[Java 26 Released 🚀: What’s New, What Matters & Why It’s Faster Than Ever](https://dev.to/pramod_kumar_0820/java-26-released-whats-new-what-matters-why-its-faster-than-ever-3kcd)** — **1** 👍 · 1 💬
+* **[Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)** — **3** 👍 · 0 💬
+* **[When HTTPAPI Fails: A Practical SOAP Integration Workaround on IBM i](https://dev.to/jay_krshn_1a9ac493fadf8/when-httpapi-fails-a-practical-soap-integration-workaround-on-ibm-i-58kb)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[When Projects Fail: Why Companies Should Treat Open Source as Infrastructure](https://dev.to/katcosgrove/when-projects-fail-why-companies-should-treat-open-source-as-infrastructure-32c0)** — **47** 👍 · 3 💬
-* **[Building a Production-Ready Multi-Agent Investment Committee with AgentField](https://dev.to/astrodevil/building-a-production-ready-multi-agent-investment-committee-with-agentfield-md7)** — **6** 👍 · 1 💬
-* **[Chaos Engineering Principles](https://dev.to/godofgeeks/chaos-engineering-principles-48o9)** — **3** 👍 · 1 💬
+* **[Building a Production-Ready Multi-Agent Investment Committee with AgentField](https://dev.to/astrodevil/building-a-production-ready-multi-agent-investment-committee-with-agentfield-md7)** — **12** 👍 · 1 💬
+* **[Creating Azure Resources via Azure CLI: Part 3](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-3-237e)** — **9** 👍 · 5 💬
+* **[AI-Generated Code Is Building Tech Debt You Can't See](https://dev.to/klement_gunndu/ai-generated-code-is-building-tech-debt-you-cant-see-3p2n)** — **9** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
 * **[Cilium & Hubble: How eBPF Is Replacing kube-proxy in Modern Kubernetes](https://dev.to/aman_kohli_6a14e8f0da3d37/cilium-hubble-how-ebpf-is-replacing-kube-proxy-in-modern-kubernetes-ha4)** — **2** 👍 · 0 💬
-* **[Why 82% of Network Automation Projects Fail (and What the 18% Do Differently)](https://dev.to/firstpasslab/why-82-of-network-automation-projects-fail-and-what-the-18-do-differently-31ol)** — **1** 👍 · 0 💬
-* **[Why I built determinism into a physics engine from day one (and what I learned)](https://dev.to/bearpacksalzy/why-i-built-determinism-into-a-physics-engine-from-day-one-and-what-i-learned-4n7a)** — **1** 👍 · 0 💬
+* **[Building a Rust HTTPS Proxy for AI Agents](https://dev.to/jonathanfishner/building-a-rust-https-proxy-for-ai-agents-2e3i)** — **1** 👍 · 0 💬
+* **[Post-Quantum IPsec Is Finally Becoming Boring — And That’s the Point](https://dev.to/doomhammerhell/post-quantum-ipsec-is-finally-becoming-boring-and-thats-the-point-2a2p)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-19T14:08:49.964811+00:00 -->
+<!-- Log-ID: 2026-03-19T18:44:12.843073+00:00 -->
