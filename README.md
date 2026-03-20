@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-20 18:35 (UTC)
+📅 **Last Update:** 2026-03-20 23:29 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)** — **7** 👍 · 0 💬
-* **[Sort an Array of 0s, 1s and 2s](https://dev.to/mohith_001/sort-an-array-of-0s-1s-and-2s-ii6)** — **3** 👍 · 0 💬
 * **[Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)** — **3** 👍 · 0 💬
+* **[Move All Negative Elements to End](https://dev.to/mohith_001/move-all-negative-elements-to-end-5616)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[🦊 GitLab CI: Automated Testing of Job Rules](https://dev.to/zenika/gitlab-ci-automated-testing-of-job-rules-1i03)** — **5** 👍 · 0 💬
-* **[I Compiled Everything You Need to Pass the CKA Into One PDF (80 Pages, Free to Preview)](https://dev.to/yash_sonawane25/i-compiled-everything-you-need-to-pass-the-cka-into-one-pdf-80-pages-free-to-preview-2lhg)** — **5** 👍 · 0 💬
-* **[I Built MCP Servers in Rust. Here Are the 5 Security Mistakes I See in Every Deployment.](https://dev.to/blacksmith/i-built-mcp-servers-in-rust-here-are-the-5-security-mistakes-i-see-in-every-deployment-2h)** — **2** 👍 · 2 💬
+* **[🦊 GitLab CI: Automated Testing of Job Rules](https://dev.to/zenika/gitlab-ci-automated-testing-of-job-rules-1i03)** — **6** 👍 · 0 💬
+* **[I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)** — **1** 👍 · 1 💬
+* **[PyTorch Said SIGILL. My Raspberry Pi Said No. Local TTS on ARM Explained.](https://dev.to/agent_paaru/pytorch-said-sigill-my-raspberry-pi-said-no-local-tts-on-arm-explained-4dcg)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
 * **[Post-Quantum IPsec Is Finally Becoming Boring — And That’s the Point](https://dev.to/doomhammerhell/post-quantum-ipsec-is-finally-becoming-boring-and-thats-the-point-2a2p)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-20T18:35:50.093729+00:00 -->
+<!-- Log-ID: 2026-03-20T23:29:27.360920+00:00 -->
