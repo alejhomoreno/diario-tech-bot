@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-20 14:02 (UTC)
+📅 **Last Update:** 2026-03-20 18:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)** — **7** 👍 · 0 💬
-* **[Move All Negative Elements to End](https://dev.to/mohith_001/move-all-negative-elements-to-end-5616)** — **3** 👍 · 0 💬
 * **[Sort an Array of 0s, 1s and 2s](https://dev.to/mohith_001/sort-an-array-of-0s-1s-and-2s-ii6)** — **3** 👍 · 0 💬
+* **[Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The Developers Who Thrive in AI Won’t Be the Best Coders](https://dev.to/jaideepparashar/the-developers-who-thrive-in-ai-wont-be-the-best-coders-505e)** — **8** 👍 · 2 💬
-* **[Amazon Lost 6.3 Million Orders Because Nobody Reviewed the Code. Here's What Governance Actually Looks Like.](https://dev.to/camb/amazon-lost-63-million-orders-because-nobody-reviewed-the-code-heres-what-governance-actually-64h)** — **6** 👍 · 0 💬
-* **[I built a native GUI for direct server-to-server transfers (FTP/SFTP) because rclone CLI wasn't visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)** — **2** 👍 · 2 💬
+* **[🦊 GitLab CI: Automated Testing of Job Rules](https://dev.to/zenika/gitlab-ci-automated-testing-of-job-rules-1i03)** — **5** 👍 · 0 💬
+* **[I Compiled Everything You Need to Pass the CKA Into One PDF (80 Pages, Free to Preview)](https://dev.to/yash_sonawane25/i-compiled-everything-you-need-to-pass-the-cka-into-one-pdf-80-pages-free-to-preview-2lhg)** — **5** 👍 · 0 💬
+* **[I Built MCP Servers in Rust. Here Are the 5 Security Mistakes I See in Every Deployment.](https://dev.to/blacksmith/i-built-mcp-servers-in-rust-here-are-the-5-security-mistakes-i-see-in-every-deployment-2h)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
+* **[HueMeet: A Trust‑First Social Platform for Founders and Builders](https://dev.to/radu985/huemeet-a-trust-first-social-platform-for-founders-and-builders-4iil)** — **6** 👍 · 0 💬
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
-* **[P2P For Web Devs, Part 1.1: dht-rpc](https://dev.to/erndob/p2p-for-web-devs-part-11-dht-rpc-38b2)** — **2** 👍 · 0 💬
 * **[Post-Quantum IPsec Is Finally Becoming Boring — And That’s the Point](https://dev.to/doomhammerhell/post-quantum-ipsec-is-finally-becoming-boring-and-thats-the-point-2a2p)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-20T14:02:07.801795+00:00 -->
+<!-- Log-ID: 2026-03-20T18:35:50.093729+00:00 -->
