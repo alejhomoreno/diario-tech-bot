@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-19 23:30 (UTC)
+📅 **Last Update:** 2026-03-20 14:02 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[postgreSQL - CRUD](https://dev.to/s_mathavi_2fa1e3ea8514f34/installation-for-postgresql-327i)** — **5** 👍 · 0 💬
-* **[Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)** — **3** 👍 · 0 💬
-* **[10 BPMN Best Practices Every Camunda Developer Should Know](https://dev.to/nirankari/10-bpmn-best-practices-every-camunda-developer-should-know-b24)** — **1** 👍 · 0 💬
+* **[PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)** — **7** 👍 · 0 💬
+* **[Move All Negative Elements to End](https://dev.to/mohith_001/move-all-negative-elements-to-end-5616)** — **3** 👍 · 0 💬
+* **[Sort an Array of 0s, 1s and 2s](https://dev.to/mohith_001/sort-an-array-of-0s-1s-and-2s-ii6)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Building a Production-Ready Multi-Agent Investment Committee with AgentField](https://dev.to/astrodevil/building-a-production-ready-multi-agent-investment-committee-with-agentfield-md7)** — **14** 👍 · 2 💬
-* **[Creating Azure Resources via Azure CLI: Part 3](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-3-237e)** — **9** 👍 · 5 💬
-* **[After 3 Years of Heavy Use, Amazon RDS Blue/Green Deployments Just Got Even Better (Sub-5-Second Switchovers!)](https://dev.to/devops_descent/after-3-years-of-heavy-use-amazon-rds-bluegreen-deployments-just-got-even-better-sub-5-second-1mo)** — **3** 👍 · 0 💬
+* **[The Developers Who Thrive in AI Won’t Be the Best Coders](https://dev.to/jaideepparashar/the-developers-who-thrive-in-ai-wont-be-the-best-coders-505e)** — **8** 👍 · 2 💬
+* **[Amazon Lost 6.3 Million Orders Because Nobody Reviewed the Code. Here's What Governance Actually Looks Like.](https://dev.to/camb/amazon-lost-63-million-orders-because-nobody-reviewed-the-code-heres-what-governance-actually-64h)** — **6** 👍 · 0 💬
+* **[I built a native GUI for direct server-to-server transfers (FTP/SFTP) because rclone CLI wasn't visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[Cilium & Hubble: How eBPF Is Replacing kube-proxy in Modern Kubernetes](https://dev.to/aman_kohli_6a14e8f0da3d37/cilium-hubble-how-ebpf-is-replacing-kube-proxy-in-modern-kubernetes-ha4)** — **2** 👍 · 0 💬
+* **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
+* **[P2P For Web Devs, Part 1.1: dht-rpc](https://dev.to/erndob/p2p-for-web-devs-part-11-dht-rpc-38b2)** — **2** 👍 · 0 💬
 * **[Post-Quantum IPsec Is Finally Becoming Boring — And That’s the Point](https://dev.to/doomhammerhell/post-quantum-ipsec-is-finally-becoming-boring-and-thats-the-point-2a2p)** — **1** 👍 · 0 💬
-* **[Why 82% of Network Automation Projects Fail (and What the 18% Do Differently)](https://dev.to/firstpasslab/why-82-of-network-automation-projects-fail-and-what-the-18-do-differently-31ol)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-19T23:30:39.225218+00:00 -->
+<!-- Log-ID: 2026-03-20T14:02:07.801795+00:00 -->
