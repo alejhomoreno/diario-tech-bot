@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-21 18:24 (UTC)
+📅 **Last Update:** 2026-03-21 23:25 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)** — **7** 👍 · 0 💬
+* **[Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)** — **6** 👍 · 0 💬
 * **[Deploying Finovara on Docker and fixing a critical bug.](https://dev.to/m4rc1nek/deploying-finovara-on-docker-and-fixing-a-critical-bug-2k5n)** — **6** 👍 · 0 💬
-* **[Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)** — **7** 👍 · 5 💬
-* **[Downgrading to macOS Catalina: A Sermon on Obsolescence](https://dev.to/brennan/downgrading-to-macos-catalina-a-sermon-on-obsolescence-3p2d)** — **5** 👍 · 1 💬
-* **[The End of the Demo Phase: Securing AI Infrastructure in the Enterprise](https://dev.to/alifunk/the-end-of-the-demo-phase-securing-ai-infrastructure-in-the-enterprise-2l0n)** — **4** 👍 · 1 💬
+* **[How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)** — **9** 👍 · 6 💬
+* **[Terraform State: The One File You Can't Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)** — **8** 👍 · 2 💬
+* **[Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
 * **[Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-21T18:24:43.958882+00:00 -->
+<!-- Log-ID: 2026-03-21T23:25:56.235180+00:00 -->
