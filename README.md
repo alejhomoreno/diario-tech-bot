@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-21 23:25 (UTC)
+📅 **Last Update:** 2026-03-22 13:46 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)** — **7** 👍 · 0 💬
 * **[Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)** — **6** 👍 · 0 💬
-* **[Deploying Finovara on Docker and fixing a critical bug.](https://dev.to/m4rc1nek/deploying-finovara-on-docker-and-fixing-a-critical-bug-2k5n)** — **6** 👍 · 0 💬
+* **[10 Years, 500,000 Developers: What a Decade in the Heart of China’s Tech Boom Taught Us](https://dev.to/zuidaima/10-years-500000-developers-what-a-decade-in-the-heart-of-chinas-tech-boom-taught-us-45gg)** — **5** 👍 · 0 💬
+* **[Decoding 13 Years of Developer Trends: A Statistical Deep Dive into 2,379 Verified Projects](https://dev.to/zuidaima/decoding-13-years-of-developer-trends-a-statistical-deep-dive-into-2379-verified-projects-43nj)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)** — **9** 👍 · 6 💬
-* **[Terraform State: The One File You Can't Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)** — **8** 👍 · 2 💬
-* **[Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)** — **2** 👍 · 0 💬
+* **[How Developers Can Build Global Influence Without Working at Big Tech](https://dev.to/jaideepparashar/how-developers-can-build-global-influence-without-working-at-big-tech-3ol3)** — **12** 👍 · 1 💬
+* **[How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)** — **6** 👍 · 0 💬
+* **[Using LLMs to do security analysis at the git diff level — what works, what doesn't, and why structured output matters](https://dev.to/diffsense/using-llms-to-do-security-analysis-at-the-git-diff-level-what-works-what-doesnt-and-why-2a14)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[El Arte de Diagramar en AWS: Guía Visual para Arquitectos e Ingenieros](https://dev.to/aws-builders/el-arte-de-diagramar-en-aws-guia-visual-para-arquitectos-e-ingenieros-443j)** — **23** 👍 · 0 💬
 * **[HueMeet: A Trust‑First Social Platform for Founders and Builders](https://dev.to/radu985/huemeet-a-trust-first-social-platform-for-founders-and-builders-4iil)** — **6** 👍 · 0 💬
-* **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
-* **[Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)** — **1** 👍 · 0 💬
+* **[Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs](https://dev.to/soytuber/tailscale-deep-dive-why-developers-are-ditching-traditional-vpns-413h)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-21T23:25:56.235180+00:00 -->
+<!-- Log-ID: 2026-03-22T13:46:25.913861+00:00 -->
