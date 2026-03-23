@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-22 23:29 (UTC)
+📅 **Last Update:** 2026-03-23 14:16 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)** — **6** 👍 · 0 💬
-* **[CodeRef - Smart Java Analyzer with ML Engine](https://dev.to/piwe/coderef-smart-java-analyzer-with-ml-engine-1lhd)** — **2** 👍 · 0 💬
+* **[Testei o HttpClient do Java 26 com HTTP/3 em um agregador de viagens. E isso é o que realmente importa](https://dev.to/dellamas/testei-o-httpclient-do-java-26-com-http3-em-um-agregador-de-viagens-e-isso-e-o-que-realmente-i60)** — **1** 👍 · 0 💬
 * **[JMeter vs Gatling: Comparison for Modern Performance Testing](https://dev.to/akdevcraft/jmeter-vs-gatling-comparison-for-modern-performance-testing-57a1)** — **1** 👍 · 0 💬
+* **[Camunda Parallel Gateway Explained (Fork, Join & Deadlocks)](https://dev.to/nirankari/camunda-parallel-gateway-explained-fork-join-deadlocks-2fid)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A Small Rollout Plan for Prompt and Model Changes](https://dev.to/optyxstack/a-small-rollout-plan-for-prompt-and-model-changes-2843)** — **5** 👍 · 0 💬
-* **[Your App is on Fire and You Don't Even Know 🔥 — Observability for Humans](https://dev.to/sanjaysundarmurthy/your-app-is-on-fire-and-you-dont-even-know-observability-for-humans-5bo0)** — **4** 👍 · 2 💬
-* **[Docs-as-Code: Why Documentation Should Live With Your Code](https://dev.to/arto-b/docs-as-code-why-documentation-should-live-with-your-code-598j)** — **2** 👍 · 1 💬
+* **[The Silent Shift: Developers Are Becoming AI Supervisors, Not Builders](https://dev.to/jaideepparashar/the-silent-shift-developers-are-becoming-ai-supervisors-not-builders-4m85)** — **6** 👍 · 1 💬
+* **[K8s YAML file Kind features](https://dev.to/bhu_kalki/k8s-yaml-file-kind-features-2hpp)** — **5** 👍 · 0 💬
+* **[🚀 DevSecOps Netflix Clone CI/CD Pipeline with Monitoring (Jenkins, Docker, Kubernetes, Prometheus, Grafana)](https://dev.to/abhishekjaiswal_4896/devsecops-netflix-clone-cicd-pipeline-with-monitoring-jenkins-docker-kubernetes-prometheus-1ci)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
 * **[I built a Go library to solve a problem Python solved in 2002](https://dev.to/sshprotocol/i-built-a-go-library-to-solve-a-problem-python-solved-in-2002-4n06)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-22T23:29:25.187217+00:00 -->
+<!-- Log-ID: 2026-03-23T14:16:06.899484+00:00 -->
