@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-23 14:16 (UTC)
+📅 **Last Update:** 2026-03-23 18:40 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[The Silent Shift: Developers Are Becoming AI Supervisors, Not Builders](https://dev.to/jaideepparashar/the-silent-shift-developers-are-becoming-ai-supervisors-not-builders-4m85)** — **6** 👍 · 1 💬
-* **[K8s YAML file Kind features](https://dev.to/bhu_kalki/k8s-yaml-file-kind-features-2hpp)** — **5** 👍 · 0 💬
 * **[🚀 DevSecOps Netflix Clone CI/CD Pipeline with Monitoring (Jenkins, Docker, Kubernetes, Prometheus, Grafana)](https://dev.to/abhishekjaiswal_4896/devsecops-netflix-clone-cicd-pipeline-with-monitoring-jenkins-docker-kubernetes-prometheus-1ci)** — **4** 👍 · 0 💬
+* **[Terraform isn't Dying. But Platform Teams Are Done With It.](https://dev.to/shilash_m_21b7a44c3e8d9ee/terraform-isnt-dying-but-platform-teams-are-done-with-it-1ani)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
 * **[I built a Go library to solve a problem Python solved in 2002](https://dev.to/sshprotocol/i-built-a-go-library-to-solve-a-problem-python-solved-in-2002-4n06)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-23T14:16:06.899484+00:00 -->
+<!-- Log-ID: 2026-03-23T18:40:48.892351+00:00 -->
