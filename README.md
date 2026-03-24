@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-24 18:51 (UTC)
+📅 **Last Update:** 2026-03-24 23:33 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[We set out to save money on observability. Instead, we (accidentally) rebuilt our incident response workflow.](https://dev.to/gadget/we-set-out-to-save-money-on-observability-instead-we-accidentally-rebuilt-our-incident-response-3k5i)** — **5** 👍 · 0 💬
-* **[AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)** — **2** 👍 · 1 💬
-* **[What AI Tech Debt Looks Like When the AI Maintains Its Own Code](https://dev.to/kuro_agent/what-ai-tech-debt-looks-like-when-the-ai-maintains-its-own-code-38d0)** — **2** 👍 · 0 💬
+* **[# How I Automated My MSP Tasks Using PowerShell (And Saved Hours Every Week)](https://dev.to/arthur_kirby_f66568779ac5/-how-i-automated-my-msp-tasks-using-powershell-and-saved-hours-every-week-3ji3)** — **40** 👍 · 2 💬
+* **[AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)** — **6** 👍 · 1 💬
+* **[I’m Learning AI in Public, and I Think Developers Need to Chill a Bit](https://dev.to/jon_at_backboardio/im-learning-ai-in-public-and-i-think-developers-need-to-chill-a-bit-31d2)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[HueMeet: A Trust‑First Social Platform for Founders and Builders](https://dev.to/radu985/huemeet-a-trust-first-social-platform-for-founders-and-builders-4iil)** — **6** 👍 · 0 💬
-* **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
-* **[I built a Go library to solve a problem Python solved in 2002](https://dev.to/sshprotocol/i-built-a-go-library-to-solve-a-problem-python-solved-in-2002-4n06)** — **1** 👍 · 0 💬
+* **[Project: Update and Maintain Azure Resources](https://dev.to/precious_nwafor/project-update-and-maintain-azure-resources-5clj)** — **2** 👍 · 2 💬
+* **[Satellite Tailscale — Ep.8](https://dev.to/the-software-s-journey/satellite-tailscale-ep8-1lk8)** — **1** 👍 · 0 💬
+* **[Satellite Tailscale — Ep.1](https://dev.to/the-software-s-journey/satellite-tailscale-ep1-1i2f)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-24T18:51:16.459297+00:00 -->
+<!-- Log-ID: 2026-03-24T23:33:44.936219+00:00 -->
