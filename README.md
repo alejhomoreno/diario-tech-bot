@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-23 23:33 (UTC)
+📅 **Last Update:** 2026-03-24 14:19 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Testei o HttpClient do Java 26 com HTTP/3 em um agregador de viagens. E isso é o que realmente importa](https://dev.to/dellamas/testei-o-httpclient-do-java-26-com-http3-em-um-agregador-de-viagens-e-isso-e-o-que-realmente-i60)** — **1** 👍 · 0 💬
-* **[JMeter vs Gatling: Comparison for Modern Performance Testing](https://dev.to/akdevcraft/jmeter-vs-gatling-comparison-for-modern-performance-testing-57a1)** — **1** 👍 · 0 💬
-* **[Camunda Parallel Gateway Explained (Fork, Join & Deadlocks)](https://dev.to/nirankari/camunda-parallel-gateway-explained-fork-join-deadlocks-2fid)** — **1** 👍 · 0 💬
+* **[What Happens If We Remove super() From a Child Constructor?](https://dev.to/realnamehidden1_61/what-happens-if-we-remove-super-from-a-child-constructor-44mn)** — **5** 👍 · 0 💬
+* **[Serverless applications on AWS using Lambda with Java 25, API Gateway and DynamoDB - Part 2 Initial performance measurements](https://dev.to/aws-heroes/serverless-applications-on-aws-using-lambda-with-java-25-api-gateway-and-dynamodb-part-2-initial-3fdj)** — **3** 👍 · 0 💬
+* **[Camunda Incidents vs Errors vs Failures (Explained for Developers)](https://dev.to/nirankari/camunda-incidents-vs-errors-vs-failures-explained-for-developers-4p60)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Silent Shift: Developers Are Becoming AI Supervisors, Not Builders](https://dev.to/jaideepparashar/the-silent-shift-developers-are-becoming-ai-supervisors-not-builders-4m85)** — **6** 👍 · 1 💬
-* **[🚀 DevSecOps Netflix Clone CI/CD Pipeline with Monitoring (Jenkins, Docker, Kubernetes, Prometheus, Grafana)](https://dev.to/abhishekjaiswal_4896/devsecops-netflix-clone-cicd-pipeline-with-monitoring-jenkins-docker-kubernetes-prometheus-1ci)** — **4** 👍 · 0 💬
-* **[Terraform isn't Dying. But Platform Teams Are Done With It.](https://dev.to/shilash_m_21b7a44c3e8d9ee/terraform-isnt-dying-but-platform-teams-are-done-with-it-1ani)** — **1** 👍 · 0 💬
+* **[What AI Tech Debt Looks Like When the AI Maintains Its Own Code](https://dev.to/kuro_agent/what-ai-tech-debt-looks-like-when-the-ai-maintains-its-own-code-38d0)** — **2** 👍 · 0 💬
+* **[AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)** — **1** 👍 · 0 💬
+* **[Kubernetes Troubleshooting Guide: Real-Time Scenarios & Solutions](https://dev.to/alpha-anand/kubernetes-troubleshooting-guide-real-time-scenarios-solutions-lok)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Mobile Apps Work Behind the Scenes](https://dev.to/faazwalker/mobile-apps-work-behind-the-scenes-3l36)** — **2** 👍 · 0 💬
 * **[I built a Go library to solve a problem Python solved in 2002](https://dev.to/sshprotocol/i-built-a-go-library-to-solve-a-problem-python-solved-in-2002-4n06)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-23T23:33:13.205331+00:00 -->
+<!-- Log-ID: 2026-03-24T14:19:38.575632+00:00 -->
