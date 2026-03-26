@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-26 14:25 (UTC)
+📅 **Last Update:** 2026-03-26 18:54 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Finovara - Building a Simple Chatbot in Spring Boot](https://dev.to/m4rc1nek/finovara-building-a-simple-chatbot-in-spring-boot-3a96)** — **5** 👍 · 0 💬
-* **[Ports & Adapters: Beyond the Theory - Isolating the Application with JPMS](https://dev.to/charleshornick/ports-adapters-beyond-the-theory-isolating-the-application-with-jpms-2gda)** — **2** 👍 · 0 💬
-* **[MapReduce for AI Agents: Scaling Multi-Agent Workloads on the JVM](https://dev.to/agentensemble/mapreduce-for-ai-agents-scaling-multi-agent-workloads-on-the-jvm-327i)** — **2** 👍 · 0 💬
+* **[Basic Programs in Python,Java & JavaScript: Smallest Number, Prime Number, and GCD](https://dev.to/harini_magesh_fa40041cf8d/basic-programs-in-pythonjava-javascript-smallest-number-prime-number-and-gcd-3mag)** — **4** 👍 · 0 💬
+* **[Closed-world assumption in Java](https://dev.to/pvsdev/closed-world-assumption-in-java-254a)** — **3** 👍 · 0 💬
+* **[Scaling ID Generation with Redis](https://dev.to/chkrishnatej/scaling-id-generation-with-redis-3h4e)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)** — **2** 👍 · 2 💬
+* **[My 11-Agent AI Swarm Was Secretly Hallucinating. My Own Monitoring Tool Caught It.](https://dev.to/fliptrigga13/my-11-agent-ai-swarm-was-secretly-hallucinating-my-own-monitoring-tool-caught-it-4hj4)** — **3** 👍 · 4 💬
+* **[Stop Paying for Cloud: Deploy a Highly Available Cluster on Your Own Hardware in Minutes](https://dev.to/axrisi/stop-paying-for-cloud-deploy-a-highly-available-cluster-on-your-own-hardware-in-minutes-14f0)** — **3** 👍 · 0 💬
 * **[The Trivy Supply Chain Attack: How a Compromised Security Scanner Stole Crypto Keys — And the CI/CD Hardening Playbook for DeFi Teams](https://dev.to/ohmygod/the-trivy-supply-chain-attack-how-a-compromised-security-scanner-stole-crypto-keys-and-the-cicd-3bp3)** — **1** 👍 · 0 💬
-* **[Docker for Beginners: Everything You Need to Know](https://dev.to/mukhtar_abdussalam_0de093/docker-for-beginners-everything-you-need-to-know-i4m)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[I built a simple IP checker tool](https://dev.to/examineip/i-built-a-simple-ip-checker-tool-5046)** — **1** 👍 · 0 💬
 * **[DNS](https://dev.to/abinaya_dhanraj/dns-1c94)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-26T14:25:34.678526+00:00 -->
+<!-- Log-ID: 2026-03-26T18:54:40.064807+00:00 -->
