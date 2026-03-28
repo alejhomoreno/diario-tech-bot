@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-28 18:28 (UTC)
+📅 **Last Update:** 2026-03-28 23:32 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
-* **[Beyond Defaults: The OpenClaw Power-User's Configuration Guide](https://dev.to/xadenai/beyond-defaults-the-openclaw-power-users-configuration-guide-15bd)** — **1** 👍 · 1 💬
-* **[I Run 6 AI Agents as My Dev Team — Here's the Architecture That Actually Works](https://dev.to/joongho_kwon_2754f08bdadd/i-run-6-ai-agents-as-my-dev-team-heres-the-architecture-that-actually-works-3bgo)** — **1** 👍 · 0 💬
+* **[Splitting One GPU Across Multiple Kubernetes Pods — Without MIG, Without Enterprise Licenses](https://dev.to/bogdandoncea/splitting-one-gpu-across-multiple-kubernetes-pods-without-mig-without-enterprise-licenses-2f02)** — **4** 👍 · 2 💬
+* **[I Run 6 AI Agents as My Dev Team — Here's the Architecture That Actually Works](https://dev.to/joongho_kwon_2754f08bdadd/i-run-6-ai-agents-as-my-dev-team-heres-the-architecture-that-actually-works-3bgo)** — **1** 👍 · 1 💬
 * **[Pulumi Has a Free API: Infrastructure as Code with Real Programming Languages](https://dev.to/0012303/pulumi-has-a-free-api-infrastructure-as-code-with-real-programming-languages-4neh)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[Cisco ACI vs VMware NSX in 2026: Architecture, Microsegmentation, and Automation Compared](https://dev.to/firstpasslab/cisco-aci-vs-vmware-nsx-in-2026-architecture-microsegmentation-and-automation-compared-28ab)** — **2** 👍 · 0 💬
 * **[Stop Using the APIC GUI: Automate Cisco ACI with Terraform and Nexus-as-Code](https://dev.to/firstpasslab/stop-using-the-apic-gui-automate-cisco-aci-with-terraform-and-nexus-as-code-2ip3)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-28T18:28:41.948264+00:00 -->
+<!-- Log-ID: 2026-03-28T23:32:26.906229+00:00 -->
