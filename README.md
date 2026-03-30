@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-30 18:49 (UTC)
+📅 **Last Update:** 2026-03-30 23:35 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[From Childhood Passion to Innovation: The Birth of a Sports Card Analytics Platform](https://dev.to/james_jhon/from-childhood-passion-to-innovation-the-birth-of-a-sports-card-analytics-platform-8l9)** — **35** 👍 · 4 💬
 * **[Mastering Zero-Downtime Deployments with Terraform](https://dev.to/stephanie_makori_845bb2c0/mastering-zero-downtime-deployments-with-terraform-480m)** — **4** 👍 · 0 💬
-* **[Running Grafana Loki in Production: What We Actually Learned](https://dev.to/sriramrajendran/running-grafana-loki-in-production-what-we-actually-learned-d9g)** — **1** 👍 · 1 💬
-* **[The True Cost of a Failed Release (It's Not Just the Rollback)](https://dev.to/unitix_flow/the-true-cost-of-a-failed-release-its-not-just-the-rollback-4bja)** — **1** 👍 · 0 💬
+* **[Beyond InferenceService Readiness: 5 GitOps Failure Modes That Break KServe Deployments](https://dev.to/sodiqjimoh/beyond-inferenceservice-readiness-5-gitops-failure-modes-that-break-kserve-deployments-14fb)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[From BIG-IP to Kubernetes: What F5's CNCF Gold Membership Signals for Network Engineers](https://dev.to/firstpasslab/from-big-ip-to-kubernetes-what-f5s-cncf-gold-membership-signals-for-network-engineers-2599)** — **1** 👍 · 0 💬
 * **[How is DNS resolver happening?](https://dev.to/jeyaprasadr/how-is-dns-resolver-happening-2ob)** — **1** 👍 · 0 💬
-* **[Hello Dev.to! Building a Privacy-First Random Chat Platform in 2026 (The CHATZYO Build Log)](https://dev.to/gowrishankar_rangasamy_f9/hello-devto-building-a-privacy-first-random-chat-platform-in-2026-the-chatzyo-build-log-dbh)** — **0** 👍 · 1 💬
+* **[Kubernetes Is Now the OS for AI — Here's What That Means for Your Network Fabric](https://dev.to/firstpasslab/kubernetes-is-now-the-os-for-ai-heres-what-that-means-for-your-network-fabric-27mm)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-30T18:49:11.547404+00:00 -->
+<!-- Log-ID: 2026-03-30T23:35:39.896484+00:00 -->
