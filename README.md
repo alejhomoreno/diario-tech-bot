@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-31 14:26 (UTC)
+📅 **Last Update:** 2026-03-31 18:50 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Dockerizing a Java 26 Project with Docker Init](https://dev.to/aerabi/dockerizing-a-java-26-project-with-docker-init-2agp)** — **5** 👍 · 0 💬
-* **[Compile-Time Exception (Checked Exception)and Runtime Exception (Unchecked Exception)](https://dev.to/hayesvincent14/compile-time-exception-checked-exceptionand-runtime-exception-unchecked-exception-3h84)** — **2** 👍 · 0 💬
-* **[SJF4J vs Jayway JsonPath: Up to 7x Faster in Java Benchmarks](https://dev.to/hannyu/sjf4j-vs-jayway-jsonpath-up-to-7x-faster-in-java-benchmarks-2aof)** — **2** 👍 · 0 💬
+* **[Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 3 Introducing Lambda SnapStart](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-3-4ep2)** — **3** 👍 · 0 💬
+* **[Basic Recursion Programs](https://dev.to/vidya_cdd37fca763a53a10e2/basic-recursion-programs-3dhi)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)** — **31** 👍 · 0 💬
 * **[We Stopped Trusting Uptime Metrics. Here's What We Monitor Instead.](https://dev.to/sitewatch/we-stopped-trusting-uptime-metrics-heres-what-we-monitor-instead-1ob7)** — **10** 👍 · 0 💬
-* **[Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)** — **3** 👍 · 0 💬
 * **[I analyzed 250,000 attacks on my Linux servers. Here's what I found.](https://dev.to/defensia/i-analyzed-250000-attacks-on-my-linux-servers-heres-what-i-found-20o8)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)** — **2** 👍 · 0 💬
+* **[building an atomic bomberman clone, part 2: the server is the boss](https://dev.to/tomerl1/building-an-atomic-bomberman-clone-part-2-the-server-is-the-boss-1lhb)** — **2** 👍 · 0 💬
 * **[End-to-end TLS for public-domain tunnels, without trusting the relay](https://dev.to/gosunuts/end-to-end-tls-for-public-domain-tunnels-without-trusting-the-relay-4452)** — **1** 👍 · 0 💬
-* **[From BIG-IP to Kubernetes: What F5's CNCF Gold Membership Signals for Network Engineers](https://dev.to/firstpasslab/from-big-ip-to-kubernetes-what-f5s-cncf-gold-membership-signals-for-network-engineers-2599)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-31T14:26:58.667631+00:00 -->
+<!-- Log-ID: 2026-03-31T18:50:15.497759+00:00 -->
