@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-03-31 23:34 (UTC)
+📅 **Last Update:** 2026-04-01 14:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Dockerizing a Java 26 Project with Docker Init](https://dev.to/aerabi/dockerizing-a-java-26-project-with-docker-init-2agp)** — **5** 👍 · 0 💬
+* **[Understanding Object-Oriented Programming (OOP) Concepts](https://dev.to/harini_magesh_fa40041cf8d/understanding-object-oriented-programming-oop-concepts-483l)** — **4** 👍 · 0 💬
 * **[Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 3 Introducing Lambda SnapStart](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-3-4ep2)** — **3** 👍 · 0 💬
-* **[Basic Recursion Programs](https://dev.to/vidya_cdd37fca763a53a10e2/basic-recursion-programs-3dhi)** — **3** 👍 · 0 💬
+* **[Understanding Recursion Through Simple and Clear Examples](https://dev.to/aj_arul/understanding-recursion-through-simple-and-clear-examples-3pkb)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
-* **[Keycloak Spring Boot OAuth2 Integration: Complete Developer Guide](https://dev.to/iamdevbox/keycloak-spring-boot-oauth2-integration-complete-developer-guide-3iop)** — **3** 👍 · 0 💬
-* **[3 Pitfalls of Multi-Portal Authentication with Keycloak [Part 5]](https://dev.to/kochan/3-pitfalls-of-multi-portal-authentication-with-keycloak-part-5-4dcj)** — **3** 👍 · 0 💬
-* **[IAM Development Lab in Keycloak](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7)** — **2** 👍 · 0 💬
+* **[Keycloak and Okta Integration: Complete Developer Guide](https://dev.to/italoqueiroz/keycloak-and-okta-integration-complete-developer-guide-eb1)** — **6** 👍 · 2 💬
+* **[Расширяем Keycloak: Пишем Java-плагин для загрузки пользователей из внешнего API](https://dev.to/_2974322d72d5f53d8c2c/rasshiriaiem-keycloak-pishiem-java-plaghin-dlia-zaghruzki-polzovatieliei-iz-vnieshniegho-api-4gb0)** — **6** 👍 · 1 💬
+* **[RKE2'de Liman MYS & Keycloak Kurulumu: Longhorn ve Docker Hub Hata Çözümleri Dahil Tam Rehber](https://dev.to/aciklab/rke2de-liman-mys-keycloak-kurulumu-longhorn-ve-docker-hub-hata-cozumleri-dahil-tam-rehber-4nfe)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)** — **31** 👍 · 0 💬
-* **[We Stopped Trusting Uptime Metrics. Here's What We Monitor Instead.](https://dev.to/sitewatch/we-stopped-trusting-uptime-metrics-heres-what-we-monitor-instead-1ob7)** — **10** 👍 · 0 💬
-* **[I analyzed 250,000 attacks on my Linux servers. Here's what I found.](https://dev.to/defensia/i-analyzed-250000-attacks-on-my-linux-servers-heres-what-i-found-20o8)** — **1** 👍 · 0 💬
+* **[Terraform Variables and Outputs: Making Your Infrastructure Flexible](https://dev.to/aws-builders/terraform-variables-and-outputs-making-your-infrastructure-flexible-3ebc)** — **8** 👍 · 0 💬
+* **[Part 4: EKS Multi-Cluster Setup](https://dev.to/matthewdipo/part-4-eks-multi-cluster-setup-2i3m)** — **2** 👍 · 0 💬
+* **[No more Gitlab: a production-ready Gitea stack with Traefik, Act Runner and auto-deploy via SSH](https://dev.to/genodev/no-more-gitlab-a-production-ready-gitea-stack-with-traefik-act-runner-and-auto-deploy-via-ssh-1g8e)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)** — **2** 👍 · 0 💬
-* **[building an atomic bomberman clone, part 2: the server is the boss](https://dev.to/tomerl1/building-an-atomic-bomberman-clone-part-2-the-server-is-the-boss-1lhb)** — **2** 👍 · 0 💬
 * **[What Broke When We Pushed WebSockets From 100k to 1M Users](https://dev.to/speed_engineer/what-broke-when-we-pushed-websockets-from-100k-to-1m-users-2i24)** — **1** 👍 · 2 💬
+* **[HTTP for Dummies](https://dev.to/swzxnne/http-for-dummies-388g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-03-31T23:34:53.018471+00:00 -->
+<!-- Log-ID: 2026-04-01T14:42:22.321075+00:00 -->
