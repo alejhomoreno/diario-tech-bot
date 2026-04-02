@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-02 14:22 (UTC)
+📅 **Last Update:** 2026-04-02 18:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Primitive Data Types in Java (With Examples)](https://dev.to/harini_magesh_fa40041cf8d/primitive-data-types-in-java-with-examples-2bgb)** — **6** 👍 · 0 💬
-* **[Exception Handling](https://dev.to/abishek_44a09d1e1af19b4ca/exception-handling-i78)** — **4** 👍 · 0 💬
-* **[Static and Non-Static](https://dev.to/s_sarumathi_a1de306480d33/static-and-non-static-2hgn)** — **1** 👍 · 0 💬
+* **[Pattern-based Programs](https://dev.to/sasirekaarumugam/pattern-based-programs-574g)** — **2** 👍 · 0 💬
+* **[Understanding Static and Non-Static Variables in Java](https://dev.to/harini_magesh_fa40041cf8d/understanding-static-and-non-static-variables-in-java-2nal)** — **2** 👍 · 0 💬
+* **[Static and Non-Static Variables in Java](https://dev.to/sasirekaarumugam/static-and-non-static-variables-in-java-37d4)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Developers Who Don’t Adapt to AI Won’t Disappear, They’ll Be Ignored](https://dev.to/jaideepparashar/developers-who-dont-adapt-to-ai-wont-disappear-theyll-be-ignored-15p0)** — **5** 👍 · 1 💬
-* **[This Is How I Automated My Dev Workflow with MCPs - GitHub, Notion & Jira (And Saved Hours)](https://dev.to/pavanbelagatti/this-is-how-i-automated-my-dev-workflow-with-mcps-github-notion-jira-and-saved-hours-5ag2)** — **5** 👍 · 0 💬
-* **[From 10x Developer to 10x Multiplier: Surviving the Lead/Principal Glow-Up 🚀](https://dev.to/sanjaysundarmurthy/from-10x-developer-to-10x-multiplier-surviving-the-leadprincipal-glow-up-3580)** — **5** 👍 · 0 💬
+* **[This Is How I Automated My Dev Workflow with MCPs - GitHub, Notion & Jira (And Saved Hours)](https://dev.to/pavanbelagatti/this-is-how-i-automated-my-dev-workflow-with-mcps-github-notion-jira-and-saved-hours-5ag2)** — **6** 👍 · 0 💬
+* **[Why Recent Global Events Prove Your Backups Must Live in Multiple Regions & AZs (Not Just One)](https://dev.to/devops_descent/why-recent-global-events-prove-your-backups-must-live-in-multiple-regions-azs-not-just-one-208d)** — **5** 👍 · 2 💬
+* **[Mastering the Cloud: A Hands-On Journey Through Azure Resource Management](https://dev.to/olaraph/mastering-the-cloud-a-hands-on-journey-through-azure-resource-management-39kb)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Setting Up a Reverse Proxy with Nginx on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/setting-up-a-reverse-proxy-with-nginx-on-ubuntu-23gm)** — **0** 👍 · 0 💬
 * **[How DNS Actually Works — The Internet's Invisible Backbone](https://dev.to/tyson_cung/how-dns-actually-works-the-internets-invisible-backbone-1d91)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-02T14:22:09.813892+00:00 -->
+<!-- Log-ID: 2026-04-02T18:44:01.547036+00:00 -->
