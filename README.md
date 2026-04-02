@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-01 23:36 (UTC)
+📅 **Last Update:** 2026-04-02 14:22 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Datatypes in Java](https://dev.to/sasirekaarumugam/datatypes-in-java-5m2)** — **3** 👍 · 0 💬
-* **[Primitive Data Types in Java](https://dev.to/silambarasan_a_bd1d4d0a29/primitive-data-types-in-java-db3)** — **3** 👍 · 0 💬
-* **[Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 3 Introducing Lambda SnapStart](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-3-4ep2)** — **3** 👍 · 0 💬
+* **[Primitive Data Types in Java (With Examples)](https://dev.to/harini_magesh_fa40041cf8d/primitive-data-types-in-java-with-examples-2bgb)** — **6** 👍 · 0 💬
+* **[Exception Handling](https://dev.to/abishek_44a09d1e1af19b4ca/exception-handling-i78)** — **4** 👍 · 0 💬
+* **[Static and Non-Static](https://dev.to/s_sarumathi_a1de306480d33/static-and-non-static-2hgn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Claude Code Hidden Features You Probably Missed](https://dev.to/devopsdaily/claude-code-hidden-features-you-probably-missed-3ej0)** — **10** 👍 · 0 💬
-* **[Terraform Variables and Outputs: Making Your Infrastructure Flexible](https://dev.to/aws-builders/terraform-variables-and-outputs-making-your-infrastructure-flexible-3ebc)** — **9** 👍 · 0 💬
-* **[No more Gitlab: a production-ready Gitea stack with Traefik, Act Runner and auto-deploy via SSH](https://dev.to/genodev/no-more-gitlab-a-production-ready-gitea-stack-with-traefik-act-runner-and-auto-deploy-via-ssh-1g8e)** — **1** 👍 · 0 💬
+* **[Developers Who Don’t Adapt to AI Won’t Disappear, They’ll Be Ignored](https://dev.to/jaideepparashar/developers-who-dont-adapt-to-ai-wont-disappear-theyll-be-ignored-15p0)** — **5** 👍 · 1 💬
+* **[This Is How I Automated My Dev Workflow with MCPs - GitHub, Notion & Jira (And Saved Hours)](https://dev.to/pavanbelagatti/this-is-how-i-automated-my-dev-workflow-with-mcps-github-notion-jira-and-saved-hours-5ag2)** — **5** 👍 · 0 💬
+* **[From 10x Developer to 10x Multiplier: Surviving the Lead/Principal Glow-Up 🚀](https://dev.to/sanjaysundarmurthy/from-10x-developer-to-10x-multiplier-surviving-the-leadprincipal-glow-up-3580)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)** — **2** 👍 · 0 💬
-* **[What Broke When We Pushed WebSockets From 100k to 1M Users](https://dev.to/speed_engineer/what-broke-when-we-pushed-websockets-from-100k-to-1m-users-2i24)** — **1** 👍 · 2 💬
-* **[HTTP for Dummies](https://dev.to/swzxnne/http-for-dummies-388g)** — **1** 👍 · 0 💬
+* **[The Hidden Job Market: How to Find Jobs That Are Never Posted Online](https://dev.to/careercheck/the-hidden-job-market-how-to-find-jobs-that-are-never-posted-online-37im)** — **0** 👍 · 0 💬
+* **[Setting Up a Reverse Proxy with Nginx on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/setting-up-a-reverse-proxy-with-nginx-on-ubuntu-23gm)** — **0** 👍 · 0 💬
+* **[How DNS Actually Works — The Internet's Invisible Backbone](https://dev.to/tyson_cung/how-dns-actually-works-the-internets-invisible-backbone-1d91)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-01T23:36:44.846936+00:00 -->
+<!-- Log-ID: 2026-04-02T14:22:09.813892+00:00 -->
