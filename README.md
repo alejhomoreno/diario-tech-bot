@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-02 18:44 (UTC)
+📅 **Last Update:** 2026-04-02 23:35 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Resolve.ai Alternative: Open Source AI for Incident Investigation](https://dev.to/siddharth_singh_409bd5267/resolveai-alternative-open-source-ai-for-incident-investigation-347k)** — **10** 👍 · 1 💬
 * **[This Is How I Automated My Dev Workflow with MCPs - GitHub, Notion & Jira (And Saved Hours)](https://dev.to/pavanbelagatti/this-is-how-i-automated-my-dev-workflow-with-mcps-github-notion-jira-and-saved-hours-5ag2)** — **6** 👍 · 0 💬
 * **[Why Recent Global Events Prove Your Backups Must Live in Multiple Regions & AZs (Not Just One)](https://dev.to/devops_descent/why-recent-global-events-prove-your-backups-must-live-in-multiple-regions-azs-not-just-one-208d)** — **5** 👍 · 2 💬
-* **[Mastering the Cloud: A Hands-On Journey Through Azure Resource Management](https://dev.to/olaraph/mastering-the-cloud-a-hands-on-journey-through-azure-resource-management-39kb)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[The Hidden Job Market: How to Find Jobs That Are Never Posted Online](https://dev.to/careercheck/the-hidden-job-market-how-to-find-jobs-that-are-never-posted-online-37im)** — **0** 👍 · 0 💬
-* **[Setting Up a Reverse Proxy with Nginx on Ubuntu](https://dev.to/saikat_goswami_fd81ed5950/setting-up-a-reverse-proxy-with-nginx-on-ubuntu-23gm)** — **0** 👍 · 0 💬
-* **[How DNS Actually Works — The Internet's Invisible Backbone](https://dev.to/tyson_cung/how-dns-actually-works-the-internets-invisible-backbone-1d91)** — **0** 👍 · 0 💬
+* **[Why Your Website Works in Chrome but Not Safari: A DNS Caching Deep Dive](https://dev.to/ciarn_doyle_32d63ba6797d/why-your-website-works-in-chrome-but-not-safari-a-dns-caching-deep-dive-1f4b)** — **0** 👍 · 0 💬
+* **[386 Global Outages in One Week: What ThousandEyes Q1 2026 Data Reveals About Modern Network Fragility](https://dev.to/firstpasslab/386-global-outages-in-one-week-what-thousandeyes-q1-2026-data-reveals-about-modern-network-526c)** — **0** 👍 · 0 💬
+* **[Setting Up Pi-hole? Here's How to Pick Your Upstream DNS](https://dev.to/ciarn_doyle_32d63ba6797d/setting-up-pi-hole-heres-how-to-pick-your-upstream-dns-5809)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-02T18:44:01.547036+00:00 -->
+<!-- Log-ID: 2026-04-02T23:35:40.126685+00:00 -->
