@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-02 23:35 (UTC)
+📅 **Last Update:** 2026-04-03 14:02 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Pattern-based Programs](https://dev.to/sasirekaarumugam/pattern-based-programs-574g)** — **2** 👍 · 0 💬
-* **[Understanding Static and Non-Static Variables in Java](https://dev.to/harini_magesh_fa40041cf8d/understanding-static-and-non-static-variables-in-java-2nal)** — **2** 👍 · 0 💬
-* **[Static and Non-Static Variables in Java](https://dev.to/sasirekaarumugam/static-and-non-static-variables-in-java-37d4)** — **2** 👍 · 0 💬
+* **[Java 101: Understanding Covariant Return Type Like a Pro](https://dev.to/realnamehidden1_61/java-101-understanding-covariant-return-type-like-a-pro-4fnl)** — **5** 👍 · 0 💬
+* **[Twisted Reverse Number Programs](https://dev.to/vidya_cdd37fca763a53a10e2/twisted-reverse-number-programs-1nlh)** — **3** 👍 · 0 💬
+* **[Spring AI with Amazon Bedrock - Part 6 Adding AgentCore Observability](https://dev.to/aws-heroes/spring-ai-with-amazon-bedrock-part-6-adding-agentcore-observability-2njj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Resolve.ai Alternative: Open Source AI for Incident Investigation](https://dev.to/siddharth_singh_409bd5267/resolveai-alternative-open-source-ai-for-incident-investigation-347k)** — **10** 👍 · 1 💬
-* **[This Is How I Automated My Dev Workflow with MCPs - GitHub, Notion & Jira (And Saved Hours)](https://dev.to/pavanbelagatti/this-is-how-i-automated-my-dev-workflow-with-mcps-github-notion-jira-and-saved-hours-5ag2)** — **6** 👍 · 0 💬
-* **[Why Recent Global Events Prove Your Backups Must Live in Multiple Regions & AZs (Not Just One)](https://dev.to/devops_descent/why-recent-global-events-prove-your-backups-must-live-in-multiple-regions-azs-not-just-one-208d)** — **5** 👍 · 2 💬
+* **[Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn’t Enough)](https://dev.to/hadil/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-470o)** — **23** 👍 · 9 💬
+* **[🚀 Kubernetes for Beginners: Deploying an Nginx–Node–Redis Application](https://dev.to/aws-builders/kubernetes-for-beginners-deploying-an-nginx-node-redis-application-1o7h)** — **11** 👍 · 1 💬
+* **[Why I built a self-hosted centralized backup manager](https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Top NetOps Software Development Companies for Scalable Network Operations](https://dev.to/rajesh_patel_68e5dd6c9a4f/top-netops-software-development-companies-for-scalable-network-operations-59f3)** — **5** 👍 · 0 💬
+* **[Linux DNS Resolution Is Usually More Layered Than People Think](https://dev.to/aleksei_aleinikov/linux-dns-resolution-is-usually-more-layered-than-people-think-2b10)** — **0** 👍 · 0 💬
 * **[Why Your Website Works in Chrome but Not Safari: A DNS Caching Deep Dive](https://dev.to/ciarn_doyle_32d63ba6797d/why-your-website-works-in-chrome-but-not-safari-a-dns-caching-deep-dive-1f4b)** — **0** 👍 · 0 💬
-* **[386 Global Outages in One Week: What ThousandEyes Q1 2026 Data Reveals About Modern Network Fragility](https://dev.to/firstpasslab/386-global-outages-in-one-week-what-thousandeyes-q1-2026-data-reveals-about-modern-network-526c)** — **0** 👍 · 0 💬
-* **[Setting Up Pi-hole? Here's How to Pick Your Upstream DNS](https://dev.to/ciarn_doyle_32d63ba6797d/setting-up-pi-hole-heres-how-to-pick-your-upstream-dns-5809)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-02T23:35:40.126685+00:00 -->
+<!-- Log-ID: 2026-04-03T14:02:37.500542+00:00 -->
