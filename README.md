@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-03 23:34 (UTC)
+📅 **Last Update:** 2026-04-04 13:54 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Twisted Reverse Number Programs](https://dev.to/vidya_cdd37fca763a53a10e2/twisted-reverse-number-programs-1nlh)** — **3** 👍 · 0 💬
-* **[Neon,Strong,Perfect Number coding](https://dev.to/abishek_44a09d1e1af19b4ca/neonstrongperfect-number-coding-2k5j)** — **2** 👍 · 0 💬
-* **[Distributed Locks Are a Code Smell](https://dev.to/practiceoverflow/distributed-locks-are-a-code-smell-mnd)** — **1** 👍 · 1 💬
+* **[Mastering the "super" Keyword in Java: A Beginner’s Guide](https://dev.to/realnamehidden1_61/mastering-the-super-keyword-in-java-a-beginners-guide-47pn)** — **5** 👍 · 0 💬
+* **[Unlocking the Logic Behind Neon, Strong & Perfect Numbers](https://dev.to/harini_magesh_fa40041cf8d/unlocking-the-logic-behind-neon-strong-perfect-numbers-3lla)** — **4** 👍 · 0 💬
+* **[Common Runtime Exceptions in Java (With Examples & Handling)](https://dev.to/jayashree_a84b6eff7bc414e/common-runtime-exceptions-in-java-with-examples-handling-250l)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How 1 Missing Line of Code Cost Anthropic $340 Billion](https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23)** — **31** 👍 · 0 💬
-* **[🚀 Kubernetes for Beginners: Deploying an Nginx–Node–Redis Application](https://dev.to/aws-builders/kubernetes-for-beginners-deploying-an-nginx-node-redis-application-1o7h)** — **15** 👍 · 2 💬
-* **[Why I built a self-hosted centralized backup manager](https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2)** — **5** 👍 · 1 💬
+* **[I Audited 50 Websites. Here's What Was Silently Broken](https://dev.to/nickycdk/i-audited-50-websites-heres-what-was-silently-broken-3mk7)** — **5** 👍 · 0 💬
+* **[Terraform Is Not a Platform — And That's Okay](https://dev.to/m_yemi_64fd836a19f8dbadb/terraform-is-not-a-platform-and-thats-okay-4inf)** — **2** 👍 · 0 💬
+* **[I replaced lsof, ss, and netstat with a single Rust binary](https://dev.to/mapika/i-replaced-lsof-ss-and-netstat-with-a-single-rust-binary-36i)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Top NetOps Software Development Companies for Scalable Network Operations](https://dev.to/rajesh_patel_68e5dd6c9a4f/top-netops-software-development-companies-for-scalable-network-operations-59f3)** — **5** 👍 · 0 💬
-* **[Linux DNS Resolution Is Usually More Layered Than People Think](https://dev.to/aleksei_aleinikov/linux-dns-resolution-is-usually-more-layered-than-people-think-2b10)** — **0** 👍 · 0 💬
-* **[Why Your Website Works in Chrome but Not Safari: A DNS Caching Deep Dive](https://dev.to/ciarn_doyle_32d63ba6797d/why-your-website-works-in-chrome-but-not-safari-a-dns-caching-deep-dive-1f4b)** — **0** 👍 · 0 💬
+* **[SRv6 uSID Is Replacing MPLS at Scale — Here's How to Migrate with Working IOS XR Configs](https://dev.to/firstpasslab/srv6-usid-is-replacing-mpls-at-scale-heres-how-to-migrate-with-working-ios-xr-configs-1369)** — **1** 👍 · 0 💬
+* **[Access Your Home Server from Anywhere — Tailscale, Oracle VPS, and frp](https://dev.to/avgskully/access-your-home-server-from-anywhere-tailscale-oracle-vps-and-frp-4887)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-03T23:34:46.603499+00:00 -->
+<!-- Log-ID: 2026-04-04T13:54:37.597622+00:00 -->
