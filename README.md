@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-04 23:31 (UTC)
+📅 **Last Update:** 2026-04-05 13:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Mastering the "super" Keyword in Java: A Beginner’s Guide](https://dev.to/realnamehidden1_61/mastering-the-super-keyword-in-java-a-beginners-guide-47pn)** — **5** 👍 · 0 💬
-* **[Common Runtime Exceptions in Java (With Examples & Handling)](https://dev.to/jayashree_a84b6eff7bc414e/common-runtime-exceptions-in-java-with-examples-handling-250l)** — **3** 👍 · 0 💬
-* **[Sum of Digits, Reverse Number & Digit Printing](https://dev.to/ponvel_m_9b698962c39e9474/sum-of-digits-reverse-number-digit-printing-fh9)** — **3** 👍 · 0 💬
+* **[File Handling in Java – Complete Guide](https://dev.to/jayashree_a84b6eff7bc414e/file-handling-in-java-complete-guide-121d)** — **1** 👍 · 0 💬
+* **[Java 26: o que são Lazy Constants e por que elas aposentam o double-checked locking (JEP 526)](https://dev.to/dellamas/java-26-o-que-sao-lazy-constants-e-por-que-elas-aposentam-o-double-checked-locking-jep-526-4b8l)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Critical Cybersecurity and DevOps News Updates | 2026.04.04 | April 4th, 2026](https://dev.to/mrcomputerscience/breaking-cybersecurity-news-for-20260404-pithy-cyborg-threats-breaches-intel-bok)** — **8** 👍 · 0 💬
-* **[I Audited 50 Websites. Here's What Was Silently Broken](https://dev.to/nickycdk/i-audited-50-websites-heres-what-was-silently-broken-3mk7)** — **6** 👍 · 0 💬
-* **[Terraform Is Not a Platform — And That's Okay](https://dev.to/m_yemi_64fd836a19f8dbadb/terraform-is-not-a-platform-and-thats-okay-4inf)** — **2** 👍 · 0 💬
+* **[The End of “Hard Work” in Coding, And Why That’s a Problem](https://dev.to/jaideepparashar/the-end-of-hard-work-in-coding-and-why-thats-a-problem-1m48)** — **5** 👍 · 1 💬
+* **[Addressing Upstream Header Overflows in Elementor Storefronts](https://dev.to/risky_egbuna_67090a53aaaa/addressing-upstream-header-overflows-in-elementor-storefronts-49h4)** — **0** 👍 · 0 💬
+* **[Security for DevOps (secrets/permissions): vì sao least privilege xảy ra (và cách phòng tránh) (cách debug nhanh)](https://dev.to/alexcarteruk/security-for-devops-secretspermissions-vi-sao-least-privilege-xay-ra-va-cach-phong-tranh-4jif)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Top NetOps Software Development Companies for Scalable Network Operations](https://dev.to/rajesh_patel_68e5dd6c9a4f/top-netops-software-development-companies-for-scalable-network-operations-59f3)** — **5** 👍 · 0 💬
+* **[Why your React Native app can't connect to your local .NET API (And how to fix it)](https://dev.to/muhammad_saadbinnadeem_/why-your-react-native-app-cant-connect-to-your-local-net-api-and-how-to-fix-it-1hej)** — **1** 👍 · 0 💬
 * **[SRv6 uSID Is Replacing MPLS at Scale — Here's How to Migrate with Working IOS XR Configs](https://dev.to/firstpasslab/srv6-usid-is-replacing-mpls-at-scale-heres-how-to-migrate-with-working-ios-xr-configs-1369)** — **1** 👍 · 0 💬
-* **[Access Your Home Server from Anywhere — Tailscale, Oracle VPS, and frp](https://dev.to/avgskully/access-your-home-server-from-anywhere-tailscale-oracle-vps-and-frp-4887)** — **0** 👍 · 0 💬
+* **[Zero-Downtime AWS Transit Gateway Hub-Spoke Migration](https://dev.to/tallgray1/zero-downtime-aws-transit-gateway-hub-spoke-migration-36h)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-04-04T23:31:52.480849+00:00 -->
+<!-- Log-ID: 2026-04-05T13:55:55.112936+00:00 -->
