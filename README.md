@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-05 23:34 (UTC)
+📅 **Last Update:** 2026-04-06 14:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Top 5 Spring Dependency Injection Best Practices You Need](https://dev.to/onatade_abdulmajeed/top-5-spring-dependency-injection-best-practices-you-need-22n5)** — **9** 👍 · 2 💬
-* **[Mastering the "super" Keyword in Java: A Beginner’s Guide](https://dev.to/realnamehidden1_61/mastering-the-super-keyword-in-java-a-beginners-guide-47pn)** — **5** 👍 · 0 💬
-* **[File Handling in Java – Complete Guide](https://dev.to/jayashree_a84b6eff7bc414e/file-handling-in-java-complete-guide-121d)** — **2** 👍 · 0 💬
+* **[File Handling](https://dev.to/abishek_44a09d1e1af19b4ca/file-handling-1e9h)** — **5** 👍 · 0 💬
+* **[Python vs Java vs JavaScript: Complete Beginner-Friendly Comparison](https://dev.to/harini_magesh_fa40041cf8d/python-vs-java-vs-javascript-complete-beginner-friendly-comparison-28oh)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[1GB VM. How do I pack whole production stack to it.](https://dev.to/dhg/1gb-vm-how-do-i-pack-whole-production-stack-to-it-3ha5)** — **2** 👍 · 0 💬
-* **[Diário de vibe coding: do certificado Anthropic a uma plataforma de FinOps em dias](https://dev.to/boccato85/diario-de-vibe-coding-do-certificado-anthropic-a-uma-plataforma-de-finops-em-dias-1dib)** — **0** 👍 · 0 💬
-* **[What Google Lighthouse Did for Web Performance, We Need for Code Repos](https://dev.to/braingemai/what-google-lighthouse-did-for-web-performance-we-need-for-code-repos-2kjh)** — **0** 👍 · 0 💬
+* **[Stop Calling Docker a Tool: The Real Story Behind 'docker run hello-world'](https://dev.to/tahsin000/docker-is-more-than-a-tool-understanding-the-docker-ecosystem-2ani)** — **5** 👍 · 0 💬
+* **[Fortress in a Box: Kubernetes Security for the Organizations That Can't Afford It](https://dev.to/joselorenzana272/fortress-in-a-box-kubernetes-security-for-the-organizations-that-cant-afford-it-206e)** — **1** 👍 · 0 💬
+* **[LLM Gateway Architecture: When You Need One and How to Get Started](https://dev.to/cwilkins507/llm-gateway-architecture-when-you-need-one-and-how-to-get-started-1817)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[SRv6 uSID Is Replacing MPLS at Scale — Here's How to Migrate with Working IOS XR Configs](https://dev.to/firstpasslab/srv6-usid-is-replacing-mpls-at-scale-heres-how-to-migrate-with-working-ios-xr-configs-1369)** — **1** 👍 · 0 💬
 * **[Learning Cybersecurity — I watched my own internet traffic, and it changed how I think about security](https://dev.to/narasimha_mallegari_/learning-cybersecurity-i-watched-my-own-internet-traffic-and-it-changed-how-i-think-about-security-2eda)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-05T23:34:54.244553+00:00 -->
+<!-- Log-ID: 2026-04-06T14:11:08.742933+00:00 -->
