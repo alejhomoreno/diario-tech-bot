@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-06 18:44 (UTC)
+📅 **Last Update:** 2026-04-06 23:36 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Stop Calling Docker a Tool: The Real Story Behind 'docker run hello-world'](https://dev.to/tahsin000/docker-is-more-than-a-tool-understanding-the-docker-ecosystem-2ani)** — **5** 👍 · 0 💬
-* **[Fortress in a Box: Kubernetes Security for the Organizations That Can't Afford It](https://dev.to/joselorenzana272/fortress-in-a-box-kubernetes-security-for-the-organizations-that-cant-afford-it-206e)** — **1** 👍 · 0 💬
-* **[LLM Gateway Architecture: When You Need One and How to Get Started](https://dev.to/cwilkins507/llm-gateway-architecture-when-you-need-one-and-how-to-get-started-1817)** — **1** 👍 · 0 💬
+* **[Your Node.js App Is Probably Killing Your PostgreSQL (Connection Pooling Explained)](https://dev.to/polliog/your-nodejs-app-is-probably-killing-your-postgresql-connection-pooling-explained-1db2)** — **5** 👍 · 0 💬
+* **[Monday Grind Blueprint #2: 80 Processes Explained, 3 Issues Targeted, 1 Week to Ship](https://dev.to/huckler/monday-grind-blueprint-2-80-processes-explained-3-issues-targeted-1-week-to-ship-785)** — **5** 👍 · 0 💬
+* **[The Axios Supply Chain Attack: What Happened, How to Check, and What to Do Next](https://dev.to/rverwey/the-axios-supply-chain-attack-what-happened-how-to-check-and-what-to-do-next-18n)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[SRv6 uSID Is Replacing MPLS at Scale — Here's How to Migrate with Working IOS XR Configs](https://dev.to/firstpasslab/srv6-usid-is-replacing-mpls-at-scale-heres-how-to-migrate-with-working-ios-xr-configs-1369)** — **1** 👍 · 0 💬
 * **[Zero-Downtime AWS Transit Gateway Hub-Spoke Migration](https://dev.to/tallgray1/zero-downtime-aws-transit-gateway-hub-spoke-migration-36h)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-04-06T18:44:38.774674+00:00 -->
+<!-- Log-ID: 2026-04-06T23:36:44.835355+00:00 -->
