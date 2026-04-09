@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-08 23:39 (UTC)
+📅 **Last Update:** 2026-04-09 14:54 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[El tercer intento de API de fechas de Java](https://dev.to/baltasarq/el-tercer-intento-de-api-de-fechas-de-java-2k95)** — **5** 👍 · 1 💬
-* **[Methods Examples in Java](https://dev.to/harini_magesh_fa40041cf8d/methods-examples-in-java-51b2)** — **4** 👍 · 0 💬
-* **[Method Overloading in Java](https://dev.to/harini_magesh_fa40041cf8d/method-overloading-in-java-4d25)** — **4** 👍 · 0 💬
+* **[Method OverLoading](https://dev.to/priya_k_9427a2e692abd3ddb/method-overloading-3287)** — **3** 👍 · 0 💬
+* **[Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)** — **3** 👍 · 0 💬
+* **[I Added a Second API Gateway… and My System Still Failed (Here’s the Real Fix)](https://dev.to/pramod_kumar_0820/i-added-a-second-api-gateway-and-my-system-still-failed-heres-the-real-fix-4n5g)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Building Your First VPC: AWS Networking with Terraform](https://dev.to/aws-builders/building-your-first-vpc-aws-networking-with-terraform-3h34)** — **9** 👍 · 2 💬
-* **[Goodbye S3 SDK! AWS Just Turned Every Bucket Into a High-Speed Hard Drive](https://dev.to/dhanushnehru/goodbye-s3-sdk-aws-just-turned-every-bucket-into-a-high-speed-hard-drive-5kk)** — **7** 👍 · 0 💬
-* **[How to Reduce Deployment Anxiety: Making Deploys Boring (Yes, Boring Is the Goal)](https://dev.to/unitix_flow/how-to-reduce-deployment-anxiety-making-deploys-boring-yes-boring-is-the-goal-1ojo)** — **5** 👍 · 0 💬
+* **[DORA Report Takeaways + Build Your Own DORA Metrics Dashboard with MCP!](https://dev.to/pavanbelagatti/dora-report-takeaways-build-your-own-dora-metrics-dashboard-with-mcp-421o)** — **5** 👍 · 0 💬
+* **[Distributed Systems: Where Physics, Murphy's Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)** — **4** 👍 · 0 💬
+* **[🚀 I Built PQPM — A Process Manager That Doesn't Care What Language You Speak](https://dev.to/rp01/i-built-pqpm-a-process-manager-that-doesnt-care-what-language-you-speak-npp)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[NAC Is Moving Into the Fabric: What Nile’s Segment-of-1 Means for Campus Security](https://dev.to/firstpasslab/nac-is-moving-into-the-fabric-what-niles-segment-of-1-means-for-campus-security-4f11)** — **1** 👍 · 0 💬
-* **[How I Connected a Cloudflare Subdomain to My VPS — And the Gotcha That Got Me](https://dev.to/bishalsunuwar202/how-i-connected-a-cloudflare-subdomain-to-my-vps-and-the-gotcha-that-got-me-36p6)** — **0** 👍 · 0 💬
-* **[Understanding PCIe Data Link Layer](https://dev.to/ripan030/understanding-pcie-data-link-layer-9jp)** — **0** 👍 · 0 💬
+* **[A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)** — **0** 👍 · 0 💬
+* **[Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-08T23:39:04.638476+00:00 -->
+<!-- Log-ID: 2026-04-09T14:54:23.954104+00:00 -->
