@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-09 14:54 (UTC)
+📅 **Last Update:** 2026-04-09 18:52 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[DORA Report Takeaways + Build Your Own DORA Metrics Dashboard with MCP!](https://dev.to/pavanbelagatti/dora-report-takeaways-build-your-own-dora-metrics-dashboard-with-mcp-421o)** — **5** 👍 · 0 💬
 * **[Distributed Systems: Where Physics, Murphy's Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)** — **4** 👍 · 0 💬
 * **[🚀 I Built PQPM — A Process Manager That Doesn't Care What Language You Speak](https://dev.to/rp01/i-built-pqpm-a-process-manager-that-doesnt-care-what-language-you-speak-npp)** — **4** 👍 · 0 💬
+* **[We Let AI Write Our Terraform. Then We Gave It a Security Conscience](https://dev.to/baremetal-dev/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-480e)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)** — **0** 👍 · 0 💬
 * **[Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-09T14:54:23.954104+00:00 -->
+<!-- Log-ID: 2026-04-09T18:52:19.379522+00:00 -->
