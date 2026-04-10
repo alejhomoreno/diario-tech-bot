@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-09 23:37 (UTC)
+📅 **Last Update:** 2026-04-10 14:17 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Method OverLoading](https://dev.to/priya_k_9427a2e692abd3ddb/method-overloading-3287)** — **3** 👍 · 0 💬
-* **[Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)** — **3** 👍 · 0 💬
-* **[I Added a Second API Gateway… and My System Still Failed (Here’s the Real Fix)](https://dev.to/pramod_kumar_0820/i-added-a-second-api-gateway-and-my-system-still-failed-heres-the-real-fix-4n5g)** — **1** 👍 · 1 💬
+* **[Course Schedule: Master Topological Sort with Kahn's Algorithm](https://dev.to/partners_dsa_823760c83281/course-schedule-master-topological-sort-with-kahns-algorithm-4en4)** — **6** 👍 · 1 💬
+* **[Why Your Source Code Is at Risk When Using AI Coding Assistants](https://dev.to/genevieve_breton_cb795f52/why-your-source-code-is-at-risk-when-using-ai-coding-assistants-29hn)** — **1** 👍 · 5 💬
+* **[🚀 I Replaced RestTemplate with RestClient — Here’s What Actually Changed](https://dev.to/pramod_kumar_0820/i-replaced-resttemplate-with-restclient-heres-what-actually-changed-h4b)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Distributed Systems: Where Physics, Murphy's Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)** — **4** 👍 · 0 💬
-* **[🚀 I Built PQPM — A Process Manager That Doesn't Care What Language You Speak](https://dev.to/rp01/i-built-pqpm-a-process-manager-that-doesnt-care-what-language-you-speak-npp)** — **4** 👍 · 0 💬
-* **[We Let AI Write Our Terraform. Then We Gave It a Security Conscience](https://dev.to/baremetal-dev/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-480e)** — **2** 👍 · 0 💬
+* **[The Next Generation of Developers Won’t Look Like Us](https://dev.to/jaideepparashar/the-next-generation-of-developers-wont-look-like-us-4bia)** — **5** 👍 · 1 💬
+* **[I Built a Container Orchestrator in Rust Because Kubernetes Was Too Much and Coolify Wasn't Enough](https://dev.to/mighty840/i-built-a-container-orchestrator-in-rust-because-kubernetes-was-too-much-and-coolify-wasnt-enough-4hj7)** — **1** 👍 · 2 💬
+* **[IPI-Scanner: Detecting Indirect Prompt Injection Attacks Before Your LLM Reads Them](https://dev.to/xamitgupta/ipi-scanner-detecting-indirect-prompt-injection-attacks-before-your-llm-reads-them-2jba)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)** — **0** 👍 · 0 💬
 * **[Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-09T23:37:29.900605+00:00 -->
+<!-- Log-ID: 2026-04-10T14:17:07.142977+00:00 -->
