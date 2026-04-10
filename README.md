@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-10 18:40 (UTC)
+📅 **Last Update:** 2026-04-10 23:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Course Schedule: Master Topological Sort with Kahn's Algorithm](https://dev.to/partners_dsa_823760c83281/course-schedule-master-topological-sort-with-kahns-algorithm-4en4)** — **6** 👍 · 1 💬
 * **[ASCII Value](https://dev.to/vidya_cdd37fca763a53a10e2/ascii-value-26b5)** — **2** 👍 · 0 💬
 * **[Constructor](https://dev.to/vidya_cdd37fca763a53a10e2/constructor-27b5)** — **2** 👍 · 0 💬
+* **[Why Your Source Code Is at Risk When Using AI Coding Assistants](https://dev.to/genevieve_breton_cb795f52/why-your-source-code-is-at-risk-when-using-ai-coding-assistants-29hn)** — **1** 👍 · 6 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)** — **0** 👍 · 0 💬
 * **[Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-10T18:40:30.755506+00:00 -->
+<!-- Log-ID: 2026-04-10T23:35:53.162021+00:00 -->
