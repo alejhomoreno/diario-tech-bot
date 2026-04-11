@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-11 13:56 (UTC)
+📅 **Last Update:** 2026-04-11 18:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[ASCII Value](https://dev.to/vidya_cdd37fca763a53a10e2/ascii-value-26b5)** — **2** 👍 · 0 💬
-* **[Constructor](https://dev.to/vidya_cdd37fca763a53a10e2/constructor-27b5)** — **2** 👍 · 0 💬
 * **[🚀 I Replaced RestTemplate with RestClient — Here’s What Actually Changed](https://dev.to/pramod_kumar_0820/i-replaced-resttemplate-with-restclient-heres-what-actually-changed-h4b)** — **1** 👍 · 1 💬
+* **[JGuardrails: Production-Ready Safety Rails for Java LLM Applications](https://dev.to/ratila/jguardrails-production-ready-safety-rails-for-java-llm-applications-2aee)** — **1** 👍 · 0 💬
+* **[Java Microservices (Spring Cloud) + Camunda 8 Orchestration — Complete Guide](https://dev.to/nirankari/java-microservices-spring-cloud-camunda-8-orchestration-complete-guide-57o1)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Beyond the Perimeter: Implementing Zero Trust and Ephemeral Identities in Multi-Cloud Environments](https://dev.to/joaovitorfortuna/alem-do-perimetro-implementando-zero-trust-e-identidades-efemeras-em-ambientes-multi-cloud-49lc)** — **5** 👍 · 0 💬
 * **[The Evolution of Backend and DevOps: A 25-Year Prediction Timeline](https://dev.to/codephoenix86/the-evolution-of-backend-and-devops-a-25-year-prediction-timeline-d8m)** — **3** 👍 · 1 💬
 * **[Unit Testing Alertmanager Routing and Inhibition Rules](https://dev.to/frosnerd/unit-testing-alertmanager-routing-and-inhibition-rules-1hj4)** — **2** 👍 · 0 💬
-* **[Why Do SSL/TLS Certificate Lifetimes Keep Getting Shorter?: Everything You Need to Know for the 47-Day Era](https://dev.to/kanywst/why-do-ssltls-certificate-lifetimes-keep-getting-shorter-everything-you-need-to-know-for-the-2log)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[NAC Is Moving Into the Fabric: What Nile’s Segment-of-1 Means for Campus Security](https://dev.to/firstpasslab/nac-is-moving-into-the-fabric-what-niles-segment-of-1-means-for-campus-security-4f11)** — **1** 👍 · 0 💬
-* **[A Rust TUI for Your UniFi Network That Actually Takes Code Review Seriously](https://dev.to/ticktockbent/a-rust-tui-for-your-unifi-network-that-actually-takes-code-review-seriously-32cc)** — **0** 👍 · 0 💬
-* **[Azure Route Server and NVA: Enforcing VNet Traffic - plus Terraform Code](https://dev.to/gergovadasz/azure-route-server-and-nva-enforcing-vnet-traffic-plus-terraform-code-3j42)** — **0** 👍 · 0 💬
+* **[Understanding IP Address in Simple Terms](https://dev.to/vidya_cdd37fca763a53a10e2/understanding-ip-address-in-simple-terms-12ej)** — **5** 👍 · 0 💬
+* **[IP Address Range](https://dev.to/sasirekaarumugam/ip-address-range-5295)** — **2** 👍 · 0 💬
+* **[The problem ended up being 80ms between nodes.](https://dev.to/aldotek_llc/the-problem-ended-up-being-80ms-between-nodes-1n83)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-11T13:56:46.627758+00:00 -->
+<!-- Log-ID: 2026-04-11T18:31:49.332990+00:00 -->
