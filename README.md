@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-14 14:51 (UTC)
+📅 **Last Update:** 2026-04-14 19:00 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-42f8)** — **5** 👍 · 0 💬
 * **[Can We Increase Visibility in Overriding? A Simple Guide for Java Developers](https://dev.to/realnamehidden1_61/can-we-increase-visibility-in-overriding-a-simple-guide-for-java-developers-4c96)** — **5** 👍 · 0 💬
-* **[How I Scaled Bulk Search in Spring Boot with Parallel Batch Jobs and Controlled Concurrency](https://dev.to/soumya_ranjannanda_168b9/how-i-scaled-bulk-search-in-spring-boot-with-parallel-batch-jobs-and-controlled-concurrency-21j)** — **2** 👍 · 0 💬
-* **[Swing with Java Swing](https://dev.to/citronbrick/swing-with-java-swing-2h00)** — **1** 👍 · 1 💬
+* **[Building a Zero-Loss Kafka Consumer with Spring Kafka Retryable Topics](https://dev.to/yogesh_kale_9e617cb1c2561/building-a-zero-loss-kafka-consumer-with-spring-kafka-retryable-topics-2f36)** — **4** 👍 · 5 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Why Most AI Agents Fail in Production Systems: A Systems Perspective](https://dev.to/ravi_teja_8b63d9205dc7a13/why-most-ai-agents-fail-in-production-systems-a-systems-perspective-5dmk)** — **6** 👍 · 1 💬
-* **[25 Workflow Automation and Process Agent Patterns on AWS You Can Steal Right Now](https://dev.to/aws-builders/25-workflow-automation-and-process-agent-patterns-on-aws-you-can-steal-right-now-11oi)** — **2** 👍 · 0 💬
-* **[SSH hardening checklist for production servers](https://dev.to/saad_naeem/ssh-hardening-checklist-for-production-servers-jb8)** — **1** 👍 · 0 💬
+* **[What "production-ready" really means for a NestJS backend](https://dev.to/alexsergey/what-production-ready-really-means-for-a-nestjs-backend-235d)** — **12** 👍 · 0 💬
+* **[Stop building custom auth for your B2B SaaS: Meet Gate Identity](https://dev.to/zhukmax/stop-building-custom-auth-for-your-b2b-saas-meet-gate-identity-259m)** — **5** 👍 · 0 💬
+* **[How to Grant Temporary Read-Only Access to a Kubernetes Cluster](https://dev.to/codehirise/how-to-grant-temporary-read-only-access-to-a-kubernetes-cluster-2go5)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Amazon FSx for NetApp ONTAP - Multi-AZ - Networking explained](https://dev.to/aws-builders/amazon-fsx-for-netapp-ontap-multi-az-networking-explained-2ffo)** — **2** 👍 · 0 💬
 * **[Network Basics](https://dev.to/hirave_palak/network-basics-4hm8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-14T14:51:23.229634+00:00 -->
+<!-- Log-ID: 2026-04-14T19:00:42.747881+00:00 -->
