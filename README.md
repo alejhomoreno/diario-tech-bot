@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-14 19:00 (UTC)
+📅 **Last Update:** 2026-04-14 23:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Goodbye localhost, hello AWS: adding security to re:Money](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-42f8)** — **5** 👍 · 0 💬
+* **[Design pattern visualization: Behavioral Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-behavioral-design-patterns-251i)** — **5** 👍 · 0 💬
+* **[Goodbye localhost, hello AWS: adding security to your Java serveless app](https://dev.to/vsenger/goodbye-localhost-hello-aws-adding-security-to-remoney-42f8)** — **5** 👍 · 0 💬
 * **[Can We Increase Visibility in Overriding? A Simple Guide for Java Developers](https://dev.to/realnamehidden1_61/can-we-increase-visibility-in-overriding-a-simple-guide-for-java-developers-4c96)** — **5** 👍 · 0 💬
-* **[Building a Zero-Loss Kafka Consumer with Spring Kafka Retryable Topics](https://dev.to/yogesh_kale_9e617cb1c2561/building-a-zero-loss-kafka-consumer-with-spring-kafka-retryable-topics-2f36)** — **4** 👍 · 5 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[What "production-ready" really means for a NestJS backend](https://dev.to/alexsergey/what-production-ready-really-means-for-a-nestjs-backend-235d)** — **12** 👍 · 0 💬
-* **[Stop building custom auth for your B2B SaaS: Meet Gate Identity](https://dev.to/zhukmax/stop-building-custom-auth-for-your-b2b-saas-meet-gate-identity-259m)** — **5** 👍 · 0 💬
-* **[How to Grant Temporary Read-Only Access to a Kubernetes Cluster](https://dev.to/codehirise/how-to-grant-temporary-read-only-access-to-a-kubernetes-cluster-2go5)** — **4** 👍 · 0 💬
+* **[58% of engineers spend 11+ hours per month validating AI code](https://dev.to/nigel_douglas/58-of-engineers-spend-11-hours-per-month-validating-ai-code-4jej)** — **2** 👍 · 2 💬
+* **[⚡ From `git clone` to Full Company Operating System in 60 Seconds.](https://dev.to/mamoor123/from-git-clone-to-full-company-operating-system-in-60-seconds-1d7f)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Amazon FSx for NetApp ONTAP - Multi-AZ - Networking explained](https://dev.to/aws-builders/amazon-fsx-for-netapp-ontap-multi-az-networking-explained-2ffo)** — **2** 👍 · 0 💬
 * **[Network Basics](https://dev.to/hirave_palak/network-basics-4hm8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-14T19:00:42.747881+00:00 -->
+<!-- Log-ID: 2026-04-14T23:42:22.868820+00:00 -->
