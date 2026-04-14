@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-13 23:42 (UTC)
+📅 **Last Update:** 2026-04-14 14:51 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Which Java Construct Should You Use? Let Change Drivers Decide](https://dev.to/yannick555/which-java-construct-should-you-use-let-change-drivers-decide-3159)** — **5** 👍 · 1 💬
-* **[What I learned building bulk search for large datasets in React + Spring Boot](https://dev.to/soumya_ranjannanda_168b9/what-i-learned-building-bulk-search-for-large-datasets-in-react-spring-boot-4id1)** — **1** 👍 · 7 💬
+* **[Can We Increase Visibility in Overriding? A Simple Guide for Java Developers](https://dev.to/realnamehidden1_61/can-we-increase-visibility-in-overriding-a-simple-guide-for-java-developers-4c96)** — **5** 👍 · 0 💬
+* **[How I Scaled Bulk Search in Spring Boot with Parallel Batch Jobs and Controlled Concurrency](https://dev.to/soumya_ranjannanda_168b9/how-i-scaled-bulk-search-in-spring-boot-with-parallel-batch-jobs-and-controlled-concurrency-21j)** — **2** 👍 · 0 💬
 * **[Swing with Java Swing](https://dev.to/citronbrick/swing-with-java-swing-2h00)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Why Most AI Agents Fail in Production Systems: A Systems Perspective](https://dev.to/ravi_teja_8b63d9205dc7a13/why-most-ai-agents-fail-in-production-systems-a-systems-perspective-5dmk)** — **6** 👍 · 1 💬
 * **[25 Workflow Automation and Process Agent Patterns on AWS You Can Steal Right Now](https://dev.to/aws-builders/25-workflow-automation-and-process-agent-patterns-on-aws-you-can-steal-right-now-11oi)** — **2** 👍 · 0 💬
-* **[Why Most AI Agents Fail in Production Systems: A Systems Perspective](https://dev.to/ravi_teja_8b63d9205dc7a13/why-most-ai-agents-fail-in-production-systems-a-systems-perspective-5dmk)** — **2** 👍 · 0 💬
 * **[SSH hardening checklist for production servers](https://dev.to/saad_naeem/ssh-hardening-checklist-for-production-servers-jb8)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What is URL?](https://dev.to/divya_divya_b18f82b19353a/what-is-url-1e32)** — **3** 👍 · 0 💬
-* **[WHAT IS FTP,TCP](https://dev.to/mohandassmani/what-is-ftptcp-567i)** — **3** 👍 · 0 💬
-* **[Why We Talk OSI but Live in a TCP/IP World (A Developer’s Guide)](https://dev.to/tahsin000/why-we-talk-osi-but-live-in-a-tcpip-world-a-developers-guide-140o)** — **1** 👍 · 3 💬
+* **[🌐 How the Internet Works (From Your Device to a Website)](https://dev.to/tomi_writes/how-the-internet-works-from-your-device-to-a-website-427d)** — **3** 👍 · 0 💬
+* **[Amazon FSx for NetApp ONTAP - Multi-AZ - Networking explained](https://dev.to/aws-builders/amazon-fsx-for-netapp-ontap-multi-az-networking-explained-2ffo)** — **2** 👍 · 0 💬
+* **[Network Basics](https://dev.to/hirave_palak/network-basics-4hm8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-13T23:42:23.618865+00:00 -->
+<!-- Log-ID: 2026-04-14T14:51:23.229634+00:00 -->
