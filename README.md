@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-16 14:57 (UTC)
+📅 **Last Update:** 2026-04-16 19:00 (UTC)
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[🌐 How the Internet Works (From Your Device to a Website)](https://dev.to/tomi_writes/how-the-internet-works-from-your-device-to-a-website-427d)** — **3** 👍 · 0 💬
-* **[Amazon FSx for NetApp ONTAP - Multi-AZ - Networking explained](https://dev.to/aws-builders/amazon-fsx-for-netapp-ontap-multi-az-networking-explained-2ffo)** — **2** 👍 · 0 💬
-* **[Network Basics](https://dev.to/hirave_palak/network-basics-4hm8)** — **1** 👍 · 0 💬
+* **[What changed after our IVR started pulling data from the CRM](https://dev.to/jackmorris10/what-changed-after-our-ivr-started-pulling-data-from-the-crm-4hfk)** — **1** 👍 · 0 💬
+* **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
+* **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-16T14:57:10.428740+00:00 -->
+<!-- Log-ID: 2026-04-16T19:00:10.566671+00:00 -->
