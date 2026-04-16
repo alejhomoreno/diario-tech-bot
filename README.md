@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-15 23:41 (UTC)
+📅 **Last Update:** 2026-04-16 14:57 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀](https://dev.to/zenika/agent-development-kit-20-adk-java-11-et-go-10-2be5)** — **7** 👍 · 0 💬
-* **[From Code Marketplace to One-Click PaaS: 14 Years of Exploration and Evolution](https://dev.to/zuidaima/from-code-marketplace-to-one-click-paas-14-years-of-exploration-and-evolution-4d6d)** — **5** 👍 · 0 💬
-* **[Why Your Java Code Needs the Liskov Substitution Principle](https://dev.to/realnamehidden1_61/why-your-java-code-needs-the-liskov-substitution-principle-p6f)** — **5** 👍 · 0 💬
+* **[The ‘Missing Middle’ of Data Processing in Java (10M Rows in ~40s)](https://dev.to/shridey/10m-records-40-seconds-o1-memory-why-i-built-a-lightweight-etl-engine-for-java-l1n)** — **6** 👍 · 1 💬
+* **[How to Create Immutable Class in Java: The "Stone Tablet" Approach](https://dev.to/realnamehidden1_61/how-to-create-immutable-class-in-java-the-stone-tablet-approach-5bll)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Amazon FSx for NetApp ONTAP - Multi-AZ - Networking explained](https://dev.to/aws-builders/amazon-fsx-for-netapp-ontap-multi-az-networking-explained-2ffo)** — **2** 👍 · 0 💬
 * **[Network Basics](https://dev.to/hirave_palak/network-basics-4hm8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-15T23:41:50.182600+00:00 -->
+<!-- Log-ID: 2026-04-16T14:57:10.428740+00:00 -->
