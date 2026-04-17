@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-16 23:41 (UTC)
+📅 **Last Update:** 2026-04-17 14:21 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀](https://dev.to/zenika/agent-development-kit-20-adk-java-11-et-go-10-2be5)** — **7** 👍 · 0 💬
-* **[How to Create Immutable Class in Java: The "Stone Tablet" Approach](https://dev.to/realnamehidden1_61/how-to-create-immutable-class-in-java-the-stone-tablet-approach-5bll)** — **5** 👍 · 0 💬
-* **[Collection in Java](https://dev.to/vidya_cdd37fca763a53a10e2/collection-in-java-31ln)** — **2** 👍 · 0 💬
+* **[Spring AI SDK for Amazon Bedrock AgentCore: Build Production-Ready Java AI Agents](https://dev.to/om_shree_0709/spring-ai-sdk-for-amazon-bedrock-agentcore-build-production-ready-java-ai-agents-3h3d)** — **30** 👍 · 0 💬
+* **[Attended Spring I/O 2026](https://dev.to/woohuiren/attended-spring-io-2026-3j5o)** — **5** 👍 · 0 💬
+* **[AWS Spring AI SDK](https://dev.to/shreesozo/aws-spring-ai-sdk-2bng)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Stop Using .env Files for Docker Secrets — Try This Instead](https://dev.to/md_umair_88fd7c1b0fa06f96/stop-using-env-files-for-docker-secrets-try-this-instead-2de1)** — **3** 👍 · 0 💬
-* **[GitHub Actions + Claude Code: I Automated My Entire Dev Workflow](https://dev.to/whoffagents/github-actions-claude-code-i-automated-my-entire-dev-workflow-4h0h)** — **1** 👍 · 0 💬
-* **[Compliance as an engineering problem: building an open-source Information Security, Privacy and AI Governance Platform](https://dev.to/isms-core-adm/compliance-as-an-engineering-problem-building-an-open-source-information-security-privacy-and-ai-2j18)** — **1** 👍 · 0 💬
+* **[Buyer's Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)** — **5** 👍 · 0 💬
+* **[Best AI Gateway Tools in 2026 for Scalable LLM Applications](https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg)** — **4** 👍 · 0 💬
+* **[Python venv explained: stop breaking dependencies](https://dev.to/tlaloces/python-venv-explained-stop-breaking-dependencies-4k9k)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
 * **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-16T23:41:03.574995+00:00 -->
+<!-- Log-ID: 2026-04-17T14:21:08.558528+00:00 -->
