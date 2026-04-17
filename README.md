@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-17 18:45 (UTC)
+📅 **Last Update:** 2026-04-17 23:39 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)** — **25** 👍 · 3 💬
+* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **5** 👍 · 0 💬
 * **[Buyer's Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)** — **5** 👍 · 0 💬
-* **[Kubernetes Finally Clicked When I Thought of It Like This...](https://dev.to/theprinceofprogramming/kubernetes-finally-clicked-when-i-thought-of-it-like-this-47eb)** — **1** 👍 · 0 💬
-* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
 * **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-17T18:45:03.959521+00:00 -->
+<!-- Log-ID: 2026-04-17T23:39:34.904970+00:00 -->
