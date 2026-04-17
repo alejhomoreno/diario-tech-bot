@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-17 14:21 (UTC)
+📅 **Last Update:** 2026-04-17 18:45 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Spring AI SDK for Amazon Bedrock AgentCore: Build Production-Ready Java AI Agents](https://dev.to/om_shree_0709/spring-ai-sdk-for-amazon-bedrock-agentcore-build-production-ready-java-ai-agents-3h3d)** — **30** 👍 · 0 💬
-* **[Attended Spring I/O 2026](https://dev.to/woohuiren/attended-spring-io-2026-3j5o)** — **5** 👍 · 0 💬
 * **[AWS Spring AI SDK](https://dev.to/shreesozo/aws-spring-ai-sdk-2bng)** — **5** 👍 · 0 💬
+* **[Attended Spring I/O 2026](https://dev.to/woohuiren/attended-spring-io-2026-3j5o)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Buyer's Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)** — **5** 👍 · 0 💬
-* **[Best AI Gateway Tools in 2026 for Scalable LLM Applications](https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg)** — **4** 👍 · 0 💬
-* **[Python venv explained: stop breaking dependencies](https://dev.to/tlaloces/python-venv-explained-stop-breaking-dependencies-4k9k)** — **1** 👍 · 0 💬
+* **[Kubernetes Finally Clicked When I Thought of It Like This...](https://dev.to/theprinceofprogramming/kubernetes-finally-clicked-when-i-thought-of-it-like-this-47eb)** — **1** 👍 · 0 💬
+* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
 * **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-17T14:21:08.558528+00:00 -->
+<!-- Log-ID: 2026-04-17T18:45:03.959521+00:00 -->
