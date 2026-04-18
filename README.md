@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-18 18:35 (UTC)
+📅 **Last Update:** 2026-04-18 23:35 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)** — **31** 👍 · 8 💬
+* **[How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)** — **32** 👍 · 8 💬
 * **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **6** 👍 · 1 💬
-* **[Our Terraform Drift Went Undetected for Four Months. Here Is How We Found It.](https://dev.to/luca29373/our-terraform-drift-went-undetected-for-four-months-here-is-how-we-found-it-2ana)** — **1** 👍 · 0 💬
+* **[I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What changed after our IVR started pulling data from the CRM](https://dev.to/jackmorris10/what-changed-after-our-ivr-started-pulling-data-from-the-crm-4hfk)** — **1** 👍 · 0 💬
-* **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
-* **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
+* **[How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)** — **0** 👍 · 1 💬
+* **[The Golden Path: Creating Proxmox Automated VM Templates with Cloud-Init](https://dev.to/mrkoala1001/the-golden-path-creating-proxmox-automated-vm-templates-with-cloud-init-300i)** — **0** 👍 · 0 💬
+* **[Low-Power IoT in the Military Domain: Architecture, Standards, Coatings, and Field Results](https://dev.to/thingslog/low-power-iot-in-the-military-domain-architecture-standards-coatings-and-field-results-5bh4)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-18T18:35:49.729511+00:00 -->
+<!-- Log-ID: 2026-04-18T23:35:45.658973+00:00 -->
