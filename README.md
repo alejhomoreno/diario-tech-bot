@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-17 23:39 (UTC)
+📅 **Last Update:** 2026-04-18 14:01 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Spring AI SDK for Amazon Bedrock AgentCore: Build Production-Ready Java AI Agents](https://dev.to/om_shree_0709/spring-ai-sdk-for-amazon-bedrock-agentcore-build-production-ready-java-ai-agents-3h3d)** — **30** 👍 · 0 💬
-* **[AWS Spring AI SDK](https://dev.to/shreesozo/aws-spring-ai-sdk-2bng)** — **5** 👍 · 0 💬
-* **[Attended Spring I/O 2026](https://dev.to/woohuiren/attended-spring-io-2026-3j5o)** — **5** 👍 · 0 💬
+* **[Constructors in Java](https://dev.to/silambarasan_a_bd1d4d0a29/constructors-in-java-463h)** — **10** 👍 · 0 💬
+* **[Java Collections: Everything You Need to Know About the List Interface](https://dev.to/aj_arul/java-collections-everything-you-need-to-know-about-the-list-interface-24d0)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)** — **25** 👍 · 3 💬
-* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **5** 👍 · 0 💬
-* **[Buyer's Guide to Pick the Best LLM Gateway in 2026](https://dev.to/pranay_batta/buyers-guide-to-pick-the-best-llm-gateway-in-2026-1epa)** — **5** 👍 · 0 💬
+* **[How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)** — **28** 👍 · 8 💬
+* **[I Stopped Taking AI Advice Seriously, and It Helped](https://dev.to/jaideepparashar/i-stopped-taking-ai-advice-seriously-and-it-helped-4nfi)** — **12** 👍 · 2 💬
+* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **6** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How We Reverse Engineered a TLS Fingerprinting System](https://dev.to/romclerix/how-we-reverse-engineered-a-tls-fingerprinting-system-3o6d)** — **1** 👍 · 0 💬
 * **[Privacy-First Security: Classifying Encrypted Tunnel Traffic Without Breaking the Seal](https://dev.to/instatunnel/privacy-first-security-classifying-encrypted-tunnel-traffic-without-breaking-the-seal-5a4g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-17T23:39:34.904970+00:00 -->
+<!-- Log-ID: 2026-04-18T14:01:45.537382+00:00 -->
