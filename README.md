@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-19 18:36 (UTC)
+📅 **Last Update:** 2026-04-19 23:37 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **6** 👍 · 1 💬
 * **[How I Troubleshoot Kubernetes in Production](https://dev.to/shaikahmadnawaz/how-i-troubleshoot-kubernetes-in-production-16co)** — **3** 👍 · 0 💬
-* **[Encuentra tu archivo YAML de Docker Compose en segundos con fzf. 🚀](https://dev.to/horaciodegiorgi/encuentra-tu-archivo-yaml-de-docker-compose-en-segundos-con-fzf-3n25)** — **0** 👍 · 1 💬
+* **[Stop Rebooting Linux Just in Case: Practical `needrestart` After APT Upgrades](https://dev.to/lyraalishaikh/stop-rebooting-linux-just-in-case-practical-needrestart-after-apt-upgrades-58j6)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The Golden Path: Creating Proxmox Automated VM Templates with Cloud-Init](https://dev.to/mrkoala1001/the-golden-path-creating-proxmox-automated-vm-templates-with-cloud-init-300i)** — **0** 👍 · 0 💬
 * **[Exploring the New IPv6 and Dual Stack Connectivity in Amazon ElastiCache Serverless](https://dev.to/aws-builders/exploring-the-new-ipv6-and-dual-stack-connectivity-in-amazon-elasticache-serverless-3ofl)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-19T18:36:12.021406+00:00 -->
+<!-- Log-ID: 2026-04-19T23:37:34.067242+00:00 -->
