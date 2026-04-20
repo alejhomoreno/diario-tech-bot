@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-20 14:52 (UTC)
+📅 **Last Update:** 2026-04-20 18:53 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Unbounded Queues: The Silent Killer of Production Services](https://dev.to/tpmsh/unbounded-queues-the-silent-killer-of-production-services-4me3)** — **10** 👍 · 1 💬
-* **[Supermart Billing Program](https://dev.to/harini_magesh_fa40041cf8d/supermart-billing-program-o21)** — **6** 👍 · 0 💬
 * **[How to Find the Minimum Mirror Pair Distance in an Array](https://dev.to/partners_dsa_823760c83281/how-to-find-the-minimum-mirror-pair-distance-in-an-array-1jj9)** — **5** 👍 · 0 💬
+* **[Every ArrayList Method You Need to Know (With Examples)](https://dev.to/abishek_44a09d1e1af19b4ca/every-arraylist-method-you-need-to-know-with-examples-1nde)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[How to Govern Claude Code Usage Across Engineering Teams](https://dev.to/pranay_batta/how-to-govern-claude-code-usage-across-engineering-teams-53lk)** — **5** 👍 · 0 💬
 * **[Rethinking LLM Benchmarks: Why Scores Alone Don’t Tell the Full Story](https://dev.to/lightningdev123/rethinking-llm-benchmarks-why-scores-alone-dont-tell-the-full-story-3bco)** — **5** 👍 · 0 💬
 * **[I Built a Fully Serverless Task Manager on AWS — Here's What the Docs Don't Tell You](https://dev.to/prince_ayiku_166/i-built-a-fully-serverless-task-manager-on-aws-heres-what-the-docs-dont-tell-you-37c8)** — **2** 👍 · 0 💬
-* **[Why database backups don’t fix integration failures (and what actually does)](https://dev.to/queuey/why-database-backups-dont-fix-integration-failures-and-what-actually-does-4dgn)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Network Components](https://dev.to/hirave_palak/network-components-5a2d)** — **2** 👍 · 0 💬
 * **[How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-04-20T14:52:54.194276+00:00 -->
+<!-- Log-ID: 2026-04-20T18:53:42.758095+00:00 -->
