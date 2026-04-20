@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-19 23:37 (UTC)
+📅 **Last Update:** 2026-04-20 14:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Unbounded Queues: The Silent Killer of Production Services](https://dev.to/tpmsh/unbounded-queues-the-silent-killer-of-production-services-4me3)** — **10** 👍 · 1 💬
-* **[Constructors in Java](https://dev.to/silambarasan_a_bd1d4d0a29/constructors-in-java-463h)** — **10** 👍 · 0 💬
-* **[Java Collections: Everything You Need to Know About the List Interface](https://dev.to/aj_arul/java-collections-everything-you-need-to-know-about-the-list-interface-24d0)** — **7** 👍 · 0 💬
+* **[Supermart Billing Program](https://dev.to/harini_magesh_fa40041cf8d/supermart-billing-program-o21)** — **6** 👍 · 0 💬
+* **[How to Find the Minimum Mirror Pair Distance in an Array](https://dev.to/partners_dsa_823760c83281/how-to-find-the-minimum-mirror-pair-distance-in-an-array-1jj9)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)** — **6** 👍 · 1 💬
-* **[How I Troubleshoot Kubernetes in Production](https://dev.to/shaikahmadnawaz/how-i-troubleshoot-kubernetes-in-production-16co)** — **3** 👍 · 0 💬
-* **[Stop Rebooting Linux Just in Case: Practical `needrestart` After APT Upgrades](https://dev.to/lyraalishaikh/stop-rebooting-linux-just-in-case-practical-needrestart-after-apt-upgrades-58j6)** — **0** 👍 · 0 💬
+* **[Rethinking LLM Benchmarks: Why Scores Alone Don’t Tell the Full Story](https://dev.to/lightningdev123/rethinking-llm-benchmarks-why-scores-alone-dont-tell-the-full-story-3bco)** — **5** 👍 · 0 💬
+* **[I Built a Fully Serverless Task Manager on AWS — Here's What the Docs Don't Tell You](https://dev.to/prince_ayiku_166/i-built-a-fully-serverless-task-manager-on-aws-heres-what-the-docs-dont-tell-you-37c8)** — **2** 👍 · 0 💬
+* **[Why database backups don’t fix integration failures (and what actually does)](https://dev.to/queuey/why-database-backups-dont-fix-integration-failures-and-what-actually-does-4dgn)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
+* **[sslh: Run HTTPS and SSH on Port 443 at the Same Time](https://dev.to/recca0120/sslh-run-https-and-ssh-on-port-443-at-the-same-time-506g)** — **5** 👍 · 0 💬
+* **[Network Components](https://dev.to/hirave_palak/network-components-5a2d)** — **2** 👍 · 0 💬
 * **[How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)** — **0** 👍 · 1 💬
-* **[The Golden Path: Creating Proxmox Automated VM Templates with Cloud-Init](https://dev.to/mrkoala1001/the-golden-path-creating-proxmox-automated-vm-templates-with-cloud-init-300i)** — **0** 👍 · 0 💬
-* **[Exploring the New IPv6 and Dual Stack Connectivity in Amazon ElastiCache Serverless](https://dev.to/aws-builders/exploring-the-new-ipv6-and-dual-stack-connectivity-in-amazon-elasticache-serverless-3ofl)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-19T23:37:34.067242+00:00 -->
+<!-- Log-ID: 2026-04-20T14:52:54.194276+00:00 -->
