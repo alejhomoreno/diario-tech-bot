@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-20 23:42 (UTC)
+📅 **Last Update:** 2026-04-21 14:47 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Every ArrayList Method You Need to Know (With Examples)](https://dev.to/abishek_44a09d1e1af19b4ca/every-arraylist-method-you-need-to-know-with-examples-1nde)** — **4** 👍 · 0 💬
-* **[Generating Java from JSON Schema](https://dev.to/hannyu/generating-java-from-json-schema-6kf)** — **1** 👍 · 0 💬
-* **[I Inherited a 40,000-Line Java File. Here's What I Found Inside.](https://dev.to/mihaaqarch/i-inherited-a-40000-line-java-file-heres-what-i-found-inside-3514)** — **1** 👍 · 0 💬
+* **[Java Packages](https://dev.to/silambarasan_a_bd1d4d0a29/java-packages-29d7)** — **9** 👍 · 0 💬
+* **[Manual Add Telemetry jaeger on Java Spring-boot](https://dev.to/kevinmel2000/manual-add-telemetry-jaeger-on-java-spring-boot-2jfn)** — **1** 👍 · 0 💬
+* **[How to Create a Supermarket Billing System in Java Using OOPS Concepts](https://dev.to/priya_k_9427a2e692abd3ddb/how-to-create-a-supermarket-billing-system-in-java-using-oops-concepts-10jc)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How to Govern Claude Code Usage Across Engineering Teams](https://dev.to/pranay_batta/how-to-govern-claude-code-usage-across-engineering-teams-53lk)** — **5** 👍 · 0 💬
-* **[I Built a Fully Serverless Task Manager on AWS — Here's What the Docs Don't Tell You](https://dev.to/prince_ayiku_166/i-built-a-fully-serverless-task-manager-on-aws-heres-what-the-docs-dont-tell-you-37c8)** — **2** 👍 · 0 💬
-* **[Observability Without Correlation Is Just Noise.](https://dev.to/kubeha_18/observability-without-correlation-is-just-noise-22l7)** — **0** 👍 · 2 💬
+* **[I Deployed OpenClaw on AWS, Broke It, Fixed It — Here’s the Complete Playbook](https://dev.to/17j/i-deployed-openclaw-on-aws-broke-it-fixed-it-heres-the-complete-playbook-49c2)** — **1** 👍 · 0 💬
+* **[Save NAT Gateway Costs by Using an EC2 - Terraform Code Included](https://dev.to/gergovadasz/save-nat-gateway-costs-by-using-an-ec2-terraform-code-included-507a)** — **0** 👍 · 0 💬
+* **[I Built an AI Gateway from Scratch (So You Don't Have To)](https://dev.to/uzukwu_michael_91a95b823b/i-built-an-ai-gateway-from-scratch-so-you-dont-have-to-3icc)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Network Components](https://dev.to/hirave_palak/network-components-5a2d)** — **2** 👍 · 0 💬
 * **[How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-04-20T23:42:22.900042+00:00 -->
+<!-- Log-ID: 2026-04-21T14:47:40.424157+00:00 -->
