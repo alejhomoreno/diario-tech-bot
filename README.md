@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-22 19:00 (UTC)
+📅 **Last Update:** 2026-04-22 23:46 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How To Install Mac App Store Apps From The Terminal](https://dev.to/dev_neil_a/how-to-install-mac-app-store-apps-from-the-terminal-kbo)** — **1** 👍 · 0 💬
+* **[Claude Code for the Outer Loop: An AI SRE Playbook to Reduce On-Call Toil](https://dev.to/arcade/claude-code-for-the-outer-loop-an-ai-sre-playbook-to-reduce-on-call-toil-1ghd)** — **3** 👍 · 0 💬
+* **[Stop Merging Slow Code: Catching Python Performance Regressions Before They Hit Production with Oracletrace](https://dev.to/caputokayk/stop-merging-slow-code-catching-python-performance-regressions-before-they-hit-production-with-2ajb)** — **1** 👍 · 0 💬
 * **[Hunting Disk Hogs on Ubuntu: A Shell Script for Finding the Largest Files](https://dev.to/highcenburg/hunting-disk-hogs-on-ubuntu-a-shell-script-for-finding-the-largest-files-52gk)** — **1** 👍 · 0 💬
-* **[How to Connect n8n to OpenAI: Complete Integration Guide (2026)](https://dev.to/farrukh_tariq_b2d419a76cf/how-to-connect-n8n-to-openai-complete-integration-guide-2026-58fc)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[sslh: Run HTTPS and SSH on Port 443 at the Same Time](https://dev.to/recca0120/sslh-run-https-and-ssh-on-port-443-at-the-same-time-506g)** — **5** 👍 · 0 💬
-* **[HTTP/2 Multiplexing: Why One Connection Is Enough](https://dev.to/dylan_dumont_266378d98367/http2-multiplexing-why-one-connection-is-enough-ib)** — **0** 👍 · 0 💬
-* **[Building Infrastructure for a National-Level CTF: Technical Lessons from RCS CTF 2026](https://dev.to/anubhavxdev/building-infrastructure-for-a-national-level-ctf-technical-lessons-from-rcs-ctf-2026-b7h)** — **0** 👍 · 0 💬
+* **[Reading Wi-Fi data from Go on macOS after Apple removed `airport`](https://dev.to/jaisonerick/reading-wi-fi-data-from-go-on-macos-after-apple-removed-airport-19g)** — **1** 👍 · 0 💬
+* **[When Your API “Randomly” Starts Timing Out](https://dev.to/kshitij_sharma_fd33fdb032/when-your-api-randomly-starts-timing-out-6a3)** — **1** 👍 · 0 💬
+* **[Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-22T19:00:44.224271+00:00 -->
+<!-- Log-ID: 2026-04-22T23:46:44.465059+00:00 -->
