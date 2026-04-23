@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-23 15:13 (UTC)
+📅 **Last Update:** 2026-04-23 18:56 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[GitLab CI: How to Use a Dockerfile from Remote Repository](https://dev.to/kelvynthai/gitlab-ci-how-to-use-a-dockerfile-from-remote-repository-5h0f)** — **5** 👍 · 0 💬
-* **[Claude Code for the Outer Loop: An AI SRE Playbook to Reduce On-Call Toil](https://dev.to/arcade/claude-code-for-the-outer-loop-an-ai-sre-playbook-to-reduce-on-call-toil-1ghd)** — **3** 👍 · 0 💬
-* **[Docker for Web Developers - The Only Guide You Actually Need (2026)](https://dev.to/parag477/docker-for-web-developers-the-only-guide-you-actually-need-2026-4336)** — **1** 👍 · 0 💬
+* **[A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)** — **1** 👍 · 0 💬
+* **[How I Passed the AWS Certified DevOps Engineer - Professional Certification🏅](https://dev.to/aws-builders/how-i-passed-the-aws-certified-devops-engineer-professional-certification-3ibd)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[When Your API “Randomly” Starts Timing Out](https://dev.to/kshitij_sharma_fd33fdb032/when-your-api-randomly-starts-timing-out-6a3)** — **1** 👍 · 0 💬
 * **[Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-23T15:13:21.294700+00:00 -->
+<!-- Log-ID: 2026-04-23T18:56:55.182743+00:00 -->
