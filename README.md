@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-23 18:56 (UTC)
+📅 **Last Update:** 2026-04-23 23:46 (UTC)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🔖 Top Devops
 
-* **[GitLab CI: How to Use a Dockerfile from Remote Repository](https://dev.to/kelvynthai/gitlab-ci-how-to-use-a-dockerfile-from-remote-repository-5h0f)** — **5** 👍 · 0 💬
+* **[How My Coworker Who Didn't Know 'cd' Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j)** — **7** 👍 · 0 💬
 * **[A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)** — **1** 👍 · 0 💬
 * **[How I Passed the AWS Certified DevOps Engineer - Professional Certification🏅](https://dev.to/aws-builders/how-i-passed-the-aws-certified-devops-engineer-professional-certification-3ibd)** — **1** 👍 · 0 💬
 
@@ -33,4 +33,4 @@
 * **[When Your API “Randomly” Starts Timing Out](https://dev.to/kshitij_sharma_fd33fdb032/when-your-api-randomly-starts-timing-out-6a3)** — **1** 👍 · 0 💬
 * **[Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-23T18:56:55.182743+00:00 -->
+<!-- Log-ID: 2026-04-23T23:46:18.867707+00:00 -->
