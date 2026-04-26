@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-04-25 23:38 (UTC)
+📅 **Last Update:** 2026-04-26 14:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Why Did You Choose Interface Instead of Abstract Class in Java?](https://dev.to/realnamehidden1_61/why-did-you-choose-interface-instead-of-abstract-class-in-java-4b8n)** — **5** 👍 · 0 💬
-* **[Adding IOC, FOK, and Stop Orders to a Matching Engine](https://dev.to/iwtxokhtd83/adding-ioc-fok-and-stop-orders-to-a-matching-engine-na1)** — **2** 👍 · 0 💬
-* **[Día 11: System.out.println en producción — la confesión que nadie hace](https://dev.to/alafourcadev/dia-11-systemoutprintln-en-produccion-la-confesion-que-nadie-hace-33hk)** — **0** 👍 · 1 💬
+* **[Building Java Projects Without the Bloat: Introducing JAR Cart and the No-Build Extension Pack](https://dev.to/sudhanshuambastha/building-java-projects-without-the-bloat-introducing-jar-cart-and-the-no-build-extension-pack-27kc)** — **5** 👍 · 0 💬
+* **[Beyond POJO and JsonNode: A More Cohesive Way to Handle JSON in Java](https://dev.to/hannyu/beyond-pojo-and-jsonnode-a-more-cohesive-way-to-handle-json-in-java-j4a)** — **1** 👍 · 0 💬
+* **[Convert Joget Signature Field to Image (Generic Dynamic Table, Field, and ID)](https://dev.to/exploringmylifeworks/convert-joget-signature-field-to-image-generic-dynamic-table-field-and-id-4bg3)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[5 Things AI Can't Do, Even in npm / yarn / pnpm](https://dev.to/devunionx/5-things-ai-cant-do-even-in-npm-yarn-pnpm-4ef5)** — **5** 👍 · 0 💬
-* **[CI/CD Pipeline Best Practices That Nobody Teaches You When You're Starting Out](https://dev.to/mumtaz2029/cicd-pipeline-best-practices-that-nobody-teaches-you-when-youre-starting-out-5fi3)** — **1** 👍 · 0 💬
-* **[How to Monitor Your Cron Jobs in Production (So They Don't Silently Die)](https://dev.to/jarachagent/how-to-monitor-your-cron-jobs-in-production-so-they-dont-silently-die-59j6)** — **0** 👍 · 0 💬
+* **[The Importance of Tech Debt](https://dev.to/fabiosarmento/the-importance-of-tech-debt-2fcg)** — **1** 👍 · 0 💬
+* **[Building a real-time anomaly detection engine for a self-hosted Nextcloud (HNG Stage 3)](https://dev.to/ibraheembello/building-a-real-time-anomaly-detection-engine-for-a-self-hosted-nextcloud-hng-stage-3-59km)** — **1** 👍 · 0 💬
+* **[The Spot Instance That Killed Our Payments Service (And Why It Took Us 47 Minutes to Find It)](https://dev.to/peterinfranexis/the-spot-instance-that-killed-our-payments-service-and-why-it-took-us-47-minutes-to-find-it-2ehp)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your AI Agent Is Burning Tokens Re-Reading the Same Pages as Every Other Agent. There Is a Fix.](https://dev.to/artem_a/your-ai-agent-is-burning-tokens-re-reading-the-same-pages-as-every-other-agent-there-is-a-fix-m1h)** — **1** 👍 · 0 💬
 * **[Notes on Rethinking Messaging Protocols for Fragmented Networks](https://dev.to/ai_ap_1798347ec365e8cf821/notes-on-rethinking-messaging-protocols-for-fragmented-networks-1j5e)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-04-25T23:38:32.535779+00:00 -->
+<!-- Log-ID: 2026-04-26T14:04:53.160088+00:00 -->
