@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-11 19:28 (UTC)
+📅 **Last Update:** 2026-05-11 23:58 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 3 Develop local MCP client for Conference application](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-3-develop-local-mcp-client-560a)** — **2** 👍 · 0 💬
+* **[Spring Boot Large File Upload (Limits, Streaming, Best Practices)](https://dev.to/buildbasekit/spring-boot-large-file-upload-limits-streaming-best-practices-bc4)** — **2** 👍 · 0 💬
 * **[🔍 Cracking the Code: Enabling Detailed Persistence Debugging in Joget](https://dev.to/exploringmylifeworks/cracking-the-code-enabling-detailed-persistence-debugging-in-joget-416l)** — **1** 👍 · 1 💬
-* **[Hexagonal Architecture is Not a Layered Architecture: Topology, Safety, and When to Walk Away](https://dev.to/bing_yu/hexagonal-architecture-is-not-a-layered-architecture-topology-safety-and-when-to-walk-away-4dln)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[How DNS Resolution Works: From `dig . NS` to Your Browser Loading Google](https://dev.to/janmejaisingh/how-dns-resolution-works-from-dig-ns-to-your-browser-loading-google-3a6j)** — **5** 👍 · 0 💬
 * **[Network Security](https://dev.to/hirave_palak/network-security-4cgj)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-05-11T19:28:07.767928+00:00 -->
+<!-- Log-ID: 2026-05-11T23:58:37.888246+00:00 -->
