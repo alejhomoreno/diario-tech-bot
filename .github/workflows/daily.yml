@@ -5,15 +5,15 @@ on:
     - cron: '0 18 * * *' 
     - cron: '0 23 * * *' 
   workflow_dispatch: {}
+permissions:
+  contents: write
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.MY_PERSONAL_TOKEN }}
+      - uses: actions/checkout@v5
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with: 
           python-version: '3.11'
       - name: Install deps
@@ -27,5 +27,3 @@ jobs:
           git add README.md
           git commit -m "Automated update: $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
