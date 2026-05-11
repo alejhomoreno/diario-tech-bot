@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-11 16:10 (UTC)
+📅 **Last Update:** 2026-05-11 19:28 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran](https://dev.to/adamthedeveloper/go-vs-java-the-minimalist-vs-the-enterprise-veteran-1gg3)** — **9** 👍 · 0 💬
 * **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 3 Develop local MCP client for Conference application](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-3-develop-local-mcp-client-560a)** — **2** 👍 · 0 💬
-* **[🚀 How To Increase Heap Memory in Joget](https://dev.to/exploringmylifeworks/how-to-increase-heap-memory-in-joget-1oon)** — **1** 👍 · 0 💬
+* **[🔍 Cracking the Code: Enabling Detailed Persistence Debugging in Joget](https://dev.to/exploringmylifeworks/cracking-the-code-enabling-detailed-persistence-debugging-in-joget-416l)** — **1** 👍 · 1 💬
+* **[Hexagonal Architecture is Not a Layered Architecture: Topology, Safety, and When to Walk Away](https://dev.to/bing_yu/hexagonal-architecture-is-not-a-layered-architecture-topology-safety-and-when-to-walk-away-4dln)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817)** — **6** 👍 · 0 💬
+* **[From AIOps Anomaly Detection to LLM-Powered RCA: How AI for Incident Response Actually Evolved](https://dev.to/steadwing/from-aiops-anomaly-detection-to-llm-powered-rca-how-ai-for-incident-response-actually-evolved-3h5d)** — **4** 👍 · 0 💬
 * **[How I Built a Serverless Power Outage Tracker for Nigeria on AWS | Part 1](https://dev.to/aws-builders/how-i-built-a-serverless-power-outage-tracker-for-nigeria-on-aws-part-1-fim)** — **3** 👍 · 0 💬
-* **[# Containerizing a Broken Microservices App and Shipping It with a Full CI/CD Pipeline](https://dev.to/edith_asante_799bd09cf9c1/-containerizing-a-broken-microservices-app-and-shipping-it-with-a-full-cicd-pipeline-407b)** — **1** 👍 · 0 💬
+* **[Deploying Hermes Agent: Your Self-Evolving Digital Co-Worker](https://dev.to/mechcloud_academy/deploying-hermes-agent-your-self-evolving-digital-co-worker-2ijp)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How DNS Resolution Works: From `dig . NS` to Your Browser Loading Google](https://dev.to/janmejaisingh/how-dns-resolution-works-from-dig-ns-to-your-browser-loading-google-3a6j)** — **5** 👍 · 0 💬
 * **[Network Security](https://dev.to/hirave_palak/network-security-4cgj)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-05-11T16:10:52.131826+00:00 -->
+<!-- Log-ID: 2026-05-11T19:28:07.767928+00:00 -->
