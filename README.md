@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-11 23:58 (UTC)
+📅 **Last Update:** 2026-05-12 15:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 3 Develop local MCP client for Conference application](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-3-develop-local-mcp-client-560a)** — **2** 👍 · 0 💬
-* **[Spring Boot Large File Upload (Limits, Streaming, Best Practices)](https://dev.to/buildbasekit/spring-boot-large-file-upload-limits-streaming-best-practices-bc4)** — **2** 👍 · 0 💬
-* **[🔍 Cracking the Code: Enabling Detailed Persistence Debugging in Joget](https://dev.to/exploringmylifeworks/cracking-the-code-enabling-detailed-persistence-debugging-in-joget-416l)** — **1** 👍 · 1 💬
+* **[POJO in Java](https://dev.to/harini_magesh_fa40041cf8d/pojo-in-java-pgp)** — **4** 👍 · 0 💬
+* **[Pojo in Java](https://dev.to/silambarasan_a_bd1d4d0a29/pojo-in-java-2k98)** — **3** 👍 · 0 💬
+* **[POJO Class In Java](https://dev.to/s_sarumathi_a1de306480d33/pojo-class-in-java-3131)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[From AIOps Anomaly Detection to LLM-Powered RCA: How AI for Incident Response Actually Evolved](https://dev.to/steadwing/from-aiops-anomaly-detection-to-llm-powered-rca-how-ai-for-incident-response-actually-evolved-3h5d)** — **4** 👍 · 0 💬
-* **[How I Built a Serverless Power Outage Tracker for Nigeria on AWS | Part 1](https://dev.to/aws-builders/how-i-built-a-serverless-power-outage-tracker-for-nigeria-on-aws-part-1-fim)** — **3** 👍 · 0 💬
-* **[Deploying Hermes Agent: Your Self-Evolving Digital Co-Worker](https://dev.to/mechcloud_academy/deploying-hermes-agent-your-self-evolving-digital-co-worker-2ijp)** — **1** 👍 · 1 💬
+* **[A Lot of CloudWatch Metrics Exist for No Real Reason](https://dev.to/sanjay_yadav_/a-lot-of-cloudwatch-metrics-exist-for-no-real-reason-4d59)** — **1** 👍 · 1 💬
+* **[# I Built a Tool That Watches Your Server, Learns Your Traffic, and Blocks Attackers Automatically](https://dev.to/edithasante/-i-built-a-tool-that-watches-your-server-learns-your-traffic-and-blocks-attackers-automatically-11f7)** — **1** 👍 · 0 💬
+* **[When CoreDNS Falls Silent : A Kubernetes DNS Disaster Story & The Playbook That Saved Us](https://dev.to/pingtoprod/when-coredns-falls-silent-a-kubernetes-dns-disaster-story-the-playbook-that-saved-us-5dek)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Hubs, Switches, and Routers Explained Like You're Debugging a Real Network](https://dev.to/tahsin000/hubs-switches-and-routers-explained-like-youre-debugging-a-real-network-4co5)** — **5** 👍 · 0 💬
-* **[How DNS Resolution Works: From `dig . NS` to Your Browser Loading Google](https://dev.to/janmejaisingh/how-dns-resolution-works-from-dig-ns-to-your-browser-loading-google-3a6j)** — **5** 👍 · 0 💬
-* **[Network Security](https://dev.to/hirave_palak/network-security-4cgj)** — **1** 👍 · 1 💬
+* **[The Agent Space Is About to Have Its TCP/IP Moment. Here Is What That Means for Builders.](https://dev.to/artem_a/the-agent-space-is-about-to-have-its-tcpip-moment-here-is-what-that-means-for-builders-1eof)** — **4** 👍 · 0 💬
+* **[Legacy Protocol Integration for Secure Distributed AI.](https://dev.to/artem_a/legacy-protocol-integration-for-secure-distributed-ai-5cp2)** — **3** 👍 · 0 💬
+* **[The "Localhost" Trap: Networking Microservices in Docker Compose](https://dev.to/omar_lashin_2badc08a1ddf9/the-localhost-trap-networking-microservices-in-docker-compose-k04)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-11T23:58:37.888246+00:00 -->
+<!-- Log-ID: 2026-05-12T15:40:00.009252+00:00 -->
