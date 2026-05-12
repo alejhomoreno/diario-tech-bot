@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-12 15:40 (UTC)
+📅 **Last Update:** 2026-05-12 19:28 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[POJO in Java](https://dev.to/harini_magesh_fa40041cf8d/pojo-in-java-pgp)** — **4** 👍 · 0 💬
+* **[How to Detect and Fix Thread Leaks in Java Applications](https://dev.to/realnamehidden1_61/how-to-detect-and-fix-thread-leaks-in-java-applications-2542)** — **5** 👍 · 0 💬
 * **[Pojo in Java](https://dev.to/silambarasan_a_bd1d4d0a29/pojo-in-java-2k98)** — **3** 👍 · 0 💬
-* **[POJO Class In Java](https://dev.to/s_sarumathi_a1de306480d33/pojo-class-in-java-3131)** — **3** 👍 · 0 💬
+* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 3 Develop local MCP client for Conference application](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-3-develop-local-mcp-client-560a)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A Lot of CloudWatch Metrics Exist for No Real Reason](https://dev.to/sanjay_yadav_/a-lot-of-cloudwatch-metrics-exist-for-no-real-reason-4d59)** — **1** 👍 · 1 💬
-* **[# I Built a Tool That Watches Your Server, Learns Your Traffic, and Blocks Attackers Automatically](https://dev.to/edithasante/-i-built-a-tool-that-watches-your-server-learns-your-traffic-and-blocks-attackers-automatically-11f7)** — **1** 👍 · 0 💬
-* **[When CoreDNS Falls Silent : A Kubernetes DNS Disaster Story & The Playbook That Saved Us](https://dev.to/pingtoprod/when-coredns-falls-silent-a-kubernetes-dns-disaster-story-the-playbook-that-saved-us-5dek)** — **0** 👍 · 0 💬
+* **[S3 Bucket Regional Namespaces with CDK](https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86)** — **7** 👍 · 0 💬
+* **[Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines](https://dev.to/aws-builders/least-privilege-cicd-on-aws-the-4-layer-pattern-that-scales-to-200-pipelines-238o)** — **1** 👍 · 0 💬
+* **[Why your Vercel bill is higher than expected (hint: AI bots)](https://dev.to/plaintos_app_fd54e75a054e/why-your-vercel-bill-is-higher-than-expected-hint-ai-bots-40b4)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[The Agent Space Is About to Have Its TCP/IP Moment. Here Is What That Means for Builders.](https://dev.to/artem_a/the-agent-space-is-about-to-have-its-tcpip-moment-here-is-what-that-means-for-builders-1eof)** — **4** 👍 · 0 💬
+* **[How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)** — **4** 👍 · 0 💬
+* **[How to Design an AI Agent That Survives Infrastructure Changes](https://dev.to/artem_a/how-to-design-an-ai-agent-that-survives-infrastructure-changes-3836)** — **3** 👍 · 0 💬
 * **[Legacy Protocol Integration for Secure Distributed AI.](https://dev.to/artem_a/legacy-protocol-integration-for-secure-distributed-ai-5cp2)** — **3** 👍 · 0 💬
-* **[The "Localhost" Trap: Networking Microservices in Docker Compose](https://dev.to/omar_lashin_2badc08a1ddf9/the-localhost-trap-networking-microservices-in-docker-compose-k04)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-12T15:40:00.009252+00:00 -->
+<!-- Log-ID: 2026-05-12T19:28:49.397606+00:00 -->
