@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-12 19:28 (UTC)
+📅 **Last Update:** 2026-05-12 23:59 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[S3 Bucket Regional Namespaces with CDK](https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86)** — **7** 👍 · 0 💬
-* **[Least-Privilege CI/CD on AWS: The 4-Layer Pattern That Scales to 200 Pipelines](https://dev.to/aws-builders/least-privilege-cicd-on-aws-the-4-layer-pattern-that-scales-to-200-pipelines-238o)** — **1** 👍 · 0 💬
+* **[S3 Bucket Regional Namespaces with CDK](https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86)** — **18** 👍 · 0 💬
 * **[Why your Vercel bill is higher than expected (hint: AI bots)](https://dev.to/plaintos_app_fd54e75a054e/why-your-vercel-bill-is-higher-than-expected-hint-ai-bots-40b4)** — **1** 👍 · 0 💬
+* **[The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)** — **4** 👍 · 0 💬
+* **[How Mutual Trust Secures Decentralized AI Agent Networks](https://dev.to/artem_a/how-mutual-trust-secures-decentralized-ai-agent-networks-1mlf)** — **7** 👍 · 0 💬
+* **[How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)** — **6** 👍 · 0 💬
 * **[How to Design an AI Agent That Survives Infrastructure Changes](https://dev.to/artem_a/how-to-design-an-ai-agent-that-survives-infrastructure-changes-3836)** — **3** 👍 · 0 💬
-* **[Legacy Protocol Integration for Secure Distributed AI.](https://dev.to/artem_a/legacy-protocol-integration-for-secure-distributed-ai-5cp2)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-12T19:28:49.397606+00:00 -->
+<!-- Log-ID: 2026-05-12T23:59:37.746459+00:00 -->
