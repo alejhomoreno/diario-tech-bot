@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-12 23:59 (UTC)
+📅 **Last Update:** 2026-05-13 15:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[How to Detect and Fix Thread Leaks in Java Applications](https://dev.to/realnamehidden1_61/how-to-detect-and-fix-thread-leaks-in-java-applications-2542)** — **5** 👍 · 0 💬
-* **[Pojo in Java](https://dev.to/silambarasan_a_bd1d4d0a29/pojo-in-java-2k98)** — **3** 👍 · 0 💬
-* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 3 Develop local MCP client for Conference application](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-3-develop-local-mcp-client-560a)** — **2** 👍 · 0 💬
+* **[Three Stabs at a Typed Schema DSL in Kotlin](https://dev.to/monom/three-stabs-at-a-typed-schema-dsl-in-kotlin-4b6n)** — **2** 👍 · 0 💬
+* **[Is SJF4J the fastest JSON Schema validator for Java?](https://dev.to/hannyu/is-sjf4j-the-fastest-json-schema-validator-for-java-fhb)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[S3 Bucket Regional Namespaces with CDK](https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86)** — **18** 👍 · 0 💬
-* **[Why your Vercel bill is higher than expected (hint: AI bots)](https://dev.to/plaintos_app_fd54e75a054e/why-your-vercel-bill-is-higher-than-expected-hint-ai-bots-40b4)** — **1** 👍 · 0 💬
-* **[The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)** — **0** 👍 · 0 💬
+* **[Docker and Kubernetes: Complete Production Deployment Guide](https://dev.to/asifthewebguy/docker-and-kubernetes-complete-production-deployment-guide-3jnn)** — **3** 👍 · 1 💬
+* **[The four decisions every team makes about Git (whether they realize it or not)](https://dev.to/mdenda/the-four-decisions-every-team-makes-about-git-whether-they-realize-it-or-not-9hb)** — **2** 👍 · 2 💬
+* **[Identity Access Management Strategy for Non-Human Identities](https://dev.to/gitguardian/identity-access-management-strategy-for-non-human-identities-4d4k)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)** — **6** 👍 · 0 💬
 * **[How to Design an AI Agent That Survives Infrastructure Changes](https://dev.to/artem_a/how-to-design-an-ai-agent-that-survives-infrastructure-changes-3836)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-12T23:59:37.746459+00:00 -->
+<!-- Log-ID: 2026-05-13T15:44:11.034901+00:00 -->
