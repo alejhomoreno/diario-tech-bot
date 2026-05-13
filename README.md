@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-13 19:42 (UTC)
+📅 **Last Update:** 2026-05-13 23:59 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)** — **10** 👍 · 0 💬
-* **[Docker and Kubernetes: Complete Production Deployment Guide](https://dev.to/asifthewebguy/docker-and-kubernetes-complete-production-deployment-guide-3jnn)** — **3** 👍 · 1 💬
 * **[The four decisions every team makes about Git (whether they realize it or not)](https://dev.to/mdenda/the-four-decisions-every-team-makes-about-git-whether-they-realize-it-or-not-9hb)** — **2** 👍 · 2 💬
+* **[Identity Access Management Strategy for Non-Human Identities](https://dev.to/gitguardian/identity-access-management-strategy-for-non-human-identities-4d4k)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)** — **6** 👍 · 0 💬
 * **[How to Design an AI Agent That Survives Infrastructure Changes](https://dev.to/artem_a/how-to-design-an-ai-agent-that-survives-infrastructure-changes-3836)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-13T19:42:16.655500+00:00 -->
+<!-- Log-ID: 2026-05-13T23:59:29.945721+00:00 -->
