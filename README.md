@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-14 23:57 (UTC)
+📅 **Last Update:** 2026-05-15 15:17 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[What you measure depends on where you draw the boundary](https://dev.to/arkstack/what-you-measure-depends-on-where-you-draw-the-boundary-17eh)** — **2** 👍 · 1 💬
-* **[Abstraction in Java](https://dev.to/harini_magesh_fa40041cf8d/abstraction-in-java-56n8)** — **2** 👍 · 0 💬
-* **[Final Keyword in java](https://dev.to/harini_magesh_fa40041cf8d/final-keyword-in-java-1n5n)** — **2** 👍 · 0 💬
+* **[Metal and Skins](https://dev.to/codenameone/metal-and-skins-4e00)** — **5** 👍 · 0 💬
+* **[HTML for Beginners](https://dev.to/madhanraj/html-for-beginners-1hkn)** — **2** 👍 · 0 💬
+* **[Three Stabs at a Typed Schema DSL in Kotlin](https://dev.to/monom/three-stabs-at-a-typed-schema-dsl-in-kotlin-4b6n)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[My friend wanted GitLab. He got Gitea and Nextcloud for Obsidian instead.](https://dev.to/anxi0uz/my-friend-wanted-gitlab-he-got-gitea-and-nextcloud-for-obsidian-instead-500i)** — **1** 👍 · 1 💬
-* **[I Ran the Numbers on SaaS Downtime Costs — Here's What I Found](https://dev.to/r0tten0x/i-ran-the-numbers-on-saas-downtime-costs-heres-what-i-found-28kf)** — **1** 👍 · 0 💬
-* **[How to create a Microsoft Azure storage account for securing private data and file backup](https://dev.to/tjasper/how-to-create-a-microsoft-azure-storage-account-for-securing-private-data-and-file-backup-3ol5)** — **1** 👍 · 0 💬
+* **[Years of Apple's Best Security M5 chip, Cracked in Five Days — Here's What Developers Should Know](https://dev.to/arshtechpro/five-years-of-apples-best-security-work-cracked-in-five-days-heres-what-developers-should-know-5dba)** — **6** 👍 · 0 💬
+* **[Pac-Man: A 16KB Masterpiece Every Dev Should Study](https://dev.to/jeandevbr/pac-man-a-16kb-masterpiece-every-dev-should-study-1hcf)** — **3** 👍 · 1 💬
+* **[Pick Boring Technology. Yes, Especially for AI.](https://dev.to/benard_otieno_cdb9e6d4907/pick-boring-technology-yes-especially-for-ai-2021)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Day 3 — Networking Fundamentals](https://dev.to/17j/day-3-networking-fundamentals-3ao6)** — **7** 👍 · 1 💬
 * **[How Mutual Trust Secures Decentralized AI Agent Networks](https://dev.to/artem_a/how-mutual-trust-secures-decentralized-ai-agent-networks-1mlf)** — **7** 👍 · 0 💬
-* **[How to Design an AI Agent That Survives Infrastructure Changes](https://dev.to/artem_a/how-to-design-an-ai-agent-that-survives-infrastructure-changes-3836)** — **3** 👍 · 0 💬
+* **[Hands-On with the New Amazon CloudFront Viewer mTLS Passthrough Mode](https://dev.to/aws-builders/hands-on-with-the-new-amazon-cloudfront-viewer-mtls-passthrough-mode-26a1)** — **4** 👍 · 0 💬
+* **[I Built NetPulse — A Lightweight Network Monitoring Tool with Python](https://dev.to/kmtech/i-built-netpulse-a-lightweight-network-monitoring-tool-with-python-hpb)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-14T23:57:54.649530+00:00 -->
+<!-- Log-ID: 2026-05-15T15:17:36.419103+00:00 -->
