@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-17 14:25 (UTC)
+📅 **Last Update:** 2026-05-17 18:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Metal and Skins](https://dev.to/codenameone/metal-and-skins-4e00)** — **5** 👍 · 0 💬
-* **[HTML for Beginners](https://dev.to/madhanraj/html-for-beginners-1hkn)** — **2** 👍 · 0 💬
-* **[Three Stabs at a Typed Schema DSL in Kotlin](https://dev.to/monom/three-stabs-at-a-typed-schema-dsl-in-kotlin-4b6n)** — **2** 👍 · 0 💬
+* **[🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10)** — **6** 👍 · 4 💬
+* **[Why Using new Thread() Is a Bad Idea in Production Java Code](https://dev.to/realnamehidden1_61/why-using-new-thread-is-a-bad-idea-in-production-java-code-9f5)** — **5** 👍 · 0 💬
+* **[Encapsulation](https://dev.to/s_sarumathi_a1de306480d33/encapsulation-2np2)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[I Built NetPulse — A Lightweight Network Monitoring Tool with Python](https://dev.to/kmtech/i-built-netpulse-a-lightweight-network-monitoring-tool-with-python-hpb)** — **1** 👍 · 0 💬
 * **[Forget IPv6 — I Simulated the Entire IPv8 Protocol in Python](https://dev.to/aleksei_aleinikov/forget-ipv6-i-simulated-the-entire-ipv8-protocol-in-python-29ea)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-17T14:25:42.798861+00:00 -->
+<!-- Log-ID: 2026-05-17T18:55:16.831621+00:00 -->
