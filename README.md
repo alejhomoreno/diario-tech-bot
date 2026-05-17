@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-16 23:53 (UTC)
+📅 **Last Update:** 2026-05-17 14:25 (UTC)
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[Another simple TCP chat in C#? Why not](https://dev.to/lukematt574/another-simple-tcp-chat-in-c-why-not-4ma0)** — **3** 👍 · 0 💬
 * **[Building Neural Shield: Lessons Learned from Creating an Open-Source AI-Powered Security Tool](https://dev.to/brapai/building-neural-shield-lessons-learned-from-creating-an-open-source-ai-powered-security-tool-3dhj)** — **1** 👍 · 0 💬
 * **[I Built NetPulse — A Lightweight Network Monitoring Tool with Python](https://dev.to/kmtech/i-built-netpulse-a-lightweight-network-monitoring-tool-with-python-hpb)** — **1** 👍 · 0 💬
+* **[Forget IPv6 — I Simulated the Entire IPv8 Protocol in Python](https://dev.to/aleksei_aleinikov/forget-ipv6-i-simulated-the-entire-ipv8-protocol-in-python-29ea)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-16T23:53:20.142608+00:00 -->
+<!-- Log-ID: 2026-05-17T14:25:42.798861+00:00 -->
