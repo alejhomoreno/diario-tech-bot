@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-17 23:58 (UTC)
+📅 **Last Update:** 2026-05-18 16:25 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Built an Open-Source Agent OS](https://dev.to/mihir_nmodi_14a06a4019e1/i-built-an-open-source-agent-os-2h30)** — **1** 👍 · 0 💬
-* **[Why your local LLM aces benchmarks but fails real terminal tasks](https://dev.to/alanwest/why-your-local-llm-aces-benchmarks-but-fails-real-terminal-tasks-1mm3)** — **0** 👍 · 0 💬
-* **[How to build a HIPAA-compliant CI/CD pipeline: a 2026 implementation guide](https://dev.to/stonebridgetechsolutions/how-to-build-a-hipaa-compliant-cicd-pipeline-a-2026-implementation-guide-aka)** — **0** 👍 · 0 💬
+* **[OpenSRE: Build Your Own AI Incident-Investigation Agent](https://dev.to/arshtechpro/opensre-build-your-own-ai-incident-investigation-agent-4ijd)** — **5** 👍 · 1 💬
+* **[Hybrid Cloud, Microservices, and Serverless: A Practical DevOps Guide](https://dev.to/nimesh_kulkarni_2f7a2057e/hybrid-cloud-microservices-and-serverless-a-practical-devops-guide-3bd5)** — **5** 👍 · 0 💬
+* **[Healthy systems are not the same as resilient systems](https://dev.to/apetryla/healthy-systems-are-not-the-same-as-resilient-systems-4a32)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Building Neural Shield: Lessons Learned from Creating an Open-Source AI-Powered Security Tool](https://dev.to/brapai/building-neural-shield-lessons-learned-from-creating-an-open-source-ai-powered-security-tool-3dhj)** — **1** 👍 · 0 💬
-* **[I Built NetPulse — A Lightweight Network Monitoring Tool with Python](https://dev.to/kmtech/i-built-netpulse-a-lightweight-network-monitoring-tool-with-python-hpb)** — **1** 👍 · 0 💬
-* **[Forget IPv6 — I Simulated the Entire IPv8 Protocol in Python](https://dev.to/aleksei_aleinikov/forget-ipv6-i-simulated-the-entire-ipv8-protocol-in-python-29ea)** — **1** 👍 · 0 💬
+* **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
+* **[Building BitTorrent from Scratch: What 2500 Lines of Modern C++ Can Do](https://dev.to/tyler_tan_13b1f742020d35a/building-bittorrent-from-scratch-what-2500-lines-of-modern-c-can-do-3hhn)** — **0** 👍 · 0 💬
+* **[whip-whep-android-chrome-findings](https://dev.to/jason_patrickshedden_ce2/whip-whep-android-chrome-findings-3fm9)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-17T23:58:04.449364+00:00 -->
+<!-- Log-ID: 2026-05-18T16:25:53.018929+00:00 -->
