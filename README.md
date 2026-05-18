@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-18 16:25 (UTC)
+📅 **Last Update:** 2026-05-18 19:26 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10)** — **6** 👍 · 4 💬
-* **[Why Using new Thread() Is a Bad Idea in Production Java Code](https://dev.to/realnamehidden1_61/why-using-new-thread-is-a-bad-idea-in-production-java-code-9f5)** — **5** 👍 · 0 💬
-* **[Encapsulation](https://dev.to/s_sarumathi_a1de306480d33/encapsulation-2np2)** — **1** 👍 · 0 💬
+* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 4 Provide MCP tools for Conference application via AgentCore Gateway](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-4-provide-mcp-tools-for-2odf)** — **2** 👍 · 0 💬
+* **[15 Production Incidents in a Healthcare Backend: FHIR Lessons](https://dev.to/shubham_bhati/15-production-incidents-in-a-healthcare-backend-fhir-lessons-3p7b)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
+* **[Jenkins as a Code, or how I stopped clicking around in the UI](https://dev.to/lanycrost/jenkins-as-a-code-or-how-i-stopped-clicking-around-in-the-ui-1nko)** — **5** 👍 · 1 💬
 * **[OpenSRE: Build Your Own AI Incident-Investigation Agent](https://dev.to/arshtechpro/opensre-build-your-own-ai-incident-investigation-agent-4ijd)** — **5** 👍 · 1 💬
-* **[Hybrid Cloud, Microservices, and Serverless: A Practical DevOps Guide](https://dev.to/nimesh_kulkarni_2f7a2057e/hybrid-cloud-microservices-and-serverless-a-practical-devops-guide-3bd5)** — **5** 👍 · 0 💬
 * **[Healthy systems are not the same as resilient systems](https://dev.to/apetryla/healthy-systems-are-not-the-same-as-resilient-systems-4a32)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[Building BitTorrent from Scratch: What 2500 Lines of Modern C++ Can Do](https://dev.to/tyler_tan_13b1f742020d35a/building-bittorrent-from-scratch-what-2500-lines-of-modern-c-can-do-3hhn)** — **0** 👍 · 0 💬
 * **[whip-whep-android-chrome-findings](https://dev.to/jason_patrickshedden_ce2/whip-whep-android-chrome-findings-3fm9)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-18T16:25:53.018929+00:00 -->
+<!-- Log-ID: 2026-05-18T19:26:08.998463+00:00 -->
