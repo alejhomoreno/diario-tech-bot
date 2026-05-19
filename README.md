@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-18 19:26 (UTC)
+📅 **Last Update:** 2026-05-19 00:07 (UTC)
 
 ---
 
@@ -30,7 +30,7 @@
 ## 🔖 Top Networking
 
 * **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
-* **[Building BitTorrent from Scratch: What 2500 Lines of Modern C++ Can Do](https://dev.to/tyler_tan_13b1f742020d35a/building-bittorrent-from-scratch-what-2500-lines-of-modern-c-can-do-3hhn)** — **0** 👍 · 0 💬
-* **[whip-whep-android-chrome-findings](https://dev.to/jason_patrickshedden_ce2/whip-whep-android-chrome-findings-3fm9)** — **0** 👍 · 0 💬
+* **[A Browser IPv4 CIDR Calculator — Three JavaScript Gotchas (uint32 Coercion, /0 Shift Trap, RFC 3021 /31)](https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m)** — **0** 👍 · 0 💬
+* **[🧭Diseñando VPCs en AWS: patrones reales (hub-spoke, mesh, multi-account).](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-18T19:26:08.998463+00:00 -->
+<!-- Log-ID: 2026-05-19T00:07:05.585536+00:00 -->
