@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-19 00:07 (UTC)
+📅 **Last Update:** 2026-05-19 16:22 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10)** — **6** 👍 · 4 💬
-* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 4 Provide MCP tools for Conference application via AgentCore Gateway](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-4-provide-mcp-tools-for-2odf)** — **2** 👍 · 0 💬
-* **[15 Production Incidents in a Healthcare Backend: FHIR Lessons](https://dev.to/shubham_bhati/15-production-incidents-in-a-healthcare-backend-fhir-lessons-3p7b)** — **1** 👍 · 0 💬
+* **[String in Java](https://dev.to/harini_magesh_fa40041cf8d/string-in-java-32nn)** — **2** 👍 · 0 💬
+* **[Head First Java](https://dev.to/geez_burger/head-first-java-357l)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Jenkins as a Code, or how I stopped clicking around in the UI](https://dev.to/lanycrost/jenkins-as-a-code-or-how-i-stopped-clicking-around-in-the-ui-1nko)** — **5** 👍 · 1 💬
-* **[OpenSRE: Build Your Own AI Incident-Investigation Agent](https://dev.to/arshtechpro/opensre-build-your-own-ai-incident-investigation-agent-4ijd)** — **5** 👍 · 1 💬
-* **[Healthy systems are not the same as resilient systems](https://dev.to/apetryla/healthy-systems-are-not-the-same-as-resilient-systems-4a32)** — **3** 👍 · 0 💬
+* **[Full AI Infrastructure Deployment on AWS: Architecture, Pipeline, and Production Setup](https://dev.to/nimay_04/full-ai-infrastructure-deployment-on-aws-architecture-pipeline-and-production-setup-42mp)** — **5** 👍 · 0 💬
+* **[The Log Management Cost Trap: Part III — Search](https://dev.to/bronto_io/the-log-management-cost-trap-part-iii-search-2lgo)** — **2** 👍 · 0 💬
+* **[My Alert System Fired for the First Time. The Engine Was Working Perfectly.](https://dev.to/mixa_dev/my-alert-system-fired-for-the-first-time-the-engine-was-working-perfectly-638)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[How to Configure Azure File Shares for Secure Enterprise File Storage](https://dev.to/forsyth_famous_/how-to-configure-azure-file-shares-for-secure-enterprise-file-storage-1hp4)** — **7** 👍 · 1 💬
 * **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
-* **[A Browser IPv4 CIDR Calculator — Three JavaScript Gotchas (uint32 Coercion, /0 Shift Trap, RFC 3021 /31)](https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m)** — **0** 👍 · 0 💬
-* **[🧭Diseñando VPCs en AWS: patrones reales (hub-spoke, mesh, multi-account).](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)** — **0** 👍 · 0 💬
+* **[A Browser IPv4 CIDR Calculator — Three JavaScript Gotchas (uint32 Coercion, /0 Shift Trap, RFC 3021 /31)](https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-19T00:07:05.585536+00:00 -->
+<!-- Log-ID: 2026-05-19T16:22:03.646891+00:00 -->
