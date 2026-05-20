@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-20 00:06 (UTC)
+📅 **Last Update:** 2026-05-20 16:28 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[String in Java](https://dev.to/harini_magesh_fa40041cf8d/string-in-java-32nn)** — **2** 👍 · 0 💬
 * **[Reverse-applying AI changes to obfuscated code: a 3-way merge that actually works](https://dev.to/genevieve_breton_cb795f52/reverse-applying-ai-changes-to-obfuscated-code-a-3-way-merge-that-actually-works-15gm)** — **1** 👍 · 0 💬
-* **[Head First Java](https://dev.to/geez_burger/head-first-java-357l)** — **1** 👍 · 0 💬
+* **[Difference Between StackOverflowError and OutOfMemoryError in Java](https://dev.to/tapaspal/difference-between-stackoverflowerror-and-outofmemoryerror-in-java-26h2)** — **1** 👍 · 0 💬
+* **[Galileo Gosling the father of Java](https://dev.to/geez_burger/galileo-gosling-the-father-of-java-1d07)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Full AI Infrastructure Deployment on AWS: Architecture, Pipeline, and Production Setup](https://dev.to/nimay_04/full-ai-infrastructure-deployment-on-aws-architecture-pipeline-and-production-setup-42mp)** — **5** 👍 · 0 💬
-* **[The CDN Logging Crisis](https://dev.to/bronto_io/the-cdn-logging-crisis-3d1g)** — **2** 👍 · 0 💬
-* **[I built a self-hosted Linux fleet manager with no database and zero pip dependencies](https://dev.to/tyxak/i-built-a-self-hosted-linux-fleet-manager-with-no-database-and-zero-pip-dependencies-12e1)** — **1** 👍 · 0 💬
+* **[Deploying Loki Log Aggregation System on Ubuntu 24.04](https://dev.to/vultr/deploying-loki-log-aggregation-system-on-ubuntu-2404-a7)** — **5** 👍 · 0 💬
+* **[Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)** — **5** 👍 · 0 💬
+* **[Deploying Mimir Scalable Metrics Storage on Ubuntu 24.04](https://dev.to/vultr/deploying-mimir-scalable-metrics-storage-on-ubuntu-2404-39gf)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)** — **5** 👍 · 0 💬
 * **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
 * **[ASN Lookup for Security Engineers: From Concept to Code](https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn)** — **1** 👍 · 0 💬
-* **[A Browser IPv4 CIDR Calculator — Three JavaScript Gotchas (uint32 Coercion, /0 Shift Trap, RFC 3021 /31)](https://dev.to/sendotltd/a-browser-ipv4-cidr-calculator-three-javascript-gotchas-uint32-coercion-0-shift-trap-rfc-3021-5h1m)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-20T00:06:43.293164+00:00 -->
+<!-- Log-ID: 2026-05-20T16:28:18.700745+00:00 -->
