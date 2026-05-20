@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-20 16:28 (UTC)
+📅 **Last Update:** 2026-05-20 20:02 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Deploying Loki Log Aggregation System on Ubuntu 24.04](https://dev.to/vultr/deploying-loki-log-aggregation-system-on-ubuntu-2404-a7)** — **5** 👍 · 0 💬
-* **[Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)** — **5** 👍 · 0 💬
-* **[Deploying Mimir Scalable Metrics Storage on Ubuntu 24.04](https://dev.to/vultr/deploying-mimir-scalable-metrics-storage-on-ubuntu-2404-39gf)** — **5** 👍 · 0 💬
+* **[I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)** — **16** 👍 · 6 💬
+* **[I Lost a Client's Database on a $5 VPS. Here's the 12-Line Script That Would Have Saved It.](https://dev.to/bashsnippets/i-lost-a-clients-database-on-a-5-vps-heres-the-12-line-script-that-would-have-saved-it-3j9j)** — **5** 👍 · 1 💬
+* **[Deploying Tempo Distributed Tracing Backend on Ubuntu 24.04](https://dev.to/vultr/deploying-tempo-distributed-tracing-backend-on-ubuntu-2404-32kl)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
 * **[ASN Lookup for Security Engineers: From Concept to Code](https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-20T16:28:18.700745+00:00 -->
+<!-- Log-ID: 2026-05-20T20:02:38.445754+00:00 -->
