@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-21 00:07 (UTC)
+📅 **Last Update:** 2026-05-21 16:15 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Reverse-applying AI changes to obfuscated code: a 3-way merge that actually works](https://dev.to/genevieve_breton_cb795f52/reverse-applying-ai-changes-to-obfuscated-code-a-3-way-merge-that-actually-works-15gm)** — **1** 👍 · 0 💬
-* **[Difference Between StackOverflowError and OutOfMemoryError in Java](https://dev.to/tapaspal/difference-between-stackoverflowerror-and-outofmemoryerror-in-java-26h2)** — **1** 👍 · 0 💬
-* **[Galileo Gosling the father of Java](https://dev.to/geez_burger/galileo-gosling-the-father-of-java-1d07)** — **1** 👍 · 0 💬
+* **[Software Engineer Skills Companies Want in 2026: 48K-Posting Analysis](https://dev.to/gnana_6392e836fd500a957dc/software-engineer-skills-companies-want-in-2026-48k-posting-analysis-2i61)** — **5** 👍 · 0 💬
+* **[Past the JVM](https://dev.to/geez_burger/under-the-coffee-mug-hood-1g74)** — **2** 👍 · 0 💬
+* **[Testing and Debugging MCP](https://dev.to/pedrop3/testing-and-debugging-mcp-2i53)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)** — **17** 👍 · 7 💬
-* **[I Lost a Client's Database on a $5 VPS. Here's the 12-Line Script That Would Have Saved It.](https://dev.to/bashsnippets/i-lost-a-clients-database-on-a-5-vps-heres-the-12-line-script-that-would-have-saved-it-3j9j)** — **5** 👍 · 2 💬
-* **[Deploying Tempo Distributed Tracing Backend on Ubuntu 24.04](https://dev.to/vultr/deploying-tempo-distributed-tracing-backend-on-ubuntu-2404-32kl)** — **5** 👍 · 0 💬
+* **[I decided to build a Kubernetes alternative. Yes, I know I'm crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)** — **27** 👍 · 13 💬
+* **[Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess](https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o)** — **5** 👍 · 0 💬
+* **[How I Practice Cloud and DevOps Labs Without Expensive Setup](https://dev.to/vijaymanda06/how-i-practice-cloud-and-devops-labs-without-expensive-setup-1hom)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Deploying Technitium DNS Server Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-technitium-dns-server-platform-on-ubuntu-2404-99d)** — **5** 👍 · 0 💬
-* **[C# Networking Deep Dive with io_uring part 4 - Zero Copy Receive](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-4-zero-copy-receive-4li)** — **2** 👍 · 0 💬
+* **[Visual Guide to TCP at the Transport Layer](https://dev.to/knkrn5/visual-guide-to-tcp-at-the-transport-layer-dn7)** — **1** 👍 · 0 💬
 * **[ASN Lookup for Security Engineers: From Concept to Code](https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-21T00:07:24.718449+00:00 -->
+<!-- Log-ID: 2026-05-21T16:15:28.658959+00:00 -->
