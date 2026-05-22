@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-22 00:02 (UTC)
+📅 **Last Update:** 2026-05-22 15:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Software Engineer Skills Companies Want in 2026: 48K-Posting Analysis](https://dev.to/gnana_6392e836fd500a957dc/software-engineer-skills-companies-want-in-2026-48k-posting-analysis-2i61)** — **5** 👍 · 0 💬
-* **[Past the JVM](https://dev.to/geez_burger/under-the-coffee-mug-hood-1g74)** — **2** 👍 · 0 💬
 * **[JWT vs Session Tokens in Spring Boot: A Senior Dev's Decision Guide](https://dev.to/kharonte/jwt-vs-session-tokens-in-spring-boot-a-senior-devs-decision-guide-380n)** — **1** 👍 · 1 💬
+* **[I built a crowdsourced deals + map app for Vietnam in 6 months — stack, traffic, and what broke](https://dev.to/daohieu91/i-built-a-crowdsourced-deals-map-app-for-vietnam-in-6-months-stack-traffic-and-what-broke-5ac7)** — **1** 👍 · 0 💬
+* **[You can't see me](https://dev.to/geez_burger/you-cant-see-me-1gfl)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Azure DevOps Structure Explained: Organizations, Projects, and Repos Without the Mess](https://dev.to/nimay_04/azure-devops-structure-explained-organizations-projects-and-repos-without-the-mess-156o)** — **5** 👍 · 0 💬
-* **[BrontoScope: AI-Powered Error Investigations](https://dev.to/bronto_io/brontoscope-ai-powered-error-investigations-451c)** — **3** 👍 · 0 💬
-* **[Your LLM Logs Deserve Better — Send Claude Code Events to Bronto](https://dev.to/bronto_io/your-llm-logs-deserve-better-send-claude-code-events-to-bronto-1nmk)** — **2** 👍 · 0 💬
+* **[DevOps vs MLOps vs AIOps: What Changes, What Stays, and a Simple Roadmap to Get Started](https://dev.to/nimay_04/devops-vs-mlops-vs-aiops-what-changes-what-stays-and-a-simple-roadmap-to-get-started-4n6g)** — **5** 👍 · 0 💬
+* **[I Inherited 47,000 Lines of Terraform Spaghetti — Here's How I Untangled It Without Burning Production](https://dev.to/sanjaysundarmurthy/i-inherited-47000-lines-of-terraform-spaghetti-heres-how-i-untangled-it-without-burning-1oh5)** — **4** 👍 · 0 💬
+* **[CI/CD for Salesforce Using GitHub Actions](https://dev.to/pranav_bharti/cicd-for-salesforce-using-github-actions-g1b)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Visual Guide to TCP at the Transport Layer](https://dev.to/knkrn5/visual-guide-to-tcp-at-the-transport-layer-dn7)** — **1** 👍 · 0 💬
 * **[ASN Lookup for Security Engineers: From Concept to Code](https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-22T00:02:32.429017+00:00 -->
+<!-- Log-ID: 2026-05-22T15:49:10.262500+00:00 -->
