@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-22 15:49 (UTC)
+📅 **Last Update:** 2026-05-22 19:23 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[JWT vs Session Tokens in Spring Boot: A Senior Dev's Decision Guide](https://dev.to/kharonte/jwt-vs-session-tokens-in-spring-boot-a-senior-devs-decision-guide-380n)** — **1** 👍 · 1 💬
+* **[Difference Between @PathVariable and @RequestParam](https://dev.to/aj_arul/difference-between-pathvariable-and-requestparam-3d3i)** — **1** 👍 · 0 💬
 * **[I built a crowdsourced deals + map app for Vietnam in 6 months — stack, traffic, and what broke](https://dev.to/daohieu91/i-built-a-crowdsourced-deals-map-app-for-vietnam-in-6-months-stack-traffic-and-what-broke-5ac7)** — **1** 👍 · 0 💬
 * **[You can't see me](https://dev.to/geez_burger/you-cant-see-me-1gfl)** — **1** 👍 · 0 💬
 
@@ -33,4 +33,4 @@
 * **[Visual Guide to TCP at the Transport Layer](https://dev.to/knkrn5/visual-guide-to-tcp-at-the-transport-layer-dn7)** — **1** 👍 · 0 💬
 * **[ASN Lookup for Security Engineers: From Concept to Code](https://dev.to/abdullah_afzal/asn-lookup-for-security-engineers-from-concept-to-code-26fn)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-22T15:49:10.262500+00:00 -->
+<!-- Log-ID: 2026-05-22T19:23:58.794683+00:00 -->
