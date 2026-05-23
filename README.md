@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-23 18:57 (UTC)
+📅 **Last Update:** 2026-05-23 23:58 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Deployed Netflix's Web Server in 30 Seconds (And So Can You) - Docker Project 1](https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1)** — **6** 👍 · 0 💬
 * **[From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP](https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3)** — **5** 👍 · 0 💬
-* **[Your AI Writes Code Fast. Here’s How to Check It Before Shipping](https://dev.to/benjamin_tetteh/your-ai-writes-code-fast-heres-how-to-check-it-before-shipping-24cj)** — **2** 👍 · 0 💬
+* **[Getting Claude Code off my laptop and onto shared compute](https://dev.to/aws-heroes/getting-claude-code-off-my-laptop-and-onto-shared-compute-4cjc)** — **3** 👍 · 0 💬
+* **[🌿 Git Mastery: The Complete Developer Guide](https://dev.to/oketch/git-mastery-the-complete-developer-guide-2n7j)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What happens when you send an Ethernet frame? I wrote 289 lessons to find out.](https://dev.to/tanayk07/what-happens-when-you-send-an-ethernet-frame-i-wrote-289-lessons-to-find-out-2eoh)** — **0** 👍 · 0 💬
 * **[I built a Redis clone in C: From blocking I/O to epoll to crash safe persistence](https://dev.to/sandeshojha/i-built-a-redis-clone-in-c-from-blocking-io-to-epoll-to-crash-safe-persistence-4imh)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-23T18:57:53.780225+00:00 -->
+<!-- Log-ID: 2026-05-23T23:58:03.726624+00:00 -->
