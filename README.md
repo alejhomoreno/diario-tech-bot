@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-24 14:24 (UTC)
+📅 **Last Update:** 2026-05-24 19:03 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
-* **[AI Won’t Replace Developers. Weak Thinking Will.](https://dev.to/jaideepparashar/ai-wont-replace-developers-weak-thinking-will-fee)** — **9** 👍 · 1 💬
 * **[Getting Claude Code off my laptop and onto shared compute](https://dev.to/aws-heroes/getting-claude-code-off-my-laptop-and-onto-shared-compute-4cjc)** — **6** 👍 · 1 💬
+* **[eBPF From Scratch: from the eBPF VM to writing your own tools (tested on a live Cilium cluster)](https://dev.to/aws-builders/ebpf-from-scratch-from-the-ebpf-vm-to-writing-your-own-tools-tested-on-a-live-cilium-cluster-3373)** — **3** 👍 · 0 💬
 * **[AWS DevOps Agent + CDK Python: Building a Real Agentic SRE From Scratch (No Splunk, No 3 Accounts)](https://dev.to/mohammed_anes_6652d05cab7/aws-devops-agent-cdk-python-building-a-real-agentic-sre-from-scratch-no-splunk-no-3-accounts-5efb)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[Why is VLAN Segmentation Overhyped in Small Networks?](https://dev.to/merbayerp/why-is-vlan-segmentation-overhyped-in-small-networks-5d1a)** — **0** 👍 · 0 💬
 * **[Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels](https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-24T14:24:59.406712+00:00 -->
+<!-- Log-ID: 2026-05-24T19:03:47.381242+00:00 -->
