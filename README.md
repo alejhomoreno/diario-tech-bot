@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-23 23:58 (UTC)
+📅 **Last Update:** 2026-05-24 14:24 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Polymorphism](https://dev.to/geremi-me/polymorphism-3fo7)** — **3** 👍 · 0 💬
-* **[Ai agent are increasing on a daily routine, where are we going?](https://dev.to/abraham_airco_9d41538/ai-agent-are-increasing-on-a-daily-routine-where-are-we-going-19j8)** — **1** 👍 · 0 💬
-* **[Difference Between @PathVariable and @RequestParam](https://dev.to/aj_arul/difference-between-pathvariable-and-requestparam-3d3i)** — **1** 👍 · 0 💬
+* **[The race condition a stress test found in my double-entry ledger — and how I fixed it](https://dev.to/xidoke/the-race-condition-a-stress-test-found-in-my-double-entry-ledger-and-how-i-fixed-it-b5o)** — **1** 👍 · 0 💬
+* **[Java Records Deserve a Mapper Built for Them](https://dev.to/dinuka_karunarathna/java-records-deserve-a-mapper-built-for-them-302e)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[From YAML to AI Agents: Building Smarter DevOps Pipelines with MCP](https://dev.to/nimay_04/from-yaml-to-ai-agents-building-smarter-devops-pipelines-with-mcp-3go3)** — **5** 👍 · 0 💬
-* **[Getting Claude Code off my laptop and onto shared compute](https://dev.to/aws-heroes/getting-claude-code-off-my-laptop-and-onto-shared-compute-4cjc)** — **3** 👍 · 0 💬
-* **[🌿 Git Mastery: The Complete Developer Guide](https://dev.to/oketch/git-mastery-the-complete-developer-guide-2n7j)** — **1** 👍 · 0 💬
+* **[AI Won’t Replace Developers. Weak Thinking Will.](https://dev.to/jaideepparashar/ai-wont-replace-developers-weak-thinking-will-fee)** — **9** 👍 · 1 💬
+* **[Getting Claude Code off my laptop and onto shared compute](https://dev.to/aws-heroes/getting-claude-code-off-my-laptop-and-onto-shared-compute-4cjc)** — **6** 👍 · 1 💬
+* **[AWS DevOps Agent + CDK Python: Building a Real Agentic SRE From Scratch (No Splunk, No 3 Accounts)](https://dev.to/mohammed_anes_6652d05cab7/aws-devops-agent-cdk-python-building-a-real-agentic-sre-from-scratch-no-splunk-no-3-accounts-5efb)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Visual Guide to TCP at the Transport Layer](https://dev.to/knkrn5/visual-guide-to-tcp-at-the-transport-layer-dn7)** — **1** 👍 · 0 💬
-* **[What happens when you send an Ethernet frame? I wrote 289 lessons to find out.](https://dev.to/tanayk07/what-happens-when-you-send-an-ethernet-frame-i-wrote-289-lessons-to-find-out-2eoh)** — **0** 👍 · 0 💬
-* **[I built a Redis clone in C: From blocking I/O to epoll to crash safe persistence](https://dev.to/sandeshojha/i-built-a-redis-clone-in-c-from-blocking-io-to-epoll-to-crash-safe-persistence-4imh)** — **0** 👍 · 0 💬
+* **[Entrei pra fazer networking, mas não imaginava o que ia encontrar...](https://dev.to/vitoriazzp/entrei-pra-fazer-networking-mas-nao-imaginava-o-que-ia-encontrar-4b57)** — **13** 👍 · 1 💬
+* **[Why is VLAN Segmentation Overhyped in Small Networks?](https://dev.to/merbayerp/why-is-vlan-segmentation-overhyped-in-small-networks-5d1a)** — **0** 👍 · 0 💬
+* **[Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels](https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-23T23:58:03.726624+00:00 -->
+<!-- Log-ID: 2026-05-24T14:24:59.406712+00:00 -->
