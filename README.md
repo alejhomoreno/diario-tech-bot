@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-25 15:52 (UTC)
+📅 **Last Update:** 2026-05-25 19:16 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Microsoft Foundry Just Added CI/CD for AI Agents. Here's What That Actually Changes.](https://dev.to/om_shree_0709/microsoft-foundry-just-added-cicd-for-ai-agents-heres-what-that-actually-changes-2k5p)** — **11** 👍 · 1 💬
+* **[Microsoft Foundry Just Added CI/CD for AI Agents. Here's What That Actually Changes.](https://dev.to/om_shree_0709/microsoft-foundry-just-added-cicd-for-ai-agents-heres-what-that-actually-changes-2k5p)** — **11** 👍 · 2 💬
 * **[Looking for 4 people to build something weird with me](https://dev.to/casperday11/looking-for-4-people-to-build-something-weird-with-me-2bgl)** — **5** 👍 · 0 💬
-* **[Safety Model First: 16-Tool Ops MCP, One Day](https://dev.to/jeremy_longshore/safety-model-first-16-tool-ops-mcp-one-day-36b5)** — **1** 👍 · 0 💬
+* **[Feature Flags That Forgot to Leave](https://dev.to/tacoda/feature-flags-that-forgot-to-leave-4a0o)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Create and configure virtual networks](https://dev.to/rahimah_dev/create-and-configure-virtual-networks-14nl)** — **6** 👍 · 2 💬
+* **[Create and configure virtual networks](https://dev.to/rahimah_dev/create-and-configure-virtual-networks-14nl)** — **9** 👍 · 3 💬
+* **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
 * **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
-* **[Building a Privacy-First Self-Hosted Network Diagnostic Tool](https://dev.to/nnt25/building-a-privacy-first-self-hosted-network-diagnostic-tool-2ppj)** — **1** 👍 · 2 💬
 
-<!-- Log-ID: 2026-05-25T15:52:19.776844+00:00 -->
+<!-- Log-ID: 2026-05-25T19:16:05.191586+00:00 -->
