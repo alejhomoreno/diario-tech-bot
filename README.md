@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-26 00:05 (UTC)
+📅 **Last Update:** 2026-05-26 16:43 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Polymorphism](https://dev.to/geremi-me/polymorphism-3fo7)** — **3** 👍 · 0 💬
-* **[The race condition a stress test found in my double-entry ledger — and how I fixed it](https://dev.to/xidoke/the-race-condition-a-stress-test-found-in-my-double-entry-ledger-and-how-i-fixed-it-b5o)** — **1** 👍 · 0 💬
-* **[Java Records Deserve a Mapper Built for Them](https://dev.to/dinuka_karunarathna/java-records-deserve-a-mapper-built-for-them-302e)** — **1** 👍 · 0 💬
+* **[Annotations in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/annotations-in-spring-boot-1a27)** — **3** 👍 · 0 💬
+* **[Java Isn’t Just a Language — It’s an Ecosystem](https://dev.to/hariharan_sj_2003/java-isnt-just-a-language-its-an-ecosystem-1o62)** — **2** 👍 · 0 💬
+* **[Spring Native + Cloud Run : cold-start 18, RAM 3, facture à 0 FCFA](https://dev.to/bangaromaric/spring-native-cloud-run-cold-start-18-ram-3-facture-a-0-fcfa-fc7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Microsoft Foundry Just Added CI/CD for AI Agents. Here's What That Actually Changes.](https://dev.to/om_shree_0709/microsoft-foundry-just-added-cicd-for-ai-agents-heres-what-that-actually-changes-2k5p)** — **11** 👍 · 2 💬
-* **[Looking for 4 people to build something weird with me](https://dev.to/casperday11/looking-for-4-people-to-build-something-weird-with-me-2bgl)** — **5** 👍 · 0 💬
-* **[Feature Flags That Forgot to Leave](https://dev.to/tacoda/feature-flags-that-forgot-to-leave-4a0o)** — **1** 👍 · 0 💬
+* **[I Built a Free AI Tool to Design Tesla Wraps and Preview Them in 3D — 4K+ Users, 7600+ Generated Designs, and My First Revenue](https://dev.to/aman_mehra_aa96c57789f2f6/i-built-a-free-ai-tool-to-design-tesla-wraps-and-preview-them-in-3d-2000-users-3700-39kj)** — **5** 👍 · 0 💬
+* **[Human-on-the-Loop: AI Reviewing AI PRs at cortex (769 PRs/month, while raising the quality bar)](https://dev.to/ryantsuji/human-on-the-loop-ai-reviewing-ai-prs-at-cortex-769-prsmonth-while-raising-the-quality-bar-4lh5)** — **2** 👍 · 0 💬
+* **[Building Production-Ready AI Systems: What Most Developers Learn Too Late](https://dev.to/naresh_chandralohani/building-production-ready-ai-systems-what-most-developers-learn-too-late-10ij)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Entrei pra fazer networking, mas não imaginava o que ia encontrar...](https://dev.to/vitoriazzp/entrei-pra-fazer-networking-mas-nao-imaginava-o-que-ia-encontrar-4b57)** — **13** 👍 · 1 💬
-* **[Why is VLAN Segmentation Overhyped in Small Networks?](https://dev.to/merbayerp/why-is-vlan-segmentation-overhyped-in-small-networks-5d1a)** — **0** 👍 · 0 💬
-* **[Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels](https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5)** — **0** 👍 · 0 💬
+* **[Create and configure virtual networks](https://dev.to/rahimah_dev/create-and-configure-virtual-networks-14nl)** — **9** 👍 · 3 💬
+* **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
+* **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-26T00:05:39.661886+00:00 -->
+<!-- Log-ID: 2026-05-26T16:43:01.067237+00:00 -->
