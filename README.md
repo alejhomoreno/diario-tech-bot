@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-25 19:16 (UTC)
+📅 **Last Update:** 2026-05-26 00:05 (UTC)
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[Create and configure virtual networks](https://dev.to/rahimah_dev/create-and-configure-virtual-networks-14nl)** — **9** 👍 · 3 💬
-* **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
-* **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
+* **[Entrei pra fazer networking, mas não imaginava o que ia encontrar...](https://dev.to/vitoriazzp/entrei-pra-fazer-networking-mas-nao-imaginava-o-que-ia-encontrar-4b57)** — **13** 👍 · 1 💬
+* **[Why is VLAN Segmentation Overhyped in Small Networks?](https://dev.to/merbayerp/why-is-vlan-segmentation-overhyped-in-small-networks-5d1a)** — **0** 👍 · 0 💬
+* **[Beyond HTTP: Exposing WebRTC and Local Game Servers via UDP Tunnels](https://dev.to/instatunnel/beyond-http-exposing-webrtc-and-local-game-servers-via-udp-tunnels-5ak5)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-25T19:16:05.191586+00:00 -->
+<!-- Log-ID: 2026-05-26T00:05:39.661886+00:00 -->
