@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-26 16:43 (UTC)
+📅 **Last Update:** 2026-05-26 19:58 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Annotations in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/annotations-in-spring-boot-1a27)** — **3** 👍 · 0 💬
 * **[Java Isn’t Just a Language — It’s an Ecosystem](https://dev.to/hariharan_sj_2003/java-isnt-just-a-language-its-an-ecosystem-1o62)** — **2** 👍 · 0 💬
-* **[Spring Native + Cloud Run : cold-start 18, RAM 3, facture à 0 FCFA](https://dev.to/bangaromaric/spring-native-cloud-run-cold-start-18-ram-3-facture-a-0-fcfa-fc7)** — **1** 👍 · 0 💬
+* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 5 Deploy MCP client for Conference application on AgentCore Runtime](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-5-deploy-mcp-client-for-1n11)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Built a Free AI Tool to Design Tesla Wraps and Preview Them in 3D — 4K+ Users, 7600+ Generated Designs, and My First Revenue](https://dev.to/aman_mehra_aa96c57789f2f6/i-built-a-free-ai-tool-to-design-tesla-wraps-and-preview-them-in-3d-2000-users-3700-39kj)** — **5** 👍 · 0 💬
+* **[I Built a REST Microservice With a Database in 3 Files — and Wrote Zero Code](https://dev.to/mdenda/i-built-a-rest-microservice-with-a-database-in-3-files-and-wrote-zero-code-59c2)** — **2** 👍 · 1 💬
 * **[Human-on-the-Loop: AI Reviewing AI PRs at cortex (769 PRs/month, while raising the quality bar)](https://dev.to/ryantsuji/human-on-the-loop-ai-reviewing-ai-prs-at-cortex-769-prsmonth-while-raising-the-quality-bar-4lh5)** — **2** 👍 · 0 💬
-* **[Building Production-Ready AI Systems: What Most Developers Learn Too Late](https://dev.to/naresh_chandralohani/building-production-ready-ai-systems-what-most-developers-learn-too-late-10ij)** — **1** 👍 · 1 💬
+* **[Introduction to A2A and Agent Search](https://dev.to/bronto_io/introduction-to-a2a-and-agent-search-2lj2)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
 * **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-26T16:43:01.067237+00:00 -->
+<!-- Log-ID: 2026-05-26T19:58:00.906394+00:00 -->
