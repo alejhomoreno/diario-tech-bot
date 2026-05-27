@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-26 19:58 (UTC)
+📅 **Last Update:** 2026-05-27 00:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Annotations in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/annotations-in-spring-boot-1a27)** — **3** 👍 · 0 💬
-* **[Java Isn’t Just a Language — It’s an Ecosystem](https://dev.to/hariharan_sj_2003/java-isnt-just-a-language-its-an-ecosystem-1o62)** — **2** 👍 · 0 💬
-* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 5 Deploy MCP client for Conference application on AgentCore Runtime](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-5-deploy-mcp-client-for-1n11)** — **1** 👍 · 0 💬
+* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 5 Deploy MCP client for Conference application on AgentCore Runtime](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-5-deploy-mcp-client-for-1n11)** — **2** 👍 · 0 💬
+* **[Run your first AI agent in Java — for free, with Mistral](https://dev.to/asekka/run-your-first-ai-agent-in-java-for-free-with-mistral-3dhj)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Built a REST Microservice With a Database in 3 Files — and Wrote Zero Code](https://dev.to/mdenda/i-built-a-rest-microservice-with-a-database-in-3-files-and-wrote-zero-code-59c2)** — **2** 👍 · 1 💬
-* **[Human-on-the-Loop: AI Reviewing AI PRs at cortex (769 PRs/month, while raising the quality bar)](https://dev.to/ryantsuji/human-on-the-loop-ai-reviewing-ai-prs-at-cortex-769-prsmonth-while-raising-the-quality-bar-4lh5)** — **2** 👍 · 0 💬
-* **[Introduction to A2A and Agent Search](https://dev.to/bronto_io/introduction-to-a2a-and-agent-search-2lj2)** — **2** 👍 · 0 💬
+* **[Deploying GitLab CE DevOps Management Suite on Ubuntu 24.04](https://dev.to/vultr/deploying-gitlab-ce-devops-management-suite-on-ubuntu-2404-595i)** — **5** 👍 · 0 💬
+* **[Deploying OpenWebUI Local AI Interface on Ubuntu 24.04](https://dev.to/vultr/deploying-openwebui-local-ai-interface-on-ubuntu-2404-553d)** — **5** 👍 · 0 💬
+* **[Deploying MongoDB NoSQL Document Database on Ubuntu 24.04](https://dev.to/vultr/deploying-mongodb-nosql-document-database-on-ubuntu-2404-15c3)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
 * **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-26T19:58:00.906394+00:00 -->
+<!-- Log-ID: 2026-05-27T00:04:39.007657+00:00 -->
