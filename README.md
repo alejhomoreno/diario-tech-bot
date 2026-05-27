@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-27 00:04 (UTC)
+📅 **Last Update:** 2026-05-27 16:39 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Annotations in Spring Boot](https://dev.to/vidya_cdd37fca763a53a10e2/annotations-in-spring-boot-1a27)** — **3** 👍 · 0 💬
-* **[Building AI Agents with Spring AI and Amazon Bedrock AgentCore - Part 5 Deploy MCP client for Conference application on AgentCore Runtime](https://dev.to/aws-heroes/building-ai-agents-with-spring-ai-and-amazon-bedrock-agentcore-part-5-deploy-mcp-client-for-1n11)** — **2** 👍 · 0 💬
-* **[Run your first AI agent in Java — for free, with Mistral](https://dev.to/asekka/run-your-first-ai-agent-in-java-for-free-with-mistral-3dhj)** — **2** 👍 · 0 💬
+* **[Object-Oriented Programming (OOPs) in Java](https://dev.to/kathirvel-s/object-oriented-programming-oops-in-java-1noa)** — **3** 👍 · 0 💬
+* **[Becoming a Full Stack Developer with Java](https://dev.to/vinayagam_6a170db9281d526/becoming-a-full-stack-developer-with-java-2ac8)** — **3** 👍 · 0 💬
+* **[The One Concept That Powers Every Java Application](https://dev.to/hariharan_sj_2003/the-one-concept-that-powers-every-java-application-3p3o)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Deploying GitLab CE DevOps Management Suite on Ubuntu 24.04](https://dev.to/vultr/deploying-gitlab-ce-devops-management-suite-on-ubuntu-2404-595i)** — **5** 👍 · 0 💬
-* **[Deploying OpenWebUI Local AI Interface on Ubuntu 24.04](https://dev.to/vultr/deploying-openwebui-local-ai-interface-on-ubuntu-2404-553d)** — **5** 👍 · 0 💬
-* **[Deploying MongoDB NoSQL Document Database on Ubuntu 24.04](https://dev.to/vultr/deploying-mongodb-nosql-document-database-on-ubuntu-2404-15c3)** — **5** 👍 · 0 💬
+* **[SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?](https://dev.to/sualeh/schemaspy-vs-schemacrawler-which-database-documentation-tool-is-right-for-you-3do9)** — **5** 👍 · 2 💬
+* **[Human-on-the-Loop: AI Reviewing AI PRs at cortex (769 PRs/month, while raising the quality bar)](https://dev.to/ryantsuji/human-on-the-loop-ai-reviewing-ai-prs-at-cortex-769-prsmonth-while-raising-the-quality-bar-4lh5)** — **2** 👍 · 0 💬
+* **[Introduction to A2A and Agent Search](https://dev.to/bronto_io/introduction-to-a2a-and-agent-search-2lj2)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Create and configure virtual networks](https://dev.to/rahimah_dev/create-and-configure-virtual-networks-14nl)** — **9** 👍 · 3 💬
 * **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
-* **[C# Networking Deep Dive with io_uring part 5 - Threadpool Rant](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-5-threadpool-rant-b6a)** — **2** 👍 · 0 💬
+* **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
+* **[Create DNS zones and configure DNS settings](https://dev.to/rahimah_dev/create-dns-zones-and-configure-dns-settings-18a7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-27T00:04:39.007657+00:00 -->
+<!-- Log-ID: 2026-05-27T16:39:01.541930+00:00 -->
