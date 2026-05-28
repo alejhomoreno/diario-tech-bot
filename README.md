@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-28 16:54 (UTC)
+📅 **Last Update:** 2026-05-28 20:06 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Treat AI Coding Agents Like Untrusted Interns: A Practical Sandbox Checklist](https://dev.to/nimay_04/treat-ai-coding-agents-like-untrusted-interns-a-practical-sandbox-checklist-39eg)** — **5** 👍 · 1 💬
+* **[I had to restore an entire database just to recover one deleted row](https://dev.to/huangfei_dev/i-had-to-restore-an-entire-database-just-to-recover-one-deleted-row-1d0i)** — **1** 👍 · 1 💬
 * **[Unlocking Insights with Observability: My Journey with OpenTelemetry](https://dev.to/naveenmalothu/unlocking-insights-with-observability-my-journey-with-opentelemetry-27fe)** — **1** 👍 · 1 💬
-* **[Azure Container Apps Express: The Agent-First Platform You've Been Waiting For](https://dev.to/bspann/azure-container-apps-express-the-agent-first-platform-youve-been-waiting-for-2opf)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
 * **[Create DNS zones and configure DNS settings](https://dev.to/rahimah_dev/create-dns-zones-and-configure-dns-settings-18a7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-28T16:54:26.213472+00:00 -->
+<!-- Log-ID: 2026-05-28T20:06:24.925243+00:00 -->
