@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-29 16:41 (UTC)
+📅 **Last Update:** 2026-05-29 20:09 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Lifestyle / Wellness](https://dev.to/yu_yang_f26414a1d7a176c97/lifestyle-wellness-4b67)** — **5** 👍 · 0 💬
+* **[The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k)** — **7** 👍 · 1 💬
 * **[How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)** — **3** 👍 · 0 💬
-* **[OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)** — **1** 👍 · 5 💬
+* **[How to Migrate from Docker Compose to Kubernetes: A Practical Guide](https://dev.to/tiago_luz_b69b42ea3ef729f/how-to-migrate-from-docker-compose-to-kubernetes-a-practical-guide-83a)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[HTTP & HTTPS](https://dev.to/gouranga-das-khulna/http-https-45m6)** — **1** 👍 · 0 💬
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-29T16:41:51.592843+00:00 -->
+<!-- Log-ID: 2026-05-29T20:09:17.037094+00:00 -->
