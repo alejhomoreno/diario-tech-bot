@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-29 00:11 (UTC)
+📅 **Last Update:** 2026-05-29 16:41 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)** — **1** 👍 · 0 💬
-* **[FiXiY - Find X in Y](https://dev.to/xerohero/fixiy-find-x-in-y-49k5)** — **0** 👍 · 1 💬
-* **[Decoding the Observability Pipeline: A Java Architect's Guide to Metrics, Logs, and Traces](https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e)** — **0** 👍 · 0 💬
+* **[Linked Lists — The Chain You'll See in Every Interview](https://dev.to/gihan_sewwanda_047700a86a/linked-lists-the-chain-youll-see-in-every-interview-12p6)** — **3** 👍 · 0 💬
+* **[Strong Java Starts with Strong Fundamentals](https://dev.to/hariharan_sj_2003/strong-java-starts-with-strong-fundamentals-10ke)** — **3** 👍 · 0 💬
+* **[Why Objects Are Passed as Arguments in Java – Complete Guide for Beginners](https://dev.to/harini_magesh_fa40041cf8d/why-objects-are-passed-as-arguments-in-java-complete-guide-for-beginners-2kib)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I had to restore an entire database just to recover one deleted row](https://dev.to/huangfei_dev/i-had-to-restore-an-entire-database-just-to-recover-one-deleted-row-1d0i)** — **1** 👍 · 1 💬
-* **[The x3.16 Developer | Part 1](https://dev.to/amirarad/the-x316-developer-part-1-2jc4)** — **1** 👍 · 0 💬
-* **[Azure Container Apps Express: The Agent-First Platform You've Been Waiting For](https://dev.to/bspann/azure-container-apps-express-the-agent-first-platform-youve-been-waiting-for-2opf)** — **1** 👍 · 0 💬
+* **[Lifestyle / Wellness](https://dev.to/yu_yang_f26414a1d7a176c97/lifestyle-wellness-4b67)** — **5** 👍 · 0 💬
+* **[How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)** — **3** 👍 · 0 💬
+* **[OpenAI vs Anthropic vs Bedrock vs Vertex vs Gemini: True per-token cost in 2026](https://dev.to/muskan_8abedcc7e12/true-per-token-llm-cost-in-2026-5-providers-compared-1kgp)** — **1** 👍 · 5 💬
 
 ## 🔖 Top Networking
 
-* **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)** — **2** 👍 · 0 💬
+* **[TCP vs UDP: Key Differences, Ports, and When to Use Each](https://dev.to/moksh/tcp-vs-udp-key-differences-ports-and-when-to-use-each-1ke9)** — **1** 👍 · 0 💬
+* **[HTTP & HTTPS](https://dev.to/gouranga-das-khulna/http-https-45m6)** — **1** 👍 · 0 💬
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
-* **[Create DNS zones and configure DNS settings](https://dev.to/rahimah_dev/create-dns-zones-and-configure-dns-settings-18a7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-29T00:11:28.607435+00:00 -->
+<!-- Log-ID: 2026-05-29T16:41:51.592843+00:00 -->
