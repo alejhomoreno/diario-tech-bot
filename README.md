@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-30 00:09 (UTC)
+📅 **Last Update:** 2026-05-30 14:41 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Linked Lists — The Chain You'll See in Every Interview](https://dev.to/gihan_sewwanda_047700a86a/linked-lists-the-chain-youll-see-in-every-interview-12p6)** — **3** 👍 · 0 💬
-* **[Strong Java Starts with Strong Fundamentals](https://dev.to/hariharan_sj_2003/strong-java-starts-with-strong-fundamentals-10ke)** — **3** 👍 · 0 💬
-* **[Why Objects Are Passed as Arguments in Java – Complete Guide for Beginners](https://dev.to/harini_magesh_fa40041cf8d/why-objects-are-passed-as-arguments-in-java-complete-guide-for-beginners-2kib)** — **3** 👍 · 0 💬
+* **[Java Data Types: The Deep Dive Nobody Actually Gives You](https://dev.to/kathirvel-s/java-data-types-the-deep-dive-nobody-actually-gives-you-403o)** — **2** 👍 · 0 💬
+* **[JSON Schema to Java: A Better Object Model](https://dev.to/hannyu/json-schema-to-java-a-better-object-model-50h0)** — **1** 👍 · 0 💬
+* **[Idempotency Keys in Spring Boot: Make POST Safe Against Retries](https://dev.to/thellu/idempotency-keys-in-spring-boot-make-post-safe-against-retries-47f3)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k)** — **7** 👍 · 1 💬
-* **[Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)** — **1** 👍 · 2 💬
-* **[How to Migrate from Docker Compose to Kubernetes: A Practical Guide](https://dev.to/tiago_luz_b69b42ea3ef729f/how-to-migrate-from-docker-compose-to-kubernetes-a-practical-guide-83a)** — **1** 👍 · 0 💬
+* **[Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)** — **7** 👍 · 2 💬
+* **[My test suite was green. My software was lying to me.](https://dev.to/saint_zero_day/my-test-suite-was-green-my-software-was-lying-to-me-2c7n)** — **1** 👍 · 1 💬
+* **[AI Coding Agents Need a Team Runtime, Not Just More tmux](https://dev.to/zakarov/ai-coding-agents-need-a-team-runtime-not-just-more-tmux-141)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[HTTP & HTTPS](https://dev.to/gouranga-das-khulna/http-https-45m6)** — **1** 👍 · 0 💬
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-30T00:09:32.373504+00:00 -->
+<!-- Log-ID: 2026-05-30T14:41:50.695634+00:00 -->
