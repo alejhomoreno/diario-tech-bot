@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-29 20:09 (UTC)
+📅 **Last Update:** 2026-05-30 00:09 (UTC)
 
 ---
 
@@ -24,7 +24,7 @@
 ## 🔖 Top Devops
 
 * **[The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k)** — **7** 👍 · 1 💬
-* **[How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)** — **3** 👍 · 0 💬
+* **[Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)** — **1** 👍 · 2 💬
 * **[How to Migrate from Docker Compose to Kubernetes: A Practical Guide](https://dev.to/tiago_luz_b69b42ea3ef729f/how-to-migrate-from-docker-compose-to-kubernetes-a-practical-guide-83a)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[HTTP & HTTPS](https://dev.to/gouranga-das-khulna/http-https-45m6)** — **1** 👍 · 0 💬
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-29T20:09:17.037094+00:00 -->
+<!-- Log-ID: 2026-05-30T00:09:32.373504+00:00 -->
