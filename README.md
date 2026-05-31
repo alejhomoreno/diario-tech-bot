@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-05-30 19:00 (UTC)
+📅 **Last Update:** 2026-05-31 00:01 (UTC)
 
 ---
 
@@ -15,11 +15,17 @@
 * **[JSON Schema to Java: A Better Object Model](https://dev.to/hannyu/json-schema-to-java-a-better-object-model-50h0)** — **1** 👍 · 0 💬
 * **[Idempotency Keys in Spring Boot: Make POST Safe Against Retries](https://dev.to/thellu/idempotency-keys-in-spring-boot-make-post-safe-against-retries-47f3)** — **0** 👍 · 0 💬
 
+## 🔖 Top Keycloak
+
+* **[IAM Development Lab in Keycloak](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7)** — **3** 👍 · 0 💬
+* **[Keycloak Spring Boot OAuth2 Integration: Complete Developer Guide](https://dev.to/iamdevbox/keycloak-spring-boot-oauth2-integration-complete-developer-guide-3iop)** — **3** 👍 · 0 💬
+* **[3 Pitfalls of Multi-Portal Authentication with Keycloak [Part 5]](https://dev.to/kochan/3-pitfalls-of-multi-portal-authentication-with-keycloak-part-5-4dcj)** — **3** 👍 · 0 💬
+
 ## 🔖 Top Devops
 
-* **[Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)** — **7** 👍 · 4 💬
-* **[My test suite was green. My software was lying to me.](https://dev.to/saint_zero_day/my-test-suite-was-green-my-software-was-lying-to-me-2c7n)** — **1** 👍 · 1 💬
-* **[I scanned my side projects for vulnerabilities. It was humbling.](https://dev.to/habeebsl/i-scanned-my-side-projects-for-vulnerabilities-it-was-humbling-53bb)** — **1** 👍 · 0 💬
+* **[From Zero to DevOps in Pakistan: My Real Journey With No CS Degree](https://dev.to/zubairahmed687/from-zero-to-devops-in-pakistan-my-real-journey-with-no-cs-degree-49kg)** — **1** 👍 · 1 💬
+* **[Your Deployments Are Causing Downtime. Mine Do Not. Here Is Why](https://dev.to/gbadedata/your-deployments-are-causing-downtime-mine-do-not-here-is-why-39b2)** — **0** 👍 · 0 💬
+* **[Great Stack to Doesn't Work #2 — Kafka: "Where Did My Messages Go?"](https://dev.to/turacthethinker/great-stack-to-doesnt-work-2-kafka-where-did-my-messages-go-175p)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -27,4 +33,4 @@
 * **[HTTP & HTTPS](https://dev.to/gouranga-das-khulna/http-https-45m6)** — **1** 👍 · 0 💬
 * **[Configure network routing](https://dev.to/rahimah_dev/configure-network-routing-10ij)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-05-30T19:00:42.162596+00:00 -->
+<!-- Log-ID: 2026-05-31T00:01:19.396621+00:00 -->
