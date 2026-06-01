@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-01 00:05 (UTC)
+📅 **Last Update:** 2026-06-01 18:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java vs C# in Kubernetes: A Practical Guide to Docker Optimization in 2026](https://dev.to/syedahmershah/java-vs-c-optimizing-docker-for-kubernetes-1kkc)** — **58** 👍 · 29 💬
-* **[Static vs Non-Static in Java: Understanding Class and Object Through a Shop Story](https://dev.to/kathirvel-s/static-vs-non-static-in-java-understanding-class-and-object-through-a-shop-story-5416)** — **2** 👍 · 0 💬
-* **[Building an MCP Server Using Spring AI, JSON-RPC and SSE (Server-Sent Events)](https://dev.to/anil_lalam_2cee9c52a20a39/building-an-mcp-server-using-spring-ai-json-rpc-and-sse-server-sent-events-5i3)** — **1** 👍 · 1 💬
+* **[Java Variables Explained — Simply and in Detail](https://dev.to/dhanraj_s_8fe1023a6e88992/java-variables-explained-simply-and-in-detail-3ip0)** — **3** 👍 · 0 💬
+* **[From Java Methods to Method Overloading: A Complete Beginner's Guide to Compile-Time Polymorphism](https://dev.to/kathirvel-s/from-java-methods-to-method-overloading-a-complete-beginners-guide-to-compile-time-polymorphism-3egl)** — **2** 👍 · 0 💬
+* **[Static vs Instance Methods in Java Explained with Examples](https://dev.to/vinayagam_6a170db9281d526/static-vs-instance-methods-in-java-explained-with-examples-4io8)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[WordPress Emails Were Failing Silently on DigitalOcean. Here's What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)** — **3** 👍 · 0 💬
-* **[Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)** — **2** 👍 · 0 💬
-* **[I Built an AI That Rewrites Itself Twice a Day. Here's the Architecture That Keeps It from Going Off the Rails.](https://dev.to/dhrubajyoti_chowdhury_002/i-built-an-ai-that-rewrites-itself-twice-a-day-heres-the-architecture-that-keeps-it-from-going-4nb7)** — **1** 👍 · 2 💬
+* **[Why Strake Is Free Right Now](https://dev.to/newtorob/why-strake-is-free-right-now-1c1i)** — **5** 👍 · 0 💬
+* **[🤔 If Data Survives in Deployments, Why Do We Need StatefulSets?](https://dev.to/aws-builders/if-data-survives-in-deployments-why-do-we-need-statefulsets-31km)** — **1** 👍 · 0 💬
+* **[Why Most Disaster Recovery Tests Don't Test Recovery](https://dev.to/ntctech/why-most-disaster-recovery-tests-dont-test-recovery-1ie8)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[HTTP Headers Every Developer Should Know (2026)](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-1ih)** — **3** 👍 · 0 💬
+* **[A lightweight RTMP live streaming server built with pure PHP](https://dev.to/2723659854/a-lightweight-rtmp-live-streaming-server-built-with-pure-php-2gh4)** — **1** 👍 · 0 💬
 * **[Self-Hosted VPN in 2026: WireGuard, Headscale, NetBird and More Compared](https://dev.to/moksh/self-hosted-vpn-in-2026-wireguard-headscale-netbird-and-more-compared-5fln)** — **1** 👍 · 0 💬
 * **[10/20: Layers 5, 6 & 7 – Session, Presentation, and Application Decoded](https://dev.to/roboticela/1020-layers-5-6-7-session-presentation-and-application-decoded-4gd4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-01T00:05:57.706153+00:00 -->
+<!-- Log-ID: 2026-06-01T18:40:03.732098+00:00 -->
