@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-02 20:35 (UTC)
+📅 **Last Update:** 2026-06-03 00:27 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Your AI Agent Isn't Failing Because It Hallucinates — It's Failing Because of Rate Limits](https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60)** — **21** 👍 · 5 💬
-* **[Fixed Before Anyone Notices, Stronger After Every Fix: Self-Healing + Recurrence Prevention (Series Part 4)](https://dev.to/ryantsuji/fixed-before-anyone-notices-stronger-after-every-fix-self-healing-recurrence-prevention-series-1e86)** — **11** 👍 · 0 💬
-* **[Deploying Kafka Distributed Event Streaming on Ubuntu 24.04](https://dev.to/vultr/deploying-kafka-distributed-event-streaming-on-ubuntu-2404-48ak)** — **5** 👍 · 0 💬
+* **[From Dockerfile to Docker Hub: A Complete Beginner's Guide to Docker 🚀](https://dev.to/madhavnakra/from-dockerfile-to-docker-hub-a-complete-beginners-guide-to-docker-2o1b)** — **5** 👍 · 1 💬
+* **[Oncall isn't supposed to be this hard](https://dev.to/kirtivr/oncall-isnt-supposed-to-be-this-hard-1n5b)** — **3** 👍 · 0 💬
+* **[Terraform for Data Engineers: Provisioning GCS, BigQuery, S3, and Lambda Without Clicking Through Consoles](https://dev.to/de_clerke/terraform-for-data-engineers-provisioning-gcs-bigquery-s3-and-lambda-without-clicking-through-1h65)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Self-Hosted VPN in 2026: WireGuard, Headscale, NetBird and More Compared](https://dev.to/moksh/self-hosted-vpn-in-2026-wireguard-headscale-netbird-and-more-compared-5fln)** — **1** 👍 · 0 💬
 * **[10/20: Layers 5, 6 & 7 – Session, Presentation, and Application Decoded](https://dev.to/roboticela/1020-layers-5-6-7-session-presentation-and-application-decoded-4gd4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-02T20:35:42.411645+00:00 -->
+<!-- Log-ID: 2026-06-03T00:27:03.627193+00:00 -->
