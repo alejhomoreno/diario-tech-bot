@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-05 00:08 (UTC)
+📅 **Last Update:** 2026-06-05 15:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[I Started 10,000 Java Threads. My Laptop Barely Noticed.](https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g)** — **30** 👍 · 0 💬
-* **[Find the Repeating and Missing Number](https://dev.to/jaspreet_singh_86ae1740ac/find-the-repeating-and-missing-number-5hjo)** — **6** 👍 · 0 💬
-* **[Count Inversions in an Array](https://dev.to/jaspreet_singh_86ae1740ac/count-inversions-in-an-array-2olb)** — **5** 👍 · 0 💬
+* **[I Replaced 200 Threads With 10,000. Java Finished 13.5x Faster.](https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g)** — **60** 👍 · 12 💬
+* **[Pow(x, n)](https://dev.to/jaspreet_singh_86ae1740ac/powx-n-2i55)** — **5** 👍 · 0 💬
+* **[Search a 2D Matrix](https://dev.to/jaspreet_singh_86ae1740ac/search-a-2d-matrix-20k7)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[CTEM covers your whole attack surface. Except the part your AI agents use.](https://dev.to/gustavo_gated/ctem-covers-your-whole-attack-surface-except-the-part-your-ai-agents-use-461i)** — **1** 👍 · 0 💬
-* **[How we architected a FedRAMP Moderate boundary on AWS GovCloud for an AI SaaS](https://dev.to/stonebridgetechsolutions/how-we-architected-a-fedramp-moderate-boundary-on-aws-govcloud-for-an-ai-saas-4de)** — **0** 👍 · 0 💬
-* **[Cutting HIPAA deploy time 70% with GitLab parent/child pipelines and an Ansible control plane](https://dev.to/stonebridgetechsolutions/cutting-hipaa-deploy-time-70-with-gitlab-parentchild-pipelines-and-an-ansible-control-plane-4op)** — **0** 👍 · 0 💬
+* **[Building a Multi-Agent Security Framework for Kubernetes: Autonomous Detection, Investigation, and Remediation](https://dev.to/gde/building-a-multi-agent-security-framework-for-kubernetes-autonomous-detection-investigation-and-55ng)** — **8** 👍 · 1 💬
+* **[What Is a Container?](https://dev.to/aykhlf_yassir/what-is-a-container-2060)** — **5** 👍 · 0 💬
+* **[Day 3 of 100 Days of ClickHouse® - ClickHouse® vs PostgreSQL](https://dev.to/kanishga_subramani_49ad73/day-3-of-100-days-of-clickhouser-clickhouser-vs-postgresql-2fd3)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Building a Peer-to-Peer Reverse Proxy for Private Apps](https://dev.to/laurence_jones_3f11a10b54/building-a-peer-to-peer-reverse-proxy-for-private-apps-26ok)** — **1** 👍 · 0 💬
-* **[pingtrace 1.0: why I rewrote from npm to Go](https://dev.to/skhell/pingtrace-10-why-i-rewrote-from-npm-to-go-m02)** — **0** 👍 · 0 💬
-* **[ThreatWire: A Python Library for Real-Time Network Threat Detection.](https://dev.to/abhishakereddy/threatwire-a-python-library-for-real-time-network-threat-detection-boe)** — **0** 👍 · 0 💬
+* **[Inside Azure Networking: How I Created a Virtual Network with Custom Subnets](https://dev.to/4thman/inside-azure-networking-how-i-created-a-virtual-network-with-custom-subnets-35g4)** — **2** 👍 · 0 💬
+* **[I built 36 offline IT/security tools in a single HTML file (no npm, no backend, no tracking)](https://dev.to/darkenamber/i-built-36-offline-itsecurity-tools-in-a-single-html-file-no-npm-no-backend-no-tracking-1fn0)** — **1** 👍 · 0 💬
+* **[HashiCorp Vault in Docker Compose fails with "address already in use" on port 8200 and IPC_LOCK warning](https://dev.to/katt_coffee_linux/hashicorp-vault-in-docker-compose-fails-with-address-already-in-use-on-port-8200-and-ipclock-43k7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-05T00:08:12.571383+00:00 -->
+<!-- Log-ID: 2026-06-05T15:55:31.420219+00:00 -->
