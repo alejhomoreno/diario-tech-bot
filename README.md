@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-06 19:06 (UTC)
+📅 **Last Update:** 2026-06-07 00:04 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Diagnose with Ota, Then Run with Confidence](https://dev.to/otaready/diagnose-with-ota-then-run-with-confidence-4lbd)** — **5** 👍 · 0 💬
+* **[Deploying a Production-Grade Containerized System on AWS: ECS Fargate + ALB + RDS + ElastiCache + EventBridge](https://dev.to/haroffcode/deploying-a-production-grade-containerized-system-on-aws-ecs-fargate-alb-rds-elasticache--4fjb)** — **2** 👍 · 0 💬
 * **[30/60 Days System Design Questions!](https://dev.to/thejoud1997/3060-days-system-design-questions-13im)** — **1** 👍 · 5 💬
-* **[Zero Downtime Deployment: An Unnecessary Burden for Simple Projects?](https://dev.to/merbayerp/zero-downtime-deployment-an-unnecessary-burden-for-simple-projects-1g9i)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[HashiCorp Vault in Docker Compose fails with "address already in use" on port 8200 and IPC_LOCK warning](https://dev.to/katt_coffee_linux/hashicorp-vault-in-docker-compose-fails-with-address-already-in-use-on-port-8200-and-ipclock-43k7)** — **1** 👍 · 0 💬
 * **[Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-06T19:06:26.649930+00:00 -->
+<!-- Log-ID: 2026-06-07T00:04:12.780418+00:00 -->
