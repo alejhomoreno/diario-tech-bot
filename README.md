@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-07 19:07 (UTC)
+📅 **Last Update:** 2026-06-08 00:08 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the "Craft" of Engineering](https://dev.to/bumbulik0/beyond-the-8x-productivity-myth-a-40-year-perspective-on-recursive-ai-and-the-craft-of-bk8)** — **6** 👍 · 1 💬
 * **[How to Auto-Sync Your Hashnode Blog to Dev.to Using GitHub Actions (2026 Guide)](https://dev.to/saint_vandora/how-to-auto-sync-your-hashnode-blog-to-devto-using-github-actions-2026-guide-2b6b)** — **5** 👍 · 0 💬
-* **[AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)** — **5** 👍 · 0 💬
-* **[I Built a 5-Agent AI System That Fixes Kubernetes Clusters Before Your Pager Goes Off](https://dev.to/sodiqjimoh/i-built-a-5-agent-ai-system-that-fixes-kubernetes-clusters-before-your-pager-goes-off-3h10)** — **3** 👍 · 0 💬
+* **[Hearth: scale-to-zero LLM serving on Kubernetes — and you can hack on it without a GPU](https://dev.to/kubegopher/hearth-scale-to-zero-llm-serving-on-kubernetes-and-you-can-hack-on-it-without-a-gpu-bn2)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Hands-On: Understanding Security Groups and NACLs in AWS](https://dev.to/kadhamvj23/hands-on-understanding-security-groups-and-nacls-in-aws-5fe)** — **1** 👍 · 0 💬
 * **[IPv6 Transition: A Useless Struggle for the Indie Hacker?](https://dev.to/merbayerp/ipv6-transition-a-useless-struggle-for-the-indie-hacker-2d79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-07T19:07:57.422121+00:00 -->
+<!-- Log-ID: 2026-06-08T00:08:50.546018+00:00 -->
