@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-08 00:08 (UTC)
+📅 **Last Update:** 2026-06-08 16:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Longest Subarray With Sum K](https://dev.to/jaspreet_singh_86ae1740ac/longest-subarray-with-sum-k-28pc)** — **6** 👍 · 1 💬
+* **[Count Subarrays With Given XOR K](https://dev.to/jaspreet_singh_86ae1740ac/count-subarrays-with-given-xor-k-36c)** — **6** 👍 · 0 💬
 * **[What is the Difference Between Spring and Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-difference-between-spring-and-spring-boot-544c)** — **5** 👍 · 0 💬
-* **[What is Dependency Injection & How is it Achieved in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-dependency-injection-how-is-it-achieved-in-spring-boot-26h7)** — **5** 👍 · 0 💬
-* **[Collections in java](https://dev.to/priya_k_9427a2e692abd3ddb/collections-in-java-3ohl)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Beyond the 8x Productivity Myth: A 40-Year Perspective on Recursive AI and the "Craft" of Engineering](https://dev.to/bumbulik0/beyond-the-8x-productivity-myth-a-40-year-perspective-on-recursive-ai-and-the-craft-of-bk8)** — **6** 👍 · 1 💬
-* **[How to Auto-Sync Your Hashnode Blog to Dev.to Using GitHub Actions (2026 Guide)](https://dev.to/saint_vandora/how-to-auto-sync-your-hashnode-blog-to-devto-using-github-actions-2026-guide-2b6b)** — **5** 👍 · 0 💬
-* **[Hearth: scale-to-zero LLM serving on Kubernetes — and you can hack on it without a GPU](https://dev.to/kubegopher/hearth-scale-to-zero-llm-serving-on-kubernetes-and-you-can-hack-on-it-without-a-gpu-bn2)** — **1** 👍 · 1 💬
+* **[The Bug Usually Starts Before the Error](https://dev.to/scarab-systems/the-bug-usually-starts-before-the-error-4k59)** — **1** 👍 · 3 💬
+* **[K8s cost allocation without manual tagging in 2026](https://dev.to/muskan_8abedcc7e12/k8s-cost-allocation-without-manual-tagging-in-2026-2poo)** — **1** 👍 · 0 💬
+* **[100 Days of ClickHouse® – Day 6: Importing CSV Files into ClickHouse®](https://dev.to/kanishga_subramani_49ad73/how-to-load-csv-data-into-clickhouser-19na)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Inside Azure Networking: How I Created a Virtual Network with Custom Subnets](https://dev.to/4thman/inside-azure-networking-how-i-created-a-virtual-network-with-custom-subnets-35g4)** — **2** 👍 · 0 💬
+* **[The Part of Streaming Architecture Nobody Talks About](https://dev.to/dolit/the-part-of-streaming-architecture-nobody-talks-about-1j51)** — **5** 👍 · 0 💬
+* **[When TCP failed for IoT, I wrote a new protocol](https://dev.to/aafaq_zahid/when-tcp-failed-for-iot-i-wrote-a-new-protocol-406f)** — **1** 👍 · 0 💬
 * **[Hands-On: Understanding Security Groups and NACLs in AWS](https://dev.to/kadhamvj23/hands-on-understanding-security-groups-and-nacls-in-aws-5fe)** — **1** 👍 · 0 💬
-* **[IPv6 Transition: A Useless Struggle for the Indie Hacker?](https://dev.to/merbayerp/ipv6-transition-a-useless-struggle-for-the-indie-hacker-2d79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-08T00:08:50.546018+00:00 -->
+<!-- Log-ID: 2026-06-08T16:49:36.635623+00:00 -->
