@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-10 00:14 (UTC)
+📅 **Last Update:** 2026-06-10 16:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Reverse Linked List](https://dev.to/jaspreet_singh_86ae1740ac/reverse-linked-list-hlb)** — **7** 👍 · 2 💬
-* **[Middle of the Linked List](https://dev.to/jaspreet_singh_86ae1740ac/middle-of-the-linked-list-5d51)** — **6** 👍 · 2 💬
-* **[Count Subarrays With Given XOR K](https://dev.to/jaspreet_singh_86ae1740ac/count-subarrays-with-given-xor-k-36c)** — **6** 👍 · 0 💬
+* **[JIT Compilation — Guia Didático](https://dev.to/diegobrandao/jit-compilation-guia-didatico-54h4)** — **5** 👍 · 0 💬
+* **[What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)** — **5** 👍 · 0 💬
+* **[Difference Between ArrayList and LinkedList in Java](https://dev.to/harini_magesh_fa40041cf8d/difference-between-arraylist-and-linkedlist-in-java-2007)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[What Managing Multiple Devices Taught Me About Endpoint Security (And Why Performance Matters More Than Marketing)](https://dev.to/webroot/what-managing-multiple-devices-taught-me-about-endpoint-security-and-why-performance-matters-more-24ml)** — **16** 👍 · 9 💬
-* **[I built a self-hosted log search tool for my team](https://dev.to/oleksandrzhyhalo/i-built-a-self-hosted-log-search-tool-for-my-team-7di)** — **1** 👍 · 0 💬
-* **[How I Built a Scalable Network Diagnostic Suite on AWS Edge Functions for $1.71/Month](https://dev.to/karthikeyan_kr/how-i-built-a-scalable-network-diagnostic-suite-on-aws-edge-functions-for-171month-180h)** — **0** 👍 · 0 💬
+* **[Day 30 — DevSecOps Masterclass Summarize](https://dev.to/17j/day-30-devsecops-masterclass-summarize-1pj2)** — **12** 👍 · 2 💬
+* **[I built an autonomous SRE that lets an LLM diagnose incidents — but never touch a shell unsupervised](https://dev.to/blazi2002/i-built-an-autonomous-sre-that-lets-an-llm-diagnose-incidents-but-never-touch-a-shell-unsupervised-2mgh)** — **6** 👍 · 0 💬
+* **[The Next Generation Platform Won't Track Configurations. It'll Track Why They Matter.](https://dev.to/bala_paranj_059d338e44e7e/the-next-generation-platform-wont-track-configurations-itll-track-why-they-matter-g02)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[When TCP failed for IoT, I wrote a new protocol](https://dev.to/aafaq_zahid/when-tcp-failed-for-iot-i-wrote-a-new-protocol-406f)** — **1** 👍 · 0 💬
 * **[Hands-On: Understanding Security Groups and NACLs in AWS](https://dev.to/kadhamvj23/hands-on-understanding-security-groups-and-nacls-in-aws-5fe)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-10T00:14:32.162452+00:00 -->
+<!-- Log-ID: 2026-06-10T16:35:33.226499+00:00 -->
