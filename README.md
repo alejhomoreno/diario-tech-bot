@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-11 00:15 (UTC)
+📅 **Last Update:** 2026-06-11 16:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[JIT Compilation — Guia Didático](https://dev.to/diegobrandao/jit-compilation-guia-didatico-54h4)** — **5** 👍 · 0 💬
-* **[What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)** — **5** 👍 · 0 💬
-* **[Difference Between ArrayList and LinkedList in Java](https://dev.to/harini_magesh_fa40041cf8d/difference-between-arraylist-and-linkedlist-in-java-2007)** — **4** 👍 · 0 💬
+* **[Java vs JavaScript: Understanding the Key Differences](https://dev.to/vidya_cdd37fca763a53a10e2/java-vs-javascript-understanding-the-key-differences-43p8)** — **3** 👍 · 2 💬
+* **[10 Spring Security Configurations Every Beginner Should Know](https://dev.to/sonalishahi/10-spring-security-configurations-i-keep-coming-back-to-56km)** — **3** 👍 · 2 💬
+* **[List and Set in Java](https://dev.to/divya_divya_b18f82b19353a/list-and-set-in-java-d34)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[SAFEDEPLOY AI: DevOps Pipeline Intelligence System](https://dev.to/ankit_kumar810/safedeploy-building-a-memory-driven-devops-intelligence-platform-for-secure-and-scalable-software-b80)** — **2** 👍 · 0 💬
-* **[Engineering Design Document: Reusable Observability Platform V2](https://dev.to/adeolu102/engineering-design-document-reusable-observability-platform-v2-54gb)** — **1** 👍 · 1 💬
-* **[Scarab Diagnostic Field Test #023 — Rust Raw Pointer Recursive Layout Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-023-rust-raw-pointer-recursive-layout-boundary-4iin)** — **1** 👍 · 0 💬
+* **[Auto-verifying your AI-SRE's fixes against your real cluster, with mirrord](https://dev.to/metalbear/auto-verifying-your-ai-sres-fixes-against-your-real-cluster-with-mirrord-2p16)** — **6** 👍 · 1 💬
+* **[How I Recovered 35GB on a Production Server by Moving Docker Builds Off It](https://dev.to/saint_vandora/how-i-recovered-35gb-on-a-production-server-by-moving-docker-builds-off-it-e2)** — **5** 👍 · 0 💬
+* **[Scarab Field Lab Is Public: A Case File Repo for Diagnostic Field Tests](https://dev.to/scarab-systems/scarab-field-lab-is-public-a-case-file-repo-for-diagnostic-field-tests-2f23)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Who's Going To RubyConf 2026?](https://dev.to/yechielk/whos-going-to-rubyconf-2026-4j1a)** — **4** 👍 · 0 💬
 * **[What Really Happens When You Click a Link](https://dev.to/aritrachatterjee9957/what-really-happens-when-you-click-a-link-2lem)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-11T00:15:20.212973+00:00 -->
+<!-- Log-ID: 2026-06-11T16:55:23.159158+00:00 -->
