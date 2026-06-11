@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-11 16:55 (UTC)
+📅 **Last Update:** 2026-06-11 20:10 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Java vs JavaScript: Understanding the Key Differences](https://dev.to/vidya_cdd37fca763a53a10e2/java-vs-javascript-understanding-the-key-differences-43p8)** — **3** 👍 · 2 💬
 * **[10 Spring Security Configurations Every Beginner Should Know](https://dev.to/sonalishahi/10-spring-security-configurations-i-keep-coming-back-to-56km)** — **3** 👍 · 2 💬
-* **[List and Set in Java](https://dev.to/divya_divya_b18f82b19353a/list-and-set-in-java-d34)** — **3** 👍 · 0 💬
+* **[I Learned Spring Boot in College - But Nobody Told Me What Each Part Actually Does](https://dev.to/anushka_shinde_99/i-learned-spring-boot-in-college-but-nobody-told-me-what-each-part-actually-does-59k)** — **3** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Who's Going To RubyConf 2026?](https://dev.to/yechielk/whos-going-to-rubyconf-2026-4j1a)** — **4** 👍 · 0 💬
 * **[What Really Happens When You Click a Link](https://dev.to/aritrachatterjee9957/what-really-happens-when-you-click-a-link-2lem)** — **3** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-11T16:55:23.159158+00:00 -->
+<!-- Log-ID: 2026-06-11T20:10:26.287704+00:00 -->
