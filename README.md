@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-12 00:19 (UTC)
+📅 **Last Update:** 2026-06-12 16:19 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[5 Advanced Java Tips That Senior Engineers Actually Use](https://dev.to/dimitrisk_cyclopt/5-advanced-java-tips-that-senior-engineers-actually-use-jj)** — **4** 👍 · 0 💬
 * **[Java vs JavaScript: Understanding the Key Differences](https://dev.to/vidya_cdd37fca763a53a10e2/java-vs-javascript-understanding-the-key-differences-43p8)** — **3** 👍 · 2 💬
-* **[10 Spring Security Configurations Every Beginner Should Know](https://dev.to/sonalishahi/10-spring-security-configurations-i-keep-coming-back-to-56km)** — **3** 👍 · 2 💬
-* **[I Learned Spring Boot in College - But Nobody Told Me What Each Part Actually Does](https://dev.to/anushka_shinde_99/i-learned-spring-boot-in-college-but-nobody-told-me-what-each-part-actually-does-59k)** — **3** 👍 · 1 💬
+* **[Why Java Supports Multithreading While JavaScript is Single-Threaded?](https://dev.to/vidya_cdd37fca763a53a10e2/why-java-supports-multithreading-while-javascript-is-single-threaded-m3n)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[You Fixed the Rate Limits. Now Your Agent Fails Quietly.](https://dev.to/p0rt/you-fixed-the-rate-limits-now-your-agent-fails-quietly-3keo)** — **7** 👍 · 0 💬
-* **[How I Recovered 35GB on a Production Server by Moving Docker Builds Off It](https://dev.to/saint_vandora/how-i-recovered-35gb-on-a-production-server-by-moving-docker-builds-off-it-e2)** — **5** 👍 · 0 💬
-* **[Fixing GHCR “Unauthorized” + Docker “Cannot perform interactive login from non-TTY” in GitHub Actions + SSH Deployments](https://dev.to/saint_vandora/fixing-ghcr-unauthorized-docker-cannot-perform-interactive-login-from-non-tty-in-github-24f9)** — **5** 👍 · 0 💬
+* **[Docker Compose Merged the Patch: The Boundary Fired Too Early](https://dev.to/scarab-systems/a-validator-walked-into-the-wrong-phase-docker-compose-field-test-merged-2chd)** — **2** 👍 · 0 💬
+* **[AI Code Quality Is Not Repo Truth](https://dev.to/scarab-systems/ai-code-quality-is-not-repo-truth-40j)** — **1** 👍 · 2 💬
+* **[MongoDB DR Drill Automation with Terraform, Python & Jenkins — How We Made Restores Boring](https://dev.to/mrinal_narang_13a3d00eb37/mongodb-dr-drill-automation-with-terraform-python-jenkins-how-we-made-restores-boring-loj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[The Part of Streaming Architecture Nobody Talks About](https://dev.to/dolit/the-part-of-streaming-architecture-nobody-talks-about-1j51)** — **5** 👍 · 0 💬
-* **[Who's Going To RubyConf 2026?](https://dev.to/yechielk/whos-going-to-rubyconf-2026-4j1a)** — **4** 👍 · 0 💬
-* **[What Really Happens When You Click a Link](https://dev.to/aritrachatterjee9957/what-really-happens-when-you-click-a-link-2lem)** — **3** 👍 · 0 💬
+* **[CERBERUS: I Built a Network Sentinel Because My Router Wasn't Enough](https://dev.to/harshwardhan_ranvir/cerberus-i-built-a-network-sentinel-because-my-router-wasnt-enough-5bmg)** — **5** 👍 · 2 💬
+* **[Lab Task 6 - How I Built a Multi-Router DHCP Network in GNS3 with RIP Routing](https://dev.to/almahmudkhalif/lab-task-6-how-i-built-a-multi-router-dhcp-network-in-gns3-with-rip-routing-23c5)** — **5** 👍 · 0 💬
+* **[Lab Task 3 - Static Routing with Backup Links: How Routers Automatically Recover from Failures](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-12T00:19:21.331773+00:00 -->
+<!-- Log-ID: 2026-06-12T16:19:52.728695+00:00 -->
