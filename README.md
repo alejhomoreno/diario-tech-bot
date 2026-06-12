@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-12 16:19 (UTC)
+📅 **Last Update:** 2026-06-12 19:55 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Docker Compose Merged the Patch: The Boundary Fired Too Early](https://dev.to/scarab-systems/a-validator-walked-into-the-wrong-phase-docker-compose-field-test-merged-2chd)** — **2** 👍 · 0 💬
-* **[AI Code Quality Is Not Repo Truth](https://dev.to/scarab-systems/ai-code-quality-is-not-repo-truth-40j)** — **1** 👍 · 2 💬
-* **[MongoDB DR Drill Automation with Terraform, Python & Jenkins — How We Made Restores Boring](https://dev.to/mrinal_narang_13a3d00eb37/mongodb-dr-drill-automation-with-terraform-python-jenkins-how-we-made-restores-boring-loj)** — **1** 👍 · 0 💬
+* **[Still Looking for Hackathon Teammates](https://dev.to/casperday11/still-looking-for-hackathon-teammates-2emp)** — **5** 👍 · 0 💬
+* **[AI Code Quality Is Not Repo Truth](https://dev.to/scarab-systems/ai-code-quality-is-not-repo-truth-40j)** — **2** 👍 · 2 💬
+* **[How to Give Your AI Agent a Budget (Before It Gives Itself One)](https://dev.to/tonyspiro/how-to-give-your-ai-agent-a-budget-before-it-gives-itself-one-52ia)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[CERBERUS: I Built a Network Sentinel Because My Router Wasn't Enough](https://dev.to/harshwardhan_ranvir/cerberus-i-built-a-network-sentinel-because-my-router-wasnt-enough-5bmg)** — **5** 👍 · 2 💬
+* **[CERBERUS: I Built a Network Sentinel Because My Router Wasn't Enough](https://dev.to/harshwardhan_ranvir/cerberus-i-built-a-network-sentinel-because-my-router-wasnt-enough-5bmg)** — **6** 👍 · 4 💬
 * **[Lab Task 6 - How I Built a Multi-Router DHCP Network in GNS3 with RIP Routing](https://dev.to/almahmudkhalif/lab-task-6-how-i-built-a-multi-router-dhcp-network-in-gns3-with-rip-routing-23c5)** — **5** 👍 · 0 💬
 * **[Lab Task 3 - Static Routing with Backup Links: How Routers Automatically Recover from Failures](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-12T16:19:52.728695+00:00 -->
+<!-- Log-ID: 2026-06-12T19:55:08.543227+00:00 -->
