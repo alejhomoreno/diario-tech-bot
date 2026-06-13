@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-13 15:02 (UTC)
+📅 **Last Update:** 2026-06-13 19:10 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Great Stack to Doesn't Work Bonus: 10 Bash Scripting Golden Rules](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-bash-scripting-golden-rules-1n65)** — **1** 👍 · 1 💬
-* **[How to Properly Set Up K3s on Your Homelab or Server (2026 Edition)](https://dev.to/devpops/how-to-properly-set-up-k3s-on-your-homelab-or-server-2026-edition-595)** — **1** 👍 · 0 💬
-* **[Day 16: ClickHouse Dictionaries – Eliminating Expensive JOINs with High-Speed In-Memory Lookups](https://dev.to/kanishga_subramani_49ad73/day-16-clickhouse-dictionaries-eliminating-expensive-joins-with-high-speed-in-memory-lookups-d5b)** — **1** 👍 · 0 💬
+* **[What Happened When I Told Codex to Calm Down](https://dev.to/scarab-systems/what-happened-when-i-told-my-codex-to-calm-down-37b9)** — **1** 👍 · 0 💬
+* **[Fable 5 and Mythos 5 Are Gone: What Developers Should Do Right Now](https://dev.to/tonyspiro/fable-5-and-mythos-5-are-gone-what-developers-should-do-right-now-650)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Lab Task 6 - How I Built a Multi-Router DHCP Network in GNS3 with RIP Routing](https://dev.to/almahmudkhalif/lab-task-6-how-i-built-a-multi-router-dhcp-network-in-gns3-with-rip-routing-23c5)** — **5** 👍 · 0 💬
 * **[Lab Task 3 - Static Routing with Backup Links: How Routers Automatically Recover from Failures](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-13T15:02:22.955471+00:00 -->
+<!-- Log-ID: 2026-06-13T19:10:09.998579+00:00 -->
