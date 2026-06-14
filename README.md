@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-14 00:07 (UTC)
+📅 **Last Update:** 2026-06-14 15:07 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[System Prompt Leakage vs Prompt Injection in Spring Boot AI](https://dev.to/securitystefan/system-prompt-leakage-vs-prompt-injection-in-spring-boot-ai-56eh)** — **1** 👍 · 0 💬
-* **[How I built a search engine](https://dev.to/kenny-204/how-i-built-a-search-engine-54j)** — **1** 👍 · 0 💬
-* **["Why Can't the Main Class Be Protected in Java? Understanding Access Rules and Inheritance"](https://dev.to/karthick_karthick_bf8338d/why-cant-the-main-class-be-protected-in-java-understanding-access-rules-and-inheritance-5a2e)** — **1** 👍 · 0 💬
+* **[Stop Guessing Your Off-Heap Leaks: Debugging Project Panama Memory Arenas with JDK 26 JFR NMT Events](https://dev.to/machinecodingmaster/stop-guessing-your-off-heap-leaks-debugging-project-panama-memory-arenas-with-jdk-26-jfr-nmt-events-477p)** — **1** 👍 · 1 💬
+* **[Query records using JooqTemplate](https://dev.to/javaer/query-records-using-jooqtemplate-31da)** — **1** 👍 · 1 💬
+* **[# Why Do We Use PasswordEncoder in Spring Security?](https://dev.to/sonalishahi/-why-do-we-use-passwordencoder-in-spring-security-3klo)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Great Stack to Doesn't Work Bonus: 10 Bash Scripting Golden Rules](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-bash-scripting-golden-rules-1n65)** — **1** 👍 · 1 💬
-* **[What Happened When I Told Codex to Calm Down](https://dev.to/scarab-systems/what-happened-when-i-told-my-codex-to-calm-down-37b9)** — **1** 👍 · 0 💬
-* **[Fable 5 and Mythos 5 Are Gone: What Developers Should Do Right Now](https://dev.to/tonyspiro/fable-5-and-mythos-5-are-gone-what-developers-should-do-right-now-650)** — **1** 👍 · 0 💬
+* **[Why One AI Model Is Not Enough for Enterprise Software Development](https://dev.to/flowsquad-ai/why-one-ai-model-is-not-enough-for-enterprise-software-development-1hbm)** — **1** 👍 · 1 💬
+* **[Systems Thinking: The Missing Skill in Modern Software Engineering](https://dev.to/elizabeth_omito/systems-thinking-the-missing-skill-in-modern-software-engineering-14ah)** — **1** 👍 · 0 💬
+* **[AI For Debugging Production Issues](https://dev.to/nazar_boyko/ai-for-debugging-production-issues-3m23)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Lab Task 6 - How I Built a Multi-Router DHCP Network in GNS3 with RIP Routing](https://dev.to/almahmudkhalif/lab-task-6-how-i-built-a-multi-router-dhcp-network-in-gns3-with-rip-routing-23c5)** — **5** 👍 · 0 💬
 * **[Lab Task 3 - Static Routing with Backup Links: How Routers Automatically Recover from Failures](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-14T00:07:24.083522+00:00 -->
+<!-- Log-ID: 2026-06-14T15:07:18.640792+00:00 -->
