@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-15 00:10 (UTC)
+📅 **Last Update:** 2026-06-15 17:58 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Max Consecutive Ones](https://dev.to/jaspreet_singh_86ae1740ac/max-consecutive-ones-13mj)** — **5** 👍 · 0 💬
+* **[Set in Java](https://dev.to/harini_magesh_fa40041cf8d/set-in-java-455a)** — **3** 👍 · 0 💬
 * **[Stop Guessing Your Off-Heap Leaks: Debugging Project Panama Memory Arenas with JDK 26 JFR NMT Events](https://dev.to/machinecodingmaster/stop-guessing-your-off-heap-leaks-debugging-project-panama-memory-arenas-with-jdk-26-jfr-nmt-events-477p)** — **1** 👍 · 1 💬
-* **[Query records using JooqTemplate](https://dev.to/javaer/query-records-using-jooqtemplate-31da)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[@hazeljs/agent 1.0.1: Production Hardening for Real Deployments](https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18)** — **5** 👍 · 0 💬
-* **[Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?](https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb)** — **1** 👍 · 5 💬
-* **[When Your App and the Gateway Disagree: Orphan Cleanup and State Reconciliation](https://dev.to/nasrulhazim/when-your-app-and-the-gateway-disagree-orphan-cleanup-and-state-reconciliation-4igg)** — **1** 👍 · 0 💬
+* **[Fable 5 Went Dark Friday Night. I Ran My Critical Workflow on a Backup Saturday - Here's What Broke](https://dev.to/itskondrat/fable-5-went-dark-friday-night-i-ran-my-critical-workflow-on-a-backup-saturday-heres-what-broke-349d)** — **11** 👍 · 8 💬
+* **[How Do You Integrate Penetration Testing into CI/CD?](https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795)** — **5** 👍 · 0 💬
+* **[AI Won't Replace Developers. Developers Using AI Will Replace Those Who Don't.](https://dev.to/yash_sonawane25/ai-wont-replace-developers-developers-using-ai-will-replace-those-who-dont-260k)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Local AI Needs Data-Plane Health Checks](https://dev.to/newtorob/local-ai-needs-data-plane-health-checks-2ene)** — **1** 👍 · 1 💬
 * **[How to Configure Azure Virtual Networks and Subnets for Virtual Machine Deployment](https://dev.to/forsyth_famous_/how-to-configure-azure-virtual-networks-and-subnets-for-virtual-machine-deployment-1g89)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-15T00:10:04.509180+00:00 -->
+<!-- Log-ID: 2026-06-15T17:58:09.205620+00:00 -->
