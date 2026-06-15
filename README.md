@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-14 19:10 (UTC)
+📅 **Last Update:** 2026-06-15 00:10 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?](https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb)** — **1** 👍 · 4 💬
-* **[My nightly Claude Code cron was about to start costing real money](https://dev.to/mjmirza/my-nightly-claude-code-cron-was-about-to-start-costing-real-money-2ndm)** — **1** 👍 · 1 💬
+* **[@hazeljs/agent 1.0.1: Production Hardening for Real Deployments](https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18)** — **5** 👍 · 0 💬
+* **[Everyone Wants AI Agents: So Why Are They So Damn Hard to Build?](https://dev.to/reetain_raina/everyone-wants-ai-agents-so-why-are-they-so-damn-hard-to-build-38cb)** — **1** 👍 · 5 💬
 * **[When Your App and the Gateway Disagree: Orphan Cleanup and State Reconciliation](https://dev.to/nasrulhazim/when-your-app-and-the-gateway-disagree-orphan-cleanup-and-state-reconciliation-4igg)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[CERBERUS: I Built a Network Sentinel Because My Router Wasn't Enough](https://dev.to/harshwardhan_ranvir/cerberus-i-built-a-network-sentinel-because-my-router-wasnt-enough-5bmg)** — **6** 👍 · 4 💬
-* **[Lab Task 6 - How I Built a Multi-Router DHCP Network in GNS3 with RIP Routing](https://dev.to/almahmudkhalif/lab-task-6-how-i-built-a-multi-router-dhcp-network-in-gns3-with-rip-routing-23c5)** — **5** 👍 · 0 💬
-* **[Lab Task 3 - Static Routing with Backup Links: How Routers Automatically Recover from Failures](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)** — **5** 👍 · 0 💬
+* **[HLD Fundamentals #1: Network Protocols](https://dev.to/jaspreet_singh_86ae1740ac/hld-fundamentals-1-network-protocols-171p)** — **5** 👍 · 0 💬
+* **[Local AI Needs Data-Plane Health Checks](https://dev.to/newtorob/local-ai-needs-data-plane-health-checks-2ene)** — **1** 👍 · 1 💬
+* **[How to Configure Azure Virtual Networks and Subnets for Virtual Machine Deployment](https://dev.to/forsyth_famous_/how-to-configure-azure-virtual-networks-and-subnets-for-virtual-machine-deployment-1g89)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-14T19:10:56.525701+00:00 -->
+<!-- Log-ID: 2026-06-15T00:10:04.509180+00:00 -->
