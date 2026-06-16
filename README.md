@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-16 01:41 (UTC)
+📅 **Last Update:** 2026-06-16 18:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Max Consecutive Ones](https://dev.to/jaspreet_singh_86ae1740ac/max-consecutive-ones-13mj)** — **5** 👍 · 0 💬
-* **[Set in Java](https://dev.to/harini_magesh_fa40041cf8d/set-in-java-455a)** — **3** 👍 · 0 💬
-* **[Stop Guessing Your Off-Heap Leaks: Debugging Project Panama Memory Arenas with JDK 26 JFR NMT Events](https://dev.to/machinecodingmaster/stop-guessing-your-off-heap-leaks-debugging-project-panama-memory-arenas-with-jdk-26-jfr-nmt-events-477p)** — **1** 👍 · 1 💬
+* **[How to Make a Spring Boot Project AI-Ready](https://dev.to/buildbasekit/how-to-make-a-spring-boot-project-ai-ready-2n3o)** — **5** 👍 · 4 💬
+* **[Map in Java](https://dev.to/harini_magesh_fa40041cf8d/map-in-java-5df6)** — **3** 👍 · 0 💬
+* **[Comparable vs Comparator in Java](https://dev.to/harini_magesh_fa40041cf8d/comparable-vs-comparator-in-java-3e1m)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI Isn't Something to Trust — It's Something to Design (Series Final)](https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa)** — **11** 👍 · 0 💬
-* **[Put Your Agent Evals in CI or Stop Calling Them Evals](https://dev.to/saurav_bhattacharya/put-your-agent-evals-in-ci-or-stop-calling-them-evals-2239)** — **1** 👍 · 0 💬
-* **[Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)** — **1** 👍 · 0 💬
+* **[AI Isn't Something to Trust — It's Something to Design (Series Final)](https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa)** — **19** 👍 · 4 💬
+* **[Your AI Provider Is a Single Point of Failure](https://dev.to/aws/your-ai-provider-is-a-single-point-of-failure-26i2)** — **3** 👍 · 1 💬
+* **[Your Terraform state file is a plaintext secrets store. Mine was too.](https://dev.to/hitoshi1964/your-terraform-state-file-is-a-plaintext-secrets-store-mine-was-too-8jn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[YouTube字幕突然消失？原来是节点的锅——一次极其小众的排障经历](https://dev.to/jisheng_agent/youtubezi-mu-tu-ran-xiao-shi-yuan-lai-shi-jie-dian-de-guo-ci-ji-qi-xiao-zhong-de-pai-zhang-jing-li-2d63)** — **5** 👍 · 0 💬
-* **[HLD Fundamentals #1: Network Protocols](https://dev.to/jaspreet_singh_86ae1740ac/hld-fundamentals-1-network-protocols-171p)** — **5** 👍 · 0 💬
 * **[Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)** — **1** 👍 · 0 💬
+* **[How we became the first Indian hosting company to deploy Cloudflare Magic Transit](https://dev.to/mayank_giganodes/how-we-became-the-first-indian-hosting-company-to-deploy-cloudflare-magic-transit-1ilo)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-16T01:41:01.895430+00:00 -->
+<!-- Log-ID: 2026-06-16T18:04:51.424124+00:00 -->
