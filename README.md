@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-16 18:04 (UTC)
+📅 **Last Update:** 2026-06-16 20:39 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
-* **[AI Isn't Something to Trust — It's Something to Design (Series Final)](https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa)** — **19** 👍 · 4 💬
-* **[Your AI Provider Is a Single Point of Failure](https://dev.to/aws/your-ai-provider-is-a-single-point-of-failure-26i2)** — **3** 👍 · 1 💬
+* **[The $0 Bug That Cost Us $1,800 in API Calls](https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add)** — **7** 👍 · 2 💬
+* **[Your AI Provider Is a Single Point of Failure](https://dev.to/aws/your-ai-provider-is-a-single-point-of-failure-26i2)** — **3** 👍 · 2 💬
 * **[Your Terraform state file is a plaintext secrets store. Mine was too.](https://dev.to/hitoshi1964/your-terraform-state-file-is-a-plaintext-secrets-store-mine-was-too-8jn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)** — **1** 👍 · 0 💬
 * **[How we became the first Indian hosting company to deploy Cloudflare Magic Transit](https://dev.to/mayank_giganodes/how-we-became-the-first-indian-hosting-company-to-deploy-cloudflare-magic-transit-1ilo)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-16T18:04:51.424124+00:00 -->
+<!-- Log-ID: 2026-06-16T20:39:42.186345+00:00 -->
