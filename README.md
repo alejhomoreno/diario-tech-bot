@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-15 20:46 (UTC)
+📅 **Last Update:** 2026-06-16 01:41 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Fable 5 Went Dark Friday Night. I Ran My Critical Workflow on a Backup Saturday - Here's What Broke](https://dev.to/itskondrat/fable-5-went-dark-friday-night-i-ran-my-critical-workflow-on-a-backup-saturday-heres-what-broke-349d)** — **11** 👍 · 8 💬
-* **[How Do You Integrate Penetration Testing into CI/CD?](https://dev.to/varunvarde/how-do-you-integrate-penetration-testing-into-cicd-1795)** — **5** 👍 · 0 💬
-* **[The Ultimate Kubernetes Checklist: Unlocking Performance While Slashing Costs](https://dev.to/nandini_8kanaujiya/the-ultimate-kubernetes-checklist-unlocking-performance-while-slashing-costs-4cm7)** — **1** 👍 · 0 💬
+* **[AI Isn't Something to Trust — It's Something to Design (Series Final)](https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa)** — **11** 👍 · 0 💬
+* **[Put Your Agent Evals in CI or Stop Calling Them Evals](https://dev.to/saurav_bhattacharya/put-your-agent-evals-in-ci-or-stop-calling-them-evals-2239)** — **1** 👍 · 0 💬
+* **[Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[YouTube字幕突然消失？原来是节点的锅——一次极其小众的排障经历](https://dev.to/jisheng_agent/youtubezi-mu-tu-ran-xiao-shi-yuan-lai-shi-jie-dian-de-guo-ci-ji-qi-xiao-zhong-de-pai-zhang-jing-li-2d63)** — **5** 👍 · 0 💬
 * **[HLD Fundamentals #1: Network Protocols](https://dev.to/jaspreet_singh_86ae1740ac/hld-fundamentals-1-network-protocols-171p)** — **5** 👍 · 0 💬
-* **[Local AI Needs Data-Plane Health Checks](https://dev.to/newtorob/local-ai-needs-data-plane-health-checks-2ene)** — **1** 👍 · 1 💬
-* **[How to Configure Azure Virtual Networks and Subnets for Virtual Machine Deployment](https://dev.to/forsyth_famous_/how-to-configure-azure-virtual-networks-and-subnets-for-virtual-machine-deployment-1g89)** — **1** 👍 · 0 💬
+* **[Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-15T20:46:50.961466+00:00 -->
+<!-- Log-ID: 2026-06-16T01:41:01.895430+00:00 -->
