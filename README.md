@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-17 00:16 (UTC)
+📅 **Last Update:** 2026-06-17 16:39 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The $0 Bug That Cost Us $1,800 in API Calls](https://dev.to/arpitstack/the-0-bug-that-cost-us-1800-in-api-calls-3add)** — **7** 👍 · 2 💬
-* **[Your AI Provider Is a Single Point of Failure](https://dev.to/aws/your-ai-provider-is-a-single-point-of-failure-26i2)** — **3** 👍 · 2 💬
-* **[Most Kubernetes Alerts Are Noise Because They Ignore Change Events.](https://dev.to/kubeha_18/most-kubernetes-alerts-are-noise-because-they-ignore-change-events-2ag3)** — **0** 👍 · 5 💬
+* **[Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)** — **5** 👍 · 0 💬
+* **[Secure Credential Management for Automated Deployment Pipelines](https://dev.to/biao_lin_14b493a4944b1361/secure-credential-management-for-automated-deployment-pipelines-15f5)** — **5** 👍 · 0 💬
+* **[LLM Evaluation in Production: Building the Eval Pipeline That Runs on Every Deploy](https://dev.to/aloknecessary/llm-evaluation-in-production-building-the-eval-pipeline-that-runs-on-every-deploy-5eki)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[YouTube字幕突然消失？原来是节点的锅——一次极其小众的排障经历](https://dev.to/jisheng_agent/youtubezi-mu-tu-ran-xiao-shi-yuan-lai-shi-jie-dian-de-guo-ci-ji-qi-xiao-zhong-de-pai-zhang-jing-li-2d63)** — **5** 👍 · 0 💬
-* **[Building an HTTP Web Server From Scratch in C: The Networking Skills Most Developers Never Learn](https://dev.to/adixyaxo/building-an-http-web-server-from-scratch-in-c-the-networking-skills-most-developers-never-learn-1mb7)** — **1** 👍 · 0 💬
-* **[How we became the first Indian hosting company to deploy Cloudflare Magic Transit](https://dev.to/mayank_giganodes/how-we-became-the-first-indian-hosting-company-to-deploy-cloudflare-magic-transit-1ilo)** — **0** 👍 · 0 💬
+* **[How Data Actually Travels: Packets, Protocols, and the Postal Service Analogy](https://dev.to/vickkykruz/how-data-actually-travels-packets-protocols-and-the-postal-service-analogy-212d)** — **2** 👍 · 1 💬
+* **[What is Block-Oriented Network Simulator (BONeS) 🦴 ?](https://dev.to/riyahalbhavi/what-is-block-oriented-network-simulator-bones--129i)** — **1** 👍 · 0 💬
+* **[The Hidden Linux Routing Issue That Broke My Deployment](https://dev.to/mohhddhassan/the-hidden-linux-routing-issue-that-broke-my-deployment-5813)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-17T00:16:32.289579+00:00 -->
+<!-- Log-ID: 2026-06-17T16:39:00.730850+00:00 -->
