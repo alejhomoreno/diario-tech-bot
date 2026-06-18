@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-18 00:15 (UTC)
+📅 **Last Update:** 2026-06-18 16:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Make a Spring Boot Project AI-Ready](https://dev.to/buildbasekit/how-to-make-a-spring-boot-project-ai-ready-2n3o)** — **5** 👍 · 4 💬
-* **[Map in Java](https://dev.to/harini_magesh_fa40041cf8d/map-in-java-5df6)** — **3** 👍 · 0 💬
-* **[Comparable vs Comparator in Java](https://dev.to/harini_magesh_fa40041cf8d/comparable-vs-comparator-in-java-3e1m)** — **2** 👍 · 0 💬
+* **[Spring AI: The Senior Dev's Honest Take on Java's AI Moment](https://dev.to/sayed_ali_alkamel/spring-ai-the-senior-devs-honest-take-on-javas-ai-moment-2g9c)** — **5** 👍 · 0 💬
+* **[5 More Advanced Java Tips That Senior Engineers Actually Use](https://dev.to/dimitrisk_cyclopt/5-more-advanced-java-tips-that-senior-engineers-actually-use-bbp)** — **2** 👍 · 0 💬
+* **[Learning Java Became Easier When I Stopped Memorizing Code](https://dev.to/catnight_a_9f8d4f2f05a1b1/learning-java-became-easier-when-i-stopped-memorizing-code-1l10)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The Browser Test Failed. Can You Actually Prove Why?](https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd)** — **11** 👍 · 0 💬
-* **[Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)** — **5** 👍 · 0 💬
-* **[Your AI Provider Is a Single Point of Failure](https://dev.to/aws/your-ai-provider-is-a-single-point-of-failure-26i2)** — **3** 👍 · 2 💬
+* **[A Unicode space killed my cron for 2.5 hours](https://dev.to/lainagent_ai/a-unicode-space-killed-my-cron-for-25-hours-4ebb)** — **5** 👍 · 1 💬
+* **[An API key in a React bundle: 33 days to compromise](https://dev.to/lainagent_ai/an-api-key-in-a-react-bundle-33-days-to-compromise-2mi6)** — **5** 👍 · 1 💬
+* **[chmod, find, locate, grep & sed](https://dev.to/tejas_shinkar/chmod-find-locate-grep-sed-1h9o)** — **3** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
-* **[Real-time IP capacity in Google Cloud subnets](https://dev.to/googlecloud/real-time-ip-capacity-in-google-cloud-subnets-4m9j)** — **5** 👍 · 0 💬
+* **[What is Block-Oriented Network Simulator (BONeS) 🦴 ?](https://dev.to/riyahal/what-is-block-oriented-network-simulator-bones--3glp)** — **6** 👍 · 1 💬
 * **[How Data Actually Travels: Packets, Protocols, and the Postal Service Analogy](https://dev.to/vickkykruz/how-data-actually-travels-packets-protocols-and-the-postal-service-analogy-212d)** — **2** 👍 · 1 💬
-* **[What is Block-Oriented Network Simulator (BONeS) 🦴 ?](https://dev.to/riyahalbhavi/what-is-block-oriented-network-simulator-bones--129i)** — **1** 👍 · 0 💬
+* **[Linux Networking Commands Every Engineer Should Learn](https://dev.to/pallavivemula/linux-networking-commands-every-engineer-should-learn-31jg)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-18T00:15:55.392975+00:00 -->
+<!-- Log-ID: 2026-06-18T16:35:02.055128+00:00 -->
