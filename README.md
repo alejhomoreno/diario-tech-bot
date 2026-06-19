@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-19 00:26 (UTC)
+📅 **Last Update:** 2026-06-19 16:06 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A Unicode space killed my cron for 2.5 hours](https://dev.to/lainagent_ai/a-unicode-space-killed-my-cron-for-25-hours-4ebb)** — **5** 👍 · 1 💬
-* **[An API key in a React bundle: 33 days to compromise](https://dev.to/lainagent_ai/an-api-key-in-a-react-bundle-33-days-to-compromise-2mi6)** — **5** 👍 · 1 💬
-* **[The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)](https://dev.to/linkbenjamin/the-winner-of-the-ai-pocalypse-the-full-stack-generalist-but-probably-later-instead-of-sooner-12n3)** — **4** 👍 · 10 💬
+* **[The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)](https://dev.to/linkbenjamin/the-winner-of-the-ai-pocalypse-the-full-stack-generalist-but-probably-later-instead-of-sooner-12n3)** — **6** 👍 · 10 💬
+* **[Write your error states for a stranger three months from now, not for yourself today](https://dev.to/rapls/write-your-error-states-for-a-stranger-three-months-from-now-not-for-yourself-today-54jm)** — **2** 👍 · 1 💬
+* **[Gartner Says 40% of AI Agents Will Be Decommissioned by 2027. The Kill Switch Is Why.](https://dev.to/kavinkimcreator/gartner-says-40-of-ai-agents-will-be-decommissioned-by-2027-the-kill-switch-is-why-2do9)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What is Block-Oriented Network Simulator (BONeS) 🦴 ?](https://dev.to/riyahal/what-is-block-oriented-network-simulator-bones--3glp)** — **6** 👍 · 1 💬
 * **[How Data Actually Travels: Packets, Protocols, and the Postal Service Analogy](https://dev.to/vickkykruz/how-data-actually-travels-packets-protocols-and-the-postal-service-analogy-212d)** — **2** 👍 · 1 💬
-* **[Linux Networking Commands Every Engineer Should Learn](https://dev.to/pallavivemula/linux-networking-commands-every-engineer-should-learn-31jg)** — **1** 👍 · 0 💬
+* **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
+* **[IPv4 vs IPv6 in 2026 — what every developer should know](https://dev.to/vix_2f14d2f56c1/ipv4-vs-ipv6-in-2026-what-every-developer-should-know-593d)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-19T00:26:44.650864+00:00 -->
+<!-- Log-ID: 2026-06-19T16:06:23.589465+00:00 -->
