@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-20 15:03 (UTC)
+📅 **Last Update:** 2026-06-20 19:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spring AI: The Senior Dev's Honest Take on Java's AI Moment](https://dev.to/sayed_ali_alkamel/spring-ai-the-senior-devs-honest-take-on-javas-ai-moment-2g9c)** — **5** 👍 · 0 💬
-* **[5 More Advanced Java Tips That Senior Engineers Actually Use](https://dev.to/dimitrisk_cyclopt/5-more-advanced-java-tips-that-senior-engineers-actually-use-bbp)** — **2** 👍 · 0 💬
-* **[Learning Java Became Easier When I Stopped Memorizing Code](https://dev.to/catnight_a_9f8d4f2f05a1b1/learning-java-became-easier-when-i-stopped-memorizing-code-1l10)** — **2** 👍 · 0 💬
+* **[How to Structure Spring Boot Projects Beyond Spring Initializr](https://dev.to/yadrs/how-to-structure-spring-boot-projects-beyond-spring-initializr-fac)** — **1** 👍 · 1 💬
+* **[How to Integrate Apache Kafka with Spring Boot: A Production-Ready Guide](https://dev.to/prashantsasalatti/how-to-integrate-apache-kafka-with-spring-boot-a-production-ready-guide-e6d)** — **1** 👍 · 1 💬
+* **[Populating a Java POJO with Reflection vs. with the ClassFile API - small benchmark](https://dev.to/erosb/populating-a-java-pojo-with-reflection-vs-with-the-classfile-api-small-benchmark-37jb)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[AI Agents For Release Notes And Changelog Automation](https://dev.to/nazar_boyko/ai-agents-for-release-notes-and-changelog-automation-kia)** — **7** 👍 · 0 💬
-* **[The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)](https://dev.to/linkbenjamin/the-winner-of-the-ai-pocalypse-the-full-stack-generalist-but-probably-later-instead-of-sooner-12n3)** — **6** 👍 · 10 💬
-* **[Gartner Says 40% of AI Agents Will Be Decommissioned by 2027. The Kill Switch Is Why.](https://dev.to/kavinkimcreator/gartner-says-40-of-ai-agents-will-be-decommissioned-by-2027-the-kill-switch-is-why-2do9)** — **2** 👍 · 0 💬
+* **[Day 27 of 100 Days of ClickHouse® - Optimizing ClickHouse® Queries for Faster Execution](https://dev.to/kanishga_subramani_49ad73/day-27-of-100-days-of-clickhouser-optimizing-clickhouser-queries-for-faster-execution-5356)** — **3** 👍 · 0 💬
+* **[10,000 Malicious GitHub Repos: Why AI Dependency Suggestions Are Now a Security Risk](https://dev.to/toniantunovic/10000-malicious-github-repos-why-ai-dependency-suggestions-are-now-a-security-risk-1pja)** — **2** 👍 · 0 💬
+* **[I Thought I Was Building a Diagnostic Tool. I Found an Operating Layer for AI Agents.](https://dev.to/scarab-systems/i-thought-i-was-building-a-diagnostic-tool-i-found-an-operating-layer-for-ai-agents-5b3e)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
 * **[Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node Stability](https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-4ld)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-06-20T15:03:44.994483+00:00 -->
+<!-- Log-ID: 2026-06-20T19:11:06.042358+00:00 -->
