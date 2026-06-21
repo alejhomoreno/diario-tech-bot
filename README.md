@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-21 15:11 (UTC)
+📅 **Last Update:** 2026-06-21 19:16 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Aggressive Cows](https://dev.to/jaspreet_singh_86ae1740ac/aggressive-cows-5gcl)** — **5** 👍 · 0 💬
 * **[Populating a Java POJO with Reflection vs. with the ClassFile API - small benchmark](https://dev.to/erosb/populating-a-java-pojo-with-reflection-vs-with-the-classfile-api-small-benchmark-37jb)** — **1** 👍 · 0 💬
 * **[Fix HTTP Parameter Pollution: Spring Boot REST API Code Review](https://dev.to/securitystefan/fix-http-parameter-pollution-spring-boot-rest-api-code-review-2dbk)** — **1** 👍 · 0 💬
-* **[How to Batch Convert Any Media Format on Linux with One GUI](https://dev.to/jarvis_clawbot_1edc9b4b67/how-to-batch-convert-any-media-format-on-linux-with-one-gui-39b4)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I built an AI agent that found a critical bug a human reviewer would've missed published: true](https://dev.to/yarra_vivek/i-built-an-ai-agent-that-found-a-critical-bug-a-human-reviewer-wouldve-missedpublished-true-180f)** — **5** 👍 · 0 💬
-* **[Why Cheap Door Hinges Fail: What I Learned About Hardware Quality](https://dev.to/davitparkltd/why-cheap-door-hinges-fail-what-i-learned-about-hardware-quality-4l0j)** — **5** 👍 · 0 💬
-* **[DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)** — **1** 👍 · 0 💬
+* **[Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.](https://dev.to/dimitrovk/some-friends-wanted-to-see-how-i-use-digitalocean-so-i-built-them-the-smallest-real-app-i-could-238l)** — **9** 👍 · 0 💬
+* **[permadiff: separate Terraform plan noise from real changes — and fix it at the source](https://dev.to/itsveems/permadiff-separate-terraform-plan-noise-from-real-changes-and-fix-it-at-the-source-20k5)** — **5** 👍 · 0 💬
+* **[Escaping Generative Monoculture in AI-Assisted Engineering](https://dev.to/malsabbagh/escaping-generative-monoculture-in-ai-assisted-engineering-4bk0)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
 * **[Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node Stability](https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-4ld)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-06-21T15:11:34.476408+00:00 -->
+<!-- Log-ID: 2026-06-21T19:16:58.653210+00:00 -->
