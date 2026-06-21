@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-21 00:06 (UTC)
+📅 **Last Update:** 2026-06-21 15:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Structure Spring Boot Projects Beyond Spring Initializr](https://dev.to/yadrs/how-to-structure-spring-boot-projects-beyond-spring-initializr-fac)** — **1** 👍 · 1 💬
-* **[From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)** — **1** 👍 · 1 💬
-* **[How to Integrate Apache Kafka with Spring Boot: A Production-Ready Guide](https://dev.to/prashantsasalatti/how-to-integrate-apache-kafka-with-spring-boot-a-production-ready-guide-e6d)** — **1** 👍 · 1 💬
+* **[Populating a Java POJO with Reflection vs. with the ClassFile API - small benchmark](https://dev.to/erosb/populating-a-java-pojo-with-reflection-vs-with-the-classfile-api-small-benchmark-37jb)** — **1** 👍 · 0 💬
+* **[Fix HTTP Parameter Pollution: Spring Boot REST API Code Review](https://dev.to/securitystefan/fix-http-parameter-pollution-spring-boot-rest-api-code-review-2dbk)** — **1** 👍 · 0 💬
+* **[How to Batch Convert Any Media Format on Linux with One GUI](https://dev.to/jarvis_clawbot_1edc9b4b67/how-to-batch-convert-any-media-format-on-linux-with-one-gui-39b4)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[10,000 Malicious GitHub Repos: Why AI Dependency Suggestions Are Now a Security Risk](https://dev.to/toniantunovic/10000-malicious-github-repos-why-ai-dependency-suggestions-are-now-a-security-risk-1pja)** — **2** 👍 · 0 💬
-* **[Brewing in the Cloud: A Coffee Shop's Journey Through AWS by Laura Diaz](https://dev.to/aws-builders/brewing-in-the-cloud-a-coffee-shops-journey-through-aws-by-laura-diaz-2a7p)** — **2** 👍 · 0 💬
-* **[I Thought I Was Building a Diagnostic Tool. I Found an Operating Layer for AI Agents.](https://dev.to/scarab-systems/i-thought-i-was-building-a-diagnostic-tool-i-found-an-operating-layer-for-ai-agents-5b3e)** — **1** 👍 · 1 💬
+* **[I built an AI agent that found a critical bug a human reviewer would've missed published: true](https://dev.to/yarra_vivek/i-built-an-ai-agent-that-found-a-critical-bug-a-human-reviewer-wouldve-missedpublished-true-180f)** — **5** 👍 · 0 💬
+* **[Why Cheap Door Hinges Fail: What I Learned About Hardware Quality](https://dev.to/davitparkltd/why-cheap-door-hinges-fail-what-i-learned-about-hardware-quality-4l0j)** — **5** 👍 · 0 💬
+* **[DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
 * **[Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node Stability](https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-4ld)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-06-21T00:06:38.993407+00:00 -->
+<!-- Log-ID: 2026-06-21T15:11:34.476408+00:00 -->
