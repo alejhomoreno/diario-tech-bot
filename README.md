@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-22 17:40 (UTC)
+📅 **Last Update:** 2026-06-22 20:35 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Quita: How a Personal Problem Became a Real Product — and What I Learned Along the Way](https://dev.to/obelucca__/quita-how-a-personal-problem-became-a-real-product-and-what-i-learned-along-the-way-5a3a)** — **1** 👍 · 0 💬
+* **[OrderHub Day 3: Versioned Schema With Flyway Migrations (Spring Boot)](https://dev.to/dev48v/orderhub-day-3-versioned-schema-with-flyway-migrations-spring-boot-1cdd)** — **1** 👍 · 0 💬
 * **[JDBC Basics for Beginners](https://dev.to/aj_arul/jdbc-basics-for-beginners-50po)** — **1** 👍 · 0 💬
-* **[Quita: How a Personal Problem Became a Real Product — and What I Learned Along the Way](https://dev.to/obelucca__/quita-how-a-personal-problem-became-a-real-product-and-what-i-learned-along-the-way-5a3a)** — **0** 👍 · 0 💬
-* **[Quita: como um problema pessoal virou um produto real — e o que aprendi no caminho](https://dev.to/obelucca__/quita-como-um-problema-pessoal-virou-um-produto-real-e-o-que-aprendi-no-caminho-2lm6)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
 * **[Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node Stability](https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-4ld)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-06-22T17:40:19.169498+00:00 -->
+<!-- Log-ID: 2026-06-22T20:35:06.360714+00:00 -->
