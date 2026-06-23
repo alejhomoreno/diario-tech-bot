@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-23 00:06 (UTC)
+📅 **Last Update:** 2026-06-23 15:50 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Quita: How a Personal Problem Became a Real Product — and What I Learned Along the Way](https://dev.to/obelucca__/quita-how-a-personal-problem-became-a-real-product-and-what-i-learned-along-the-way-5a3a)** — **1** 👍 · 0 💬
-* **[OrderHub Day 3: Versioned Schema With Flyway Migrations (Spring Boot)](https://dev.to/dev48v/orderhub-day-3-versioned-schema-with-flyway-migrations-spring-boot-1cdd)** — **1** 👍 · 0 💬
-* **[JDBC Basics for Beginners](https://dev.to/aj_arul/jdbc-basics-for-beginners-50po)** — **1** 👍 · 0 💬
+* **[My First Week of #100DaysOfCode: Learning, Building, and Debugging with Spring MVC](https://dev.to/onatade_abdulmajeed/my-first-week-of-100daysofcode-learning-building-and-debugging-with-spring-mvc-4i2d)** — **5** 👍 · 0 💬
+* **[Deploying a Multi-Module Spring Boot App to Render with PostgreSQL, Redis, Docker, and Flyway](https://dev.to/ojo_ilesanmi/deploying-a-multi-module-spring-boot-app-to-render-with-postgresql-redis-docker-and-flyway-4leb)** — **2** 👍 · 0 💬
+* **[Java LLD: Design Tic-Tac-Toe with O(1) Win Detection](https://dev.to/machinecodingmaster/java-lld-design-tic-tac-toe-with-o1-win-detection-5gpg)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.](https://dev.to/dimitrovk/some-friends-wanted-to-see-how-i-use-digitalocean-so-i-built-them-the-smallest-real-app-i-could-238l)** — **9** 👍 · 0 💬
-* **[Trust Isn't a Scalar: Typed Provenance for Agent Chains](https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p)** — **8** 👍 · 3 💬
+* **[Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why](https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b)** — **5** 👍 · 0 💬
+* **[DevSecOps Explained: Embedding Security into Every Deployment](https://dev.to/varunvarde/devsecops-explained-embedding-security-into-every-deployment-30mn)** — **5** 👍 · 0 💬
 * **[The Stale Feature Flag We Deleted That Turned a Feature Back On](https://dev.to/pixel-wraith/the-stale-feature-flag-we-deleted-that-turned-a-feature-back-on-529m)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How Data Actually Travels: Packets, Protocols, and the Postal Service Analogy](https://dev.to/vickkykruz/how-data-actually-travels-packets-protocols-and-the-postal-service-analogy-212d)** — **2** 👍 · 1 💬
-* **[Record of Site Issues #1](https://dev.to/rondo/record-of-site-issues-1-3n47)** — **2** 👍 · 0 💬
-* **[Why Does Your Network Proxy Keep Disconnecting at 8 PM? The Engineering Behind IPLC Lines and Node Stability](https://dev.to/wenrugou/why-does-your-network-proxy-keep-disconnecting-at-8-pm-the-engineering-behind-iplc-lines-and-node-4ld)** — **1** 👍 · 1 💬
+* **[Tailscale or WireGuard? The Right Way to Connect Remotely to Your Home](https://dev.to/merbayerp/tailscale-or-wireguard-the-right-way-to-connect-remotely-to-your-home-4f57)** — **6** 👍 · 3 💬
+* **[[Boost]](https://dev.to/anthonymax/-5fe8)** — **5** 👍 · 0 💬
+* **[Decoupling the Network: A Developer's Guide to SDN Architecture](https://dev.to/lightningdev123/decoupling-the-network-a-developers-guide-to-sdn-architecture-308o)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-23T00:06:22.894122+00:00 -->
+<!-- Log-ID: 2026-06-23T15:50:08.506534+00:00 -->
