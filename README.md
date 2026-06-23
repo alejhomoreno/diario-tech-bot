@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-23 19:50 (UTC)
+📅 **Last Update:** 2026-06-23 23:57 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[My First Week of #100DaysOfCode: Learning, Building, and Debugging with Spring MVC](https://dev.to/onatade_abdulmajeed/my-first-week-of-100daysofcode-learning-building-and-debugging-with-spring-mvc-4i2d)** — **5** 👍 · 0 💬
+* **[Don t Lock Your API - Lock Your Scheduler Instead](https://dev.to/douglas_carmo_cd84c5548f2/dont-lock-your-api-lock-your-scheduler-instead-2i15)** — **3** 👍 · 0 💬
 * **[Deploying a Multi-Module Spring Boot App to Render with PostgreSQL, Redis, Docker, and Flyway](https://dev.to/ojo_ilesanmi/deploying-a-multi-module-spring-boot-app-to-render-with-postgresql-redis-docker-and-flyway-4leb)** — **2** 👍 · 0 💬
-* **[Java LLD: Design Tic-Tac-Toe with O(1) Win Detection](https://dev.to/machinecodingmaster/java-lld-design-tic-tac-toe-with-o1-win-detection-5gpg)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why](https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b)** — **5** 👍 · 0 💬
-* **[The Stale Feature Flag We Deleted That Turned a Feature Back On](https://dev.to/pixel-wraith/the-stale-feature-flag-we-deleted-that-turned-a-feature-back-on-529m)** — **4** 👍 · 0 💬
-* **[What Happens When Your AI Agent Gets Stuck in Production?](https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327)** — **1** 👍 · 2 💬
+* **[Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)** — **8** 👍 · 12 💬
+* **[Deploying Overleaf Open-Source LaTeX Collaboration Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-overleaf-open-source-latex-collaboration-platform-on-ubuntu-2404-5cc1)** — **6** 👍 · 0 💬
+* **[Deploying Paperless-ngx Open-Source Document Management System on Ubuntu 24.04](https://dev.to/vultr/deploying-paperless-ngx-open-source-document-management-system-on-ubuntu-2404-1og5)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Decoupling the Network: A Developer's Guide to SDN Architecture](https://dev.to/lightningdev123/decoupling-the-network-a-developers-guide-to-sdn-architecture-308o)** — **5** 👍 · 0 💬
 * **[Stop Routing to IPs: How Iroh 1.0 Uses Cryptographic Keys for P2P Networking](https://dev.to/devandrew/stop-routing-to-ips-how-iroh-10-uses-cryptographic-keys-for-p2p-networking-879)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-23T19:50:42.562897+00:00 -->
+<!-- Log-ID: 2026-06-23T23:57:39.611501+00:00 -->
