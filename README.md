@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-23 15:50 (UTC)
+📅 **Last Update:** 2026-06-23 19:50 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why](https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b)** — **5** 👍 · 0 💬
-* **[DevSecOps Explained: Embedding Security into Every Deployment](https://dev.to/varunvarde/devsecops-explained-embedding-security-into-every-deployment-30mn)** — **5** 👍 · 0 💬
 * **[The Stale Feature Flag We Deleted That Turned a Feature Back On](https://dev.to/pixel-wraith/the-stale-feature-flag-we-deleted-that-turned-a-feature-back-on-529m)** — **4** 👍 · 0 💬
+* **[What Happens When Your AI Agent Gets Stuck in Production?](https://dev.to/milancharan/what-happens-when-your-ai-agent-gets-stuck-in-production-3327)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
 * **[Tailscale or WireGuard? The Right Way to Connect Remotely to Your Home](https://dev.to/merbayerp/tailscale-or-wireguard-the-right-way-to-connect-remotely-to-your-home-4f57)** — **6** 👍 · 3 💬
-* **[[Boost]](https://dev.to/anthonymax/-5fe8)** — **5** 👍 · 0 💬
 * **[Decoupling the Network: A Developer's Guide to SDN Architecture](https://dev.to/lightningdev123/decoupling-the-network-a-developers-guide-to-sdn-architecture-308o)** — **5** 👍 · 0 💬
+* **[Stop Routing to IPs: How Iroh 1.0 Uses Cryptographic Keys for P2P Networking](https://dev.to/devandrew/stop-routing-to-ips-how-iroh-10-uses-cryptographic-keys-for-p2p-networking-879)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-23T15:50:08.506534+00:00 -->
+<!-- Log-ID: 2026-06-23T19:50:42.562897+00:00 -->
