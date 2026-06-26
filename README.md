@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-26 15:24 (UTC)
+📅 **Last Update:** 2026-06-26 19:28 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Architecture of java,node.js, python](https://dev.to/praveenv2426/architecture-of-javanodejs-python-233p)** — **3** 👍 · 0 💬
+* **[AI Agent Evaluation Ends Too Early | Focused Labs](https://dev.to/focused_dot_io/ai-agent-evaluation-ends-too-early-focused-labs-38aa)** — **1** 👍 · 0 💬
 * **[An AI-powered engineering intelligence platform.](https://dev.to/sumituppal03/an-ai-powered-engineering-intelligence-platform-54o0)** — **1** 👍 · 0 💬
-* **[Debugging a C2 JIT Compiler Infinite Loop on AArch64](https://dev.to/jvmind-devel/debugging-a-c2-jit-compiler-infinite-loop-on-aarch64-2mbc)** — **0** 👍 · 0 💬
+* **[OrderHub Day 7: Config & Profiles With @ConfigurationProperties (Spring Boot)](https://dev.to/dev48v/orderhub-day-7-config-profiles-with-configurationproperties-spring-boot-26ad)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)** — **14** 👍 · 0 💬
 * **[The Oracle Problem Isn't About Data. It's About Trust Minimization.](https://dev.to/0xramprasad/the-oracle-problem-isnt-about-data-its-about-trust-minimization-jap)** — **6** 👍 · 2 💬
-* **[DevOps Security Best Practices Every Engineering Team Should Follow](https://dev.to/devopsaitoolkit/devops-security-best-practices-every-engineering-team-should-follow-18k5)** — **2** 👍 · 0 💬
 * **[From Narrow Patches to Long-Horizon AI Implementation](https://dev.to/scarab-systems/from-narrow-patches-to-long-horizon-ai-implementation-55il)** — **1** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
+* **[🍼 宝宝的小仓库 —— 幼师带你认识"NAS"](https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl)** — **5** 👍 · 0 💬
+* **[Implementing a Reliable UDP-Based Protocol (ARQ) for High-Throughput Systems](https://dev.to/ebendttl/implementing-a-reliable-udp-based-protocol-arq-for-high-throughput-systems-2cg2)** — **2** 👍 · 2 💬
 * **[Stop Guessing What’s Public: Automating Attack Surface Discovery](https://dev.to/devyjones/stop-guessing-whats-public-automating-attack-surface-discovery-3edg)** — **2** 👍 · 0 💬
-* **[The Beginner’s Guide to Private vs Public IPs, Ex - Banking Systems](https://dev.to/nagesh_k_2003/the-beginners-guide-to-private-vs-public-ips-ex-banking-systems-3848)** — **1** 👍 · 1 💬
-* **[Selamat Tinggal Konfigurasi Manual: Gimana Automation Bikin Hidup Network Engineer Lebih Tenang](https://dev.to/arfadygta_/selamat-tinggal-konfigurasi-manual-gimana-automation-bikin-hidup-network-engineer-lebih-tenang-17oh)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-26T15:24:07.564860+00:00 -->
+<!-- Log-ID: 2026-06-26T19:28:27.024110+00:00 -->
