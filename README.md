@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-27 00:07 (UTC)
+📅 **Last Update:** 2026-06-27 14:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[AI Agent Evaluation Ends Too Early | Focused Labs](https://dev.to/focused_dot_io/ai-agent-evaluation-ends-too-early-focused-labs-38aa)** — **1** 👍 · 0 💬
-* **[An AI-powered engineering intelligence platform.](https://dev.to/sumituppal03/an-ai-powered-engineering-intelligence-platform-54o0)** — **1** 👍 · 0 💬
-* **[OrderHub Day 7: Config & Profiles With @ConfigurationProperties (Spring Boot)](https://dev.to/dev48v/orderhub-day-7-config-profiles-with-configurationproperties-spring-boot-26ad)** — **1** 👍 · 0 💬
+* **[working with auto increment of mysql in JDBC](https://dev.to/realnamehidden1_61/working-with-auto-increment-of-mysql-in-jdbc-1on9)** — **5** 👍 · 0 💬
+* **[Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)** — **2** 👍 · 1 💬
+* **[My First Java Community Event – Java June](https://dev.to/dev_saravanan_journey/my-first-java-community-event-java-june-77o)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)** — **14** 👍 · 0 💬
-* **[The Oracle Problem Isn't About Data. It's About Trust Minimization.](https://dev.to/0xramprasad/the-oracle-problem-isnt-about-data-its-about-trust-minimization-jap)** — **6** 👍 · 2 💬
-* **[Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)** — **1** 👍 · 0 💬
+* **[Prompting Is Dead. Long Live Looping.](https://dev.to/yash_sonawane25/prompting-is-dead-long-live-looping-2gmd)** — **5** 👍 · 0 💬
+* **[Day 42: Exploring ClickHouse® Table Engines Beyond MergeTree](https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Implementing a Reliable UDP-Based Protocol (ARQ) for High-Throughput Systems](https://dev.to/ebendttl/implementing-a-reliable-udp-based-protocol-arq-for-high-throughput-systems-2cg2)** — **2** 👍 · 2 💬
 * **[Stop Guessing What’s Public: Automating Attack Surface Discovery](https://dev.to/devyjones/stop-guessing-whats-public-automating-attack-surface-discovery-3edg)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-27T00:07:43.559396+00:00 -->
+<!-- Log-ID: 2026-06-27T14:44:01.760285+00:00 -->
