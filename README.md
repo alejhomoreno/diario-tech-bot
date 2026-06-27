@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-26 19:28 (UTC)
+📅 **Last Update:** 2026-06-27 00:07 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)** — **14** 👍 · 0 💬
 * **[The Oracle Problem Isn't About Data. It's About Trust Minimization.](https://dev.to/0xramprasad/the-oracle-problem-isnt-about-data-its-about-trust-minimization-jap)** — **6** 👍 · 2 💬
-* **[From Narrow Patches to Long-Horizon AI Implementation](https://dev.to/scarab-systems/from-narrow-patches-to-long-horizon-ai-implementation-55il)** — **1** 👍 · 3 💬
+* **[Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Implementing a Reliable UDP-Based Protocol (ARQ) for High-Throughput Systems](https://dev.to/ebendttl/implementing-a-reliable-udp-based-protocol-arq-for-high-throughput-systems-2cg2)** — **2** 👍 · 2 💬
 * **[Stop Guessing What’s Public: Automating Attack Surface Discovery](https://dev.to/devyjones/stop-guessing-whats-public-automating-attack-surface-discovery-3edg)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-26T19:28:27.024110+00:00 -->
+<!-- Log-ID: 2026-06-27T00:07:43.559396+00:00 -->
