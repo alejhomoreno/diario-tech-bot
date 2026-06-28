@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-28 00:02 (UTC)
+📅 **Last Update:** 2026-06-28 14:49 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A Guide to AI Cold Starts on Cloud Run](https://dev.to/googleai/a-guide-to-ai-cold-starts-on-cloud-run-c6d)** — **14** 👍 · 0 💬
-* **[5 Things Your LLM Bill Is Hiding From You (And How to Find Them)](https://dev.to/arpitstack/5-things-your-llm-bill-is-hiding-from-you-and-how-to-find-them-5ala)** — **9** 👍 · 8 💬
-* **[Day 42: Exploring ClickHouse® Table Engines Beyond MergeTree](https://dev.to/kanishga_subramani_49ad73/day-42-exploring-clickhouser-table-engines-beyond-mergetree-1cni)** — **3** 👍 · 0 💬
+* **[Day 44 – Exploring ClickHouse® System Tables for Troubleshooting](https://dev.to/kanishga_subramani_49ad73/day-44-exploring-clickhouser-system-tables-for-troubleshooting-1lgn)** — **2** 👍 · 0 💬
+* **[AI Coding Agents Are the New Attack Surface Nobody's Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)** — **1** 👍 · 0 💬
+* **[Creating a Kubernetes scoped kubeconfig by hand is 15 steps of pain. It shouldn't be.](https://dev.to/sameraburabie/creating-a-kubernetes-scoped-kubeconfig-by-hand-is-15-steps-of-pain-it-shouldnt-be-27ig)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[🍼 宝宝的小仓库 —— 幼师带你认识"NAS"](https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl)** — **5** 👍 · 0 💬
 * **[Implementing a Reliable UDP-Based Protocol (ARQ) for High-Throughput Systems](https://dev.to/ebendttl/implementing-a-reliable-udp-based-protocol-arq-for-high-throughput-systems-2cg2)** — **2** 👍 · 2 💬
-* **[Stop Guessing What’s Public: Automating Attack Surface Discovery](https://dev.to/devyjones/stop-guessing-whats-public-automating-attack-surface-discovery-3edg)** — **2** 👍 · 0 💬
+* **[I wanted a Go networking engine that gets out of the way, so I built one (Breeze).](https://dev.to/nelthaarion/i-wanted-a-go-networking-engine-that-gets-out-of-the-way-so-i-built-one-breeze-3jc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-28T00:02:29.507810+00:00 -->
+<!-- Log-ID: 2026-06-28T14:49:14.448288+00:00 -->
