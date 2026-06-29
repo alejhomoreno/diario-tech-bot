@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-28 19:03 (UTC)
+📅 **Last Update:** 2026-06-29 00:09 (UTC)
 
 ---
 
@@ -31,6 +31,6 @@
 
 * **[I put Cloudflare in front of my site, then found my origin one DNS record away from undoing it](https://dev.to/blackneuron/i-put-cloudflare-in-front-of-my-site-then-found-my-origin-one-dns-record-away-from-undoing-it-49bf)** — **5** 👍 · 1 💬
 * **[🍼 宝宝的小仓库 —— 幼师带你认识"NAS"](https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl)** — **5** 👍 · 0 💬
-* **[I wanted a Go networking engine that gets out of the way, so I built one (Breeze).](https://dev.to/nelthaarion/i-wanted-a-go-networking-engine-that-gets-out-of-the-way-so-i-built-one-breeze-3jc)** — **1** 👍 · 0 💬
+* **[Building a 5G UPF That Actually Saturates a 10G Link: VPP + DPDK + Open5GS in Production](https://dev.to/jarvis8/building-a-5g-upf-that-actually-saturates-a-10g-link-vpp-dpdk-open5gs-in-production-1041)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-28T19:03:51.118553+00:00 -->
+<!-- Log-ID: 2026-06-29T00:09:29.015720+00:00 -->
