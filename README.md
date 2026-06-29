@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-29 00:09 (UTC)
+📅 **Last Update:** 2026-06-29 16:38 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[5 Even More Advanced Java Tips That Senior Engineers Actually Use](https://dev.to/cyclopt_dimitrisk/5-even-more-advanced-java-tips-that-senior-engineers-actually-use-p10)** — **11** 👍 · 0 💬
 * **[Largest Rectangle In Histogram](https://dev.to/jaspreet_singh_86ae1740ac/largest-rectangle-in-histogram-2f54)** — **10** 👍 · 0 💬
-* **[Just Watch](https://dev.to/codenameone/just-watch-13j9)** — **5** 👍 · 0 💬
-* **[AI Agent Evaluation Ends Too Early | Focused Labs](https://dev.to/focused_dot_io/ai-agent-evaluation-ends-too-early-focused-labs-38aa)** — **1** 👍 · 0 💬
+* **[What are the Different Ways @Autowired Annotation Can Be Used in Spring Boot?](https://dev.to/realnamehidden1_61/what-are-the-different-ways-autowired-annotation-can-be-used-in-spring-boot-5g3l)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[MVP Development Tips for Tech Startups: Build Less, Validate More](https://dev.to/6sensehq/mvp-development-tips-for-tech-startups-build-less-validate-more-14p2)** — **1** 👍 · 0 💬
-* **[Day 46: A Guide to ClickHouse® Window Functions](https://dev.to/kanishga_subramani_49ad73/day-46-a-guide-to-clickhouser-window-functions-3ifb)** — **1** 👍 · 0 💬
-* **[Day 45: Using ClickHouse® for Log Analytics and Observability](https://dev.to/kanishga_subramani_49ad73/day-45-using-clickhouser-for-log-analytics-and-observability-4mmo)** — **1** 👍 · 0 💬
+* **[5 MCP Servers That Changed How I Build AI Workflows](https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6)** — **5** 👍 · 1 💬
+* **[Redis with Docker Compose: Persistence, Security, and Production-Ready Configuration](https://dev.to/ramansah/redis-with-docker-compose-persistence-security-and-production-ready-configuration-58jb)** — **1** 👍 · 0 💬
+* **[Multi-Account AWS Cost Visibility Without a FinOps Team](https://dev.to/trigops/multi-account-aws-cost-visibility-without-a-finops-team-3788)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[🍼 宝宝的小仓库 —— 幼师带你认识"NAS"](https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl)** — **5** 👍 · 0 💬
 * **[Building a 5G UPF That Actually Saturates a 10G Link: VPP + DPDK + Open5GS in Production](https://dev.to/jarvis8/building-a-5g-upf-that-actually-saturates-a-10g-link-vpp-dpdk-open5gs-in-production-1041)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-29T00:09:29.015720+00:00 -->
+<!-- Log-ID: 2026-06-29T16:38:22.655908+00:00 -->
