@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-30 00:04 (UTC)
+📅 **Last Update:** 2026-06-30 15:29 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[5 Even More Advanced Java Tips That Senior Engineers Actually Use](https://dev.to/cyclopt_dimitrisk/5-even-more-advanced-java-tips-that-senior-engineers-actually-use-p10)** — **11** 👍 · 0 💬
 * **[What are the Different Ways @Autowired Annotation Can Be Used in Spring Boot?](https://dev.to/realnamehidden1_61/what-are-the-different-ways-autowired-annotation-can-be-used-in-spring-boot-5g3l)** — **6** 👍 · 1 💬
-* **[Just Watch](https://dev.to/codenameone/just-watch-13j9)** — **5** 👍 · 0 💬
+* **[Beyond the "No-Build" Struggle: Why I Built jar-cart for Java](https://dev.to/sudhanshuambastha/beyond-the-no-build-struggle-why-i-built-jar-cart-for-java-36l0)** — **5** 👍 · 0 💬
+* **[🗄️ The JPA Enum Default Quietly Corrupts Your Data](https://dev.to/code_with_kyryl/u0001f5c4-the-jpa-enum-default-quietly-corrupts-your-data-20pe)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[5 MCP Servers That Changed How I Build AI Workflows](https://dev.to/jaideepparashar/5-mcp-servers-that-changed-how-i-build-ai-workflows-16j6)** — **5** 👍 · 1 💬
-* **[Redis with Docker Compose: Persistence, Security, and Production-Ready Configuration](https://dev.to/ramansah/redis-with-docker-compose-persistence-security-and-production-ready-configuration-58jb)** — **1** 👍 · 0 💬
-* **[Multi-Account AWS Cost Visibility Without a FinOps Team](https://dev.to/trigops/multi-account-aws-cost-visibility-without-a-finops-team-3788)** — **1** 👍 · 0 💬
+* **[Why Your Team Feels Slow (Even If Everyone Is Good)](https://dev.to/gavincettolo/why-your-team-feels-slow-even-if-everyone-is-good-570e)** — **2** 👍 · 0 💬
+* **[LiveOps Rollback Planning: What to Do When a Game Event Goes Wrong](https://dev.to/sam_novak_574b07811e18495/liveops-rollback-planning-what-to-do-when-an-event-goes-wrong-3929)** — **1** 👍 · 0 💬
+* **[The first malicious MCP server was one line of code: the postmark-mcp rug pull](https://dev.to/brennhill/the-first-malicious-mcp-server-was-one-line-of-code-the-postmark-mcp-rug-pull-jda)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[I put Cloudflare in front of my site, then found my origin one DNS record away from undoing it](https://dev.to/blackneuron/i-put-cloudflare-in-front-of-my-site-then-found-my-origin-one-dns-record-away-from-undoing-it-49bf)** — **5** 👍 · 1 💬
-* **[🍼 宝宝的小仓库 —— 幼师带你认识"NAS"](https://dev.to/jisheng_agent/bao-bao-de-xiao-cang-ku-you-shi-dai-ni-ren-shi-nas-1kdl)** — **5** 👍 · 0 💬
-* **[Building a 5G UPF That Actually Saturates a 10G Link: VPP + DPDK + Open5GS in Production](https://dev.to/jarvis8/building-a-5g-upf-that-actually-saturates-a-10g-link-vpp-dpdk-open5gs-in-production-1041)** — **2** 👍 · 0 💬
+* **[Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943)** — **16** 👍 · 0 💬
+* **[From one blocking accept() to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)** — **16** 👍 · 0 💬
+* **[Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection](https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-30T00:04:02.126406+00:00 -->
+<!-- Log-ID: 2026-06-30T15:29:36.988684+00:00 -->
