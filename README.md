@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-06-30 19:43 (UTC)
+📅 **Last Update:** 2026-07-01 00:05 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[What are the Different Ways @Autowired Annotation Can Be Used in Spring Boot?](https://dev.to/realnamehidden1_61/what-are-the-different-ways-autowired-annotation-can-be-used-in-spring-boot-5g3l)** — **6** 👍 · 1 💬
 * **[Beyond the "No-Build" Struggle: Why I Built jar-cart for Java](https://dev.to/sudhanshuambastha/beyond-the-no-build-struggle-why-i-built-jar-cart-for-java-36l0)** — **5** 👍 · 0 💬
-* **[Debugging a Redis Connection That Wasn't Actually Broken](https://dev.to/0xpremf/debugging-a-redis-connection-that-wasnt-actually-broken-3pjk)** — **1** 👍 · 0 💬
+* **[String in Java](https://dev.to/hariharan_sj_2003/string-in-java-1ecd)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Why Your Team Feels Slow (Even If Everyone Is Good)](https://dev.to/gavincettolo/why-your-team-feels-slow-even-if-everyone-is-good-570e)** — **2** 👍 · 0 💬
 * **[LiveOps Rollback Planning: What to Do When a Game Event Goes Wrong](https://dev.to/sam_novak_574b07811e18495/liveops-rollback-planning-what-to-do-when-an-event-goes-wrong-3929)** — **1** 👍 · 0 💬
 * **[The first malicious MCP server was one line of code: the postmark-mcp rug pull](https://dev.to/brennhill/the-first-malicious-mcp-server-was-one-line-of-code-the-postmark-mcp-rug-pull-jda)** — **1** 👍 · 0 💬
+* **[proxy_pass with netcat: Pipes, FIFOs, and the Art of Process Plumbing](https://dev.to/medunes/proxypass-with-netcat-pipes-fifos-and-the-art-of-process-plumbing-nje)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943)** — **16** 👍 · 0 💬
+* **[Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943)** — **31** 👍 · 0 💬
+* **[Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection](https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47)** — **23** 👍 · 0 💬
 * **[From one blocking accept() to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)** — **16** 👍 · 0 💬
-* **[Reconciling the Distributed System: How the AI Engineer World's Fair Engineered Human Connection](https://dev.to/dailycontext/reconciling-the-distributed-system-how-the-ai-engineer-worlds-fair-engineered-human-connection-4p47)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-06-30T19:43:25.658973+00:00 -->
+<!-- Log-ID: 2026-07-01T00:05:14.939303+00:00 -->
