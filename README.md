@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-02 15:17 (UTC)
+📅 **Last Update:** 2026-07-02 19:10 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)** — **5** 👍 · 0 💬
-* **[Testing and Debugging Your Env Config](https://dev.to/ctrotech/testing-and-debugging-your-env-config-2ke8)** — **4** 👍 · 0 💬
-* **[I built envcontract: give your .env file a contract (and stop leaking secrets)](https://dev.to/hamza_mansoor/i-built-envcontract-give-your-env-file-a-contract-and-stop-leaking-secrets-386)** — **1** 👍 · 2 💬
+* **[The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)** — **12** 👍 · 0 💬
+* **[Building Docker Containers with Persistent Storage](https://dev.to/highbee/building-docker-containers-with-persistent-storage-p1d)** — **1** 👍 · 0 💬
+* **[The failure that looks like success: how an unattended agent loop dies](https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[From one blocking accept() to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)** — **16** 👍 · 5 💬
 * **[How to Enable and Verify TCP BBR on Linux](https://dev.to/huo_huo_ba0fc42b443732322/how-to-enable-and-verify-tcp-bbr-on-linux-47p6)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-02T15:17:19.138113+00:00 -->
+<!-- Log-ID: 2026-07-02T19:10:55.751740+00:00 -->
