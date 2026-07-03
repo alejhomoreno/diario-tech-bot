@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-03 00:05 (UTC)
+📅 **Last Update:** 2026-07-03 15:12 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)** — **12** 👍 · 0 💬
-* **[Ota vs Dagger: Portable Workflows Are Not Repo Execution Governance](https://dev.to/otaready/ota-vs-dagger-portable-workflows-are-not-repo-execution-governance-hng)** — **5** 👍 · 0 💬
-* **[PamStealer: the macOS stealer that checks your password through PAM before stealing it](https://dev.to/kkierii/pamstealer-the-macos-stealer-that-checks-your-password-through-pam-before-stealing-it-4abj)** — **1** 👍 · 2 💬
+* **[Running untrusted, AI-generated code: why we built CreateOS Sandbox on Firecracker](https://dev.to/pratikbin/running-untrusted-ai-generated-code-why-we-built-createos-sandbox-on-firecracker-dld)** — **7** 👍 · 3 💬
+* **[Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)** — **5** 👍 · 0 💬
+* **[You Can't Vibe Code Infrastructure. The Job Market Agrees.](https://dev.to/remoet/you-cant-vibe-code-infrastructure-the-job-market-agrees-15oh)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943)** — **31** 👍 · 0 💬
+* **[The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca)** — **5** 👍 · 0 💬
 * **[DNS Propagation Explained - Why Your Site Changes Take Hours](https://dev.to/vantaj_co/dns-propagation-explained-why-your-site-changes-take-hours-1dke)** — **2** 👍 · 0 💬
-* **[I built one iOS app that controls four different Hisense smart-TV platforms — here's how each protocol works](https://dev.to/hisuperdev/i-built-one-ios-app-that-controls-four-different-hisense-smart-tv-platforms-heres-how-each-10m7)** — **1** 👍 · 0 💬
+* **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-03T00:05:14.766150+00:00 -->
+<!-- Log-ID: 2026-07-03T15:12:21.302117+00:00 -->
