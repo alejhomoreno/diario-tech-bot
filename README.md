@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-02 19:10 (UTC)
+📅 **Last Update:** 2026-07-03 00:05 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)** — **12** 👍 · 0 💬
-* **[Building Docker Containers with Persistent Storage](https://dev.to/highbee/building-docker-containers-with-persistent-storage-p1d)** — **1** 👍 · 0 💬
-* **[The failure that looks like success: how an unattended agent loop dies](https://dev.to/springheadio/the-failure-that-looks-like-success-how-an-unattended-agent-loop-dies-10ba)** — **0** 👍 · 1 💬
+* **[Ota vs Dagger: Portable Workflows Are Not Repo Execution Governance](https://dev.to/otaready/ota-vs-dagger-portable-workflows-are-not-repo-execution-governance-hng)** — **5** 👍 · 0 💬
+* **[PamStealer: the macOS stealer that checks your password through PAM before stealing it](https://dev.to/kkierii/pamstealer-the-macos-stealer-that-checks-your-password-through-pam-before-stealing-it-4abj)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
 * **[Developers Urged To Reach Out And Touch Someone](https://dev.to/dailycontext/developers-urged-to-reach-out-and-touch-someone-4943)** — **31** 👍 · 0 💬
-* **[From one blocking accept() to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)** — **16** 👍 · 5 💬
-* **[How to Enable and Verify TCP BBR on Linux](https://dev.to/huo_huo_ba0fc42b443732322/how-to-enable-and-verify-tcp-bbr-on-linux-47p6)** — **1** 👍 · 1 💬
+* **[DNS Propagation Explained - Why Your Site Changes Take Hours](https://dev.to/vantaj_co/dns-propagation-explained-why-your-site-changes-take-hours-1dke)** — **2** 👍 · 0 💬
+* **[I built one iOS app that controls four different Hisense smart-TV platforms — here's how each protocol works](https://dev.to/hisuperdev/i-built-one-ios-app-that-controls-four-different-hisense-smart-tv-platforms-heres-how-each-10m7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-02T19:10:55.751740+00:00 -->
+<!-- Log-ID: 2026-07-03T00:05:14.766150+00:00 -->
