@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-04 00:03 (UTC)
+📅 **Last Update:** 2026-07-04 14:38 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Beyond the "No-Build" Struggle: Why I Built jar-cart for Java](https://dev.to/sudhanshuambastha/beyond-the-no-build-struggle-why-i-built-jar-cart-for-java-36l0)** — **5** 👍 · 0 💬
-* **[How I Built Sherlog: an AI Log Analyzer with RAG, Spring AI, Groq & pgvector](https://dev.to/pallavi_mudkhede/how-i-built-sherlog-an-ai-log-analyzer-with-rag-spring-ai-groq-pgvector-5foc)** — **2** 👍 · 1 💬
-* **[Stop Guessing Batch Sizes: High-Performance Bulk Inserts in Spring Boot with PostgreSQL COPY](https://dev.to/douglas_carmo_cd84c5548f2/stop-guessing-batch-sizes-high-performance-bulk-inserts-in-spring-boot-with-postgresql-copy-4ebb)** — **2** 👍 · 0 💬
+* **[Document Object Model [DOM] CRUD Operations](https://dev.to/madhanraj/document-object-model-dom-crud-operations-9ka)** — **3** 👍 · 0 💬
+* **[Building an Affiliate Marketplace from Scratch: 14 Tables, 27 Services, Zero Money Movement](https://dev.to/anand_rathnas_d5b608cc3de/building-an-affiliate-marketplace-from-scratch-14-tables-27-services-zero-money-movement-4amn)** — **1** 👍 · 0 💬
+* **[Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://dev.to/codenameone/funding-open-source-without-the-bait-and-switch-analytics-native-maps-tv-and-more-1h1j)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Running untrusted, AI-generated code: why we built CreateOS Sandbox on Firecracker](https://dev.to/pratikbin/running-untrusted-ai-generated-code-why-we-built-createos-sandbox-on-firecracker-dld)** — **7** 👍 · 3 💬
-* **[Website Down? Don't Blame Your Code Yet (How to Prove Your Host is at Fault)](https://dev.to/sayista_yazdani_3c0e9f4f9/website-down-dont-blame-your-code-yet-how-to-prove-your-host-is-at-fault-1mfp)** — **6** 👍 · 1 💬
-* **[Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)** — **6** 👍 · 0 💬
+* **[Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)** — **7** 👍 · 1 💬
+* **[NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)** — **1** 👍 · 2 💬
+* **[Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[The biggest World’s Fair yet powers down for the moment](https://dev.to/dailycontext/the-biggest-worlds-fair-yet-powers-down-for-the-moment-1jca)** — **8** 👍 · 0 💬
 * **[DNS Propagation Explained - Why Your Site Changes Take Hours](https://dev.to/vantaj_co/dns-propagation-explained-why-your-site-changes-take-hours-1dke)** — **2** 👍 · 0 💬
 * **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)** — **1** 👍 · 0 💬
+* **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-04T00:03:47.379493+00:00 -->
+<!-- Log-ID: 2026-07-04T14:38:51.199074+00:00 -->
