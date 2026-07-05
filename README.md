@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-05 00:01 (UTC)
+📅 **Last Update:** 2026-07-05 14:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Document Object Model [DOM] CRUD Operations](https://dev.to/madhanraj/document-object-model-dom-crud-operations-9ka)** — **3** 👍 · 0 💬
-* **[Building an Affiliate Marketplace from Scratch: 14 Tables, 27 Services, Zero Money Movement](https://dev.to/anand_rathnas_d5b608cc3de/building-an-affiliate-marketplace-from-scratch-14-tables-27-services-zero-money-movement-4amn)** — **1** 👍 · 0 💬
-* **[Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://dev.to/codenameone/funding-open-source-without-the-bait-and-switch-analytics-native-maps-tv-and-more-1h1j)** — **0** 👍 · 1 💬
+* **[Retry, timeout and bulkhead: composing Resilience4j the right way](https://dev.to/dev48v/retry-timeout-and-bulkhead-composing-resilience4j-the-right-way-5g2l)** — **1** 👍 · 0 💬
+* **[Rich Text And Code Editing: RichTextArea And A Syntax-Highlighting CodeEditor](https://dev.to/codenameone/rich-text-and-code-editing-richtextarea-and-a-syntax-highlighting-codeeditor-4c82)** — **0** 👍 · 0 💬
+* **[FHIR DiagnosticReport Resource: A Developer's Guide to Lab Reports and Radiology in an Indian HMIS](https://dev.to/hgvanpariya/fhir-diagnosticreport-resource-a-developers-guide-to-lab-reports-and-radiology-in-an-indian-hmis-2m14)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Protect Yourself, Mesh Yourself](https://dev.to/eschmechel/protect-yourself-mesh-yourself-3fkn)** — **7** 👍 · 1 💬
-* **[NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)** — **1** 👍 · 2 💬
-* **[Why I’m Thinking of Switching My Portfolio to Astro.js ..](https://dev.to/kavin_hbn_e6108b3e666949c/why-im-thinking-of-switching-my-portfolio-to-astrojs--4gcj)** — **1** 👍 · 0 💬
+* **[What's All Am I Hosting? Full Infrastructure Breakdown](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8)** — **3** 👍 · 0 💬
+* **[Decommissioning a Table in Databricks (and Why SSMS Still Matters)](https://dev.to/kiransp/decommissioning-a-table-in-databricks-and-why-ssms-still-matters-1mk1)** — **1** 👍 · 0 💬
+* **[Your Self-Hosted LLM Has No Auth by Default. One Config Line Decides Who Runs It.](https://dev.to/alex_spinov/your-self-hosted-llm-has-no-auth-by-default-one-config-line-decides-who-runs-it-1bib)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)** — **1** 👍 · 0 💬
 * **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-05T00:01:44.145948+00:00 -->
+<!-- Log-ID: 2026-07-05T14:44:59.223747+00:00 -->
