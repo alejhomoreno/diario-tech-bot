@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-05 14:44 (UTC)
+📅 **Last Update:** 2026-07-05 19:02 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Retry, timeout and bulkhead: composing Resilience4j the right way](https://dev.to/dev48v/retry-timeout-and-bulkhead-composing-resilience4j-the-right-way-5g2l)** — **1** 👍 · 0 💬
 * **[Rich Text And Code Editing: RichTextArea And A Syntax-Highlighting CodeEditor](https://dev.to/codenameone/rich-text-and-code-editing-richtextarea-and-a-syntax-highlighting-codeeditor-4c82)** — **0** 👍 · 0 💬
-* **[FHIR DiagnosticReport Resource: A Developer's Guide to Lab Reports and Radiology in an Indian HMIS](https://dev.to/hgvanpariya/fhir-diagnosticreport-resource-a-developers-guide-to-lab-reports-and-radiology-in-an-indian-hmis-2m14)** — **0** 👍 · 0 💬
+* **[Making RAG Accurate in Java](https://dev.to/gpuneet/making-rag-accurate-in-java-50c4)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[What's All Am I Hosting? Full Infrastructure Breakdown](https://dev.to/shubham399/whats-all-am-i-hosting-full-infrastructure-breakdown-53b8)** — **3** 👍 · 0 💬
-* **[Decommissioning a Table in Databricks (and Why SSMS Still Matters)](https://dev.to/kiransp/decommissioning-a-table-in-databricks-and-why-ssms-still-matters-1mk1)** — **1** 👍 · 0 💬
-* **[Your Self-Hosted LLM Has No Auth by Default. One Config Line Decides Who Runs It.](https://dev.to/alex_spinov/your-self-hosted-llm-has-no-auth-by-default-one-config-line-decides-who-runs-it-1bib)** — **1** 👍 · 0 💬
+* **[A Practical Comparison of Modern CI/CD and Testing Management Tools](https://dev.to/cristhiancarlosmamanic/a-practical-comparison-of-modern-cicd-and-testing-management-tools-11bk)** — **31** 👍 · 2 💬
+* **[Securing Your Terraform Infrastructure with Checkov and GitHub Actions](https://dev.to/cristhiancarlosmamanic/securing-your-terraform-infrastructure-with-checkov-and-github-actions-2c86)** — **31** 👍 · 1 💬
+* **[Your Kubernetes Controller Is Silently Dead and Nobody Knows](https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)** — **1** 👍 · 0 💬
 * **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-05T14:44:59.223747+00:00 -->
+<!-- Log-ID: 2026-07-05T19:02:56.811703+00:00 -->
