@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-06 00:05 (UTC)
+📅 **Last Update:** 2026-07-06 16:21 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A Practical Comparison of Modern CI/CD and Testing Management Tools](https://dev.to/cristhiancarlosmamanic/a-practical-comparison-of-modern-cicd-and-testing-management-tools-11bk)** — **31** 👍 · 2 💬
-* **[Securing Your Terraform Infrastructure with Checkov and GitHub Actions](https://dev.to/cristhiancarlosmamanic/securing-your-terraform-infrastructure-with-checkov-and-github-actions-2c86)** — **31** 👍 · 1 💬
-* **[Your Kubernetes Controller Is Silently Dead and Nobody Knows](https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml)** — **1** 👍 · 1 💬
+* **[What I Learned After Building AI Systems Across Multiple Brands](https://dev.to/jaideepparashar/what-i-learned-after-building-ai-systems-across-multiple-brands-841)** — **6** 👍 · 3 💬
+* **[You Can't Review an Agent. You Can Review a Plan.](https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp)** — **1** 👍 · 2 💬
+* **[#6 The Real Job Isn't Building It — It's Keeping It Running](https://dev.to/fromzerotoship/the-real-job-isnt-building-it-its-keeping-it-running-1nij)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[DNS Propagation Explained - Why Your Site Changes Take Hours](https://dev.to/vantaj_co/dns-propagation-explained-why-your-site-changes-take-hours-1dke)** — **2** 👍 · 0 💬
-* **[We tested 62,541 free proxies from GitHub. Only 4% actually work.](https://dev.to/faceless_satine_148164446/we-tested-62541-free-proxies-from-github-only-4-actually-work-404n)** — **1** 👍 · 0 💬
+* **[Why Residential Proxies Are Not Enough (And What Akamai Actually Checks)](https://dev.to/kloakd/why-residential-proxies-are-not-enough-and-what-akamai-actually-checks-4m3e)** — **1** 👍 · 0 💬
+* **[🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method (RFC 10008)](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)** — **1** 👍 · 0 💬
 * **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-06T00:05:59.230912+00:00 -->
+<!-- Log-ID: 2026-07-06T16:21:08.268461+00:00 -->
