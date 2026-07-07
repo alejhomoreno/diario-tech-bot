@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-07 19:42 (UTC)
+📅 **Last Update:** 2026-07-07 23:57 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[How do you balance speed and security in CI/CD?](https://dev.to/varunvarde/how-do-you-balance-speed-and-security-in-cicd-3imp)** — **5** 👍 · 1 💬
-* **[Faster, isolated builds: one Firecracker microVM per build](https://dev.to/ianqqu/faster-isolated-builds-one-firecracker-microvm-per-build-2813)** — **1** 👍 · 1 💬
-* **[Understanding ACME: What I Learned While Debugging HTTPS Certificate Failures](https://dev.to/mohhddhassan/understanding-acme-what-i-learned-while-debugging-https-certificate-failures-12l6)** — **1** 👍 · 0 💬
+* **[Giving LLMs access to a bash terminal is terrifying](https://dev.to/rahulb0802/giving-llms-access-to-a-bash-terminal-is-terrifying-1h08)** — **1** 👍 · 1 💬
+* **[Deploying ClearML as a GCP Vertex AI Alternative on Ubuntu](https://dev.to/vultr/deploying-clearml-as-a-gcp-vertex-ai-alternative-on-ubuntu-n2f)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method (RFC 10008)](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)** — **1** 👍 · 0 💬
 * **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-07-07T19:42:47.485904+00:00 -->
+<!-- Log-ID: 2026-07-07T23:57:11.308220+00:00 -->
