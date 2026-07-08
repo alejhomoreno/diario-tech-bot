@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-08 15:22 (UTC)
+📅 **Last Update:** 2026-07-08 19:09 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Apple TV And Android TV: One Codebase, And CSS @media For The Living Room](https://dev.to/codenameone/apple-tv-and-android-tv-one-codebase-and-css-media-for-the-living-room-bb0)** — **5** 👍 · 1 💬
+* **[Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)** — **5** 👍 · 0 💬
 * **[A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://dev.to/codenameone/a-privacy-first-analytics-api-one-facade-a-provider-spi-and-a-consent-gate-2l1l)** — **5** 👍 · 0 💬
 * **[CallBack and CallBack Hell in JS](https://dev.to/madhanraj/callback-and-callback-hell-in-js-j9k)** — **3** 👍 · 0 💬
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI Is Quietly Taking Over DevOps: Notes from the Global DevOps Summit 2026 in Bengaluru](https://dev.to/muskan_bandta/ai-is-quietly-taking-over-devops-notes-from-the-global-devops-summit-2026-in-bengaluru-hia)** — **2** 👍 · 0 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 7: Kill the SSH Password, and Resize EC2 the Right Way](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-7-kill-the-ssh-password-and-resize-ec2-the-right-way-2m86)** — **1** 👍 · 0 💬
-* **[Prevent WordPress hacks by reading your own access log](https://dev.to/cifi/prevent-wordpress-hacks-by-reading-your-own-access-log-1e9k)** — **0** 👍 · 0 💬
+* **[7 Dockerfile Mistakes That Are Quietly Costing You](https://dev.to/devopsaitoolkit/7-dockerfile-mistakes-that-are-quietly-costing-you-5a5n)** — **2** 👍 · 0 💬
+* **[Why Localhost Worked but the Application Couldn't Connect](https://dev.to/mohhddhassan/why-localhost-worked-but-the-application-couldnt-connect-2pl0)** — **1** 👍 · 0 💬
+* **[Migrating from node_exporter to Grafana Alloy, One Server at a Time](https://dev.to/irinobservability/migrating-from-nodeexporter-to-grafana-alloy-one-server-at-a-time-58an)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why Residential Proxies Are Not Enough (And What Akamai Actually Checks)](https://dev.to/kloakd/why-residential-proxies-are-not-enough-and-what-akamai-actually-checks-4m3e)** — **1** 👍 · 0 💬
-* **[🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method (RFC 10008)](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)** — **1** 👍 · 0 💬
-* **[Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality](https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54)** — **0** 👍 · 1 💬
+* **[Why Localhost Worked but the Application Couldn't Connect](https://dev.to/mohhddhassan/why-localhost-worked-but-the-application-couldnt-connect-2pl0)** — **1** 👍 · 0 💬
+* **[A Developer’s Checklist for Stable Network Access While Traveling](https://dev.to/zibray/a-developers-checklist-for-stable-network-access-while-traveling-258o)** — **1** 👍 · 0 💬
+* **[HTTP/3 vs HTTP/2](https://dev.to/godofgeeks/http3-vs-http2-10g3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-08T15:22:45.637502+00:00 -->
+<!-- Log-ID: 2026-07-08T19:09:25.044676+00:00 -->
