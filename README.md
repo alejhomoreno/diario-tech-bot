@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-08 19:09 (UTC)
+📅 **Last Update:** 2026-07-09 00:09 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[7 Dockerfile Mistakes That Are Quietly Costing You](https://dev.to/devopsaitoolkit/7-dockerfile-mistakes-that-are-quietly-costing-you-5a5n)** — **2** 👍 · 0 💬
+* **[GitLost Is a Preview of Every Agentic Workflow Breach You'll See This Year](https://dev.to/coridev/gitlost-is-a-preview-of-every-agentic-workflow-breach-youll-see-this-year-18p)** — **1** 👍 · 0 💬
+* **[Why We Open-Sourced Identity Lifecycle Management (ILM)](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)** — **1** 👍 · 0 💬
 * **[Why Localhost Worked but the Application Couldn't Connect](https://dev.to/mohhddhassan/why-localhost-worked-but-the-application-couldnt-connect-2pl0)** — **1** 👍 · 0 💬
-* **[Migrating from node_exporter to Grafana Alloy, One Server at a Time](https://dev.to/irinobservability/migrating-from-nodeexporter-to-grafana-alloy-one-server-at-a-time-58an)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[A Developer’s Checklist for Stable Network Access While Traveling](https://dev.to/zibray/a-developers-checklist-for-stable-network-access-while-traveling-258o)** — **1** 👍 · 0 💬
 * **[HTTP/3 vs HTTP/2](https://dev.to/godofgeeks/http3-vs-http2-10g3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-08T19:09:25.044676+00:00 -->
+<!-- Log-ID: 2026-07-09T00:09:45.923242+00:00 -->
