@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-09 00:09 (UTC)
+📅 **Last Update:** 2026-07-09 15:57 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)** — **5** 👍 · 0 💬
 * **[A Privacy-First Analytics API: One Facade, A Provider SPI, And A Consent Gate](https://dev.to/codenameone/a-privacy-first-analytics-api-one-facade-a-provider-spi-and-a-consent-gate-2l1l)** — **5** 👍 · 0 💬
-* **[CallBack and CallBack Hell in JS](https://dev.to/madhanraj/callback-and-callback-hell-in-js-j9k)** — **3** 👍 · 0 💬
+* **[Game Builder Tutorial 2: Build a Blackjack Card Game (Duke Jack)](https://dev.to/codenameone/game-builder-tutorial-2-build-a-blackjack-card-game-duke-jack-gha)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[GitLost Is a Preview of Every Agentic Workflow Breach You'll See This Year](https://dev.to/coridev/gitlost-is-a-preview-of-every-agentic-workflow-breach-youll-see-this-year-18p)** — **1** 👍 · 0 💬
-* **[Why We Open-Sourced Identity Lifecycle Management (ILM)](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)** — **1** 👍 · 0 💬
-* **[Why Localhost Worked but the Application Couldn't Connect](https://dev.to/mohhddhassan/why-localhost-worked-but-the-application-couldnt-connect-2pl0)** — **1** 👍 · 0 💬
+* **[I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...](https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd)** — **26** 👍 · 3 💬
+* **[Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix](https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb)** — **1** 👍 · 0 💬
+* **[AI Governance for Engineering Teams](https://dev.to/hadil/ai-governance-for-engineering-teams-4510)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why Localhost Worked but the Application Couldn't Connect](https://dev.to/mohhddhassan/why-localhost-worked-but-the-application-couldnt-connect-2pl0)** — **1** 👍 · 0 💬
+* **[A Structured Methodology for Network Scanning and Service Enumeration.](https://dev.to/oliventhan_e567f38653640b/a-structured-methodology-for-network-scanning-and-service-enumeration-4di0)** — **1** 👍 · 0 💬
 * **[A Developer’s Checklist for Stable Network Access While Traveling](https://dev.to/zibray/a-developers-checklist-for-stable-network-access-while-traveling-258o)** — **1** 👍 · 0 💬
 * **[HTTP/3 vs HTTP/2](https://dev.to/godofgeeks/http3-vs-http2-10g3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-09T00:09:45.923242+00:00 -->
+<!-- Log-ID: 2026-07-09T15:57:06.259254+00:00 -->
