@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-10 19:16 (UTC)
+📅 **Last Update:** 2026-07-10 23:57 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[uv audit vs pip-audit, and a gate narrower than it looks](https://dev.to/curioustore_48788631d0e2e/uv-audit-vs-pip-audit-and-a-gate-narrower-than-it-looks-30nf)** — **5** 👍 · 0 💬
+* **[Why Reliable Browser Testing Is Mostly About State, Not Clicking](https://dev.to/orbitpickle307/why-reliable-browser-testing-is-mostly-about-state-not-clicking-39h8)** — **4** 👍 · 0 💬
 * **[It Works on My Machine: A Docker War Story About exec format error](https://dev.to/devopsaitoolkit/it-works-on-my-machine-a-docker-war-story-about-exec-format-error-oen)** — **1** 👍 · 1 💬
-* **[I built a CLI that catches shadow APIs in Express.js repos before they merge to production](https://dev.to/darkmaster0345/i-built-a-cli-that-catches-shadow-apis-in-expressjs-repos-before-they-merge-to-production-e0k)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why Los Angeles is the Ultimate Server Location for Cross-Pacific Gaming](https://dev.to/bytesrack/why-los-angeles-is-the-ultimate-server-location-for-cross-pacific-gaming-2h16)** — **1** 👍 · 0 💬
 * **[A Structured Methodology for Network Scanning and Service Enumeration.](https://dev.to/oliventhan_e567f38653640b/a-structured-methodology-for-network-scanning-and-service-enumeration-4di0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-10T19:16:36.539353+00:00 -->
+<!-- Log-ID: 2026-07-10T23:57:32.529647+00:00 -->
