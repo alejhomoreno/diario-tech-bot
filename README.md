@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-10 15:32 (UTC)
+📅 **Last Update:** 2026-07-10 19:16 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)** — **5** 👍 · 1 💬
 * **[Game Builder Tutorial 2: Build a Blackjack Card Game (Duke Jack)](https://dev.to/codenameone/game-builder-tutorial-2-build-a-blackjack-card-game-duke-jack-gha)** — **5** 👍 · 0 💬
 * **[Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)** — **5** 👍 · 0 💬
-* **[An 8,000 trade settlement simulator shows where virtual threads win big and where CPU-bound work exposes the limit of Loom](https://dev.to/douglas_carmo_cd84c5548f2/an-8000-trade-settlement-simulator-shows-where-virtual-threads-win-big-and-where-cpu-bound-work-1a0b)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[uv audit vs pip-audit, and a gate narrower than it looks](https://dev.to/curioustore_48788631d0e2e/uv-audit-vs-pip-audit-and-a-gate-narrower-than-it-looks-30nf)** — **5** 👍 · 0 💬
+* **[It Works on My Machine: A Docker War Story About exec format error](https://dev.to/devopsaitoolkit/it-works-on-my-machine-a-docker-war-story-about-exec-format-error-oen)** — **1** 👍 · 1 💬
 * **[I built a CLI that catches shadow APIs in Express.js repos before they merge to production](https://dev.to/darkmaster0345/i-built-a-cli-that-catches-shadow-apis-in-expressjs-repos-before-they-merge-to-production-e0k)** — **1** 👍 · 0 💬
-* **[#10 The Week I Held My Breath: Moving to a Real Server](https://dev.to/fromzerotoship/10-the-week-i-held-my-breath-moving-to-a-real-server-5fej)** — **1** 👍 · 0 💬
-* **[Two LangGraph Projects That Taught Me How to Design Multi-Agent Systems](https://dev.to/debashish_ghosal_2026/two-langgraph-projects-that-taught-me-how-to-design-multi-agent-systems-53n1)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why Los Angeles is the Ultimate Server Location for Cross-Pacific Gaming](https://dev.to/bytesrack/why-los-angeles-is-the-ultimate-server-location-for-cross-pacific-gaming-2h16)** — **1** 👍 · 0 💬
 * **[A Structured Methodology for Network Scanning and Service Enumeration.](https://dev.to/oliventhan_e567f38653640b/a-structured-methodology-for-network-scanning-and-service-enumeration-4di0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-10T15:32:13.351298+00:00 -->
+<!-- Log-ID: 2026-07-10T19:16:36.539353+00:00 -->
