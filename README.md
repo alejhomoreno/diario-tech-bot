@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-10 23:57 (UTC)
+📅 **Last Update:** 2026-07-11 14:22 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)** — **5** 👍 · 1 💬
 * **[Game Builder Tutorial 2: Build a Blackjack Card Game (Duke Jack)](https://dev.to/codenameone/game-builder-tutorial-2-build-a-blackjack-card-game-duke-jack-gha)** — **5** 👍 · 0 💬
 * **[Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)** — **5** 👍 · 0 💬
+* **[Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning](https://dev.to/maschiojv/your-loom-app-quietly-became-a-thread-pool-again-a-field-guide-to-virtual-thread-pinning-2a3f)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[uv audit vs pip-audit, and a gate narrower than it looks](https://dev.to/curioustore_48788631d0e2e/uv-audit-vs-pip-audit-and-a-gate-narrower-than-it-looks-30nf)** — **5** 👍 · 0 💬
-* **[Why Reliable Browser Testing Is Mostly About State, Not Clicking](https://dev.to/orbitpickle307/why-reliable-browser-testing-is-mostly-about-state-not-clicking-39h8)** — **4** 👍 · 0 💬
-* **[It Works on My Machine: A Docker War Story About exec format error](https://dev.to/devopsaitoolkit/it-works-on-my-machine-a-docker-war-story-about-exec-format-error-oen)** — **1** 👍 · 1 💬
+* **[Setup Automation Is Not Readiness Verification](https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe)** — **6** 👍 · 3 💬
+* **[Saca el estado de Terraform de la internet pública (sin montar una VPN)](https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj)** — **1** 👍 · 0 💬
+* **[I Ran 150 Tasks to Test If AI Agents Follow Rules — The Answer Surprised Me](https://dev.to/yuhaolin2005/i-ran-150-tasks-to-test-if-ai-agents-follow-rules-the-answer-surprised-me-2670)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why Los Angeles is the Ultimate Server Location for Cross-Pacific Gaming](https://dev.to/bytesrack/why-los-angeles-is-the-ultimate-server-location-for-cross-pacific-gaming-2h16)** — **1** 👍 · 0 💬
 * **[A Structured Methodology for Network Scanning and Service Enumeration.](https://dev.to/oliventhan_e567f38653640b/a-structured-methodology-for-network-scanning-and-service-enumeration-4di0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-10T23:57:32.529647+00:00 -->
+<!-- Log-ID: 2026-07-11T14:22:37.102195+00:00 -->
