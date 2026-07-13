@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-12 23:54 (UTC)
+📅 **Last Update:** 2026-07-13 15:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Game Builder Tutorial 2: Build a Blackjack Card Game (Duke Jack)](https://dev.to/codenameone/game-builder-tutorial-2-build-a-blackjack-card-game-duke-jack-gha)** — **5** 👍 · 0 💬
-* **[Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)** — **5** 👍 · 0 💬
-* **[Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning](https://dev.to/maschiojv/your-loom-app-quietly-became-a-thread-pool-again-a-field-guide-to-virtual-thread-pinning-2a3f)** — **4** 👍 · 0 💬
+* **[What I Learned at the Code on JVM Meetup: Engineering Concepts Beyond Java](https://dev.to/vidhya_murali_5aabe7784bd/what-i-learned-at-the-code-on-jvm-meetup-engineering-concepts-beyond-java-3bpa)** — **2** 👍 · 0 💬
+* **[Java & AI: What Developers Need to Know](https://dev.to/machinecodingmaster/java-ai-what-developers-need-to-know-2aia)** — **0** 👍 · 1 💬
+* **[Commerce And Secrets Without An IAP Tax](https://dev.to/codenameone/commerce-and-secrets-without-an-iap-tax-1n9b)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[Rosemary: Transparent Network Tunneling Over QUIC (Kernel-Level)](https://dev.to/blue0x1/rosemary-2p86)** — **1** 👍 · 0 💬
-* **[Building a Transparent Proxy in Rust: The Foundation Behind Lens](https://dev.to/dpsyfk/building-a-transparent-proxy-in-rust-the-foundation-behind-lens-1190)** — **0** 👍 · 0 💬
-* **[How Zoom Delivers Low-Latency Video: SFU vs MCU, WebRTC, and Simulcast](https://dev.to/roni_das_b1b76c5ee6583027/how-zoom-delivers-low-latency-video-sfu-vs-mcu-webrtc-and-simulcast-2bgc)** — **0** 👍 · 0 💬
+* **[Adding WebRTC to py-libp2p: Two Runtimes, Three Specs, and One Unforgiving Private Slot](https://dev.to/yashksaini/adding-webrtc-to-py-libp2p-two-runtimes-three-specs-and-one-unforgiving-private-slot-3n22)** — **11** 👍 · 1 💬
+* **[Every Device Needs an Address: Understanding IP Addressing, IPv4, IPv6, NAT, and Subnetting](https://dev.to/divineuzor/every-device-needs-an-address-understanding-ip-addressing-ipv4-ipv6-nat-and-subnetting-6na)** — **9** 👍 · 0 💬
+* **[Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? (Hint: They aren't the same thing!).](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-12T23:54:31.054357+00:00 -->
+<!-- Log-ID: 2026-07-13T15:42:57.935677+00:00 -->
