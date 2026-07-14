@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-14 14:53 (UTC)
+📅 **Last Update:** 2026-07-14 19:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Introduction to REACT](https://dev.to/madhanraj/introduction-to-react-5cm1)** — **2** 👍 · 0 💬
+* **[Versioned Builds Are Back, With Master Builds For Fast Verification](https://dev.to/codenameone/versioned-builds-are-back-with-master-builds-for-fast-verification-2ak7)** — **5** 👍 · 0 💬
+* **[REACT Components](https://dev.to/madhanraj/react-components-1f7j)** — **2** 👍 · 0 💬
 * **[Making ServiceLoader usable: a provider factory](https://dev.to/stefanofago73/making-serviceloader-usable-a-provider-factory-4img)** — **1** 👍 · 0 💬
-* **[Commerce And Secrets Without An IAP Tax](https://dev.to/codenameone/commerce-and-secrets-without-an-iap-tax-1n9b)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[Como escolher eventos de tecnologia para participar](https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf)** — **123** 👍 · 2 💬
+* **[Como escolher eventos de tecnologia para participar](https://dev.to/he4rt/como-escolher-eventos-de-tecnologia-para-participar-55kf)** — **124** 👍 · 2 💬
 * **[Why Advanced Industrial Protocols Give Raw Sockets the "Silent Treatment"](https://dev.to/null_saint/why-advanced-industrial-protocols-give-raw-sockets-the-silent-treatment-33b8)** — **10** 👍 · 0 💬
 * **[Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? (Hint: They aren't the same thing!).](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-14T14:53:17.765360+00:00 -->
+<!-- Log-ID: 2026-07-14T19:04:05.789853+00:00 -->
