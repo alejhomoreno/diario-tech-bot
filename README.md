@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-16 15:03 (UTC)
+📅 **Last Update:** 2026-07-16 18:57 (UTC)
 
 ---
 
@@ -23,16 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.](https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g)** — **9** 👍 · 0 💬
+* **[The most expensive outages return HTTP 200](https://dev.to/adioof/the-most-expensive-outages-return-http-200-k8d)** — **7** 👍 · 0 💬
 * **[We Built an AI-Powered Semantic Release Pipeline - Here's Everything We Learned](https://dev.to/smit-vaghasiya/we-built-an-ai-powered-semantic-release-pipeline-heres-everything-we-learned-123k)** — **6** 👍 · 0 💬
-* **[The most expensive outages return HTTP 200](https://dev.to/adioof/the-most-expensive-outages-return-http-200-k8d)** — **6** 👍 · 0 💬
-* **[What Makes an AI System Production-Ready? Part 1: The Development Environment](https://dev.to/mohitbajaj/what-makes-an-ai-system-production-ready-part-1-the-development-environment-3edm)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[HTTP gets a QUERY method so complex searches can stop pretending to be POST
+* **[100 Days of DevOps and Cloud (AWS), Day 12: A Port Conflict Killed httpd, and an Attached Volume Isn't a Mounted One](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-12-a-port-conflict-killed-httpd-and-an-attached-volume-3nom)** — **6** 👍 · 0 💬
+* **[Why WHOIS is Deprecating and How to Use RDAP in Java](https://dev.to/sluca/why-whois-is-deprecating-and-how-to-use-rdap-in-java-58lg)** — **2** 👍 · 2 💬
+* **[What Is My IP Address? IPv4 vs IPv6 Explained for DevelopersPublished](https://dev.to/muhammad_asadarshad_6098/what-is-my-ip-address-ipv4-vs-ipv6-explained-for-developerspublished-2ldh)** — **2** 👍 · 0 💬
 
-https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28)** — **5** 👍 · 0 💬
-* **[Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? (Hint: They aren't the same thing!).](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)** — **5** 👍 · 0 💬
-* **[Wiring a local network scanner into an AI assistant with MCP](https://dev.to/deviceshelf/wiring-a-local-network-scanner-into-an-ai-assistant-with-mcp-45o0)** — **1** 👍 · 2 💬
-
-<!-- Log-ID: 2026-07-16T15:03:04.828829+00:00 -->
+<!-- Log-ID: 2026-07-16T18:57:20.442853+00:00 -->
