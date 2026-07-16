@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-15 23:57 (UTC)
+📅 **Last Update:** 2026-07-16 15:03 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Things to know about - Java Collections Framework](https://dev.to/kathirvel-s/things-to-know-about-java-collections-framework-o6a)** — **4** 👍 · 0 💬
+* **[Why WHOIS is Deprecating and How to Use RDAP in Java](https://dev.to/sluca/why-whois-is-deprecating-and-how-to-use-rdap-in-java-58lg)** — **2** 👍 · 2 💬
 * **[Understanding Method Overriding in Java](https://dev.to/athithya_sivasankarar/understanding-method-overriding-in-java-3eo8)** — **2** 👍 · 0 💬
-* **[Mastering Java Loops: Under the Hood, Memory Pitfalls, and High-Scale Optimizations](https://dev.to/mithamovictor/mastering-java-loops-under-the-hood-memory-pitfalls-and-high-scale-optimizations-3e16)** — **1** 👍 · 1 💬
+* **[Full Stack Web Development](https://dev.to/payal_a61adc4c7fe250881b6/full-stack-web-development-b61)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A Postgres-Backed MCP Server in ~20 Lines](https://dev.to/devopsdaily/a-postgres-backed-mcp-server-in-20-lines-590h)** — **5** 👍 · 0 💬
-* **[The Ghost in the Machine: Hunting a Memory Leak I Couldn't See the Source Of.](https://dev.to/moersebene/the-ghost-in-the-machine-hunting-a-memory-leak-i-couldnt-see-the-source-of-54f1)** — **3** 👍 · 0 💬
-* **[The status page you can't fake: measured uptime, not published](https://dev.to/slima4/the-status-page-you-cant-fake-measured-uptime-not-published-ckp)** — **1** 👍 · 0 💬
+* **[We Built an AI-Powered Semantic Release Pipeline - Here's Everything We Learned](https://dev.to/smit-vaghasiya/we-built-an-ai-powered-semantic-release-pipeline-heres-everything-we-learned-123k)** — **6** 👍 · 0 💬
+* **[The most expensive outages return HTTP 200](https://dev.to/adioof/the-most-expensive-outages-return-http-200-k8d)** — **6** 👍 · 0 💬
+* **[What Makes an AI System Production-Ready? Part 1: The Development Environment](https://dev.to/mohitbajaj/what-makes-an-ai-system-production-ready-part-1-the-development-environment-3edm)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -35,4 +35,4 @@ https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-comple
 * **[Quick system design question: Do you actually know the structural difference between a Reverse Proxy, a Load Balancer, and an API Gateway? (Hint: They aren't the same thing!).](https://dev.to/saint_vandora/quick-system-design-question-do-you-actually-know-the-structural-difference-between-a-reverse-5fga)** — **5** 👍 · 0 💬
 * **[Wiring a local network scanner into an AI assistant with MCP](https://dev.to/deviceshelf/wiring-a-local-network-scanner-into-an-ai-assistant-with-mcp-45o0)** — **1** 👍 · 2 💬
 
-<!-- Log-ID: 2026-07-15T23:57:47.097036+00:00 -->
+<!-- Log-ID: 2026-07-16T15:03:04.828829+00:00 -->
