@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-16 23:59 (UTC)
+📅 **Last Update:** 2026-07-17 14:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Why WHOIS is Deprecating and How to Use RDAP in Java](https://dev.to/sluca/why-whois-is-deprecating-and-how-to-use-rdap-in-java-58lg)** — **2** 👍 · 2 💬
-* **[Understanding Method Overriding in Java](https://dev.to/athithya_sivasankarar/understanding-method-overriding-in-java-3eo8)** — **2** 👍 · 0 💬
-* **[Full Stack Web Development](https://dev.to/payal_a61adc4c7fe250881b6/full-stack-web-development-b61)** — **1** 👍 · 1 💬
+* **[The Hidden Cost of Every Selenium Framework You've Built](https://dev.to/shossain/the-hidden-cost-of-every-selenium-framework-youve-built-4eb)** — **1** 👍 · 0 💬
+* **[Why Expensive Software Development Never Looks Expensive](https://dev.to/leonpennings/why-expensive-software-development-never-looks-expensive-53e9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.](https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g)** — **9** 👍 · 0 💬
-* **[The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)** — **1** 👍 · 0 💬
-* **[Best Practices for Managing AWS WAF with Code](https://dev.to/aws-builders/best-practices-for-managing-aws-waf-with-code-3efl)** — **1** 👍 · 0 💬
+* **[My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)** — **7** 👍 · 1 💬
+* **[Why Browser Tests Fail When State Outlives the Page](https://dev.to/mellowthunder735/why-browser-tests-fail-when-state-outlives-the-page-4na2)** — **6** 👍 · 0 💬
+* **[I've shipped production code since 1999. AI didn't make me faster where it counts.](https://dev.to/lamas51/ive-shipped-production-code-since-1999-ai-didnt-make-me-faster-where-it-counts-1jnb)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)** — **26** 👍 · 7 💬
 * **[100 Days of DevOps and Cloud (AWS), Day 12: A Port Conflict Killed httpd, and an Attached Volume Isn't a Mounted One](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-12-a-port-conflict-killed-httpd-and-an-attached-volume-3nom)** — **6** 👍 · 0 💬
-* **[Why WHOIS is Deprecating and How to Use RDAP in Java](https://dev.to/sluca/why-whois-is-deprecating-and-how-to-use-rdap-in-java-58lg)** — **2** 👍 · 2 💬
-* **[What Is My IP Address? IPv4 vs IPv6 Explained for DevelopersPublished](https://dev.to/muhammad_asadarshad_6098/what-is-my-ip-address-ipv4-vs-ipv6-explained-for-developerspublished-2ldh)** — **2** 👍 · 0 💬
+* **[Stop hiding behind Code (Comfort Zone)](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)** — **3** 👍 · 2 💬
 
-<!-- Log-ID: 2026-07-16T23:59:07.520021+00:00 -->
+<!-- Log-ID: 2026-07-17T14:44:11.619515+00:00 -->
