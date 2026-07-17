@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-17 18:53 (UTC)
+📅 **Last Update:** 2026-07-17 23:52 (UTC)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🔖 Top Devops
 
-* **[My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)** — **7** 👍 · 1 💬
+* **[When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)** — **7** 👍 · 0 💬
 * **[I Almost Leaked My Production Database Password to GitHub (And How I Fixed CI/CD Security)](https://dev.to/le_beltagy/i-almost-leaked-my-production-database-password-to-github-and-how-i-fixed-cicd-security-5gne)** — **4** 👍 · 1 💬
 * **[Which AI APIs go down most? Data from 6 weeks monitoring 77 services](https://dev.to/max_98b3db49c06de66802dcd/which-ai-apis-go-down-most-data-from-6-weeks-monitoring-77-services-7c9)** — **2** 👍 · 1 💬
 
@@ -33,4 +33,4 @@
 * **[Stop hiding behind Code (Comfort Zone)](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)** — **3** 👍 · 2 💬
 * **[I wrote a Post-Quantum SSH server in Rust — from scratch, in the kernel](https://dev.to/ionablokchain/i-wrote-a-post-quantum-ssh-server-in-rust-from-scratch-in-the-kernel-2pd4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-17T18:53:48.519045+00:00 -->
+<!-- Log-ID: 2026-07-17T23:52:28.490929+00:00 -->
