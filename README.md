@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-17 14:44 (UTC)
+📅 **Last Update:** 2026-07-17 18:53 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Why WHOIS is Deprecating and How to Use RDAP in Java](https://dev.to/sluca/why-whois-is-deprecating-and-how-to-use-rdap-in-java-58lg)** — **2** 👍 · 2 💬
+* **[Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://dev.to/codenameone/game-builder-tutorial-3-build-a-first-person-3d-dungeon-358h)** — **5** 👍 · 0 💬
 * **[The Hidden Cost of Every Selenium Framework You've Built](https://dev.to/shossain/the-hidden-cost-of-every-selenium-framework-youve-built-4eb)** — **1** 👍 · 0 💬
-* **[Why Expensive Software Development Never Looks Expensive](https://dev.to/leonpennings/why-expensive-software-development-never-looks-expensive-53e9)** — **1** 👍 · 0 💬
+* **[Part 3: Modern `switch` Expressions (Java 14+)](https://dev.to/rajeshbhola1/part-3-modern-switch-expressions-java-14-4dkd)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)** — **7** 👍 · 1 💬
-* **[Why Browser Tests Fail When State Outlives the Page](https://dev.to/mellowthunder735/why-browser-tests-fail-when-state-outlives-the-page-4na2)** — **6** 👍 · 0 💬
-* **[I've shipped production code since 1999. AI didn't make me faster where it counts.](https://dev.to/lamas51/ive-shipped-production-code-since-1999-ai-didnt-make-me-faster-where-it-counts-1jnb)** — **5** 👍 · 0 💬
+* **[I Almost Leaked My Production Database Password to GitHub (And How I Fixed CI/CD Security)](https://dev.to/le_beltagy/i-almost-leaked-my-production-database-password-to-github-and-how-i-fixed-cicd-security-5gne)** — **4** 👍 · 1 💬
+* **[Which AI APIs go down most? Data from 6 weeks monitoring 77 services](https://dev.to/max_98b3db49c06de66802dcd/which-ai-apis-go-down-most-data-from-6-weeks-monitoring-77-services-7c9)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)** — **26** 👍 · 7 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 12: A Port Conflict Killed httpd, and an Attached Volume Isn't a Mounted One](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-12-a-port-conflict-killed-httpd-and-an-attached-volume-3nom)** — **6** 👍 · 0 💬
+* **[Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)** — **31** 👍 · 8 💬
 * **[Stop hiding behind Code (Comfort Zone)](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)** — **3** 👍 · 2 💬
+* **[I wrote a Post-Quantum SSH server in Rust — from scratch, in the kernel](https://dev.to/ionablokchain/i-wrote-a-post-quantum-ssh-server-in-rust-from-scratch-in-the-kernel-2pd4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-17T14:44:11.619515+00:00 -->
+<!-- Log-ID: 2026-07-17T18:53:48.519045+00:00 -->
