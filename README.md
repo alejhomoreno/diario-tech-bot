@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-17 23:52 (UTC)
+📅 **Last Update:** 2026-07-18 14:20 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Game Builder Tutorial 3: Build a First-Person 3D Dungeon](https://dev.to/codenameone/game-builder-tutorial-3-build-a-first-person-3d-dungeon-358h)** — **5** 👍 · 0 💬
+* **[Stop Begging Your LLM for Valid JSON: Self-Correcting Structured Output in Spring AI 2.0](https://dev.to/jamilxt/stop-begging-your-llm-for-valid-json-self-correcting-structured-output-in-spring-ai-20-4hl7)** — **1** 👍 · 1 💬
 * **[The Hidden Cost of Every Selenium Framework You've Built](https://dev.to/shossain/the-hidden-cost-of-every-selenium-framework-youve-built-4eb)** — **1** 👍 · 0 💬
-* **[Part 3: Modern `switch` Expressions (Java 14+)](https://dev.to/rajeshbhola1/part-3-modern-switch-expressions-java-14-4dkd)** — **0** 👍 · 0 💬
+* **[How We Beat HotSpot Performance (By Cheating, But Not Like That)](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)** — **7** 👍 · 0 💬
-* **[I Almost Leaked My Production Database Password to GitHub (And How I Fixed CI/CD Security)](https://dev.to/le_beltagy/i-almost-leaked-my-production-database-password-to-github-and-how-i-fixed-cicd-security-5gne)** — **4** 👍 · 1 💬
-* **[Which AI APIs go down most? Data from 6 weeks monitoring 77 services](https://dev.to/max_98b3db49c06de66802dcd/which-ai-apis-go-down-most-data-from-6-weeks-monitoring-77-services-7c9)** — **2** 👍 · 1 💬
+* **[Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It)](https://dev.to/le_beltagy/kubernetes-for-solo-developers-stop-overthinking-it-and-start-using-it-3m1e)** — **8** 👍 · 1 💬
+* **[The Hidden Cost of Saving $1000/Month: Our AWS SES Migration Story](https://dev.to/twinkalp10/the-hidden-cost-of-saving-1000month-our-aws-ses-migration-story-5fbn)** — **5** 👍 · 0 💬
+* **[Notes on the Twelve-Factor App, for the AI Age (Part 1)](https://dev.to/hadifrt20/notes-on-the-twelve-factor-app-for-the-ai-age-part-1-4dn)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Stop hiding behind Code (Comfort Zone)](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)** — **3** 👍 · 2 💬
 * **[I wrote a Post-Quantum SSH server in Rust — from scratch, in the kernel](https://dev.to/ionablokchain/i-wrote-a-post-quantum-ssh-server-in-rust-from-scratch-in-the-kernel-2pd4)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-17T23:52:28.490929+00:00 -->
+<!-- Log-ID: 2026-07-18T14:20:10.396254+00:00 -->
