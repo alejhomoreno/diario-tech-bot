@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-18 14:20 (UTC)
+📅 **Last Update:** 2026-07-18 18:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[How We Beat HotSpot Performance (By Cheating, But Not Like That)](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187)** — **5** 👍 · 0 💬
 * **[Stop Begging Your LLM for Valid JSON: Self-Correcting Structured Output in Spring AI 2.0](https://dev.to/jamilxt/stop-begging-your-llm-for-valid-json-self-correcting-structured-output-in-spring-ai-20-4hl7)** — **1** 👍 · 1 💬
 * **[The Hidden Cost of Every Selenium Framework You've Built](https://dev.to/shossain/the-hidden-cost-of-every-selenium-framework-youve-built-4eb)** — **1** 👍 · 0 💬
-* **[How We Beat HotSpot Performance (By Cheating, But Not Like That)](https://dev.to/codenameone/how-we-beat-hotspot-performance-by-cheating-but-not-like-that-2187)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It)](https://dev.to/le_beltagy/kubernetes-for-solo-developers-stop-overthinking-it-and-start-using-it-3m1e)** — **8** 👍 · 1 💬
+* **[Kubernetes for Solo Developers: Stop Overthinking It (And Start Using It)](https://dev.to/le_beltagy/kubernetes-for-solo-developers-stop-overthinking-it-and-start-using-it-3m1e)** — **12** 👍 · 2 💬
 * **[The Hidden Cost of Saving $1000/Month: Our AWS SES Migration Story](https://dev.to/twinkalp10/the-hidden-cost-of-saving-1000month-our-aws-ses-migration-story-5fbn)** — **5** 👍 · 0 💬
 * **[Notes on the Twelve-Factor App, for the AI Age (Part 1)](https://dev.to/hadifrt20/notes-on-the-twelve-factor-app-for-the-ai-age-part-1-4dn)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)** — **31** 👍 · 8 💬
-* **[Stop hiding behind Code (Comfort Zone)](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)** — **3** 👍 · 2 💬
-* **[I wrote a Post-Quantum SSH server in Rust — from scratch, in the kernel](https://dev.to/ionablokchain/i-wrote-a-post-quantum-ssh-server-in-rust-from-scratch-in-the-kernel-2pd4)** — **1** 👍 · 0 💬
+* **[AES-GCM vs ChaCha20-Poly1305: A Practical Comparison for Protocol Designers](https://dev.to/pstayet/aes-gcm-vs-chacha20-poly1305-a-practical-comparison-for-protocol-designers-5ef)** — **0** 👍 · 1 💬
+* **[FATAL: no pg_hba.conf entry for host: a diagnostic flow for a symptom with sever](https://dev.to/philip_mcclarence_2ef9475/fatal-no-pghbaconf-entry-for-host-a-diagnostic-flow-for-a-symptom-with-sever-57bb)** — **0** 👍 · 1 💬
+* **[Router Configuration Theft: What to Investigate After the Rebuild](https://dev.to/kkierii/router-configuration-theft-what-to-investigate-after-the-rebuild-1lhb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-18T14:20:10.396254+00:00 -->
+<!-- Log-ID: 2026-07-18T18:49:36.898370+00:00 -->
