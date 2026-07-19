@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-19 18:52 (UTC)
+📅 **Last Update:** 2026-07-19 23:57 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[850k Static Pages on One Server](https://dev.to/dietly/850k-static-pages-on-one-server-3366)** — **6** 👍 · 0 💬
-* **[Demystifying LLM Tokenizers: Building a Client-Side Token and API Cost Calculator](https://dev.to/kandz/demystifying-llm-tokenizers-building-a-client-side-token-and-api-cost-calculator-56pn)** — **2** 👍 · 1 💬
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
+* **[Two ways to reuse a privileged CI token (and my rule only caught one)](https://dev.to/kielltampubolon/two-ways-to-reuse-a-privileged-ci-token-and-my-rule-only-caught-one-l1p)** — **1** 👍 · 0 💬
+* **[12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week](https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Implementing VLSM (Variable Length Subnet Masking) subnet packing](https://dev.to/mi8bi/implementing-vlsm-variable-length-subnet-masking-subnet-packing-f77)** — **2** 👍 · 1 💬
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
-* **[The Fallback Password: Dissecting the Tenda Router Backdoor (CVE-2026-11405)](https://dev.to/amayo_clinton/the-fallback-password-dissecting-the-tenda-router-backdoor-cve-2026-11405-kgl)** — **1** 👍 · 0 💬
+* **[Moving Beyond CRUD: Building a Geofenced Network Engine from Scratch](https://dev.to/stephen_jarso/moving-beyond-crud-building-a-geofenced-network-engine-from-scratch-ffd)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-19T18:52:52.053572+00:00 -->
+<!-- Log-ID: 2026-07-19T23:57:19.393564+00:00 -->
