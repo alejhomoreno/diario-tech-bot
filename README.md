@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-19 23:57 (UTC)
+📅 **Last Update:** 2026-07-20 15:12 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Install Java 26 on Windows 11 (Quick JDK Setup Guide) ⚡](https://dev.to/codesetuplab/how-to-install-java-26-on-windows-11-quick-jdk-setup-guide-345b)** — **1** 👍 · 1 💬
-* **[Stop Begging Your LLM for Valid JSON: Self-Correcting Structured Output in Spring AI 2.0](https://dev.to/jamilxt/stop-begging-your-llm-for-valid-json-self-correcting-structured-output-in-spring-ai-20-4hl7)** — **1** 👍 · 1 💬
-* **[Your Keycloak roles aren't working in Spring Security. Here's the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)** — **0** 👍 · 1 💬
+* **[⚰️Spring Boot Postmortem#3](https://dev.to/codelykagirl/spring-boot-postmortem3-2gb7)** — **3** 👍 · 0 💬
+* **[⚰️Spring Boot Postmortem#2](https://dev.to/codelykagirl/spring-boot-postmortem2-d8p)** — **3** 👍 · 0 💬
+* **[TamboUI, pronounced "tambouille", excuse my French](https://dev.to/onepoint/tamboui-pronounced-tambouille-excuse-my-french-1ino)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
-* **[Two ways to reuse a privileged CI token (and my rule only caught one)](https://dev.to/kielltampubolon/two-ways-to-reuse-a-privileged-ci-token-and-my-rule-only-caught-one-l1p)** — **1** 👍 · 0 💬
-* **[12 GitHub Actions Workflows That Will Quietly Save Your DevOps Team Hours Every Week](https://dev.to/amayo_clinton/12-github-actions-workflows-that-will-quietly-save-your-devops-team-hours-every-week-2j6d)** — **1** 👍 · 0 💬
+* **[Why I chose Rust over Go for an uptime monitor](https://dev.to/slima4/why-i-chose-rust-over-go-for-an-uptime-monitor-lo8)** — **2** 👍 · 0 💬
+* **[Receipts, not labels: what cron trust hand-offs get wrong about provenance](https://dev.to/aloya/receipts-not-labels-what-cron-trust-hand-offs-get-wrong-about-provenance-108p)** — **1** 👍 · 1 💬
+* **[Even after years in tech, Git authentication can still throw unexpected curveballs! 😅](https://dev.to/sayista_yazdani_3c0e9f4f9/even-after-years-in-tech-git-authentication-can-still-throw-unexpected-curveballs-27p6)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
 * **[Moving Beyond CRUD: Building a Geofenced Network Engine from Scratch](https://dev.to/stephen_jarso/moving-beyond-crud-building-a-geofenced-network-engine-from-scratch-ffd)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-19T23:57:19.393564+00:00 -->
+<!-- Log-ID: 2026-07-20T15:12:13.111841+00:00 -->
