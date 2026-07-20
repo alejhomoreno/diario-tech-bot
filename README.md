@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-20 19:26 (UTC)
+📅 **Last Update:** 2026-07-20 23:55 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)** — **6** 👍 · 0 💬
 * **[Why I chose Rust over Go for an uptime monitor](https://dev.to/slima4/why-i-chose-rust-over-go-for-an-uptime-monitor-lo8)** — **2** 👍 · 0 💬
-* **[Run GitHub Copilot CLI in GitHub Actions Without PATs or Runaway AI Costs](https://dev.to/pwd9000/run-github-copilot-cli-in-github-actions-without-pats-or-runaway-ai-costs-3dpf)** — **1** 👍 · 0 💬
+* **[Replit's AI Agent Deleted a Production Database During a Code Freeze. Then It Said Rollback Was Impossible. It Wasn't.](https://dev.to/vibeagentmaking/replits-ai-agent-deleted-a-production-database-during-a-code-freeze-then-it-said-rollback-was-1ngl)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
 * **[Moving Beyond CRUD: Building a Geofenced Network Engine from Scratch](https://dev.to/stephen_jarso/moving-beyond-crud-building-a-geofenced-network-engine-from-scratch-ffd)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-20T19:26:21.116918+00:00 -->
+<!-- Log-ID: 2026-07-20T23:55:41.643867+00:00 -->
