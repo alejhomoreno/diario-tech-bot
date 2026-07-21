@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-21 15:04 (UTC)
+📅 **Last Update:** 2026-07-21 19:05 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spring Deep Dive: Transactions](https://dev.to/aabhassao/spring-deep-dive-transactions-2k8b)** — **3** 👍 · 1 💬
-* **[I Ran From EJB2 to Spring. Then I Went Back. Here's What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)** — **1** 👍 · 0 💬
+* **[Spring Deep Dive: Transactions](https://dev.to/aabhassao/spring-deep-dive-transactions-2k8b)** — **4** 👍 · 2 💬
+* **[I Ran From EJB2 to Spring. Then I Went Back. Here's What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)** — **2** 👍 · 0 💬
 * **[Java & AI: What Developers Need to Know](https://dev.to/machinecodingmaster/java-ai-what-developers-need-to-know-46pj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)** — **10** 👍 · 3 💬
-* **[We benchmarked an AI agent on 52 broken clusters: kubectl vs a Kubernetes MCP server](https://dev.to/dovzhikova/we-benchmarked-an-ai-agent-on-52-broken-clusters-kubectl-vs-a-kubernetes-mcp-server-2843)** — **9** 👍 · 5 💬
+* **[We benchmarked an AI agent on 52 broken clusters: kubectl vs a Kubernetes MCP server](https://dev.to/dovzhikova/we-benchmarked-an-ai-agent-on-52-broken-clusters-kubectl-vs-a-kubernetes-mcp-server-2843)** — **10** 👍 · 6 💬
 * **[Why Browser Tests Fail Everywhere Except Your Laptop](https://dev.to/mellowthunder735/why-browser-tests-fail-everywhere-except-your-laptop-53jh)** — **7** 👍 · 0 💬
+* **[🤔 What Really Happens When You Run kubectl apply? Episode 3](https://dev.to/aws-builders/what-really-happens-when-you-run-kubectl-apply-episode-3-22kp)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
 * **[Moving Beyond CRUD: Building a Geofenced Network Engine from Scratch](https://dev.to/stephen_jarso/moving-beyond-crud-building-a-geofenced-network-engine-from-scratch-ffd)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-21T15:04:18.769488+00:00 -->
+<!-- Log-ID: 2026-07-21T19:05:04.777494+00:00 -->
