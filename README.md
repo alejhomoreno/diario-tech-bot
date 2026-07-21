@@ -5,27 +5,27 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-20 23:55 (UTC)
+📅 **Last Update:** 2026-07-21 15:04 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[⚰️Spring Boot Postmortem#3](https://dev.to/codelykagirl/spring-boot-postmortem3-2gb7)** — **3** 👍 · 0 💬
-* **[⚰️Spring Boot Postmortem#2](https://dev.to/codelykagirl/spring-boot-postmortem2-d8p)** — **3** 👍 · 0 💬
-* **[2 Concurrency Traps That Look Thread-Safe But Aren't](https://dev.to/nikz11/2-concurrency-traps-that-look-thread-safe-but-arent-6bh)** — **1** 👍 · 1 💬
+* **[Spring Deep Dive: Transactions](https://dev.to/aabhassao/spring-deep-dive-transactions-2k8b)** — **3** 👍 · 1 💬
+* **[I Ran From EJB2 to Spring. Then I Went Back. Here's What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)** — **1** 👍 · 0 💬
+* **[Java & AI: What Developers Need to Know](https://dev.to/machinecodingmaster/java-ai-what-developers-need-to-know-46pj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
+* **[Instrumenting a Keycloak SPI provider so the next silent JDBC bug doesn't need a code review to find it](https://dev.to/jihedbfrart/instrumenting-a-keycloak-spi-provider-so-the-next-silent-jdbc-bug-doesnt-need-a-code-review-to-563a)** — **4** 👍 · 0 💬
+* **[Keycloak lets you pick a login option that's guaranteed to fail — here's the fix](https://dev.to/jihedbfrart/keycloak-lets-you-pick-a-login-option-thats-guaranteed-to-fail-heres-the-fix-2jbn)** — **3** 👍 · 0 💬
 * **[Dynamic Email Domain Validation in Keycloak with a Custom Authenticator](https://dev.to/u11d/dynamic-email-domain-validation-in-keycloak-with-a-custom-authenticator-2il3)** — **2** 👍 · 0 💬
-* **[Keycloak Knows. Why Doesn't The Rest Of Your Stack?](https://dev.to/mr_buch/keycloak-knows-why-doesnt-the-rest-of-your-stack-4ikj)** — **2** 👍 · 0 💬
-* **[The Simplest Way to Integrate Keycloak with Spring Boot 3](https://dev.to/hoanglong2534/the-simplest-way-to-integrate-keycloak-with-spring-boot-3-36h7)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)** — **6** 👍 · 0 💬
-* **[Why I chose Rust over Go for an uptime monitor](https://dev.to/slima4/why-i-chose-rust-over-go-for-an-uptime-monitor-lo8)** — **2** 👍 · 0 💬
-* **[Replit's AI Agent Deleted a Production Database During a Code Freeze. Then It Said Rollback Was Impossible. It Wasn't.](https://dev.to/vibeagentmaking/replits-ai-agent-deleted-a-production-database-during-a-code-freeze-then-it-said-rollback-was-1ngl)** — **1** 👍 · 0 💬
+* **[Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)** — **10** 👍 · 3 💬
+* **[We benchmarked an AI agent on 52 broken clusters: kubectl vs a Kubernetes MCP server](https://dev.to/dovzhikova/we-benchmarked-an-ai-agent-on-52-broken-clusters-kubectl-vs-a-kubernetes-mcp-server-2843)** — **9** 👍 · 5 💬
+* **[Why Browser Tests Fail Everywhere Except Your Laptop](https://dev.to/mellowthunder735/why-browser-tests-fail-everywhere-except-your-laptop-53jh)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide](https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p)** — **1** 👍 · 2 💬
 * **[Moving Beyond CRUD: Building a Geofenced Network Engine from Scratch](https://dev.to/stephen_jarso/moving-beyond-crud-building-a-geofenced-network-engine-from-scratch-ffd)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-20T23:55:41.643867+00:00 -->
+<!-- Log-ID: 2026-07-21T15:04:18.769488+00:00 -->
