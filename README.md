@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-23 00:00 (UTC)
+📅 **Last Update:** 2026-07-23 15:09 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Jerry Ran Out of Numbers But Drank All the Punch](https://dev.to/anchildress1/jerry-ran-out-of-numbers-but-drank-all-the-punch-ne9)** — **16** 👍 · 2 💬
 * **[Rest Assured Tutorial for Beginners: Testing a Real REST API in Java](https://dev.to/azmiyuksel/rest-assured-tutorial-for-beginners-testing-a-real-rest-api-in-java-2k1l)** — **7** 👍 · 0 💬
-* **[The First Endpoint Is Easy. The Lifecycle Is the Real Backend Work](https://dev.to/buildbasekit/the-first-endpoint-is-easy-the-lifecycle-is-the-real-backend-work-3p3l)** — **2** 👍 · 0 💬
-* **[gRPC moved into Spring Boot 4.1: the new starters, the property renames, and what we measured](https://dev.to/davebrown1975/grpc-moved-into-spring-boot-41-the-new-starters-the-property-renames-and-what-we-measured-1mne)** — **1** 👍 · 0 💬
+* **[jar-cart v0.6.0: The Ultimate No-Build Package Manager for Java Gets Workspaces](https://dev.to/sudhanshuambastha/jar-cart-v060-the-ultimate-no-build-package-manager-for-java-gets-workspaces-4d6e)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[SPF, DKIM, DMARC: the 15-minute setup that actually passes](https://dev.to/devopsdaily/spf-dkim-dmarc-the-15-minute-setup-that-actually-passes-53mf)** — **12** 👍 · 2 💬
-* **[GitHub Actions & CI/CD, Explained Like a Robot Assembly Line](https://dev.to/ramkumar-m-n/github-actions-cicd-explained-like-a-robot-assembly-line-1f7c)** — **3** 👍 · 0 💬
-* **[Why AI Apps Fail in Production (And How Google Solved It)](https://dev.to/googleai/why-ai-apps-fail-in-production-and-how-google-solved-it-5a3m)** — **1** 👍 · 0 💬
+* **[Banning ChatGPT Won't Fix Your Shadow AI Problem. It'll Just Hide It.](https://dev.to/cyclopt_dimitrisk/banning-chatgpt-wont-fix-your-shadow-ai-problem-itll-just-hide-it-58nl)** — **6** 👍 · 2 💬
+* **[Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)** — **3** 👍 · 6 💬
+* **[Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions](https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
+* **[Game networking for a slow strategy game](https://dev.to/arjen_/game-networking-for-a-slow-strategy-game-3mdi)** — **6** 👍 · 2 💬
+* **[Every Field Was Correct. It Still Wouldn't Connect.](https://dev.to/jeromefromhk/every-field-was-correct-it-still-wouldnt-connect-44ik)** — **2** 👍 · 1 💬
 * **[The Day I Stopped Asking Strangers for My IP](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og)** — **2** 👍 · 0 💬
-* **[Why Your Browser Can't Use Multicast (And What Would Have to Change)](https://dev.to/rakshyak/why-your-browser-cant-use-multicast-and-what-would-have-to-change-18pk)** — **1** 👍 · 0 💬
-* **[What We Learned Building a Location-Aware Contact Management App](https://dev.to/rajan-rawal/what-we-learned-building-a-location-aware-contact-management-app-k5d)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-23T00:00:02.985875+00:00 -->
+<!-- Log-ID: 2026-07-23T15:09:37.323226+00:00 -->
