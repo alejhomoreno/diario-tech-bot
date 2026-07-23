@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-23 15:09 (UTC)
+📅 **Last Update:** 2026-07-23 19:00 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Banning ChatGPT Won't Fix Your Shadow AI Problem. It'll Just Hide It.](https://dev.to/cyclopt_dimitrisk/banning-chatgpt-wont-fix-your-shadow-ai-problem-itll-just-hide-it-58nl)** — **6** 👍 · 2 💬
 * **[Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)** — **3** 👍 · 6 💬
-* **[Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions](https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3)** — **2** 👍 · 1 💬
+* **[Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions](https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3)** — **2** 👍 · 2 💬
+* **[The Hidden Complexity of PostgreSQL Logical Replication](https://dev.to/alex_zhdankov/the-hidden-complexity-of-postgresql-logical-replication-23ml)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Every Field Was Correct. It Still Wouldn't Connect.](https://dev.to/jeromefromhk/every-field-was-correct-it-still-wouldnt-connect-44ik)** — **2** 👍 · 1 💬
 * **[The Day I Stopped Asking Strangers for My IP](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-23T15:09:37.323226+00:00 -->
+<!-- Log-ID: 2026-07-23T19:00:36.771656+00:00 -->
