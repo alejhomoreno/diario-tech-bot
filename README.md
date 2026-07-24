@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-24 14:56 (UTC)
+📅 **Last Update:** 2026-07-24 19:13 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Rest Assured Tutorial for Beginners: Testing a Real REST API in Java](https://dev.to/azmiyuksel/rest-assured-tutorial-for-beginners-testing-a-real-rest-api-in-java-2k1l)** — **7** 👍 · 0 💬
 * **[Explain the Concept of "Convention over Configuration" in Spring Boot](https://dev.to/realnamehidden1_61/explain-the-concept-of-convention-over-configuration-in-spring-boot-2gal)** — **6** 👍 · 0 💬
+* **[Own Your Pixels: Native Fidelity on Your Schedule](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf)** — **5** 👍 · 0 💬
 * **[How I Built JWT Authentication in Spring Boot (Beginner-Friendly Guide)](https://dev.to/ajeetverma01/how-i-built-jwt-authentication-in-spring-boot-beginner-friendly-guide-3hd)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I built a tiny local tool that won't say "done" unless it can prove it. FEEL free to give me suggestions](https://dev.to/snithik_s_ba819307d6c8074/i-built-a-tiny-local-tool-that-wont-say-done-unless-it-can-prove-it-2933)** — **2** 👍 · 3 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 17: Postgres Privileges and IAM Groups Are the Same Lesson](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-17-postgres-privileges-and-iam-groups-are-the-same-lesson-2l08)** — **1** 👍 · 0 💬
-* **[Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)** — **0** 👍 · 0 💬
+* **[systemd RestartSec does not wait for your process to actually exit](https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8)** — **1** 👍 · 0 💬
+* **[Turning Claude into a Code Quality Auditor with MCP](https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci)** — **1** 👍 · 0 💬
+* **[Deploying CockroachDB on Kubernetes](https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What do you do when you find a new error on google chrome in the middle of the night ?](https://dev.to/cristishor201/what-do-you-do-when-you-find-a-new-error-on-google-chrome-in-the-middle-of-the-night--31a5)** — **1** 👍 · 0 💬
 * **[The Complete Publisher's Guide to Website Monetization: From Ad Mediation to Ad Networks](https://dev.to/kkibet/the-complete-publishers-guide-to-website-monetization-from-ad-mediation-to-ad-networks-1kd2)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-24T14:56:44.351512+00:00 -->
+<!-- Log-ID: 2026-07-24T19:13:23.348107+00:00 -->
