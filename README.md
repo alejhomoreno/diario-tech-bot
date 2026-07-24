@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-24 00:00 (UTC)
+📅 **Last Update:** 2026-07-24 14:56 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Jerry Ran Out of Numbers But Drank All the Punch](https://dev.to/anchildress1/jerry-ran-out-of-numbers-but-drank-all-the-punch-ne9)** — **18** 👍 · 2 💬
 * **[Rest Assured Tutorial for Beginners: Testing a Real REST API in Java](https://dev.to/azmiyuksel/rest-assured-tutorial-for-beginners-testing-a-real-rest-api-in-java-2k1l)** — **7** 👍 · 0 💬
-* **[Building Shared Accounts in Finovara](https://dev.to/m4rc1nek/building-shared-accounts-in-finovara-4laf)** — **5** 👍 · 0 💬
+* **[Explain the Concept of "Convention over Configuration" in Spring Boot](https://dev.to/realnamehidden1_61/explain-the-concept-of-convention-over-configuration-in-spring-boot-2gal)** — **6** 👍 · 0 💬
+* **[How I Built JWT Authentication in Spring Boot (Beginner-Friendly Guide)](https://dev.to/ajeetverma01/how-i-built-jwt-authentication-in-spring-boot-beginner-friendly-guide-3hd)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)** — **3** 👍 · 6 💬
-* **[Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions](https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3)** — **2** 👍 · 2 💬
-* **[The Hidden Complexity of PostgreSQL Logical Replication](https://dev.to/alex_zhdankov/the-hidden-complexity-of-postgresql-logical-replication-23ml)** — **1** 👍 · 2 💬
+* **[I built a tiny local tool that won't say "done" unless it can prove it. FEEL free to give me suggestions](https://dev.to/snithik_s_ba819307d6c8074/i-built-a-tiny-local-tool-that-wont-say-done-unless-it-can-prove-it-2933)** — **2** 👍 · 3 💬
+* **[100 Days of DevOps and Cloud (AWS), Day 17: Postgres Privileges and IAM Groups Are the Same Lesson](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-17-postgres-privileges-and-iam-groups-are-the-same-lesson-2l08)** — **1** 👍 · 0 💬
+* **[Deploying Kubernetes Dashboard and Managing Cluster Resources](https://dev.to/vultr/deploying-kubernetes-dashboard-and-managing-cluster-resources-4426)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Game networking for a slow strategy game](https://dev.to/arjen_/game-networking-for-a-slow-strategy-game-3mdi)** — **6** 👍 · 2 💬
-* **[Every Field Was Correct. It Still Wouldn't Connect.](https://dev.to/jeromefromhk/every-field-was-correct-it-still-wouldnt-connect-44ik)** — **2** 👍 · 1 💬
-* **[The Day I Stopped Asking Strangers for My IP](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og)** — **2** 👍 · 0 💬
+* **[Azure Management Tasks Part 2: How to configure the Virtual Network (VNET)](https://dev.to/smayowa10/azure-management-tasks-part-2-how-to-configure-the-virtual-network-vnet-e7i)** — **1** 👍 · 0 💬
+* **[What do you do when you find a new error on google chrome in the middle of the night ?](https://dev.to/cristishor201/what-do-you-do-when-you-find-a-new-error-on-google-chrome-in-the-middle-of-the-night--31a5)** — **1** 👍 · 0 💬
+* **[The Complete Publisher's Guide to Website Monetization: From Ad Mediation to Ad Networks](https://dev.to/kkibet/the-complete-publishers-guide-to-website-monetization-from-ad-mediation-to-ad-networks-1kd2)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-24T00:00:01.133328+00:00 -->
+<!-- Log-ID: 2026-07-24T14:56:44.351512+00:00 -->
