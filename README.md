@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-23 19:00 (UTC)
+📅 **Last Update:** 2026-07-24 00:00 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Jerry Ran Out of Numbers But Drank All the Punch](https://dev.to/anchildress1/jerry-ran-out-of-numbers-but-drank-all-the-punch-ne9)** — **16** 👍 · 2 💬
+* **[Jerry Ran Out of Numbers But Drank All the Punch](https://dev.to/anchildress1/jerry-ran-out-of-numbers-but-drank-all-the-punch-ne9)** — **18** 👍 · 2 💬
 * **[Rest Assured Tutorial for Beginners: Testing a Real REST API in Java](https://dev.to/azmiyuksel/rest-assured-tutorial-for-beginners-testing-a-real-rest-api-in-java-2k1l)** — **7** 👍 · 0 💬
-* **[jar-cart v0.6.0: The Ultimate No-Build Package Manager for Java Gets Workspaces](https://dev.to/sudhanshuambastha/jar-cart-v060-the-ultimate-no-build-package-manager-for-java-gets-workspaces-4d6e)** — **6** 👍 · 0 💬
+* **[Building Shared Accounts in Finovara](https://dev.to/m4rc1nek/building-shared-accounts-in-finovara-4laf)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Every Field Was Correct. It Still Wouldn't Connect.](https://dev.to/jeromefromhk/every-field-was-correct-it-still-wouldnt-connect-44ik)** — **2** 👍 · 1 💬
 * **[The Day I Stopped Asking Strangers for My IP](https://dev.to/andreimerlescu/the-day-i-stopped-asking-strangers-for-my-ip-og)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-23T19:00:36.771656+00:00 -->
+<!-- Log-ID: 2026-07-24T00:00:01.133328+00:00 -->
