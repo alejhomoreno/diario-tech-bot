@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-25 14:37 (UTC)
+📅 **Last Update:** 2026-07-25 18:54 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Your Test Suite Isn't Slow. It's Accumulating Decisions](https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080)** — **6** 👍 · 0 💬
 * **[AI Agent Sandboxing: Contain the Blast Radius](https://dev.to/brennhill/ai-agent-sandboxing-contain-the-blast-radius-59p8)** — **1** 👍 · 0 💬
+* **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
 * **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)** — **10** 👍 · 1 💬
+* **[I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)** — **19** 👍 · 2 💬
+* **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
 * **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
-* **[How HTTPS Actually Works: TLS, Certificates, and Encryption](https://dev.to/juma_evans_34e389ef539266/how-https-actually-works-tls-certificates-and-encryption-41an)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-25T14:37:48.133891+00:00 -->
+<!-- Log-ID: 2026-07-25T18:54:18.253541+00:00 -->
