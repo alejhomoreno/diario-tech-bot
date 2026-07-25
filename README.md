@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-24 19:13 (UTC)
+📅 **Last Update:** 2026-07-25 00:03 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[Your Test Suite Isn't Slow. It's Accumulating Decisions](https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080)** — **6** 👍 · 0 💬
+* **[The Hardest Browser Tests Live Outside the Browser](https://dev.to/randomsquirrel802/the-hardest-browser-tests-live-outside-the-browser-afi)** — **5** 👍 · 0 💬
 * **[systemd RestartSec does not wait for your process to actually exit](https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8)** — **1** 👍 · 0 💬
-* **[Turning Claude into a Code Quality Auditor with MCP](https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci)** — **1** 👍 · 0 💬
-* **[Deploying CockroachDB on Kubernetes](https://dev.to/vultr/deploying-cockroachdb-on-kubernetes-5ch8)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[How HTTPS Actually Works: TLS, Certificates, and Encryption](https://dev.to/juma_evans_34e389ef539266/how-https-actually-works-tls-certificates-and-encryption-41an)** — **1** 👍 · 0 💬
+* **[TCP or UDP? Choosing the Right Protocol](https://dev.to/juma_evans_34e389ef539266/tcp-or-udp-choosing-the-right-protocol-1i98)** — **1** 👍 · 0 💬
 * **[Azure Management Tasks Part 2: How to configure the Virtual Network (VNET)](https://dev.to/smayowa10/azure-management-tasks-part-2-how-to-configure-the-virtual-network-vnet-e7i)** — **1** 👍 · 0 💬
-* **[What do you do when you find a new error on google chrome in the middle of the night ?](https://dev.to/cristishor201/what-do-you-do-when-you-find-a-new-error-on-google-chrome-in-the-middle-of-the-night--31a5)** — **1** 👍 · 0 💬
-* **[The Complete Publisher's Guide to Website Monetization: From Ad Mediation to Ad Networks](https://dev.to/kkibet/the-complete-publishers-guide-to-website-monetization-from-ad-mediation-to-ad-networks-1kd2)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-24T19:13:23.348107+00:00 -->
+<!-- Log-ID: 2026-07-25T00:03:48.809212+00:00 -->
