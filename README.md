@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-25 18:54 (UTC)
+📅 **Last Update:** 2026-07-26 00:00 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Explain the Concept of "Convention over Configuration" in Spring Boot](https://dev.to/realnamehidden1_61/explain-the-concept-of-convention-over-configuration-in-spring-boot-2gal)** — **6** 👍 · 0 💬
 * **[Own Your Pixels: Native Fidelity on Your Schedule](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf)** — **5** 👍 · 0 💬
-* **[What Actually Happens When the 201st User Hits Your Spring Boot App](https://dev.to/nikz11/what-actually-happens-when-the-201st-user-hits-your-spring-boot-app-3mlk)** — **1** 👍 · 0 💬
+* **[REST-style GraphQL — one line of Java handles filtering + sorting + pagination + stats + CSV export.](https://dev.to/troyzhxu/rest-style-graphql-one-line-of-java-handles-filtering-sorting-pagination-stats-csv-export-3598)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[AI Agent Sandboxing: Contain the Blast Radius](https://dev.to/brennhill/ai-agent-sandboxing-contain-the-blast-radius-59p8)** — **1** 👍 · 0 💬
-* **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
-* **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
+* **[I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)](https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb)** — **9** 👍 · 2 💬
+* **[I Let an Agent Take Over an Account With Every Permission Check Green](https://dev.to/kenielzep97/i-let-an-agent-take-over-an-account-with-every-permission-check-green-28g4)** — **1** 👍 · 0 💬
+* **[Bare-Metal Kubernetes: What NKP Metal Gets Right](https://dev.to/schiff_heimlich/bare-metal-kubernetes-what-nkp-metal-gets-right-28fm)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
 * **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-25T18:54:18.253541+00:00 -->
+<!-- Log-ID: 2026-07-26T00:00:46.557486+00:00 -->
