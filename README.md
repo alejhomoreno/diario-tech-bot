@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-28 19:09 (UTC)
+📅 **Last Update:** 2026-07-28 23:57 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[I Had a Lot of Fun Building a Linux Packet Flight Recorder](https://dev.to/copyleftdev/i-had-a-lot-of-fun-building-a-linux-packet-flight-recorder-k44)** — **12** 👍 · 3 💬
-* **[SafeLine vs Cloudflare WAF: An Honest, Detailed Comparison](https://dev.to/lialiago/safeline-vs-cloudflare-waf-an-honest-detailed-comparison-3dga)** — **5** 👍 · 0 💬
-* **[We Build a Kubernetes Dashboard. AI Agents Might Make It Obsolete.](https://dev.to/dovzhikova/we-build-a-kubernetes-dashboard-ai-agents-might-make-it-obsolete-4cm4)** — **5** 👍 · 0 💬
+* **[Teaching an Autonomous Pentest Agent to Prove a Breach — Not Just Claim One](https://dev.to/xenocoregiger31/teaching-an-autonomous-pentest-agent-to-prove-a-breach-not-just-claim-one-1bfi)** — **5** 👍 · 2 💬
+* **[100 Days of DevOps and Cloud (AWS), Day 19: Apache Deploys, and a Policy Is Just a Document Until It's Attached](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-19-apache-deploys-and-a-policy-is-just-a-document-until-3h9)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
 * **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-28T19:09:27.265873+00:00 -->
+<!-- Log-ID: 2026-07-28T23:57:29.805283+00:00 -->
