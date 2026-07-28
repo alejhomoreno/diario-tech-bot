@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-28 00:02 (UTC)
+📅 **Last Update:** 2026-07-28 15:23 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)** — **5** 👍 · 0 💬
 * **[Codename One Settings Is Now a Standalone Tool](https://dev.to/codenameone/codename-one-settings-is-now-a-standalone-tool-1aj)** — **5** 👍 · 0 💬
 * **[Own Your Pixels: Native Fidelity on Your Schedule](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf)** — **5** 👍 · 0 💬
+* **[Java Fundamentals , My Day 1–4 Learning Journey](https://dev.to/hashim_hb/java-fundamentals-my-day-1-4-learning-journey-59on)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Build an Evidence Supply Chain for Tests](https://dev.to/randomsquirrel802/build-an-evidence-supply-chain-for-tests-3fej)** — **6** 👍 · 0 💬
-* **[Istio and the Sidecar Pattern: What I Learned About Service Mesh Fundamentals](https://dev.to/madhavnakra/istio-and-the-sidecar-pattern-what-i-learned-about-service-mesh-fundamentals-1np6)** — **5** 👍 · 0 💬
-* **[Ditch GHCR: A Production-Grade Self-Hosted Docker Registry on a Single DigitalOcean Droplet](https://dev.to/saint_vandora/ditch-ghcr-a-production-grade-self-hosted-docker-registry-on-a-single-digitalocean-droplet-5bgg)** — **5** 👍 · 0 💬
+* **[The Warning That Took My Site Down Was in the Log the Whole Time](https://dev.to/pixel-wraith/the-warning-that-took-my-site-down-was-in-the-log-the-whole-time-mi2)** — **2** 👍 · 1 💬
+* **[How to Destroy a Project in 5 Steps](https://dev.to/feranor/how-to-destroy-a-project-in-5-steps-5a1f)** — **1** 👍 · 0 💬
+* **[Cómo montar un motor de contenidos que no te arruine (julio 2026)](https://dev.to/acrdev/como-montar-un-motor-de-contenidos-que-no-te-arruine-julio-2026-1jel)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
 * **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-28T00:02:18.179925+00:00 -->
+<!-- Log-ID: 2026-07-28T15:23:12.977925+00:00 -->
