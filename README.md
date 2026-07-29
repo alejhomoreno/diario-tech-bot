@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-29 15:08 (UTC)
+📅 **Last Update:** 2026-07-29 18:59 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)** — **5** 👍 · 0 💬
 * **[Codename One Settings Is Now a Standalone Tool](https://dev.to/codenameone/codename-one-settings-is-now-a-standalone-tool-1aj)** — **5** 👍 · 0 💬
-* **[Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool](https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo)** — **1** 👍 · 1 💬
-* **[Don't Microservice Every Integration](https://dev.to/thatonetallkid/dont-microservice-every-integration-8ni)** — **1** 👍 · 0 💬
+* **[The Hidden Cost of a Log Line : Sync/Async Flush and everything in Between](https://dev.to/mukul_sharma_61fc4dd6f9d8/the-hidden-cost-of-a-log-line-syncasync-flush-and-everything-in-between-13of)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[We built a router to predict when a cheap model is enough. It does not work.](https://dev.to/tom_jones_230c4659491adcd/we-built-a-router-to-predict-when-a-cheap-model-is-enough-it-does-not-work-3j24)** — **6** 👍 · 7 💬
 * **[How to Give a Linux User Scoped Access to a Specific Docker Container](https://dev.to/saint_vandora/when-you-run-multiple-services-on-a-shared-linux-server-one-of-the-most-common-devops-challenges-3obc)** — **5** 👍 · 0 💬
 * **[How to Give a Linux User Scoped Access to a Specific Docker Container (Without Exposing the Entire Server)](https://dev.to/saint_vandora/how-to-give-a-linux-user-scoped-access-to-a-specific-docker-container-without-exposing-the-entire-10ck)** — **5** 👍 · 0 💬
+* **[Vault cant found What a Live Audit Found That Code Review Never Would](https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Exploited at CVSS 10.0 - And the Vendor Never Checked Whether EOL Versions Are Affected](https://dev.to/endoflifeai/exploited-at-cvss-100-and-the-vendor-never-checked-whether-eol-versions-are-affected-3phg)** — **1** 👍 · 0 💬
 * **[Building an Aruba Central Producer in Go: Four API edge cases we had to solve](https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-29T15:08:34.467159+00:00 -->
+<!-- Log-ID: 2026-07-29T18:59:06.119415+00:00 -->
