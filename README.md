@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-28 23:57 (UTC)
+📅 **Last Update:** 2026-07-29 15:08 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)** — **6** 👍 · 2 💬
-* **[Your Codename One App Can Be an MCP Server](https://dev.to/codenameone/your-codename-one-app-can-be-an-mcp-server-21ja)** — **5** 👍 · 3 💬
 * **[Codename One Settings Is Now a Standalone Tool](https://dev.to/codenameone/codename-one-settings-is-now-a-standalone-tool-1aj)** — **5** 👍 · 0 💬
+* **[Part 2. The Spring @Transactional Pattern That Drained Our Hikari Pool](https://dev.to/olga_ermolaeva_f7bd121ab9/part-2-the-spring-transactional-pattern-that-drained-our-hikari-pool-1jdo)** — **1** 👍 · 1 💬
+* **[Don't Microservice Every Integration](https://dev.to/thatonetallkid/dont-microservice-every-integration-8ni)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Had a Lot of Fun Building a Linux Packet Flight Recorder](https://dev.to/copyleftdev/i-had-a-lot-of-fun-building-a-linux-packet-flight-recorder-k44)** — **12** 👍 · 3 💬
-* **[Teaching an Autonomous Pentest Agent to Prove a Breach — Not Just Claim One](https://dev.to/xenocoregiger31/teaching-an-autonomous-pentest-agent-to-prove-a-breach-not-just-claim-one-1bfi)** — **5** 👍 · 2 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 19: Apache Deploys, and a Policy Is Just a Document Until It's Attached](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-19-apache-deploys-and-a-policy-is-just-a-document-until-3h9)** — **5** 👍 · 1 💬
+* **[We built a router to predict when a cheap model is enough. It does not work.](https://dev.to/tom_jones_230c4659491adcd/we-built-a-router-to-predict-when-a-cheap-model-is-enough-it-does-not-work-3j24)** — **6** 👍 · 7 💬
+* **[How to Give a Linux User Scoped Access to a Specific Docker Container](https://dev.to/saint_vandora/when-you-run-multiple-services-on-a-shared-linux-server-one-of-the-most-common-devops-challenges-3obc)** — **5** 👍 · 0 💬
+* **[How to Give a Linux User Scoped Access to a Specific Docker Container (Without Exposing the Entire Server)](https://dev.to/saint_vandora/how-to-give-a-linux-user-scoped-access-to-a-specific-docker-container-without-exposing-the-entire-10ck)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[A VPN Is a Lie You Tell Your Kernel](https://dev.to/lovestaco/a-vpn-is-a-lie-you-tell-your-kernel-41dj)** — **22** 👍 · 0 💬
-* **[TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)** — **1** 👍 · 0 💬
-* **[🌐 Understanding TCP Flow: From Handshake to Data Transfer](https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n)** — **1** 👍 · 0 💬
+* **[DEV WEEKEND with AWS Student Builder Group, QAU Islamabad](https://dev.to/zilleali12/dev-weekend-with-aws-student-builder-group-qau-islamabad-3pp1)** — **1** 👍 · 0 💬
+* **[Exploited at CVSS 10.0 - And the Vendor Never Checked Whether EOL Versions Are Affected](https://dev.to/endoflifeai/exploited-at-cvss-100-and-the-vendor-never-checked-whether-eol-versions-are-affected-3phg)** — **1** 👍 · 0 💬
+* **[Building an Aruba Central Producer in Go: Four API edge cases we had to solve](https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-28T23:57:29.805283+00:00 -->
+<!-- Log-ID: 2026-07-29T15:08:34.467159+00:00 -->
