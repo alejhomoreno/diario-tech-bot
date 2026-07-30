@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-30 15:11 (UTC)
+📅 **Last Update:** 2026-07-30 19:10 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)** — **16** 👍 · 2 💬
-* **[Shift-Left is Dead. Long Live Shift-Everywhere](https://dev.to/qapilot/shift-left-is-dead-long-live-shift-everywhere-4lj6)** — **3** 👍 · 0 💬
 * **[Bare Metal Automation in 2026: A Blueprint for Provisioning and Lifecycle Management](https://dev.to/nyra-amsi/bare-metal-automation-in-2026-a-blueprint-for-provisioning-and-lifecycle-management-5gij)** — **1** 👍 · 1 💬
+* **[Getting Started with Edge AI: What Are Your Go-To Tools, Pipelines, and Best Practices?](https://dev.to/dekii2275/getting-started-with-edge-ai-what-are-your-go-to-tools-pipelines-and-best-practices-439i)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
 * **[The Xn procedure that fetches a sleeping UE from another gNB](https://dev.to/eventhelix/the-xn-procedure-that-fetches-a-sleeping-ue-from-another-gnb-145a)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-30T15:11:02.023167+00:00 -->
+<!-- Log-ID: 2026-07-30T19:10:48.402731+00:00 -->
