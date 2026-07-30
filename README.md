@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-29 23:59 (UTC)
+📅 **Last Update:** 2026-07-30 15:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)** — **5** 👍 · 0 💬
-* **[The Hidden Cost of a Log Line : Sync/Async Flush and everything in Between](https://dev.to/mukul_sharma_61fc4dd6f9d8/the-hidden-cost-of-a-log-line-syncasync-flush-and-everything-in-between-13of)** — **2** 👍 · 0 💬
-* **[Don't Microservice Every Integration](https://dev.to/thatonetallkid/dont-microservice-every-integration-8ni)** — **1** 👍 · 0 💬
+* **[Building CyvoraX Suite: An Open-Source Web Security & Penetration Testing Workbench](https://dev.to/jojin1709/building-cyvorax-suite-an-open-source-web-security-penetration-testing-workbench-jog)** — **1** 👍 · 0 💬
+* **[How I Tamed Legacy Docker (v1.29) for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[How to Give a Linux User Scoped Access to a Specific Docker Container](https://dev.to/saint_vandora/when-you-run-multiple-services-on-a-shared-linux-server-one-of-the-most-common-devops-challenges-3obc)** — **5** 👍 · 0 💬
-* **[How to Give a Linux User Scoped Access to a Specific Docker Container (Without Exposing the Entire Server)](https://dev.to/saint_vandora/how-to-give-a-linux-user-scoped-access-to-a-specific-docker-container-without-exposing-the-entire-10ck)** — **5** 👍 · 0 💬
-* **[TLS Certificate Management Without Tears](https://dev.to/samson_tanimawo/tls-certificate-management-without-tears-5fi1)** — **0** 👍 · 1 💬
+* **[What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)** — **16** 👍 · 2 💬
+* **[Shift-Left is Dead. Long Live Shift-Everywhere](https://dev.to/qapilot/shift-left-is-dead-long-live-shift-everywhere-4lj6)** — **3** 👍 · 0 💬
+* **[Bare Metal Automation in 2026: A Blueprint for Provisioning and Lifecycle Management](https://dev.to/nyra-amsi/bare-metal-automation-in-2026-a-blueprint-for-provisioning-and-lifecycle-management-5gij)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[DEV WEEKEND with AWS Student Builder Group, QAU Islamabad](https://dev.to/zilleali12/dev-weekend-with-aws-student-builder-group-qau-islamabad-3pp1)** — **1** 👍 · 0 💬
-* **[Exploited at CVSS 10.0 - And the Vendor Never Checked Whether EOL Versions Are Affected](https://dev.to/endoflifeai/exploited-at-cvss-100-and-the-vendor-never-checked-whether-eol-versions-are-affected-3phg)** — **1** 👍 · 0 💬
-* **[Building an Aruba Central Producer in Go: Four API edge cases we had to solve](https://dev.to/skhell/building-an-aruba-central-producer-in-go-four-api-edge-cases-we-had-to-solve-p60)** — **0** 👍 · 0 💬
+* **[CSA Says Harden Your Networks for the AI Storm. Here's How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)** — **1** 👍 · 0 💬
+* **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
+* **[The Xn procedure that fetches a sleeping UE from another gNB](https://dev.to/eventhelix/the-xn-procedure-that-fetches-a-sleeping-ue-from-another-gnb-145a)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-29T23:59:32.394487+00:00 -->
+<!-- Log-ID: 2026-07-30T15:11:02.023167+00:00 -->
