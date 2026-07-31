@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-07-31 00:01 (UTC)
+📅 **Last Update:** 2026-07-31 15:20 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)** — **5** 👍 · 0 💬
-* **[Building CyvoraX Suite: An Open-Source Web Security & Penetration Testing Workbench](https://dev.to/jojin1709/building-cyvorax-suite-an-open-source-web-security-penetration-testing-workbench-jog)** — **1** 👍 · 0 💬
-* **[How I Tamed Legacy Docker (v1.29) for Multi-Stage Microservice Builds](https://dev.to/iochieng1/how-i-tamed-legacy-docker-v129-for-multi-stage-microservice-builds-596c)** — **0** 👍 · 0 💬
+* **[Solon's 10 HTTP Servers: Pick Your Engine With One Dependency Change](https://dev.to/solonjava/solons-10-http-servers-pick-your-engine-with-one-dependency-change-55oi)** — **2** 👍 · 3 💬
+* **[C# JVM and JDK Integration: How .NET Teams Can Use Java Without Rewriting](https://dev.to/jnbridge/c-jvm-and-jdk-integration-how-net-teams-can-use-java-without-rewriting-29mg)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)** — **16** 👍 · 4 💬
-* **[My 7/7 Gate Fell to One Admin Capability. A Second Witness Only Moved the Wall.](https://dev.to/kenielzep97/my-77-gate-fell-to-one-admin-capability-a-second-witness-only-moved-the-wall-329o)** — **6** 👍 · 0 💬
-* **[I checked every MCP server in the official registry. A quarter of them are unusable.](https://dev.to/theopslog/i-checked-every-mcp-server-in-the-official-registry-about-1-in-10-is-broken-1ehj)** — **1** 👍 · 1 💬
+* **[The all-purpose agent isn't an architecture. It's a single point of failure with a system prompt.](https://dev.to/cyclopt_dimitrisk/the-all-purpose-agent-isnt-an-architecture-its-a-single-point-of-failure-with-a-system-prompt-3je0)** — **10** 👍 · 7 💬
+* **[Best Self-Hosted WAFs on GitHub: 5 Tools Compared in 2026](https://dev.to/lialiago/best-self-hosted-wafs-on-github-5-tools-compared-in-2025-4c6d)** — **7** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
 * **[CSA Says Harden Your Networks for the AI Storm. Here's How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)** — **1** 👍 · 0 💬
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
-* **[The Xn procedure that fetches a sleeping UE from another gNB](https://dev.to/eventhelix/the-xn-procedure-that-fetches-a-sleeping-ue-from-another-gnb-145a)** — **0** 👍 · 0 💬
+* **[Zonclave: One Wi-Fi Network, Dozens of Independently-Routed Tunnels](https://dev.to/zilleali12/zonclave-one-wi-fi-network-dozens-of-independently-routed-tunnels-27bc)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-07-31T00:01:10.030444+00:00 -->
+<!-- Log-ID: 2026-07-31T15:20:07.419433+00:00 -->
