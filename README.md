@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-01 14:27 (UTC)
+📅 **Last Update:** 2026-08-01 18:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://dev.to/codenameone/calendar-api-local-calendars-cloud-sync-and-conflict-handling-1a1p)** — **5** 👍 · 0 💬
 * **[Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)** — **5** 👍 · 0 💬
-* **[Solon's 10 HTTP Servers: Pick Your Engine With One Dependency Change](https://dev.to/solonjava/solons-10-http-servers-pick-your-engine-with-one-dependency-change-55oi)** — **2** 👍 · 3 💬
-* **[Spring AI: Bringing Generative AI into Spring Boot Applications](https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3)** — **1** 👍 · 1 💬
+* **[Set It and Ship It: How I Let AI Agents Build My Java Services While I Sleep](https://dev.to/sshenvi/set-it-and-ship-it-how-i-let-ai-agents-build-my-java-services-while-i-sleep-1jhj)** — **4** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
 * **[Zonclave: One Wi-Fi Network, Dozens of Independently-Routed Tunnels](https://dev.to/zilleali12/zonclave-one-wi-fi-network-dozens-of-independently-routed-tunnels-27bc)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-01T14:27:05.516683+00:00 -->
+<!-- Log-ID: 2026-08-01T18:55:42.571478+00:00 -->
