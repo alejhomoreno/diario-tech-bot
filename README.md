@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-01 00:01 (UTC)
+📅 **Last Update:** 2026-08-01 14:27 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)** — **16** 👍 · 4 💬
-* **[The all-purpose agent isn't an architecture. It's a single point of failure with a system prompt.](https://dev.to/cyclopt_dimitrisk/the-all-purpose-agent-isnt-an-architecture-its-a-single-point-of-failure-with-a-system-prompt-3je0)** — **10** 👍 · 7 💬
-* **[Best Self-Hosted WAFs on GitHub: 5 Tools Compared in 2026](https://dev.to/lialiago/best-self-hosted-wafs-on-github-5-tools-compared-in-2025-4c6d)** — **7** 👍 · 2 💬
+* **[CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix](https://dev.to/pascal_cescato_692b7a8a20/cyberpanels-ssl-auto-renewal-can-silently-fail-heres-the-fix-5g1o)** — **22** 👍 · 0 💬
+* **[AI Coding Agent Cost Ledger: Find Expensive Sessions Before They Become Normal](https://dev.to/jackm-singularity/ai-coding-agent-cost-ledger-find-expensive-sessions-before-they-become-normal-2em1)** — **1** 👍 · 3 💬
+* **[Reachable Doesn't Mean Exploitable. How to Tell the Difference From Configuration Alone.](https://dev.to/bala_paranj_059d338e44e7e/reachable-doesnt-mean-exploitable-how-to-tell-the-difference-from-configuration-alone-45f7)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
 * **[Zonclave: One Wi-Fi Network, Dozens of Independently-Routed Tunnels](https://dev.to/zilleali12/zonclave-one-wi-fi-network-dozens-of-independently-routed-tunnels-27bc)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-01T00:01:41.595450+00:00 -->
+<!-- Log-ID: 2026-08-01T14:27:05.516683+00:00 -->
