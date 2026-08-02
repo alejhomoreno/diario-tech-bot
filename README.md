@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-01 23:57 (UTC)
+📅 **Last Update:** 2026-08-02 14:36 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Calendar API: Local Calendars, Cloud Sync, and Conflict Handling](https://dev.to/codenameone/calendar-api-local-calendars-cloud-sync-and-conflict-handling-1a1p)** — **6** 👍 · 0 💬
-* **[Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)** — **5** 👍 · 0 💬
-* **[Set It and Ship It: How I Let AI Agents Build My Java Services While I Sleep](https://dev.to/sshenvi/set-it-and-ship-it-how-i-let-ai-agents-build-my-java-services-while-i-sleep-1jhj)** — **4** 👍 · 1 💬
+* **[Java References vs Values: The Mistake That Confused Me](https://dev.to/majin-dev/java-references-vs-values-the-mistake-that-confused-me-a46)** — **1** 👍 · 1 💬
+* **[Why Standard ERC-20 Fails for Real-World Asset (RWA) Tokenization (and How We Solved It with ERC-3643)](https://dev.to/ranjan_singh_devto/why-standard-erc-20-fails-for-real-world-asset-rwa-tokenization-and-how-we-solved-it-with-49cd)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[CyberPanel's SSL Auto-Renewal Can Silently Fail — Here's the Fix](https://dev.to/pascal_cescato_692b7a8a20/cyberpanels-ssl-auto-renewal-can-silently-fail-heres-the-fix-5g1o)** — **25** 👍 · 2 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 21: A Bare Git Repo Is the Hub, and an Elastic IP Is the Anchor](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-21-a-bare-git-repo-is-the-hub-and-an-elastic-ip-is-the-21oj)** — **5** 👍 · 0 💬
-* **[Your Alpine Base Image Has BusyBox. That's Probably Fine Until It's Not.](https://dev.to/schiff_heimlich/your-alpine-base-image-has-busybox-thats-probably-fine-until-its-not-2aep)** — **1** 👍 · 0 💬
+* **[Your cron expression can be valid and still never run](https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg)** — **2** 👍 · 0 💬
+* **[Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI](https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m)** — **2** 👍 · 0 💬
+* **[What I learned building an agent platform that actually ships](https://dev.to/gad_ofir_076c468dd15d483b/what-i-learned-building-an-agent-platform-that-actually-ships-5ab7)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
 * **[Zonclave: One Wi-Fi Network, Dozens of Independently-Routed Tunnels](https://dev.to/zilleali12/zonclave-one-wi-fi-network-dozens-of-independently-routed-tunnels-27bc)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-01T23:57:25.483425+00:00 -->
+<!-- Log-ID: 2026-08-02T14:36:32.598686+00:00 -->
