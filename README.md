@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-03 19:20 (UTC)
+📅 **Last Update:** 2026-08-04 00:08 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[5 Most Important Programming Languages to Learn in 2026 (Based on Real Industry Demand)](https://dev.to/hadil/5-most-important-programming-languages-to-learn-in-2026-based-on-real-industry-demand-3dc7)** — **24** 👍 · 8 💬
-* **[Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)** — **11** 👍 · 0 💬
 * **[Pure Codename One Text Editing Without Native Overlays](https://dev.to/codenameone/pure-codename-one-text-editing-without-native-overlays-2i9l)** — **5** 👍 · 0 💬
+* **[I used Spring Boot daily but never really understood what happened after pressing Enter in Postman.](https://dev.to/curious_niloufer/i-used-spring-boot-daily-but-never-really-understood-what-happened-after-pressing-enter-in-postman-5cej)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Counted the Assertions in Our Test Suite. I Wish I Hadn't.](https://dev.to/henry_messiahtmt_099ca84/i-counted-the-assertions-in-our-test-suite-i-wish-i-hadnt-49gi)** — **11** 👍 · 3 💬
+* **[I Counted the Assertions in Our Test Suite. I Wish I Hadn't.](https://dev.to/henry_messiahtmt_099ca84/i-counted-the-assertions-in-our-test-suite-i-wish-i-hadnt-49gi)** — **12** 👍 · 4 💬
+* **[Your Test Suite Is Not Reliable If Nobody Trusts Its Failures](https://dev.to/mellowthunder735/your-test-suite-is-not-reliable-if-nobody-trusts-its-failures-1979)** — **5** 👍 · 0 💬
 * **[Versionamento Profissional: Automatizando Tags, Releases e Changelog (Parte 3)](https://dev.to/erickg123/versionamento-profissional-automatizando-tags-releases-e-changelog-parte-3-4cde)** — **5** 👍 · 0 💬
-* **[A Conta Chegou? Como Fugir do Limite de 2.000 Minutos do GitHub Actions (Parte 2)](https://dev.to/erickg123/a-conta-chegou-como-fugir-do-limite-de-2000-minutos-do-github-actions-parte-2-cf9)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[IPv6 Transition Mechanisms (NAT64/DNS64)](https://dev.to/godofgeeks/ipv6-transition-mechanisms-nat64dns64-1p4)** — **1** 👍 · 0 💬
 * **[🌐 Networking Fundamentals Every DevOps Engineer Should Know (IP, DNS & Ports)](https://dev.to/themdmohiuddin/networking-fundamentals-every-devops-engineer-should-know-ip-dns-ports-407l)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-03T19:20:07.422119+00:00 -->
+<!-- Log-ID: 2026-08-04T00:08:38.479426+00:00 -->
