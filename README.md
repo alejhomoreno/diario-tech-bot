@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-05 00:02 (UTC)
+📅 **Last Update:** 2026-08-05 15:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Pure Codename One Text Editing Without Native Overlays](https://dev.to/codenameone/pure-codename-one-text-editing-without-native-overlays-2i9l)** — **5** 👍 · 0 💬
-* **[Spring AI Prompt Caching and Chat Memory: Where the Tokens Go — LLM Cost Control 2/4](https://dev.to/julia_denysova/spring-ai-prompt-caching-and-chat-memory-where-the-tokens-go-llm-cost-control-24-36i)** — **0** 👍 · 2 💬
-* **[Java 26, Kubernetes 1.35, and the Rise of AI-Native Platform Engineering: A 2026 Strategy](https://dev.to/aytronn/java-26-kubernetes-135-and-the-rise-of-ai-native-platform-engineering-a-2026-strategy-3kl2)** — **0** 👍 · 0 💬
+* **[Building a Multi-Agent Hiring Workflow with LangChain4j and LangGraph4j on Spring Boot](https://dev.to/ykpraveen/building-a-multi-agent-hiring-workflow-with-langchain4j-and-langgraph4j-on-spring-boot-2a15)** — **2** 👍 · 1 💬
+* **[Your Internal Developer Platform Is Probably Ignoring Your Java Services](https://dev.to/schiff_heimlich/your-internal-developer-platform-is-probably-ignoring-your-java-services-b28)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Counted the Assertions in Our Test Suite. I Wish I Hadn't.](https://dev.to/henry_messiahtmt_099ca84/i-counted-the-assertions-in-our-test-suite-i-wish-i-hadnt-49gi)** — **12** 👍 · 4 💬
-* **[Stop Watching DevOps Tutorials. Build These 15 Projects Instead.](https://dev.to/yash_sonawane25/stop-watching-devops-tutorials-build-these-15-projects-instead-58k5)** — **5** 👍 · 0 💬
-* **[Why Is No One Talking About Repository Structure?](https://dev.to/f4z3r/why-is-no-one-talking-about-repository-structure-33n3)** — **2** 👍 · 1 💬
+* **[Episode 6 — Watching Something You Can't See](https://dev.to/surajrkhonde/episode-6-watching-something-you-cant-see-15eb)** — **5** 👍 · 0 💬
+* **[Your Cloud Has Attack Paths No Scanner Can Find. Because They Don't Exist in Any Single Resource](https://dev.to/bala_paranj_059d338e44e7e/your-cloud-has-attack-paths-no-scanner-can-find-because-they-dont-exist-in-any-single-resource-4koi)** — **1** 👍 · 1 💬
+* **[The 404 that wasn't: when a check can't see what you're asking it](https://dev.to/mantekio/the-404-that-wasnt-when-a-check-cant-see-what-youre-asking-it-7io)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Day 17–Day 22: From Compliance to Command SOC — Building the Real Foundation of a Security Operations Center](https://dev.to/faizan-nazir/day-17-day-22-from-compliance-to-command-soc-building-the-real-foundation-of-a-security-4b5p)** — **0** 👍 · 0 💬
-* **[Networking Fundamentals for Developers: The Only Concepts You Need to Get Started](https://dev.to/hamidrezaesh/networking-fundamentals-for-developers-the-only-concepts-you-need-to-get-started-43dp)** — **0** 👍 · 0 💬
-* **[ollanode](https://dev.to/venk1122/ollanode-27pc)** — **0** 👍 · 0 💬
+* **[Linxr | Part 8 — Fixing Network Latency & SLIRP Terminal Slowness](https://dev.to/ai2th/linxr-part-8-fixing-network-latency-slirp-terminal-slowness-1l7o)** — **1** 👍 · 0 💬
+* **[Gateway API v1.6 promotes TCPRoute and UDPRoute to Standard, and puts a clock on the v1alpha2 shapes](https://dev.to/leobaniak/gateway-api-v16-promotes-tcproute-and-udproute-to-standard-and-puts-a-clock-on-the-v1alpha2-shapes-1h4l)** — **1** 👍 · 0 💬
+* **[Finding Exposed Services (and Vulnerabilities) on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-05T00:02:15.032647+00:00 -->
+<!-- Log-ID: 2026-08-05T15:14:36.033377+00:00 -->
