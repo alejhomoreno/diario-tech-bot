@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-05 19:15 (UTC)
+📅 **Last Update:** 2026-08-05 23:59 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)** — **7** 👍 · 0 💬
-* **[Your Cloud Has Attack Paths No Scanner Can Find. Because They Don't Exist in Any Single Resource](https://dev.to/bala_paranj_059d338e44e7e/your-cloud-has-attack-paths-no-scanner-can-find-because-they-dont-exist-in-any-single-resource-4koi)** — **1** 👍 · 1 💬
 * **[The 404 that wasn't: when a check can't see what you're asking it](https://dev.to/mantekio/the-404-that-wasnt-when-a-check-cant-see-what-youre-asking-it-7io)** — **1** 👍 · 0 💬
+* **[I read 172 official status feeds every 10 minutes. Here is what is quietly broken in them.](https://dev.to/kerolos_atallah/i-read-172-official-status-feeds-every-10-minutes-here-is-what-is-quietly-broken-in-them-4234)** — **1** 👍 · 0 💬
+* **[Building a DMARC Report Parser and Dashboard in Python](https://dev.to/ayinedjimi-consultants/building-a-dmarc-report-parser-and-dashboard-in-python-3mja)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Gateway API v1.6 promotes TCPRoute and UDPRoute to Standard, and puts a clock on the v1alpha2 shapes](https://dev.to/leobaniak/gateway-api-v16-promotes-tcproute-and-udproute-to-standard-and-puts-a-clock-on-the-v1alpha2-shapes-1h4l)** — **1** 👍 · 0 💬
 * **[Finding Exposed Services (and Vulnerabilities) on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-05T19:15:57.856671+00:00 -->
+<!-- Log-ID: 2026-08-05T23:59:19.260274+00:00 -->
