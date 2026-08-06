@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-05 23:59 (UTC)
+📅 **Last Update:** 2026-08-06 15:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Pure Codename One Text Editing Without Native Overlays](https://dev.to/codenameone/pure-codename-one-text-editing-without-native-overlays-2i9l)** — **5** 👍 · 0 💬
-* **[Building a Multi-Agent Hiring Workflow with LangChain4j and LangGraph4j on Spring Boot](https://dev.to/ykpraveen/building-a-multi-agent-hiring-workflow-with-langchain4j-and-langgraph4j-on-spring-boot-2a15)** — **2** 👍 · 1 💬
-* **[Advice](https://dev.to/aesakki_muthu_41d29e463b/advice-1f59)** — **1** 👍 · 1 💬
+* **[Java Syntax](https://dev.to/vidhya_murali_5aabe7784bd/java-syntax-92d)** — **4** 👍 · 0 💬
+* **[JAVA day-1](https://dev.to/vidhya_murali_5aabe7784bd/java-day-1-5hfa)** — **3** 👍 · 0 💬
+* **[Building a Production AI Agent in Spring Boot: The Supervisor Pattern with Specialist Agents (Part 5)](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-the-supervisor-pattern-with-specialist-agents-part-27h0)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The 404 that wasn't: when a check can't see what you're asking it](https://dev.to/mantekio/the-404-that-wasnt-when-a-check-cant-see-what-youre-asking-it-7io)** — **1** 👍 · 0 💬
-* **[I read 172 official status feeds every 10 minutes. Here is what is quietly broken in them.](https://dev.to/kerolos_atallah/i-read-172-official-status-feeds-every-10-minutes-here-is-what-is-quietly-broken-in-them-4234)** — **1** 👍 · 0 💬
-* **[Building a DMARC Report Parser and Dashboard in Python](https://dev.to/ayinedjimi-consultants/building-a-dmarc-report-parser-and-dashboard-in-python-3mja)** — **1** 👍 · 0 💬
+* **[When Your VPS Never Had the Resources It Was Sold With](https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o)** — **19** 👍 · 12 💬
+* **[The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)** — **2** 👍 · 0 💬
+* **[The Intermediate Representation of Content: Why Your Media Pipeline Needs a Compiler](https://dev.to/claudia-ve/the-intermediate-representation-of-content-why-your-media-pipeline-needs-a-compiler-4k3n)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Gateway API v1.6 promotes TCPRoute and UDPRoute to Standard, and puts a clock on the v1alpha2 shapes](https://dev.to/leobaniak/gateway-api-v16-promotes-tcproute-and-udproute-to-standard-and-puts-a-clock-on-the-v1alpha2-shapes-1h4l)** — **1** 👍 · 0 💬
 * **[Finding Exposed Services (and Vulnerabilities) on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-05T23:59:19.260274+00:00 -->
+<!-- Log-ID: 2026-08-06T15:14:15.990177+00:00 -->
