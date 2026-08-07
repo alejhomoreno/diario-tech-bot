@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-07 01:41 (UTC)
+📅 **Last Update:** 2026-08-07 14:12 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Syntax](https://dev.to/vidhya_murali_5aabe7784bd/java-syntax-92d)** — **4** 👍 · 0 💬
-* **[JAVA day-1](https://dev.to/vidhya_murali_5aabe7784bd/java-day-1-5hfa)** — **3** 👍 · 0 💬
-* **[Building a Production AI Agent in Spring Boot: The Supervisor Pattern with Specialist Agents (Part 5)](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-the-supervisor-pattern-with-specialist-agents-part-27h0)** — **0** 👍 · 0 💬
+* **[How to make Appium + Cucumber tests thread-safe with ThreadLocal](https://dev.to/mayvinrmm/how-to-make-appium-cucumber-tests-thread-safe-with-threadlocal-ejm)** — **5** 👍 · 0 💬
+* **[Building a Production AI Agent in Spring Boot: Testing the Agent Loop Without an LLM (Part 6)](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-testing-the-agent-loop-without-an-llm-part-6-204h)** — **1** 👍 · 1 💬
+* **[The Redis & Kafka Interview Questions I Got Asked 23 Times (And How I Finally Answered Them)](https://dev.to/moyuping/the-redis-kafka-interview-questions-i-got-asked-23-times-and-how-i-finally-answered-them-2ho)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[When Your VPS Never Had the Resources It Was Sold With](https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o)** — **20** 👍 · 18 💬
-* **[Why I Stopped Trusting "It Works on My Machine" and Actually Learned to Ship](https://dev.to/yassines99/why-i-stopped-trusting-it-works-on-my-machine-and-actually-learned-to-ship-41ml)** — **1** 👍 · 0 💬
-* **[Installing Elasticsearch, Logstash, and Kibana (ELK Stack) on Kubernetes](https://dev.to/vultr/installing-elasticsearch-logstash-and-kibana-elk-stack-on-kubernetes-2oni)** — **1** 👍 · 0 💬
+* **[When Your VPS Never Had the Resources It Was Sold With](https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o)** — **22** 👍 · 18 💬
+* **[How Kiro Crew's Cron Jobs Replaced 4 Hours of Weekly Toil](https://dev.to/aws-builders/how-kiro-crews-cron-jobs-replaced-4-hours-of-weekly-toil-37h)** — **6** 👍 · 1 💬
+* **[A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Gateway API v1.6 promotes TCPRoute and UDPRoute to Standard, and puts a clock on the v1alpha2 shapes](https://dev.to/leobaniak/gateway-api-v16-promotes-tcproute-and-udproute-to-standard-and-puts-a-clock-on-the-v1alpha2-shapes-1h4l)** — **1** 👍 · 0 💬
 * **[Finding Exposed Services (and Vulnerabilities) on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-07T01:41:04.446317+00:00 -->
+<!-- Log-ID: 2026-08-07T14:12:50.083924+00:00 -->
