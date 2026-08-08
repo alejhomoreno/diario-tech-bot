@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-08 18:23 (UTC)
+📅 **Last Update:** 2026-08-08 23:28 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to make Appium + Cucumber tests thread-safe with ThreadLocal](https://dev.to/mayvinrmm/how-to-make-appium-cucumber-tests-thread-safe-with-threadlocal-ejm)** — **5** 👍 · 0 💬
+* **[Why Build gRPC Directly on Reactor Netty](https://dev.to/qianwj/why-build-grpc-directly-on-reactor-netty-2g96)** — **5** 👍 · 5 💬
+* **[Health Data Without Fake Certainty](https://dev.to/codenameone/health-data-without-fake-certainty-fok)** — **5** 👍 · 0 💬
 * **[Building a Production AI Agent in Spring Boot: Testing the Agent Loop Without an LLM (Part 6)](https://dev.to/jamilxt/building-a-production-ai-agent-in-spring-boot-testing-the-agent-loop-without-an-llm-part-6-204h)** — **1** 👍 · 1 💬
-* **[The Redis & Kafka Interview Questions I Got Asked 23 Times (And How I Finally Answered Them)](https://dev.to/moyuping/the-redis-kafka-interview-questions-i-got-asked-23-times-and-how-i-finally-answered-them-2ho)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[100 Days of DevOps and Cloud (AWS), Day 24: A Branch Is Just a Pointer, and a Load Balancer Is Three Things](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-24-a-branch-is-just-a-pointer-and-a-load-balancer-is-2j42)** — **10** 👍 · 0 💬
 * **[Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)** — **6** 👍 · 1 💬
-* **[A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)** — **6** 👍 · 0 💬
-* **[Everything Was Working. AWS Wanted $1,665/Month More.](https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h)** — **4** 👍 · 2 💬
+* **[AI Can Write Tests Faster Than Your Team Can Understand Them](https://dev.to/mellowthunder735/ai-can-write-tests-faster-than-your-team-can-understand-them-bji)** — **6** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
+* **[100 Days of DevOps and Cloud (AWS), Day 24: A Branch Is Just a Pointer, and a Load Balancer Is Three Things](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-24-a-branch-is-just-a-pointer-and-a-load-balancer-is-2j42)** — **10** 👍 · 0 💬
 * **[Azure Route-Map: Route and traffic engineering in Azure](https://dev.to/omiossec/route-and-traffic-engineering-in-azure-39pj)** — **5** 👍 · 0 💬
 * **[What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)** — **1** 👍 · 1 💬
-* **[The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-08T18:23:19.557354+00:00 -->
+<!-- Log-ID: 2026-08-08T23:28:26.931666+00:00 -->
