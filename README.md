@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-08 23:28 (UTC)
+📅 **Last Update:** 2026-08-09 13:50 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[100 Days of DevOps and Cloud (AWS), Day 24: A Branch Is Just a Pointer, and a Load Balancer Is Three Things](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-24-a-branch-is-just-a-pointer-and-a-load-balancer-is-2j42)** — **10** 👍 · 0 💬
 * **[Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)** — **6** 👍 · 1 💬
-* **[AI Can Write Tests Faster Than Your Team Can Understand Them](https://dev.to/mellowthunder735/ai-can-write-tests-faster-than-your-team-can-understand-them-bji)** — **6** 👍 · 1 💬
+* **[I built kern – A CLI that replaces Docker with Unikernels (~10ms boot time, no daemon, pure QEMU)](https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0)** — **0** 👍 · 0 💬
+* **[Docker bypassed my firewall: the database port was open to the internet](https://dev.to/jguillaumesio/docker-bypassed-my-firewall-the-database-port-was-open-to-the-internet-1345)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[100 Days of DevOps and Cloud (AWS), Day 24: A Branch Is Just a Pointer, and a Load Balancer Is Three Things](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-24-a-branch-is-just-a-pointer-and-a-load-balancer-is-2j42)** — **10** 👍 · 0 💬
-* **[Azure Route-Map: Route and traffic engineering in Azure](https://dev.to/omiossec/route-and-traffic-engineering-in-azure-39pj)** — **5** 👍 · 0 💬
 * **[What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)** — **1** 👍 · 1 💬
+* **[The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-08T23:28:26.931666+00:00 -->
+<!-- Log-ID: 2026-08-09T13:50:33.847532+00:00 -->
