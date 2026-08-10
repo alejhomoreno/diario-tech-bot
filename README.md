@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-09 23:30 (UTC)
+📅 **Last Update:** 2026-08-10 14:19 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)** — **6** 👍 · 1 💬
-* **[I built kern – A CLI that replaces Docker with Unikernels (~10ms boot time, no daemon, pure QEMU)](https://dev.to/kern-project/i-built-kern-a-cli-that-replaces-docker-with-unikernels-10ms-boot-time-no-daemon-pure-qemu-5aa0)** — **0** 👍 · 0 💬
-* **[Docker bypassed my firewall: the database port was open to the internet](https://dev.to/jguillaumesio/docker-bypassed-my-firewall-the-database-port-was-open-to-the-internet-1345)** — **0** 👍 · 0 💬
+* **[Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)** — **66** 👍 · 38 💬
+* **[Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)** — **3** 👍 · 0 💬
+* **[The Scheduled Step Failed on Night One. The Heartbeat Stayed Green.](https://dev.to/hexisteme/the-scheduled-step-failed-on-night-one-the-heartbeat-stayed-green-lca)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)** — **1** 👍 · 1 💬
 * **[The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-09T23:30:40.769799+00:00 -->
+<!-- Log-ID: 2026-08-10T14:19:55.328340+00:00 -->
