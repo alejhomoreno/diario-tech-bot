@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-10 14:19 (UTC)
+📅 **Last Update:** 2026-08-10 18:43 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)** — **66** 👍 · 38 💬
+* **[Restate's Single Binary vs Temporal's Cluster: When the Lighter Engine Wins](https://dev.to/andriiboyko/restates-single-binary-vs-temporals-cluster-when-the-lighter-engine-wins-3635)** — **69** 👍 · 44 💬
 * **[Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)** — **3** 👍 · 0 💬
-* **[The Scheduled Step Failed on Night One. The Heartbeat Stayed Green.](https://dev.to/hexisteme/the-scheduled-step-failed-on-night-one-the-heartbeat-stayed-green-lca)** — **2** 👍 · 0 💬
+* **[S3 Access Denied Troubleshooting: Every Cause and How to Fix It (2026)](https://dev.to/muskan_bandta/s3-access-denied-troubleshooting-every-cause-and-how-to-fix-it-2026-27a2)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)](https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif)** — **1** 👍 · 1 💬
 * **[The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-10T14:19:55.328340+00:00 -->
+<!-- Log-ID: 2026-08-10T18:43:03.418758+00:00 -->
