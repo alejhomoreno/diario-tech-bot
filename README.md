@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-11 14:19 (UTC)
+📅 **Last Update:** 2026-08-11 18:49 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)** — **3** 👍 · 0 💬
-* **[Five files that go in before the agent writes a line](https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e)** — **1** 👍 · 2 💬
-* **[Your AI agent grades its own homework](https://dev.to/salmanahsan/your-ai-agent-grades-its-own-homework-2ekm)** — **1** 👍 · 1 💬
+* **[I Showed My CISO Kiro Crew: Here's the Security Model That Got It Approved](https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j)** — **10** 👍 · 2 💬
+* **[Gubernator v2.13.0: Google SRE SLOs, Native CoreDNS Suite & Caddy Ingress for Docker Compose](https://dev.to/gde/gubernator-v2130-google-sre-slos-native-coredns-suite-caddy-ingress-for-docker-compose-1bac)** — **6** 👍 · 0 💬
+* **[Your n8n workflow stopped three days ago. Nobody noticed.](https://dev.to/lamas51/your-n8n-workflow-stopped-three-days-ago-nobody-noticed-4noa)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀](https://dev.to/rolan_r_n_r/i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri-4p6i)** — **1** 👍 · 0 💬
 * **[What Happens During a TLS Handshake?](https://dev.to/arnavsharma2711/what-happens-during-a-tls-handshake-1mk7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-11T14:19:34.727948+00:00 -->
+<!-- Log-ID: 2026-08-11T18:49:02.690234+00:00 -->
