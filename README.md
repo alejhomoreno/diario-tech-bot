@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-12 18:50 (UTC)
+📅 **Last Update:** 2026-08-12 23:40 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Your AI agent writes migrations that look safe. Here's what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)** — **5** 👍 · 0 💬
+* **[100 Days of DevOps and Cloud (AWS), Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1)** — **5** 👍 · 0 💬
+* **[KCX - DevLog #1](https://dev.to/ymerzouka/kcx-devlog-1-3a9f)** — **1** 👍 · 0 💬
 * **[Devin's $40B Round Is a Bet on Agent Budgets, Not Better Demos](https://dev.to/reidmarlow/devins-40b-round-is-a-bet-on-agent-budgets-not-better-demos-5h1)** — **1** 👍 · 0 💬
-* **[The logrotate copytruncate race condition that silently drops logs](https://dev.to/schiff_heimlich/the-logrotate-copytruncate-race-condition-that-silently-drops-logs-nn4)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Installing and Setting Up Pritunl VPN Server on Ubuntu 24.04](https://dev.to/vultr/installing-and-setting-up-pritunl-vpn-server-on-ubuntu-2404-2io)** — **5** 👍 · 0 💬
 * **[Your PBX Software Is Only as Safe as the Ports You Left Open](https://dev.to/tahiralmas/your-pbx-software-is-only-as-safe-as-the-ports-you-left-open-5di8)** — **1** 👍 · 1 💬
 * **[I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀](https://dev.to/rolan_r_n_r/i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri-4p6i)** — **1** 👍 · 0 💬
-* **[What Happens During a TLS Handshake?](https://dev.to/arnavsharma2711/what-happens-during-a-tls-handshake-1mk7)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-12T18:50:07.666625+00:00 -->
+<!-- Log-ID: 2026-08-12T23:40:27.249899+00:00 -->
