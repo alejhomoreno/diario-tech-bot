@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-12 23:40 (UTC)
+📅 **Last Update:** 2026-08-13 14:22 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[100 Days of DevOps and Cloud (AWS), Day 26: Origin Is Just a Nickname, and Localhost Tells the Truth](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-26-origin-is-just-a-nickname-and-localhost-tells-the-1il1)** — **5** 👍 · 0 💬
-* **[KCX - DevLog #1](https://dev.to/ymerzouka/kcx-devlog-1-3a9f)** — **1** 👍 · 0 💬
-* **[Devin's $40B Round Is a Bet on Agent Budgets, Not Better Demos](https://dev.to/reidmarlow/devins-40b-round-is-a-bet-on-agent-budgets-not-better-demos-5h1)** — **1** 👍 · 0 💬
+* **[Artifact Immutability as a Release Safety Primitive: Go Binary Signing, Digest Pinning, and the Promotion Pipeline](https://dev.to/neeraj_singhi_golang/artifact-immutability-as-a-release-safety-primitive-go-binary-signing-digest-pinning-and-the-5df9)** — **3** 👍 · 1 💬
+* **[Remote Diagnostics for Low-Power IoT Devices: Stop Treating Them Like Servers](https://dev.to/zediot/remote-diagnostics-for-low-power-iot-devices-stop-treating-them-like-servers-37j8)** — **3** 👍 · 0 💬
+* **[Five things I disabled before installing a vendor's agent runtime](https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[Installing and Setting Up Pritunl VPN Server on Ubuntu 24.04](https://dev.to/vultr/installing-and-setting-up-pritunl-vpn-server-on-ubuntu-2404-2io)** — **5** 👍 · 0 💬
 * **[Your PBX Software Is Only as Safe as the Ports You Left Open](https://dev.to/tahiralmas/your-pbx-software-is-only-as-safe-as-the-ports-you-left-open-5di8)** — **1** 👍 · 1 💬
 * **[I Built a Privacy-First, Human-Friendly Alternative to Wireshark in Rust & Tauri 🚀](https://dev.to/rolan_r_n_r/i-built-a-privacy-first-human-friendly-alternative-to-wireshark-in-rust-tauri-4p6i)** — **1** 👍 · 0 💬
+* **[# I Built a Peer-to-Peer File Sharing System for a Local Network](https://dev.to/yathartsalil/-i-built-a-peer-to-peer-file-sharing-system-for-a-local-network-46o5)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-12T23:40:27.249899+00:00 -->
+<!-- Log-ID: 2026-08-13T14:22:02.999961+00:00 -->
