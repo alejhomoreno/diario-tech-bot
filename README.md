@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-14 14:15 (UTC)
+📅 **Last Update:** 2026-08-14 18:41 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
+* **[Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)** — **12** 👍 · 0 💬
 * **[i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it](https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc)** — **5** 👍 · 0 💬
-* **[Nobody audits their OpenAI invoice](https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i)** — **3** 👍 · 4 💬
 * **[How to Build a Minimal SIEM with Python, SQLite and Telegram Alerts](https://dev.to/ayinedjimi-consultants/how-to-build-a-minimal-siem-with-python-sqlite-and-telegram-alerts-29f5)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
 * **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-14T14:15:32.868351+00:00 -->
+<!-- Log-ID: 2026-08-14T18:41:21.994404+00:00 -->
