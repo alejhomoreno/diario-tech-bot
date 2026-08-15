@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-15 18:15 (UTC)
+📅 **Last Update:** 2026-08-15 23:19 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)** — **15** 👍 · 2 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 27: Undo Isn't a Switch, and Neither Is Public](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l)** — **12** 👍 · 1 💬
-* **[i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it](https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc)** — **5** 👍 · 0 💬
+* **[Install CH-Ops in 10 Minutes: Docker, Binary, or Source](https://dev.to/kanishga_subramani_49ad73/install-ch-ops-in-10-minutes-docker-binary-or-source-56cj)** — **1** 👍 · 0 💬
+* **[Network Troubleshooting as a Stack: Find Which Layer Is Broken First](https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6)** — **1** 👍 · 0 💬
+* **[Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
 * **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-15T18:15:11.299784+00:00 -->
+<!-- Log-ID: 2026-08-15T23:19:21.983280+00:00 -->
