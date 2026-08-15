@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-14 23:21 (UTC)
+📅 **Last Update:** 2026-08-15 13:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[I read my competitor's generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h)** — **1** 👍 · 0 💬
-* **[Stop Wasting Sprint Hours on SAST Backlogs: Wire SonarLint CLI into Claude Code](https://dev.to/machinecodingmaster/stop-wasting-sprint-hours-on-sast-backlogs-wire-sonarlint-cli-into-claude-code-2b3i)** — **0** 👍 · 1 💬
-* **[App Shield: Your Server Should Not Trust the App Calling It](https://dev.to/codenameone/app-shield-your-server-should-not-trust-the-app-calling-it-4cpa)** — **0** 👍 · 0 💬
+* **[Qwen 3.8 27B Topped Hacker News in a Day. Here's How to Run It Locally From Spring Boot](https://dev.to/jamilxt/qwen-38-27b-topped-hacker-news-in-a-day-heres-how-to-run-it-locally-from-spring-boot-cee)** — **0** 👍 · 0 💬
+* **[Write your pages in PHP. Run them on the JVM.](https://dev.to/deniss_larka/write-your-pages-in-php-run-them-on-the-jvm-j6)** — **0** 👍 · 0 💬
+* **[How I Structure RBAC in a Spring Boot Application](https://dev.to/keping_jiang_4cb350737cdb/how-i-structure-rbac-in-a-spring-boot-application-3khl)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)** — **12** 👍 · 0 💬
+* **[Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)** — **15** 👍 · 2 💬
+* **[100 Days of DevOps and Cloud (AWS), Day 27: Undo Isn't a Switch, and Neither Is Public](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l)** — **12** 👍 · 1 💬
 * **[i started holyclaude back in march. 2.4k stars later i'm building the hosted version of it](https://dev.to/coderluii/i-started-holyclaude-back-in-march-24k-stars-later-im-building-the-hosted-version-of-it-28cc)** — **5** 👍 · 0 💬
-* **[How to Build a Minimal SIEM with Python, SQLite and Telegram Alerts](https://dev.to/ayinedjimi-consultants/how-to-build-a-minimal-siem-with-python-sqlite-and-telegram-alerts-29f5)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
 * **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-14T23:21:00.726929+00:00 -->
+<!-- Log-ID: 2026-08-15T13:31:14.819494+00:00 -->
