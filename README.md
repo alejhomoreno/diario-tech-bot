@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-15 13:31 (UTC)
+📅 **Last Update:** 2026-08-15 18:15 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[OpenJDK Banned AI-Generated Code. Then Two Java Veterans Let Claude Code Build a Whole Runtime](https://dev.to/jamilxt/openjdk-banned-ai-generated-code-then-two-java-veterans-let-claude-code-build-a-whole-runtime-18g9)** — **0** 👍 · 0 💬
+* **[Every no-code builder generates code. I shipped an interpreter instead.](https://dev.to/mollenthiel/every-no-code-builder-generates-code-i-shipped-an-interpreter-instead-3bhd)** — **0** 👍 · 0 💬
 * **[Qwen 3.8 27B Topped Hacker News in a Day. Here's How to Run It Locally From Spring Boot](https://dev.to/jamilxt/qwen-38-27b-topped-hacker-news-in-a-day-heres-how-to-run-it-locally-from-spring-boot-cee)** — **0** 👍 · 0 💬
-* **[Write your pages in PHP. Run them on the JVM.](https://dev.to/deniss_larka/write-your-pages-in-php-run-them-on-the-jvm-j6)** — **0** 👍 · 0 💬
-* **[How I Structure RBAC in a Spring Boot Application](https://dev.to/keping_jiang_4cb350737cdb/how-i-structure-rbac-in-a-spring-boot-application-3khl)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
 * **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-15T13:31:14.819494+00:00 -->
+<!-- Log-ID: 2026-08-15T18:15:11.299784+00:00 -->
