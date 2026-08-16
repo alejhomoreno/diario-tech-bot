@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-15 23:19 (UTC)
+📅 **Last Update:** 2026-08-16 13:32 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Install CH-Ops in 10 Minutes: Docker, Binary, or Source](https://dev.to/kanishga_subramani_49ad73/install-ch-ops-in-10-minutes-docker-binary-or-source-56cj)** — **1** 👍 · 0 💬
-* **[Network Troubleshooting as a Stack: Find Which Layer Is Broken First](https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6)** — **1** 👍 · 0 💬
-* **[Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)** — **0** 👍 · 1 💬
+* **[Your agent can't reach the internet. Which internet?](https://dev.to/unmannedops/your-agent-cant-reach-the-internet-which-internet-acc)** — **0** 👍 · 0 💬
+* **[Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)** — **0** 👍 · 0 💬
+* **[Trend: Amodei predicts 1-person billion-dollar company](https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
 * **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-15T23:19:21.983280+00:00 -->
+<!-- Log-ID: 2026-08-16T13:32:11.391423+00:00 -->
