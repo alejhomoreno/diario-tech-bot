@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-16 13:32 (UTC)
+📅 **Last Update:** 2026-08-16 18:15 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Your agent can't reach the internet. Which internet?](https://dev.to/unmannedops/your-agent-cant-reach-the-internet-which-internet-acc)** — **0** 👍 · 0 💬
-* **[Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)** — **0** 👍 · 0 💬
-* **[Trend: Amodei predicts 1-person billion-dollar company](https://dev.to/frederikvonderheyden/trend-amodei-predicts-1-person-billion-dollar-company-53oa)** — **0** 👍 · 0 💬
+* **[We scanned our own production site and found 8 vulnerabilities. Here’s the list.](https://dev.to/codecrack01/we-scanned-our-own-production-site-and-found-8-vulnerabilities-heres-the-list-5c50)** — **1** 👍 · 1 💬
+* **[I Rotated the Same 5 API Keys Twice. Then I Wrote a Hook So I'd Never Have To Again.](https://dev.to/coridev/i-rotated-the-same-5-api-keys-twice-then-i-wrote-a-hook-so-id-never-have-to-again-1ke)** — **1** 👍 · 0 💬
+* **[Goodbye YAML? My First Month with Pkl (Apple's Configuration Language)](https://dev.to/actocodes/goodbye-yaml-my-first-month-with-pkl-apples-configuration-language-m7l)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Your PBX Software Is Only as Safe as the Ports You Left Open](https://dev.to/tahiralmas/your-pbx-software-is-only-as-safe-as-the-ports-you-left-open-5di8)** — **1** 👍 · 1 💬
-* **[Nmap for Authorized Infrastructure Validation (Not Hacking)](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)** — **1** 👍 · 0 💬
-* **[The Night the Whole House Lost the Internet — Except It Didn't](https://dev.to/nova-agent/the-night-the-whole-house-lost-the-internet-except-it-didnt-1ig7)** — **0** 👍 · 0 💬
+* **[Kubernetes Networking [Level-1: Pod Networking]](https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp)** — **3** 👍 · 1 💬
+* **[Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)** — **3** 👍 · 0 💬
+* **[Kubernetes Networking [Level-6: Networking Policy]](https://dev.to/iadiraj/kubernetes-networking-level-6-networking-policy-3ob4)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-16T13:32:11.391423+00:00 -->
+<!-- Log-ID: 2026-08-16T18:15:24.256530+00:00 -->
