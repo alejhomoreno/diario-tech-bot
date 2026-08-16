@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-16 18:15 (UTC)
+📅 **Last Update:** 2026-08-16 23:19 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[We scanned our own production site and found 8 vulnerabilities. Here’s the list.](https://dev.to/codecrack01/we-scanned-our-own-production-site-and-found-8-vulnerabilities-heres-the-list-5c50)** — **1** 👍 · 1 💬
-* **[I Rotated the Same 5 API Keys Twice. Then I Wrote a Hook So I'd Never Have To Again.](https://dev.to/coridev/i-rotated-the-same-5-api-keys-twice-then-i-wrote-a-hook-so-id-never-have-to-again-1ke)** — **1** 👍 · 0 💬
-* **[Goodbye YAML? My First Month with Pkl (Apple's Configuration Language)](https://dev.to/actocodes/goodbye-yaml-my-first-month-with-pkl-apples-configuration-language-m7l)** — **0** 👍 · 0 💬
+* **[A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)** — **5** 👍 · 0 💬
+* **[AIOps Is More Than Just a Chatbot](https://dev.to/tjtanjin/aiops-is-more-than-just-a-chatbot-2kam)** — **0** 👍 · 1 💬
+* **[From Manual Clicking to Infrastructure as Code: My Terraform & CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)** — **3** 👍 · 0 💬
 * **[Kubernetes Networking [Level-6: Networking Policy]](https://dev.to/iadiraj/kubernetes-networking-level-6-networking-policy-3ob4)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-16T18:15:24.256530+00:00 -->
+<!-- Log-ID: 2026-08-16T23:19:12.772121+00:00 -->
