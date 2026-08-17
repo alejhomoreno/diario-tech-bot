@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-17 13:39 (UTC)
+📅 **Last Update:** 2026-08-17 18:24 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Week 9 of #100DaysOfCode: A Week of Deep Spring Learning](https://dev.to/onatade_abdulmajeed/week-9-of-100daysofcode-a-week-of-deep-spring-learning-4d57)** — **10** 👍 · 0 💬
 * **[Virtual threads didn't scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)** — **2** 👍 · 1 💬
-* **[What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)** — **1** 👍 · 0 💬
+* **[Claude's System Prompt Grew From 358 to 3,235 Words. Here's What It Teaches Production AI Teams](https://dev.to/jamilxt/claudes-system-prompt-grew-from-358-to-3235-words-heres-what-it-teaches-production-ai-teams-l5b)** — **0** 👍 · 2 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A Practical Guide to jq in Shell Scripts](https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6)** — **5** 👍 · 0 💬
-* **[AIOps Is More Than Just a Chatbot](https://dev.to/tjtanjin/aiops-is-more-than-just-a-chatbot-2kam)** — **0** 👍 · 1 💬
-* **[From Manual Clicking to Infrastructure as Code: My Terraform & CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)** — **0** 👍 · 0 💬
+* **[SIP: Five Immediate Software Supply Chain Controls](https://dev.to/docker/sip-five-immediate-software-supply-chain-controls-4836)** — **6** 👍 · 0 💬
+* **[100 Days of DevOps and Cloud (AWS), Day 28: Cherry-Pick Takes One Commit, and the Tag Is the Address](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-28-cherry-pick-takes-one-commit-and-the-tag-is-the-address-k33)** — **6** 👍 · 0 💬
+* **[What I Learned Letting My AI Agent Write Terraform for Real Infrastructure](https://dev.to/yureki_lab/what-i-learned-letting-my-ai-agent-write-terraform-for-real-infrastructure-hl8)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)** — **3** 👍 · 0 💬
 * **[Kubernetes Networking [Level-6: Networking Policy]](https://dev.to/iadiraj/kubernetes-networking-level-6-networking-policy-3ob4)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-17T13:39:46.331963+00:00 -->
+<!-- Log-ID: 2026-08-17T18:24:02.666841+00:00 -->
