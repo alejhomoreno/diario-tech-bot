@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-16 23:19 (UTC)
+📅 **Last Update:** 2026-08-17 13:39 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[OpenJDK Banned AI-Generated Code. Then Two Java Veterans Let Claude Code Build a Whole Runtime](https://dev.to/jamilxt/openjdk-banned-ai-generated-code-then-two-java-veterans-let-claude-code-build-a-whole-runtime-18g9)** — **0** 👍 · 0 💬
-* **[Every no-code builder generates code. I shipped an interpreter instead.](https://dev.to/mollenthiel/every-no-code-builder-generates-code-i-shipped-an-interpreter-instead-3bhd)** — **0** 👍 · 0 💬
-* **[Qwen 3.8 27B Topped Hacker News in a Day. Here's How to Run It Locally From Spring Boot](https://dev.to/jamilxt/qwen-38-27b-topped-hacker-news-in-a-day-heres-how-to-run-it-locally-from-spring-boot-cee)** — **0** 👍 · 0 💬
+* **[Week 9 of #100DaysOfCode: A Week of Deep Spring Learning](https://dev.to/onatade_abdulmajeed/week-9-of-100daysofcode-a-week-of-deep-spring-learning-4d57)** — **10** 👍 · 0 💬
+* **[Virtual threads didn't scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)** — **2** 👍 · 1 💬
+* **[What Really Happens When You Call a REST API in Spring Boot?](https://dev.to/likitha_chendrimada/what-really-happens-when-you-call-a-rest-api-in-spring-boot-255h)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)** — **3** 👍 · 0 💬
 * **[Kubernetes Networking [Level-6: Networking Policy]](https://dev.to/iadiraj/kubernetes-networking-level-6-networking-policy-3ob4)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-16T23:19:12.772121+00:00 -->
+<!-- Log-ID: 2026-08-17T13:39:46.331963+00:00 -->
