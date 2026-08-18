@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-18 13:42 (UTC)
+📅 **Last Update:** 2026-08-18 18:23 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Three Ways to Monitor Prepaid API Balances (Excel, Python + Cron, Power Automate)](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)** — **5** 👍 · 0 💬
-* **[Every Laptop Is a Credential Store: Complete Map of Hidden Secrets](https://dev.to/gitguardian/every-laptop-is-a-credential-store-complete-map-of-hidden-secrets-187c)** — **0** 👍 · 0 💬
-* **[How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)** — **0** 👍 · 0 💬
+* **[My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.](https://dev.to/mrviduus/my-uptime-monitor-was-set-to-every-5-minutes-in-july-it-ran-15-times-a-day-3if8)** — **4** 👍 · 0 💬
+* **[RBAC for AI: Governing the AI Control Plane](https://dev.to/kenwalger/rbac-for-ai-governing-the-ai-control-plane-e59)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[A Load Balancer Is 200 Lines of Go, and Five Bugs You Won't See Coming](https://dev.to/v4nd1t/a-load-balancer-is-200-lines-of-go-and-five-bugs-you-wont-see-coming-5cm3)** — **0** 👍 · 0 💬
+* **[tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)** — **0** 👍 · 0 💬
 * **[Designing a Custom Application-Layer Sliding Window Protocol for High-Latency Networks](https://dev.to/shashi_bsavarn_03038d7d7/designing-a-custom-application-layer-sliding-window-protocol-for-high-latency-networks-4o68)** — **0** 👍 · 0 💬
-* **[What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)** — **0** 👍 · 0 💬
-* **[CompTIA CloudNetX (CNX-001): What It Actually Tests, and Whether You're Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-18T13:42:58.848136+00:00 -->
+<!-- Log-ID: 2026-08-18T18:23:26.193374+00:00 -->
