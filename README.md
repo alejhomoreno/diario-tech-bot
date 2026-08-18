@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-17 23:22 (UTC)
+📅 **Last Update:** 2026-08-18 13:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Reach Your Full Potential as a Programmer (It's Probably Not What You Think)](https://dev.to/hadil/how-to-reach-your-full-potential-as-a-programmer-its-probably-not-what-you-think-4l4)** — **34** 👍 · 3 💬
-* **[Week 9 of #100DaysOfCode: A Week of Deep Spring Learning](https://dev.to/onatade_abdulmajeed/week-9-of-100daysofcode-a-week-of-deep-spring-learning-4d57)** — **10** 👍 · 0 💬
-* **[Virtual threads didn't scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)** — **2** 👍 · 1 💬
+* **[DuckDB v2.0 Is Becoming a Real Database Server. Here Is How to Use It in Spring Boot Today](https://dev.to/jamilxt/duckdb-v20-is-becoming-a-real-database-server-here-is-how-to-use-it-in-spring-boot-today-5fdm)** — **0** 👍 · 0 💬
+* **[How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)** — **0** 👍 · 0 💬
+* **[How to Configure Full Parallel Execution in a Hybrid (Data & Keyword-Driven) Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[SIP: Five Immediate Software Supply Chain Controls](https://dev.to/docker/sip-five-immediate-software-supply-chain-controls-4836)** — **7** 👍 · 0 💬
-* **[100 Days of DevOps and Cloud (AWS), Day 28: Cherry-Pick Takes One Commit, and the Tag Is the Address](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-28-cherry-pick-takes-one-commit-and-the-tag-is-the-address-k33)** — **6** 👍 · 0 💬
-* **[What I Learned Letting My AI Agent Write Terraform for Real Infrastructure](https://dev.to/yureki_lab/what-i-learned-letting-my-ai-agent-write-terraform-for-real-infrastructure-hl8)** — **1** 👍 · 1 💬
+* **[Three Ways to Monitor Prepaid API Balances (Excel, Python + Cron, Power Automate)](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)** — **5** 👍 · 0 💬
+* **[Every Laptop Is a Credential Store: Complete Map of Hidden Secrets](https://dev.to/gitguardian/every-laptop-is-a-credential-store-complete-map-of-hidden-secrets-187c)** — **0** 👍 · 0 💬
+* **[How to Audit a npm Package for Malware in 10 Minutes](https://dev.to/loginsoft/how-to-audit-a-npm-package-for-malware-in-10-minutes-2dfn)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Kubernetes Networking [Level-1: Pod Networking]](https://dev.to/iadiraj/kubernetes-networking-level-1-pod-networking-3agp)** — **3** 👍 · 1 💬
-* **[Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)** — **3** 👍 · 0 💬
-* **[Kubernetes Networking [Level-6: Networking Policy]](https://dev.to/iadiraj/kubernetes-networking-level-6-networking-policy-3ob4)** — **2** 👍 · 0 💬
+* **[Designing a Custom Application-Layer Sliding Window Protocol for High-Latency Networks](https://dev.to/shashi_bsavarn_03038d7d7/designing-a-custom-application-layer-sliding-window-protocol-for-high-latency-networks-4o68)** — **0** 👍 · 0 💬
+* **[What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)** — **0** 👍 · 0 💬
+* **[CompTIA CloudNetX (CNX-001): What It Actually Tests, and Whether You're Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-17T23:22:03.474399+00:00 -->
+<!-- Log-ID: 2026-08-18T13:42:58.848136+00:00 -->
