@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-19 18:20 (UTC)
+📅 **Last Update:** 2026-08-19 23:21 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[DuckDB v2.0 Is Becoming a Real Database Server. Here Is How to Use It in Spring Boot Today](https://dev.to/jamilxt/duckdb-v20-is-becoming-a-real-database-server-here-is-how-to-use-it-in-spring-boot-today-5fdm)** — **0** 👍 · 0 💬
-* **[How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)** — **0** 👍 · 0 💬
-* **[How to Configure Full Parallel Execution in a Hybrid (Data & Keyword-Driven) Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)** — **0** 👍 · 0 💬
+* **[I got tired of upstreams. I built a kill switch - MockRelay](https://dev.to/riqu/i-got-tired-of-upstreams-i-built-a-kill-switch-mockrelay-3in3)** — **3** 👍 · 0 💬
+* **[From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)** — **1** 👍 · 1 💬
+* **[The Hidden Patterns Behind Subarray Problems](https://dev.to/vardhankirti/the-hidden-patterns-behind-subarray-problems-3mmj)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[11 Independent DevOps Learning Sites That Are Not Selling You a Certification](https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p)** — **15** 👍 · 0 💬
-* **[I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.](https://dev.to/le_beltagy/i-deliberately-destroyed-my-kubernetes-cluster-at-2-am-heres-what-died-first-40no)** — **10** 👍 · 0 💬
+* **[I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.](https://dev.to/le_beltagy/i-deliberately-destroyed-my-kubernetes-cluster-at-2-am-heres-what-died-first-40no)** — **14** 👍 · 0 💬
 * **[Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)** — **9** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[My QUIC transport had never once been executed. Here's what happened when I ran it.](https://dev.to/copyleftdev/my-quic-transport-had-never-once-been-executed-heres-what-happened-when-i-ran-it-24ge)** — **3** 👍 · 0 💬
-* **[tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)** — **2** 👍 · 0 💬
+* **[Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)** — **5** 👍 · 0 💬
+* **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
 * **[Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]](https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-19T18:20:11.037335+00:00 -->
+<!-- Log-ID: 2026-08-19T23:21:50.647422+00:00 -->
