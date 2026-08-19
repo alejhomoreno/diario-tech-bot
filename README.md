@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-19 13:45 (UTC)
+📅 **Last Update:** 2026-08-19 18:20 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[11 Independent DevOps Learning Sites That Are Not Selling You a Certification](https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p)** — **10** 👍 · 0 💬
-* **[.NET 10 dotnet tool exec: Pin the Version and Feed in CI](https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl)** — **5** 👍 · 0 💬
-* **[Why I Run My Postgres on a microVM Now](https://dev.to/dhruv_malaviya_cdcc71e595/why-i-run-my-postgres-on-a-microvm-now-19f4)** — **4** 👍 · 2 💬
+* **[11 Independent DevOps Learning Sites That Are Not Selling You a Certification](https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p)** — **15** 👍 · 0 💬
+* **[I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.](https://dev.to/le_beltagy/i-deliberately-destroyed-my-kubernetes-cluster-at-2-am-heres-what-died-first-40no)** — **10** 👍 · 0 💬
+* **[Deploying SigNoz in 2026: A Survival Guide to ClickHouse v25+ and OTel Gotchas](https://dev.to/zhukmax/deploying-signoz-in-2026-a-survival-guide-to-clickhouse-v25-and-otel-gotchas-3pec)** — **9** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)** — **2** 👍 · 0 💬
 * **[Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]](https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-19T13:45:05.930375+00:00 -->
+<!-- Log-ID: 2026-08-19T18:20:11.037335+00:00 -->
