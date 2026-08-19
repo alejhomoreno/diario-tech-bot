@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-18 23:21 (UTC)
+📅 **Last Update:** 2026-08-19 13:45 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[RBAC for AI: Governing the AI Control Plane](https://dev.to/kenwalger/rbac-for-ai-governing-the-ai-control-plane-e59)** — **5** 👍 · 1 💬
-* **[My Uptime Monitor Was Set to Every 5 Minutes. In July It Ran 15 Times a Day.](https://dev.to/mrviduus/my-uptime-monitor-was-set-to-every-5-minutes-in-july-it-ran-15-times-a-day-3if8)** — **5** 👍 · 0 💬
+* **[11 Independent DevOps Learning Sites That Are Not Selling You a Certification](https://dev.to/devopsdaily/11-independent-devops-learning-sites-that-are-not-selling-you-a-certification-4l3p)** — **10** 👍 · 0 💬
 * **[.NET 10 dotnet tool exec: Pin the Version and Feed in CI](https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl)** — **5** 👍 · 0 💬
+* **[Why I Run My Postgres on a microVM Now](https://dev.to/dhruv_malaviya_cdcc71e595/why-i-run-my-postgres-on-a-microvm-now-19f4)** — **4** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)** — **1** 👍 · 0 💬
-* **[Designing a Custom Application-Layer Sliding Window Protocol for High-Latency Networks](https://dev.to/shashi_bsavarn_03038d7d7/designing-a-custom-application-layer-sliding-window-protocol-for-high-latency-networks-4o68)** — **0** 👍 · 1 💬
-* **[A Load Balancer Is 200 Lines of Go, and Five Bugs You Won't See Coming](https://dev.to/v4nd1t/a-load-balancer-is-200-lines-of-go-and-five-bugs-you-wont-see-coming-5cm3)** — **0** 👍 · 0 💬
+* **[My QUIC transport had never once been executed. Here's what happened when I ran it.](https://dev.to/copyleftdev/my-quic-transport-had-never-once-been-executed-heres-what-happened-when-i-ran-it-24ge)** — **3** 👍 · 0 💬
+* **[tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)** — **2** 👍 · 0 💬
+* **[Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]](https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-18T23:21:34.367847+00:00 -->
+<!-- Log-ID: 2026-08-19T13:45:05.930375+00:00 -->
