@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-20 13:48 (UTC)
+📅 **Last Update:** 2026-08-20 18:24 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)** — **1** 👍 · 1 💬
-* **[Before You Add Kafka, Redis, and Elasticsearch: Try One Postgres First](https://dev.to/jamilxt/before-you-add-kafka-redis-and-elasticsearch-try-one-postgres-first-20g1)** — **0** 👍 · 0 💬
+* **[Give Your Java Agents a Memory - Session Management with Solon AI](https://dev.to/solonjava/give-your-java-agents-a-memory-session-management-with-solon-ai-2nja)** — **0** 👍 · 0 💬
 * **[Pi4J LED Playground: A Community Resource for Learning Hardware Programming with Java](https://dev.to/igoriot/pi4j-led-playground-a-community-resource-for-learning-hardware-programming-with-java-2ip3)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[3 Ways to Manage Files in CloudShell](https://dev.to/aws/3-ways-to-manage-files-in-cloudshell-3j8n)** — **11** 👍 · 0 💬
 * **[Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)** — **6** 👍 · 1 💬
-* **[The $11k cloud bill was mostly the tools you added to watch the cloud bill](https://dev.to/adioof/the-11k-cloud-bill-was-mostly-the-tools-you-added-to-watch-the-cloud-bill-3oec)** — **3** 👍 · 1 💬
-* **[Production-Grade CI/CD for Databricks: The Gatekeeping Strategy Real Teams Use](https://dev.to/anshul_02/production-grade-cicd-for-databricks-the-gatekeeping-strategy-real-teams-use-2c7a)** — **3** 👍 · 0 💬
+* **[I built an MCP memory server for one user (me, for six weeks)](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)** — **5** 👍 · 9 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
 * **[DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need](https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-20T13:48:11.387711+00:00 -->
+<!-- Log-ID: 2026-08-20T18:24:45.557774+00:00 -->
