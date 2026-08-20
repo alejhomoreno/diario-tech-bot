@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-20 18:24 (UTC)
+📅 **Last Update:** 2026-08-20 23:24 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[3 Ways to Manage Files in CloudShell](https://dev.to/aws/3-ways-to-manage-files-in-cloudshell-3j8n)** — **11** 👍 · 0 💬
 * **[Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)** — **6** 👍 · 1 💬
-* **[I built an MCP memory server for one user (me, for six weeks)](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)** — **5** 👍 · 9 💬
+* **[Your agent isn't reckless. It just can't see the blast radius.](https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj)** — **3** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
 * **[DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need](https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-20T18:24:45.557774+00:00 -->
+<!-- Log-ID: 2026-08-20T23:24:47.583283+00:00 -->
