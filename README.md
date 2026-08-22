@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-22 18:16 (UTC)
+📅 **Last Update:** 2026-08-22 23:20 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)** — **5** 👍 · 0 💬
 * **[How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)** — **2** 👍 · 1 💬
-* **[I used JSON files instead of a database for 1,699 records. Here's what actually broke.](https://dev.to/rajan_nishad/i-used-json-files-instead-of-a-database-for-1699-records-heres-what-actually-broke-4f1c)** — **1** 👍 · 1 💬
 * **[Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -25,7 +25,7 @@
 
 * **[Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)** — **6** 👍 · 1 💬
 * **[The DevOps Roadmap I Wish Someone Had Handed Me on Day One](https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m)** — **6** 👍 · 0 💬
-* **[Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)** — **1** 👍 · 0 💬
+* **[Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Middle-earth and the Digital Infarction](https://dev.to/cdieck88/middle-earth-and-the-digital-infarction-1hel)** — **1** 👍 · 0 💬
 * **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-22T18:16:11.544773+00:00 -->
+<!-- Log-ID: 2026-08-22T23:20:02.971143+00:00 -->
