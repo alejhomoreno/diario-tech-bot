@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-21 23:23 (UTC)
+📅 **Last Update:** 2026-08-22 13:32 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)** — **6** 👍 · 1 💬
-* **[Minecraft Server - Part 3: Running on Kubernetes](https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf)** — **5** 👍 · 1 💬
-* **[Your AI Agent Returned HTTP 200. Why Did the Workflow Still Fail?](https://dev.to/zira125/your-ai-agent-returned-http-200-why-did-the-workflow-still-fail-452o)** — **3** 👍 · 1 💬
+* **[The DevOps Roadmap I Wish Someone Had Handed Me on Day One](https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m)** — **6** 👍 · 0 💬
+* **[Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Day 30: Hard Reset Forgets on Purpose, and NAT Needs a Guardrail Switched Off](https://dev.to/ndcodes/day-30-hard-reset-forgets-on-purpose-and-nat-needs-a-guardrail-switched-off-22ko)** — **6** 👍 · 0 💬
 * **[Middle-earth and the Digital Infarction](https://dev.to/cdieck88/middle-earth-and-the-digital-infarction-1hel)** — **1** 👍 · 0 💬
 * **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
-* **[DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need](https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-21T23:23:11.170133+00:00 -->
+<!-- Log-ID: 2026-08-22T13:32:33.029458+00:00 -->
