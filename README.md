@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-23 18:15 (UTC)
+📅 **Last Update:** 2026-08-23 23:20 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)** — **5** 👍 · 0 💬
 * **[How One AWS Bill Went From Almost $8,000 a Month Toward $6,000](https://dev.to/spidgorny/how-one-aws-bill-went-from-almost-8000-a-month-toward-6000-2jc)** — **1** 👍 · 0 💬
-* **[I built a watchdog for AI agents. It spent two weeks catching its own bugs.](https://dev.to/minjong212121/i-built-a-watchdog-for-ai-agents-it-spent-two-weeks-catching-its-own-bugs-3kgg)** — **0** 👍 · 0 💬
-* **[Why Most ML Firewalls Fail (And How We Fixed It with a Honeypot Feedback Loop)](https://dev.to/mrvenom17/why-most-ml-firewalls-fail-and-how-we-fixed-it-with-a-honeypot-feedback-loop-7p6)** — **0** 👍 · 0 💬
+* **[Zero asset requests was the tell: finding a scraper in 50 seconds of logs](https://dev.to/whateverneveranywhere/zero-asset-requests-was-the-tell-finding-a-scraper-in-50-seconds-of-logs-292j)** — **0** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
 * **[Day 30: Hard Reset Forgets on Purpose, and NAT Needs a Guardrail Switched Off](https://dev.to/ndcodes/day-30-hard-reset-forgets-on-purpose-and-nat-needs-a-guardrail-switched-off-22ko)** — **6** 👍 · 0 💬
-* **[Middle-earth and the Digital Infarction](https://dev.to/cdieck88/middle-earth-and-the-digital-infarction-1hel)** — **1** 👍 · 0 💬
-* **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
+* **[The Silent 350-Second Killer: How an AWS NAT Gateway Cost Us $50k](https://dev.to/tahosin/the-silent-350-second-killer-how-an-aws-nat-gateway-cost-us-50k-adk)** — **2** 👍 · 0 💬
+* **[Your scraper is identified before it sends a single request](https://dev.to/theodore_p_9749548f7dd03/your-scraper-is-identified-before-it-sends-a-single-request-7n7)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-23T18:15:45.506955+00:00 -->
+<!-- Log-ID: 2026-08-23T23:20:05.624504+00:00 -->
