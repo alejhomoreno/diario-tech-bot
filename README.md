@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-23 13:32 (UTC)
+📅 **Last Update:** 2026-08-23 18:15 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Solving Gradle metadata and Renovate integration](https://dev.to/nfrankel/solving-gradle-metadata-and-renovate-integration-2d4a)** — **6** 👍 · 1 💬
-* **[Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)** — **1** 👍 · 2 💬
-* **[Deploying My First Web Server with Nginx](https://dev.to/beny_2005/deploying-my-first-web-server-with-nginx-3phf)** — **1** 👍 · 0 💬
+* **[How One AWS Bill Went From Almost $8,000 a Month Toward $6,000](https://dev.to/spidgorny/how-one-aws-bill-went-from-almost-8000-a-month-toward-6000-2jc)** — **1** 👍 · 0 💬
+* **[I built a watchdog for AI agents. It spent two weeks catching its own bugs.](https://dev.to/minjong212121/i-built-a-watchdog-for-ai-agents-it-spent-two-weeks-catching-its-own-bugs-3kgg)** — **0** 👍 · 0 💬
+* **[Why Most ML Firewalls Fail (And How We Fixed It with a Honeypot Feedback Loop)](https://dev.to/mrvenom17/why-most-ml-firewalls-fail-and-how-we-fixed-it-with-a-honeypot-feedback-loop-7p6)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Middle-earth and the Digital Infarction](https://dev.to/cdieck88/middle-earth-and-the-digital-infarction-1hel)** — **1** 👍 · 0 💬
 * **[Why Does a Webpage Feel Instant When the Server Is Thousands of Miles Away?](https://dev.to/aditya_d_sharma/why-does-a-webpage-feel-instant-when-the-server-is-thousands-of-miles-away-bc1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-23T13:32:48.939157+00:00 -->
+<!-- Log-ID: 2026-08-23T18:15:45.506955+00:00 -->
