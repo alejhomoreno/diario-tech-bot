@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-23 23:20 (UTC)
+📅 **Last Update:** 2026-08-24 13:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)** — **5** 👍 · 0 💬
-* **[How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)** — **2** 👍 · 1 💬
-* **[Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)** — **1** 👍 · 0 💬
+* **[Java Fundamentals: Introduction, Features & Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)** — **5** 👍 · 0 💬
+* **[Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)** — **1** 👍 · 1 💬
+* **[Stop Killing Your Database with @Transactional in Spring Boot](https://dev.to/sayuri_kotikawaththa_/stop-killing-your-database-with-transactional-in-spring-boot-38pk)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)** — **5** 👍 · 0 💬
-* **[How One AWS Bill Went From Almost $8,000 a Month Toward $6,000](https://dev.to/spidgorny/how-one-aws-bill-went-from-almost-8000-a-month-toward-6000-2jc)** — **1** 👍 · 0 💬
-* **[Zero asset requests was the tell: finding a scraper in 50 seconds of logs](https://dev.to/whateverneveranywhere/zero-asset-requests-was-the-tell-finding-a-scraper-in-50-seconds-of-logs-292j)** — **0** 👍 · 3 💬
+* **[Building a Secure Self-Hosted Observability Pipeline for an AI Evaluation Platform](https://dev.to/starkprince/building-a-secure-self-hosted-observability-pipeline-for-an-ai-evaluation-platform-53b0)** — **2** 👍 · 0 💬
+* **[Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The Silent 350-Second Killer: How an AWS NAT Gateway Cost Us $50k](https://dev.to/tahosin/the-silent-350-second-killer-how-an-aws-nat-gateway-cost-us-50k-adk)** — **2** 👍 · 0 💬
 * **[Your scraper is identified before it sends a single request](https://dev.to/theodore_p_9749548f7dd03/your-scraper-is-identified-before-it-sends-a-single-request-7n7)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-23T23:20:05.624504+00:00 -->
+<!-- Log-ID: 2026-08-24T13:52:40.659438+00:00 -->
