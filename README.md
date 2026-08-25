@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-25 13:51 (UTC)
+📅 **Last Update:** 2026-08-25 18:25 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)** — **5** 👍 · 0 💬
 * **[From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow](https://dev.to/pwd9000/from-markdown-to-guarded-automation-build-your-first-github-agentic-workflow-3gbd)** — **1** 👍 · 0 💬
-* **[MAESTRO: threat-modeling AI agents in seven layers](https://dev.to/brennhill/maestro-threat-modeling-ai-agents-in-seven-layers-18am)** — **1** 👍 · 0 💬
+* **[I Gave an AI Agent Unrestricted Shell Access. Here's What Happened Next.](https://dev.to/james-coombs/i-gave-an-ai-agent-unrestricted-shell-access-heres-what-happened-next-an9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The Silent 350-Second Killer: How an AWS NAT Gateway Cost Us $50k](https://dev.to/tahosin/the-silent-350-second-killer-how-an-aws-nat-gateway-cost-us-50k-adk)** — **2** 👍 · 0 💬
 * **[Your scraper is identified before it sends a single request](https://dev.to/theodore_p_9749548f7dd03/your-scraper-is-identified-before-it-sends-a-single-request-7n7)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-25T13:51:18.250083+00:00 -->
+<!-- Log-ID: 2026-08-25T18:25:18.007015+00:00 -->
