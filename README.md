@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-25 18:25 (UTC)
+📅 **Last Update:** 2026-08-25 23:24 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)** — **5** 👍 · 0 💬
+* **[Half the Requests Wearing ChatGPT's Name Were Scanning Us for Secrets](https://dev.to/izgorodin/half-of-chatgpts-requests-to-our-site-were-not-chatgpt-3hj2)** — **4** 👍 · 3 💬
+* **[148K estimated, 222K real: when the token counter drifts, the safety net goes silent](https://dev.to/pm25coder/148k-estimated-222k-real-when-the-token-counter-drifts-the-safety-net-goes-silent-46bd)** — **1** 👍 · 3 💬
 * **[From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow](https://dev.to/pwd9000/from-markdown-to-guarded-automation-build-your-first-github-agentic-workflow-3gbd)** — **1** 👍 · 0 💬
-* **[I Gave an AI Agent Unrestricted Shell Access. Here's What Happened Next.](https://dev.to/james-coombs/i-gave-an-ai-agent-unrestricted-shell-access-heres-what-happened-next-an9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Day 30: Hard Reset Forgets on Purpose, and NAT Needs a Guardrail Switched Off](https://dev.to/ndcodes/day-30-hard-reset-forgets-on-purpose-and-nat-needs-a-guardrail-switched-off-22ko)** — **6** 👍 · 0 💬
-* **[The Silent 350-Second Killer: How an AWS NAT Gateway Cost Us $50k](https://dev.to/tahosin/the-silent-350-second-killer-how-an-aws-nat-gateway-cost-us-50k-adk)** — **2** 👍 · 0 💬
-* **[Your scraper is identified before it sends a single request](https://dev.to/theodore_p_9749548f7dd03/your-scraper-is-identified-before-it-sends-a-single-request-7n7)** — **1** 👍 · 1 💬
+* **[KVM SR-IOV: intel_iommu=on is not SR-IOV until you create VFs](https://dev.to/sunshoutkernel/kvm-sr-iov-inteliommuon-is-not-sr-iov-until-you-create-vfs-2fbh)** — **5** 👍 · 0 💬
+* **[isolcpus= takes CPUs off the scheduler. Hardware IRQs still land there.](https://dev.to/sunshoutkernel/isolcpus-takes-cpus-off-the-scheduler-hardware-irqs-still-land-there-ihe)** — **5** 👍 · 0 💬
+* **[Your speed test is measuring the wrong road](https://dev.to/bitan_sarkar/your-speed-test-is-measuring-the-wrong-road-1ai6)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-25T18:25:18.007015+00:00 -->
+<!-- Log-ID: 2026-08-25T23:24:18.108418+00:00 -->
