@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-24 23:21 (UTC)
+📅 **Last Update:** 2026-08-25 13:51 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Fundamentals: Introduction, Features & Execution Flow](https://dev.to/dev_saravanan_journey/java-fundamentals-introduction-features-execution-flow-2c50)** — **6** 👍 · 0 💬
-* **[A Date Is Never Just a Date: From West Bengal's Panjika to a Bengali Calendar Library for Java 21](https://dev.to/tapadyutichatterjee/a-date-is-never-just-a-date-from-west-bengals-panjika-to-a-bengali-calendar-library-4pe5)** — **2** 👍 · 0 💬
+* **[Java Basics](https://dev.to/karthick_07/java-basics-3ebi)** — **4** 👍 · 0 💬
 * **[Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)** — **1** 👍 · 1 💬
+* **[Stop Killing Your Database with @Transactional in Spring Boot](https://dev.to/sayuri_kotikawaththa_/stop-killing-your-database-with-transactional-in-spring-boot-38pk)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Built an AWS DevOps AI Agent Using Kiro Crew + MCP](https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0)** — **9** 👍 · 0 💬
-* **[SSL Certificate Name Mismatch: NET::ERR_CERT_COMMON_NAME_INVALID](https://dev.to/merlonix/ssl-certificate-name-mismatch-neterrcertcommonnameinvalid-5ak4)** — **1** 👍 · 0 💬
-* **[Automating Oracle's Always-Free ARM Instance (So You Don't Have To Babysit It)](https://dev.to/garsetayusuf/automating-oracles-always-free-arm-instance-so-you-dont-have-to-babysit-it-76)** — **1** 👍 · 0 💬
+* **[.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)** — **5** 👍 · 0 💬
+* **[From Markdown to Guarded Automation: Build Your First GitHub Agentic Workflow](https://dev.to/pwd9000/from-markdown-to-guarded-automation-build-your-first-github-agentic-workflow-3gbd)** — **1** 👍 · 0 💬
+* **[MAESTRO: threat-modeling AI agents in seven layers](https://dev.to/brennhill/maestro-threat-modeling-ai-agents-in-seven-layers-18am)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The Silent 350-Second Killer: How an AWS NAT Gateway Cost Us $50k](https://dev.to/tahosin/the-silent-350-second-killer-how-an-aws-nat-gateway-cost-us-50k-adk)** — **2** 👍 · 0 💬
 * **[Your scraper is identified before it sends a single request](https://dev.to/theodore_p_9749548f7dd03/your-scraper-is-identified-before-it-sends-a-single-request-7n7)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-24T23:21:58.908531+00:00 -->
+<!-- Log-ID: 2026-08-25T13:51:18.250083+00:00 -->
