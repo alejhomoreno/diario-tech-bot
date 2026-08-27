@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-26 19:38 (UTC)
+📅 **Last Update:** 2026-08-27 04:19 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Java Task](https://dev.to/dev_saravanan_journey/java-task-12c0)** — **6** 👍 · 0 💬
-* **[AWS Transform Prices a Java Upgrade at $2.52. Here Is the Rest of the Legacy Modernization Stack](https://dev.to/moksh/aws-transform-prices-a-java-upgrade-at-252-here-is-the-rest-of-the-legacy-modernization-stack-342b)** — **5** 👍 · 0 💬
-* **[Constructors in Java](https://dev.to/ezhil_abinayak_e38eec8fb/constructors-in-java-4417)** — **3** 👍 · 0 💬
+* **[React UseMemo](https://dev.to/madhanraj/react-usememo-38go)** — **2** 👍 · 0 💬
+* **[A 5ms Blocking Call Took My Service From 17,189 to 549 req/s](https://dev.to/bitan_sarkar/a-5ms-blocking-call-took-my-service-from-17189-to-549-reqs-48de)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Your Agent Planned the Right Tools. It Still Crashed the Machine.](https://dev.to/p0rt/your-agent-planned-the-right-tools-it-still-crashed-the-machine-58hf)** — **3** 👍 · 1 💬
-* **[I Read 25 Release Pipelines Looking for One Bug. Four Had It.](https://dev.to/wahib_el_khadiri_0/i-read-25-release-pipelines-looking-for-one-bug-four-had-it-3n9e)** — **1** 👍 · 1 💬
-* **[Mastering Zero-Downtime Deployments with Laravel Deployer](https://dev.to/abbeymaniak/mastering-zero-downtime-deployments-with-laravel-deployer-18f3)** — **1** 👍 · 0 💬
+* **[50 minutes from issue to merged fix: when the readers find the boundary you shipped past](https://dev.to/pm25coder/50-minutes-from-issue-to-merged-fix-when-the-readers-find-the-boundary-you-shipped-past-20g5)** — **5** 👍 · 1 💬
+* **[EvoGuard: Building the Trust Layer for AI-Generated Software](https://dev.to/alirezaai/evoguard-building-the-trust-layer-for-ai-generated-software-5d5k)** — **5** 👍 · 0 💬
+* **[Migrate from SchemaSpy to SchemaCrawler Without Rewriting Your Runbooks](https://dev.to/sualeh/migrate-from-schemaspy-to-schemacrawler-without-rewriting-your-runbooks-34k9)** — **3** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
 * **[KVM SR-IOV: intel_iommu=on is not SR-IOV until you create VFs](https://dev.to/sunshoutkernel/kvm-sr-iov-inteliommuon-is-not-sr-iov-until-you-create-vfs-2fbh)** — **5** 👍 · 0 💬
-* **[isolcpus= takes CPUs off the scheduler. Hardware IRQs still land there.](https://dev.to/sunshoutkernel/isolcpus-takes-cpus-off-the-scheduler-hardware-irqs-still-land-there-ihe)** — **5** 👍 · 0 💬
-* **[Your speed test is measuring the wrong road](https://dev.to/bitan_sarkar/your-speed-test-is-measuring-the-wrong-road-1ai6)** — **1** 👍 · 0 💬
+* **[Building Malaaz: Decentralized Mesh Network Simulation & Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)** — **1** 👍 · 1 💬
+* **[Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-26T19:38:03.803108+00:00 -->
+<!-- Log-ID: 2026-08-27T04:19:07.650650+00:00 -->
