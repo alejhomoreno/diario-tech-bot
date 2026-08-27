@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-27 04:19 (UTC)
+📅 **Last Update:** 2026-08-27 22:51 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Task](https://dev.to/dev_saravanan_journey/java-task-12c0)** — **6** 👍 · 0 💬
-* **[React UseMemo](https://dev.to/madhanraj/react-usememo-38go)** — **2** 👍 · 0 💬
-* **[A 5ms Blocking Call Took My Service From 17,189 to 549 req/s](https://dev.to/bitan_sarkar/a-5ms-blocking-call-took-my-service-from-17189-to-549-reqs-48de)** — **1** 👍 · 0 💬
+* **[Migrating from Java to JavaScript/TypeScript? Here's how to map your stack](https://dev.to/sagar_kashyap_d20f1d5fa65/migrating-from-java-to-javascripttypescript-heres-how-to-map-your-stack-5f5m)** — **6** 👍 · 0 💬
+* **[Java Learning Series | Constructors, Methods & Method Overloading](https://dev.to/dev_saravanan_journey/java-learning-series-constructors-methods-method-overloading-1o9g)** — **2** 👍 · 0 💬
+* **[Java Series - Constructors,this keyword,object creation](https://dev.to/vidhya_murali_5aabe7784bd/java-series-constructorsthis-keywordobject-creation-3m)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[50 minutes from issue to merged fix: when the readers find the boundary you shipped past](https://dev.to/pm25coder/50-minutes-from-issue-to-merged-fix-when-the-readers-find-the-boundary-you-shipped-past-20g5)** — **5** 👍 · 1 💬
-* **[EvoGuard: Building the Trust Layer for AI-Generated Software](https://dev.to/alirezaai/evoguard-building-the-trust-layer-for-ai-generated-software-5d5k)** — **5** 👍 · 0 💬
-* **[Migrate from SchemaSpy to SchemaCrawler Without Rewriting Your Runbooks](https://dev.to/sualeh/migrate-from-schemaspy-to-schemacrawler-without-rewriting-your-runbooks-34k9)** — **3** 👍 · 3 💬
+* **[The LLM Isn't Your Attacker. Your eval() Statement Is.](https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp)** — **6** 👍 · 2 💬
+* **[I Built a CLI to Answer One Question: What Will This Change Break?](https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o)** — **5** 👍 · 3 💬
+* **[Nginx proxy_pass: The trailing slash that changes everything](https://dev.to/schiff_heimlich/nginx-proxypass-the-trailing-slash-that-changes-everything-47b3)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[KVM SR-IOV: intel_iommu=on is not SR-IOV until you create VFs](https://dev.to/sunshoutkernel/kvm-sr-iov-inteliommuon-is-not-sr-iov-until-you-create-vfs-2fbh)** — **5** 👍 · 0 💬
+* **[WebSockets Are the Easy Part](https://dev.to/devopsdaily/websockets-are-the-easy-part-3l90)** — **5** 👍 · 0 💬
+* **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
 * **[Building Malaaz: Decentralized Mesh Network Simulation & Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)** — **1** 👍 · 1 💬
-* **[Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-27T04:19:07.650650+00:00 -->
+<!-- Log-ID: 2026-08-27T22:51:33.371067+00:00 -->
