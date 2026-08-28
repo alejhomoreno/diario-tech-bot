@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-28 06:46 (UTC)
+📅 **Last Update:** 2026-08-28 22:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Migrating from Java to JavaScript/TypeScript? Here's how to map your stack](https://dev.to/sagar_kashyap_d20f1d5fa65/migrating-from-java-to-javascripttypescript-heres-how-to-map-your-stack-5f5m)** — **6** 👍 · 0 💬
-* **[AussomCraft - Safe Scripting for Minecraft Servers](https://dev.to/cup_of_code/aussomcraft-safe-scripting-for-minecraft-servers-2m4b)** — **5** 👍 · 2 💬
-* **[Making HTTP Fail on Purpose: Building a Small Chaos Library for Java - Flaky HTTP](https://dev.to/tapadyutichatterjee/making-http-fail-on-purpose-building-a-small-chaos-library-for-java-flaky-http-18ia)** — **1** 👍 · 0 💬
+* **[SQLite Across Every Port: One Contract, One Encrypted File Format](https://dev.to/codenameone/sqlite-across-every-port-one-contract-one-encrypted-file-format-2fmo)** — **5** 👍 · 0 💬
+* **[I Built a Small API Gateway With Real Production Problems — On Purpose](https://dev.to/ykpraveen/i-built-a-small-api-gateway-with-real-production-problems-on-purpose-2lhn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[From Code to Production: How Modern Developers Build and Deploy Applications 🚀☁️](https://dev.to/yash_sonawane25/from-code-to-production-how-modern-developers-build-and-deploy-applications-34m8)** — **6** 👍 · 0 💬
-* **[I Built a CLI to Answer One Question: What Will This Change Break?](https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o)** — **5** 👍 · 3 💬
-* **[I Wrote a Tool to Find Blind Spots. It Had One.](https://dev.to/onurkesim/i-wrote-a-tool-to-find-blind-spots-it-had-one-3il6)** — **5** 👍 · 2 💬
+* **[Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)** — **5** 👍 · 0 💬
+* **[Day 33: A Conflict Is Git Refusing to Guess, and Lambda's 200 Isn't the One That Matters](https://dev.to/ndcodes/day-33-a-conflict-is-git-refusing-to-guess-and-lambdas-200-isnt-the-one-that-matters-26nb)** — **5** 👍 · 0 💬
+* **[Why I built Baldur](https://dev.to/baldurhq/why-i-built-baldur-2g5j)** — **4** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
 * **[WebSockets Are the Easy Part](https://dev.to/devopsdaily/websockets-are-the-easy-part-3l90)** — **5** 👍 · 0 💬
 * **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
-* **[Building Malaaz: Decentralized Mesh Network Simulation & Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)** — **1** 👍 · 1 💬
+* **[The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7)** — **2** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-28T06:46:43.538157+00:00 -->
+<!-- Log-ID: 2026-08-28T22:55:27.781094+00:00 -->
