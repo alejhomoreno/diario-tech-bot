@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-28 01:56 (UTC)
+📅 **Last Update:** 2026-08-28 06:46 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Migrating from Java to JavaScript/TypeScript? Here's how to map your stack](https://dev.to/sagar_kashyap_d20f1d5fa65/migrating-from-java-to-javascripttypescript-heres-how-to-map-your-stack-5f5m)** — **6** 👍 · 0 💬
-* **[AussomCraft - Safe Scripting for Minecraft Servers](https://dev.to/cup_of_code/aussomcraft-safe-scripting-for-minecraft-servers-2m4b)** — **5** 👍 · 1 💬
-* **[Java Learning Series | Constructors, Methods & Method Overloading](https://dev.to/dev_saravanan_journey/java-learning-series-constructors-methods-method-overloading-1o9g)** — **2** 👍 · 0 💬
+* **[AussomCraft - Safe Scripting for Minecraft Servers](https://dev.to/cup_of_code/aussomcraft-safe-scripting-for-minecraft-servers-2m4b)** — **5** 👍 · 2 💬
+* **[Making HTTP Fail on Purpose: Building a Small Chaos Library for Java - Flaky HTTP](https://dev.to/tapadyutichatterjee/making-http-fail-on-purpose-building-a-small-chaos-library-for-java-flaky-http-18ia)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,7 +23,7 @@
 
 ## 🔖 Top Devops
 
-* **[The LLM Isn't Your Attacker. Your eval() Statement Is.](https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp)** — **6** 👍 · 2 💬
+* **[From Code to Production: How Modern Developers Build and Deploy Applications 🚀☁️](https://dev.to/yash_sonawane25/from-code-to-production-how-modern-developers-build-and-deploy-applications-34m8)** — **6** 👍 · 0 💬
 * **[I Built a CLI to Answer One Question: What Will This Change Break?](https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o)** — **5** 👍 · 3 💬
 * **[I Wrote a Tool to Find Blind Spots. It Had One.](https://dev.to/onurkesim/i-wrote-a-tool-to-find-blind-spots-it-had-one-3il6)** — **5** 👍 · 2 💬
 
@@ -33,4 +33,4 @@
 * **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
 * **[Building Malaaz: Decentralized Mesh Network Simulation & Signal Reconstruction](https://dev.to/mohamed_mansour25/building-malaaz-decentralized-mesh-network-simulation-signal-reconstruction-9jp)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-28T01:56:14.836999+00:00 -->
+<!-- Log-ID: 2026-08-28T06:46:43.538157+00:00 -->
