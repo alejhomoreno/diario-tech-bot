@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-29 17:00 (UTC)
+📅 **Last Update:** 2026-08-29 20:12 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Understanding Kubernetes: A Beginner's Guide to Container Orchestration](https://dev.to/bibekkakati/understanding-kubernetes-a-beginners-guide-to-container-orchestration-2dgo)** — **5** 👍 · 0 💬
-* **[Day 33: A Conflict Is Git Refusing to Guess, and Lambda's 200 Isn't the One That Matters](https://dev.to/ndcodes/day-33-a-conflict-is-git-refusing-to-guess-and-lambdas-200-isnt-the-one-that-matters-26nb)** — **5** 👍 · 0 💬
-* **[Why I built Baldur](https://dev.to/baldurhq/why-i-built-baldur-2g5j)** — **4** 👍 · 1 💬
+* **[I Built a P2P Messenger Without a Central Message Database — What I Learned About WebRTC, E2EE and Serverless Architecture](https://dev.to/nates670/i-built-a-p2p-messenger-without-a-central-message-database-what-i-learned-about-webrtc-e2ee-and-4jnl)** — **5** 👍 · 0 💬
+* **[Anthropic's AI-Native SDLC Has Three Controls. It's Missing a Fourth.](https://dev.to/mnemehq/anthropics-ai-native-sdlc-has-three-controls-its-missing-a-fourth-5254)** — **5** 👍 · 0 💬
+* **[A Stranger's Pull Request Almost Stole My Cloud Credentials. So Every CI Job Gets a Fresh microVM Now.](https://dev.to/dhruv_malaviya_cdcc71e595/a-strangers-pull-request-almost-stole-my-cloud-credentials-so-every-ci-job-gets-a-fresh-microvm-3a2b)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
 * **[The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7)** — **2** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-29T17:00:46.226495+00:00 -->
+<!-- Log-ID: 2026-08-29T20:12:15.795349+00:00 -->
