@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-30 01:06 (UTC)
+📅 **Last Update:** 2026-08-30 17:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Migrating from Java to JavaScript/TypeScript? Here's how to map your stack](https://dev.to/sagar_kashyap_d20f1d5fa65/migrating-from-java-to-javascripttypescript-heres-how-to-map-your-stack-5f5m)** — **6** 👍 · 0 💬
 * **[SQLite Across Every Port: One Contract, One Encrypted File Format](https://dev.to/codenameone/sqlite-across-every-port-one-contract-one-encrypted-file-format-2fmo)** — **5** 👍 · 0 💬
 * **[I Built a Small API Gateway With Real Production Problems — On Purpose](https://dev.to/ykpraveen/i-built-a-small-api-gateway-with-real-production-problems-on-purpose-2lhn)** — **1** 👍 · 0 💬
+* **[I Used the Wrong @Id Import in Spring Boot and MongoDB. It Worked Anyway](https://dev.to/sanjayfreak/i-used-the-wrong-id-import-in-spring-boot-and-mongodb-it-worked-anyway-gj3)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Built a P2P Messenger Without a Central Message Database — What I Learned About WebRTC, E2EE and Serverless Architecture](https://dev.to/nates670/i-built-a-p2p-messenger-without-a-central-message-database-what-i-learned-about-webrtc-e2ee-and-4jnl)** — **5** 👍 · 0 💬
-* **[Anthropic's AI-Native SDLC Has Three Controls. It's Missing a Fourth.](https://dev.to/mnemehq/anthropics-ai-native-sdlc-has-three-controls-its-missing-a-fourth-5254)** — **5** 👍 · 0 💬
-* **[A Stranger's Pull Request Almost Stole My Cloud Credentials. So Every CI Job Gets a Fresh microVM Now.](https://dev.to/dhruv_malaviya_cdcc71e595/a-strangers-pull-request-almost-stole-my-cloud-credentials-so-every-ci-job-gets-a-fresh-microvm-3a2b)** — **4** 👍 · 0 💬
+* **[My Commit Said "Stop Trusting the Receipt." That Is the Commit Where the Trusting Started.](https://dev.to/kenielzep97/my-commit-said-stop-trusting-the-receipt-that-is-the-commit-where-the-trusting-started-306j)** — **12** 👍 · 2 💬
+* **[Should I replace my VPS with a Mac mini?](https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448)** — **0** 👍 · 0 💬
+* **[A push credential had been broken for 40 days. The one commit it was blocking deleted a live file.](https://dev.to/ilya_mozerov_867dbdd91feb/a-push-credential-had-been-broken-for-40-days-the-one-commit-it-was-blocking-deleted-a-live-file-2fje)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
 * **[The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7)** — **2** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-30T01:06:43.540019+00:00 -->
+<!-- Log-ID: 2026-08-30T17:14:15.243085+00:00 -->
