@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-30 20:18 (UTC)
+📅 **Last Update:** 2026-08-31 01:06 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[SQLite Across Every Port: One Contract, One Encrypted File Format](https://dev.to/codenameone/sqlite-across-every-port-one-contract-one-encrypted-file-format-2fmo)** — **5** 👍 · 0 💬
+* **[Week 11 of #100DaysOfCode: Learning and Building Microservices with Spring Boot](https://dev.to/onatade_abdulmajeed/week-11-of-100daysofcode-learning-and-building-microservices-with-spring-boot-274e)** — **10** 👍 · 0 💬
 * **[I Built a Small API Gateway With Real Production Problems — On Purpose](https://dev.to/ykpraveen/i-built-a-small-api-gateway-with-real-production-problems-on-purpose-2lhn)** — **1** 👍 · 0 💬
-* **[I Used the Wrong @Id Import in Spring Boot and MongoDB. It Worked Anyway](https://dev.to/sanjayfreak/i-used-the-wrong-id-import-in-spring-boot-and-mongodb-it-worked-anyway-gj3)** — **1** 👍 · 0 💬
+* **[Vaadin: Building Modern Web UIs with Pure Java (2026-08-31 00:00)](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I Got Tired of Spam Calls, So I Built an AI Honeypot on Google Cloud](https://dev.to/adamm285/i-got-tired-of-spam-calls-so-i-built-an-ai-honeypot-on-google-cloud-556i)** — **0** 👍 · 0 💬
-* **[Should I replace my VPS with a Mac mini?](https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448)** — **0** 👍 · 0 💬
-* **[A push credential had been broken for 40 days. The one commit it was blocking deleted a live file.](https://dev.to/ilya_mozerov_867dbdd91feb/a-push-credential-had-been-broken-for-40-days-the-one-commit-it-was-blocking-deleted-a-live-file-2fje)** — **0** 👍 · 0 💬
+* **[Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)** — **1** 👍 · 2 💬
+* **[Android Developer Verification hits Brazil on September 30](https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856)** — **0** 👍 · 0 💬
+* **[A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.](https://dev.to/pm25coder/a-reader-calibrated-the-guards-threshold-the-next-reader-found-the-heartbeats-blind-spot-2nhi)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
 * **[The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7)** — **2** 👍 · 1 💬
 
-<!-- Log-ID: 2026-08-30T20:18:48.830087+00:00 -->
+<!-- Log-ID: 2026-08-31T01:06:52.913804+00:00 -->
