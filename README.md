@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-08-31 01:06 (UTC)
+📅 **Last Update:** 2026-08-31 19:25 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Week 11 of #100DaysOfCode: Learning and Building Microservices with Spring Boot](https://dev.to/onatade_abdulmajeed/week-11-of-100daysofcode-learning-and-building-microservices-with-spring-boot-274e)** — **10** 👍 · 0 💬
-* **[I Built a Small API Gateway With Real Production Problems — On Purpose](https://dev.to/ykpraveen/i-built-a-small-api-gateway-with-real-production-problems-on-purpose-2lhn)** — **1** 👍 · 0 💬
-* **[Vaadin: Building Modern Web UIs with Pure Java (2026-08-31 00:00)](https://dev.to/said_olano/vaadin-building-modern-web-uis-with-pure-java-2026-08-31-0000-2njh)** — **0** 👍 · 1 💬
+* **[Building RAG Applications with Spring AI: Connect LLMs to Your Own Data](https://dev.to/ayshriv/building-rag-applications-with-spring-ai-connect-llms-to-your-own-data-4bkc)** — **5** 👍 · 1 💬
+* **[JavaScript Find in Page: DOM Text Above the Codename One Canvas](https://dev.to/codenameone/javascript-find-in-page-dom-text-above-the-codename-one-canvas-41pj)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Running Coding Agents in Parallel with Git Worktrees](https://dev.to/servatj/running-coding-agents-in-parallel-with-git-worktrees-507i)** — **1** 👍 · 2 💬
-* **[Android Developer Verification hits Brazil on September 30](https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856)** — **0** 👍 · 0 💬
-* **[A reader calibrated the guard's threshold. The next reader found the heartbeat's blind spot.](https://dev.to/pm25coder/a-reader-calibrated-the-guards-threshold-the-next-reader-found-the-heartbeats-blind-spot-2nhi)** — **0** 👍 · 0 💬
+* **[Deploy What Changed: Nx affected + Cloud Run + Workload Identity Federation](https://dev.to/dalenguyen/deploy-what-changed-nx-affected-cloud-run-workload-identity-federation-3bmj)** — **5** 👍 · 1 💬
+* **[SOC 2, CRA, NIS2: they all ask your cluster the same five questions](https://dev.to/arifkurnaz/soc-2-cra-nis2-they-all-ask-your-cluster-the-same-five-questions-4169)** — **2** 👍 · 4 💬
+* **[J’ai mis un Agent Claude dans ma CI pendant 3 mois , voici ce qu’il a vraiment fait](https://dev.to/yves_michelfoyettchale_/jai-mis-un-agent-claude-dans-ma-ci-pendant-3-mois-voici-ce-quil-a-vraiment-fait-5518)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[WebSockets Are the Easy Part](https://dev.to/devopsdaily/websockets-are-the-easy-part-3l90)** — **5** 👍 · 0 💬
-* **[Understanding `dig`: How to Actually Read DNS Query Output](https://dev.to/r0men_/understanding-dig-how-to-actually-read-dns-query-output-4bld)** — **5** 👍 · 0 💬
-* **[The Art of Intentional Networking at Tech Conferences](https://dev.to/amandamayfield/the-art-of-intentional-networking-at-tech-conferences-39n7)** — **2** 👍 · 1 💬
+* **[Networking Fundamentals: The Thing Everyone Skips and Shouldn't](https://dev.to/dehemi_fabio/networking-fundamentals-the-thing-everyone-skips-and-shouldnt-5a0)** — **6** 👍 · 1 💬
+* **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
+* **[My Public IP Kept Changing While Connecting TablePlus to DigitalOcean - How I Fixed It](https://dev.to/tahsin000/my-public-ip-kept-changing-while-connecting-tableplus-to-digitalocean-heres-how-i-fixed-it-56f4)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-08-31T01:06:52.913804+00:00 -->
+<!-- Log-ID: 2026-08-31T19:25:25.825995+00:00 -->
