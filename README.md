@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-01 17:11 (UTC)
+📅 **Last Update:** 2026-09-01 20:19 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Week 11 of #100DaysOfCode: Learning and Building Microservices with Spring Boot](https://dev.to/onatade_abdulmajeed/week-11-of-100daysofcode-learning-and-building-microservices-with-spring-boot-274e)** — **10** 👍 · 0 💬
 * **[RAG Without the Hype: Make Retrieval Observable, Testable, and Replaceable](https://dev.to/tonal/rag-without-the-hype-make-retrieval-observable-testable-and-replaceable-gl0)** — **2** 👍 · 2 💬
 * **[Java 25 vs Java 27: Real Evolution or Just Hype?](https://dev.to/pabli44/java-25-vs-java-27-real-evolution-or-just-hype-43ep)** — **2** 👍 · 1 💬
+* **[Getter ,Setter in Java](https://dev.to/ezhil_abinayak_e38eec8fb/getter-setter-in-java-ocn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
+* **[How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)** — **10** 👍 · 0 💬
 * **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
 * **[My Public IP Kept Changing While Connecting TablePlus to DigitalOcean - How I Fixed It](https://dev.to/tahsin000/my-public-ip-kept-changing-while-connecting-tableplus-to-digitalocean-heres-how-i-fixed-it-56f4)** — **5** 👍 · 0 💬
-* **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-01T17:11:56.886667+00:00 -->
+<!-- Log-ID: 2026-09-01T20:19:30.942170+00:00 -->
