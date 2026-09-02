@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-01 20:19 (UTC)
+📅 **Last Update:** 2026-09-02 00:50 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Migrating Legacy LLM Infrastructure to an AI Gateway](https://dev.to/copyleftdev/migrating-legacy-llm-infrastructure-to-an-ai-gateway-27hl)** — **6** 👍 · 0 💬
-* **[Containerized Full-Stack Application using Docker, Nuxt 4, and Symfony 7.4](https://dev.to/johndivam/containerized-full-stack-application-using-docker-nuxt-4-and-symfony-74-4ei4)** — **5** 👍 · 0 💬
-* **[Shipping a binary 4 days late, honestly](https://dev.to/mahirhir/shipping-a-binary-4-days-late-honestly-2bcb)** — **5** 👍 · 0 💬
+* **[Day 34: A Hook That Cannot Fail, and an Error Three Commands From Its Cause](https://dev.to/ndcodes/day-34-a-hook-that-cannot-fail-and-an-error-three-commands-from-its-cause-13oi)** — **5** 👍 · 1 💬
+* **[# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story](https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi)** — **5** 👍 · 0 💬
+* **[Who watches the watchdog? The boring work behind a monitoring SaaS](https://dev.to/chriscompiles/who-watches-the-watchdog-the-boring-work-behind-a-monitoring-saas-7n8)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
 * **[My Public IP Kept Changing While Connecting TablePlus to DigitalOcean - How I Fixed It](https://dev.to/tahsin000/my-public-ip-kept-changing-while-connecting-tableplus-to-digitalocean-heres-how-i-fixed-it-56f4)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-01T20:19:30.942170+00:00 -->
+<!-- Log-ID: 2026-09-02T00:50:51.812603+00:00 -->
