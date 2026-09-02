@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-02 00:50 (UTC)
+📅 **Last Update:** 2026-09-02 17:02 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Tapjacking Protection: Rejecting Android Touches Behind an Overlay](https://dev.to/codenameone/tapjacking-protection-rejecting-android-touches-behind-an-overlay-4h0b)** — **5** 👍 · 0 💬
 * **[RAG Without the Hype: Make Retrieval Observable, Testable, and Replaceable](https://dev.to/tonal/rag-without-the-hype-make-retrieval-observable-testable-and-replaceable-gl0)** — **2** 👍 · 2 💬
-* **[Java 25 vs Java 27: Real Evolution or Just Hype?](https://dev.to/pabli44/java-25-vs-java-27-real-evolution-or-just-hype-43ep)** — **2** 👍 · 1 💬
-* **[Getter ,Setter in Java](https://dev.to/ezhil_abinayak_e38eec8fb/getter-setter-in-java-ocn)** — **1** 👍 · 0 💬
+* **[Valhala: desmistificando uma das features mais aguardadas](https://dev.to/b3o_b8o/valhala-desmistificando-uma-das-features-mais-aguardadas-do-java-26-323j)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Day 34: A Hook That Cannot Fail, and an Error Three Commands From Its Cause](https://dev.to/ndcodes/day-34-a-hook-that-cannot-fail-and-an-error-three-commands-from-its-cause-13oi)** — **5** 👍 · 1 💬
-* **[# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story](https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi)** — **5** 👍 · 0 💬
-* **[Who watches the watchdog? The boring work behind a monitoring SaaS](https://dev.to/chriscompiles/who-watches-the-watchdog-the-boring-work-behind-a-monitoring-saas-7n8)** — **5** 👍 · 0 💬
+* **[My AI Gateway Added 400ms to Every Request. Here's Where It Went](https://dev.to/devstackhub/my-ai-gateway-added-400ms-to-every-request-heres-where-it-went-2fkp)** — **7** 👍 · 1 💬
+* **[Postgres Said Too Many Clients While Sitting at 40% CPU](https://dev.to/rbonweb/postgres-said-too-many-clients-while-sitting-at-40-cpu-2if9)** — **7** 👍 · 1 💬
+* **[My CI has been red for 18 days. It never started a single job.](https://dev.to/mahirhir/my-ci-has-been-red-for-18-days-it-never-started-a-single-job-2o20)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)** — **10** 👍 · 0 💬
+* **[How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)** — **25** 👍 · 0 💬
 * **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
-* **[My Public IP Kept Changing While Connecting TablePlus to DigitalOcean - How I Fixed It](https://dev.to/tahsin000/my-public-ip-kept-changing-while-connecting-tableplus-to-digitalocean-heres-how-i-fixed-it-56f4)** — **5** 👍 · 0 💬
+* **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-02T00:50:51.812603+00:00 -->
+<!-- Log-ID: 2026-09-02T17:02:46.352085+00:00 -->
