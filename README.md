@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-03 00:57 (UTC)
+📅 **Last Update:** 2026-09-03 16:57 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Tapjacking Protection: Rejecting Android Touches Behind an Overlay](https://dev.to/codenameone/tapjacking-protection-rejecting-android-touches-behind-an-overlay-4h0b)** — **5** 👍 · 0 💬
-* **[RAG Without the Hype: Make Retrieval Observable, Testable, and Replaceable](https://dev.to/tonal/rag-without-the-hype-make-retrieval-observable-testable-and-replaceable-gl0)** — **2** 👍 · 2 💬
-* **[Valhala: desmistificando uma das features mais aguardadas](https://dev.to/b3o_b8o/valhala-desmistificando-uma-das-features-mais-aguardadas-do-java-26-323j)** — **0** 👍 · 0 💬
+* **[CodeScanner.scan(): Barcode Scanning Without Rebuilding the Camera Pipeline](https://dev.to/codenameone/codescannerscan-barcode-scanning-without-rebuilding-the-camera-pipeline-30pm)** — **5** 👍 · 0 💬
+* **[Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)** — **3** 👍 · 0 💬
+* **[Liquibase: Git for Databases (with Spring Boot)](https://dev.to/amanjotsingh/liquibase-git-for-databases-with-spring-boot-1ic0)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[My AI Gateway Added 400ms to Every Request. Here's Where It Went](https://dev.to/devstackhub/my-ai-gateway-added-400ms-to-every-request-heres-where-it-went-2fkp)** — **17** 👍 · 5 💬
-* **[🌟 The CI Gate Rejected the Terraform Change—but the LLM Still Ran](https://dev.to/pravesh_sudha_3c2b0c2b5e0/the-ci-gate-rejected-the-terraform-change-but-the-llm-still-ran-3hfg)** — **8** 👍 · 0 💬
-* **[Who watches the watchdog? The boring work behind a monitoring SaaS](https://dev.to/chriscompiles/who-watches-the-watchdog-the-boring-work-behind-a-monitoring-saas-7n8)** — **5** 👍 · 0 💬
+* **[I build a tool that says don't trust self-report. Then I trusted mine seven times in one day](https://dev.to/mahirhir/i-build-a-tool-that-says-dont-trust-self-report-then-i-trusted-mine-seven-times-in-one-day-2phh)** — **9** 👍 · 0 💬
+* **[Nomad vs Kubernetes: When You Don't Need the Cluster](https://dev.to/andriiboyko/nomad-vs-kubernetes-when-you-dont-need-the-cluster-410n)** — **7** 👍 · 1 💬
+* **[My editor's background linter filled the one drive I had left, 341GB at a time](https://dev.to/mahirhir/my-editors-background-linter-filled-the-one-drive-i-had-left-341gb-at-a-time-1cic)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How the internet actually works, and why nobody is in charge of it](https://dev.to/lovestaco/how-the-internet-actually-works-and-why-nobody-is-in-charge-of-it-3im8)** — **25** 👍 · 0 💬
 * **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
 * **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
+* **[Networking Machinery for Software Engineers Part 2: Extending The Empire and Rebuilding a Global Network](https://dev.to/dmytro_huz/networking-machinery-for-software-engineers-part-2-extending-the-empire-and-rebuilding-a-global-39jc)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-03T00:57:57.686302+00:00 -->
+<!-- Log-ID: 2026-09-03T16:57:27.574750+00:00 -->
