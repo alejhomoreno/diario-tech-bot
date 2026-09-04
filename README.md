@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-04 00:48 (UTC)
+📅 **Last Update:** 2026-09-04 16:46 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Installing Apache Tomcat on Ubuntu 24.04](https://dev.to/vultr/installing-apache-tomcat-on-ubuntu-2404-25k3)** — **6** 👍 · 0 💬
+* **[App Intents: One Java Declaration for Siri, Spotlight, and Shortcuts](https://dev.to/codenameone/app-intents-one-java-declaration-for-siri-spotlight-and-shortcuts-fdi)** — **5** 👍 · 1 💬
 * **[CodeScanner.scan(): Barcode Scanning Without Rebuilding the Camera Pipeline](https://dev.to/codenameone/codescannerscan-barcode-scanning-without-rebuilding-the-camera-pipeline-30pm)** — **5** 👍 · 0 💬
-* **[Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The extraction returned zero memories, and nothing screamed](https://dev.to/pm25coder/the-extraction-returned-zero-memories-and-nothing-screamed-3c7c)** — **10** 👍 · 19 💬
-* **[Installing Apache Airflow on Ubuntu 24.04](https://dev.to/vultr/installing-apache-airflow-on-ubuntu-2404-46o7)** — **6** 👍 · 0 💬
-* **[Installing Longhorn on Kubernetes](https://dev.to/vultr/installing-longhorn-on-kubernetes-7kc)** — **6** 👍 · 0 💬
+* **[Stop Building AI Agents. Start Building AI Systems.](https://dev.to/jaideepparashar/stop-building-ai-agents-start-building-ai-systems-5hda)** — **6** 👍 · 0 💬
+* **[🚀 Delivery Practices a Software Team Actually Needs](https://dev.to/zenika/delivery-practices-a-software-team-actually-needs-57gl)** — **5** 👍 · 0 💬
+* **[Your Health Check Is Lying to You](https://dev.to/mickyarun/your-health-check-is-lying-to-you-58cc)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Installing FreeRADIUS with PostgreSQL](https://dev.to/vultr/installing-freeradius-with-postgresql-3f39)** — **5** 👍 · 0 💬
 * **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-04T00:48:58.231288+00:00 -->
+<!-- Log-ID: 2026-09-04T16:46:02.731033+00:00 -->
