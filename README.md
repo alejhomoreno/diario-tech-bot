@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-05 15:50 (UTC)
+📅 **Last Update:** 2026-09-05 19:44 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Put App Documents in the System File Browser](https://dev.to/codenameone/put-app-documents-in-the-system-file-browser-2lo4)** — **5** 👍 · 0 💬
 * **[One App, More Than One Native Window](https://dev.to/codenameone/one-app-more-than-one-native-window-3dm1)** — **5** 👍 · 0 💬
 * **[CodeScanner.scan(): Barcode Scanning Without Rebuilding the Camera Pipeline](https://dev.to/codenameone/codescannerscan-barcode-scanning-without-rebuilding-the-camera-pipeline-30pm)** — **5** 👍 · 0 💬
-* **[Conditional annotations (@ConditionalOnClass / OnMissingBean ...)](https://dev.to/ankit_verma_e2fa7fb2aa95d/conditional-annotations-conditionalonclass-onmissingbean--2j7a)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[I trained my AI agent to burn less money. Here's what actually worked.](https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn)** — **5** 👍 · 4 💬
 * **[Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)** — **4** 👍 · 1 💬
-* **[A coding assistant drafted my Nginx config. Here’s what I still had to verify](https://dev.to/aardnsyhs/a-coding-assistant-drafted-my-nginx-config-heres-what-i-still-had-to-verify-2e4j)** — **2** 👍 · 2 💬
+* **[How I Cleaned Up 247 Stale Feature Flags With Claude Code](https://dev.to/yureki_lab/how-i-cleaned-up-247-stale-feature-flags-with-claude-code-39jg)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Installing FreeRADIUS with PostgreSQL](https://dev.to/vultr/installing-freeradius-with-postgresql-3f39)** — **5** 👍 · 0 💬
 * **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-05T15:50:22.271629+00:00 -->
+<!-- Log-ID: 2026-09-05T19:44:07.815836+00:00 -->
