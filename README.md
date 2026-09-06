@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-06 00:37 (UTC)
+📅 **Last Update:** 2026-09-06 16:01 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Put App Documents in the System File Browser](https://dev.to/codenameone/put-app-documents-in-the-system-file-browser-2lo4)** — **5** 👍 · 0 💬
+* **[Put App Documents in the System File Browser](https://dev.to/codenameone/put-app-documents-in-the-system-file-browser-2lo4)** — **5** 👍 · 1 💬
 * **[One App, More Than One Native Window](https://dev.to/codenameone/one-app-more-than-one-native-window-3dm1)** — **5** 👍 · 0 💬
-* **[CodeScanner.scan(): Barcode Scanning Without Rebuilding the Camera Pipeline](https://dev.to/codenameone/codescannerscan-barcode-scanning-without-rebuilding-the-camera-pipeline-30pm)** — **5** 👍 · 0 💬
+* **[Online Voting System in my facing challenges.....](https://dev.to/abineshrajendiran/online-voting-system-in-my-facing-challenges-with-answer-pmh)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Your average latency is lying to you: p90, p95 and p99 explained](https://dev.to/lovestaco/your-average-latency-is-lying-to-you-p90-p95-and-p99-explained-48b)** — **6** 👍 · 2 💬
-* **[Managing Multiple GitHub Accounts with GitHub Codespaces Without Constant CLI Context Switching](https://dev.to/nirbhay_hiwse/managing-multiple-github-accounts-with-github-codespaces-without-constant-cli-context-switching-3210)** — **5** 👍 · 1 💬
-* **[git commit with a pathspec ignored my index and committed the file as it sat on disk](https://dev.to/mahirhir/git-commit-with-a-pathspec-ignored-my-index-and-committed-the-file-as-it-sat-on-disk-262g)** — **5** 👍 · 0 💬
+* **[Why Your DevOps Projects Fail: 7 Mistakes Beginners Make](https://dev.to/yash_sonawane25/why-your-devops-projects-fail-7-mistakes-beginners-make-55i3)** — **5** 👍 · 1 💬
+* **[Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)** — **2** 👍 · 3 💬
+* **[Your AI Coding Agent Will Run Whatever a Stranger's Repo Tells It To](https://dev.to/coridev/your-ai-coding-agent-will-run-whatever-a-strangers-repo-tells-it-to-4kb9)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)** — **11** 👍 · 1 💬
 * **[A Slow Wi-Fi Connection Led Me to Maintain an Abandoned Network Tool](https://dev.to/davidson_rafael/a-slow-wi-fi-connection-led-me-to-maintain-an-abandoned-network-tool-3jmg)** — **8** 👍 · 0 💬
-* **[Installing FreeRADIUS with PostgreSQL](https://dev.to/vultr/installing-freeradius-with-postgresql-3f39)** — **6** 👍 · 0 💬
-* **[Putting GitHub Actions runners on your private network with NetBird](https://dev.to/ankurk91/putting-github-actions-runners-on-your-private-network-with-netbird-3hcg)** — **4** 👍 · 0 💬
+* **[Day 36: A Running Container Is Not a Published One, and an ALB Needs a Listener](https://dev.to/ndcodes/day-36-a-running-container-is-not-a-published-one-and-an-alb-needs-a-listener-2jh3)** — **7** 👍 · 2 💬
 
-<!-- Log-ID: 2026-09-06T00:37:05.831385+00:00 -->
+<!-- Log-ID: 2026-09-06T16:01:05.635751+00:00 -->
