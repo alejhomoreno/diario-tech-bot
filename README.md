@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-05 19:44 (UTC)
+📅 **Last Update:** 2026-09-06 00:37 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I trained my AI agent to burn less money. Here's what actually worked.](https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn)** — **5** 👍 · 4 💬
-* **[Deploy to EC2 from GitHub Actions without opening port 22](https://dev.to/ankurk91/deploy-to-ec2-from-github-actions-without-opening-port-22-5269)** — **4** 👍 · 1 💬
-* **[How I Cleaned Up 247 Stale Feature Flags With Claude Code](https://dev.to/yureki_lab/how-i-cleaned-up-247-stale-feature-flags-with-claude-code-39jg)** — **1** 👍 · 0 💬
+* **[Your average latency is lying to you: p90, p95 and p99 explained](https://dev.to/lovestaco/your-average-latency-is-lying-to-you-p90-p95-and-p99-explained-48b)** — **6** 👍 · 2 💬
+* **[Managing Multiple GitHub Accounts with GitHub Codespaces Without Constant CLI Context Switching](https://dev.to/nirbhay_hiwse/managing-multiple-github-accounts-with-github-codespaces-without-constant-cli-context-switching-3210)** — **5** 👍 · 1 💬
+* **[git commit with a pathspec ignored my index and committed the file as it sat on disk](https://dev.to/mahirhir/git-commit-with-a-pathspec-ignored-my-index-and-committed-the-file-as-it-sat-on-disk-262g)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[O que é HTTP/3 (QUIC) e qual seu impacto nas suas APIs](https://dev.to/lucas_ferreira/o-que-e-http3-quic-e-qual-seu-impacto-nas-suas-apis-nnh)** — **5** 👍 · 1 💬
-* **[Installing FreeRADIUS with PostgreSQL](https://dev.to/vultr/installing-freeradius-with-postgresql-3f39)** — **5** 👍 · 0 💬
-* **[HTTP/3 (QUIC): Pengertian dan Dampaknya pada API Anda](https://dev.to/walse/http3-quic-pengertian-dan-dampaknya-pada-api-anda-21a0)** — **3** 👍 · 1 💬
+* **[A Slow Wi-Fi Connection Led Me to Maintain an Abandoned Network Tool](https://dev.to/davidson_rafael/a-slow-wi-fi-connection-led-me-to-maintain-an-abandoned-network-tool-3jmg)** — **8** 👍 · 0 💬
+* **[Installing FreeRADIUS with PostgreSQL](https://dev.to/vultr/installing-freeradius-with-postgresql-3f39)** — **6** 👍 · 0 💬
+* **[Putting GitHub Actions runners on your private network with NetBird](https://dev.to/ankurk91/putting-github-actions-runners-on-your-private-network-with-netbird-3hcg)** — **4** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-05T19:44:07.815836+00:00 -->
+<!-- Log-ID: 2026-09-06T00:37:05.831385+00:00 -->
