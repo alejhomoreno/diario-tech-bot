@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-07 00:43 (UTC)
+📅 **Last Update:** 2026-09-07 18:08 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)** — **5** 👍 · 0 💬
+* **[Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)** — **17** 👍 · 1 💬
 * **[UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)** — **5** 👍 · 0 💬
 * **[Week 12 of #100DaysOfCode: Exploring Spring Cloud and Microservices Infrastructure](https://dev.to/onatade_abdulmajeed/week-12-of-100daysofcode-exploring-spring-cloud-and-microservices-infrastructure-3neo)** — **5** 👍 · 0 💬
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Why Your DevOps Projects Fail: 7 Mistakes Beginners Make](https://dev.to/yash_sonawane25/why-your-devops-projects-fail-7-mistakes-beginners-make-55i3)** — **6** 👍 · 1 💬
-* **[Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)** — **2** 👍 · 3 💬
-* **[Cloud in a Bottle vs Coolify: Which One Should Actually Host Your Personal Cloud?](https://dev.to/jamilxt/cloud-in-a-bottle-vs-coolify-which-one-should-actually-host-your-personal-cloud-pmh)** — **1** 👍 · 0 💬
+* **[Comparing Open-Source LLM Gateways in 2026 to Run Enterprise AI at Scale](https://dev.to/elsie-rainee/comparing-open-source-llm-gateways-in-2026-to-run-enterprise-ai-at-scale-4h4p)** — **16** 👍 · 4 💬
+* **[Nobody Checks Whether the Guardrail Is Running](https://dev.to/mickyarun/nobody-checks-whether-the-guardrail-is-running-3ng)** — **7** 👍 · 1 💬
+* **[SSH, Actually Explained: Handshakes, Keys, and the Tunnel Trick](https://dev.to/lovestaco/ssh-actually-explained-handshakes-keys-and-the-tunnel-trick-48bf)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)** — **18** 👍 · 3 💬
-* **[A Slow Wi-Fi Connection Led Me to Maintain an Abandoned Network Tool](https://dev.to/davidson_rafael/a-slow-wi-fi-connection-led-me-to-maintain-an-abandoned-network-tool-3jmg)** — **8** 👍 · 0 💬
-* **[Networking Protocols: The Rules That Actually Run the Internet](https://dev.to/dehemi_fabio/networking-protocols-the-rules-that-actually-run-the-internet-3jk6)** — **5** 👍 · 0 💬
+* **[SSH, Actually Explained: Handshakes, Keys, and the Tunnel Trick](https://dev.to/lovestaco/ssh-actually-explained-handshakes-keys-and-the-tunnel-trick-48bf)** — **5** 👍 · 0 💬
+* **[Sniffnet: How Much Traffic Are My AI Agents Generating Behind My Back](https://dev.to/jtorchia/sniffnet-how-much-traffic-are-my-ai-agents-generating-behind-my-back-5gn0)** — **1** 👍 · 0 💬
+* **[What Is a Man-in-the-Middle Attack? How Does TLS Stop It?](https://dev.to/aditya_d_sharma/what-is-a-man-in-the-middle-attack-how-does-tls-stop-it-hkk)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-07T00:43:13.166382+00:00 -->
+<!-- Log-ID: 2026-09-07T18:08:13.679306+00:00 -->
