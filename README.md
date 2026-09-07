@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-06 19:47 (UTC)
+📅 **Last Update:** 2026-09-07 00:43 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Remembering Why We Code: Dropping AI for Fundamental Learning](https://dev.to/annavi11arrea1/remembering-why-we-code-dropping-ai-for-fundamental-learning-4868)** — **5** 👍 · 0 💬
 * **[UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)** — **5** 👍 · 0 💬
-* **[One App, More Than One Native Window](https://dev.to/codenameone/one-app-more-than-one-native-window-3dm1)** — **5** 👍 · 0 💬
-* **[Online Voting System in my facing challenges.....](https://dev.to/abineshrajendiran/online-voting-system-in-my-facing-challenges-with-answer-pmh)** — **1** 👍 · 0 💬
+* **[Week 12 of #100DaysOfCode: Exploring Spring Cloud and Microservices Infrastructure](https://dev.to/onatade_abdulmajeed/week-12-of-100daysofcode-exploring-spring-cloud-and-microservices-infrastructure-3neo)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
-* **[Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)** — **17** 👍 · 3 💬
+* **[Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)** — **18** 👍 · 3 💬
 * **[A Slow Wi-Fi Connection Led Me to Maintain an Abandoned Network Tool](https://dev.to/davidson_rafael/a-slow-wi-fi-connection-led-me-to-maintain-an-abandoned-network-tool-3jmg)** — **8** 👍 · 0 💬
-* **[Day 36: A Running Container Is Not a Published One, and an ALB Needs a Listener](https://dev.to/ndcodes/day-36-a-running-container-is-not-a-published-one-and-an-alb-needs-a-listener-2jh3)** — **7** 👍 · 2 💬
+* **[Networking Protocols: The Rules That Actually Run the Internet](https://dev.to/dehemi_fabio/networking-protocols-the-rules-that-actually-run-the-internet-3jk6)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-06T19:47:37.674169+00:00 -->
+<!-- Log-ID: 2026-09-07T00:43:13.166382+00:00 -->
