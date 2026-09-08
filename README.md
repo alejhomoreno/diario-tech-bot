@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-08 00:56 (UTC)
+📅 **Last Update:** 2026-09-08 17:06 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Kubernetes can resize your pod without a restart. Your app might not notice.](https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c)** — **7** 👍 · 0 💬
 * **[UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)** — **5** 👍 · 0 💬
-* **[Week 12 of #100DaysOfCode: Exploring Spring Cloud and Microservices Infrastructure](https://dev.to/onatade_abdulmajeed/week-12-of-100daysofcode-exploring-spring-cloud-and-microservices-infrastructure-3neo)** — **5** 👍 · 0 💬
-* **[Vector Databases: The Foundation of Modern AI Applications](https://dev.to/said_olano/vector-databases-the-foundation-of-modern-ai-applications-3058)** — **0** 👍 · 2 💬
+* **[Strategy Pattern em Java: Isolando Regras de Cálculo Fiscal em um Sistema B2B](https://dev.to/leticiareizz/strategy-pattern-em-java-isolando-regras-de-calculo-fiscal-em-um-sistema-b2b-2h4j)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[SSH, Actually Explained: Handshakes, Keys, and the Tunnel Trick](https://dev.to/lovestaco/ssh-actually-explained-handshakes-keys-and-the-tunnel-trick-48bf)** — **11** 👍 · 0 💬
-* **[Nobody Checks Whether the Guardrail Is Running](https://dev.to/mickyarun/nobody-checks-whether-the-guardrail-is-running-3ng)** — **9** 👍 · 6 💬
-* **[The Developer Who Can Explain the System Will Outlast the Developer Who Only Builds](https://dev.to/chizurumchidimma/the-developer-who-can-explain-the-system-will-outlast-the-developer-who-only-builds-1ib8)** — **5** 👍 · 0 💬
+* **[Stop rebuilding from scratch: cache Docker layers on Cloud Build](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0)** — **8** 👍 · 0 💬
+* **[Kubernetes can resize your pod without a restart. Your app might not notice.](https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c)** — **7** 👍 · 0 💬
+* **[You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had](https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[SSH, Actually Explained: Handshakes, Keys, and the Tunnel Trick](https://dev.to/lovestaco/ssh-actually-explained-handshakes-keys-and-the-tunnel-trick-48bf)** — **5** 👍 · 0 💬
-* **[Sniffnet: How Much Traffic Are My AI Agents Generating Behind My Back](https://dev.to/jtorchia/sniffnet-how-much-traffic-are-my-ai-agents-generating-behind-my-back-5gn0)** — **1** 👍 · 0 💬
-* **[What Is a Man-in-the-Middle Attack? How Does TLS Stop It?](https://dev.to/aditya_d_sharma/what-is-a-man-in-the-middle-attack-how-does-tls-stop-it-hkk)** — **1** 👍 · 0 💬
+* **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **11** 👍 · 0 💬
+* **[Building My CCNA Packet Tracer Lab Collection](https://dev.to/abderaouf-b/building-my-ccna-packet-tracer-lab-collection-15fd)** — **1** 👍 · 1 💬
+* **[The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-08T00:56:03.266598+00:00 -->
+<!-- Log-ID: 2026-09-08T17:06:41.696731+00:00 -->
