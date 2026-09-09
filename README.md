@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-09 01:03 (UTC)
+📅 **Last Update:** 2026-09-09 17:03 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Kubernetes can resize your pod without a restart. Your app might not notice.](https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c)** — **7** 👍 · 0 💬
+* **[Watch Follow-Through: Complications, Tiles, and a Companion Wear APK](https://dev.to/codenameone/watch-follow-through-complications-tiles-and-a-companion-wear-apk-1dk2)** — **5** 👍 · 0 💬
 * **[UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)** — **5** 👍 · 0 💬
-* **[Java Learning Series - Product Management System](https://dev.to/dev_saravanan_journey/java-learning-series-product-management-system-68c)** — **2** 👍 · 1 💬
+* **[We Wrote a JSON Parser from Scratch in 72 Hours to Prove We Still Could](https://dev.to/devanshkant/we-wrote-a-json-parser-from-scratch-in-72-hours-to-prove-we-still-could-29on)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Stop rebuilding from scratch: cache Docker layers on Cloud Build](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0)** — **9** 👍 · 0 💬
-* **[This Is How I Built a Self-Healing CI Pipeline With Agents!](https://dev.to/pavanbelagatti/this-is-how-i-built-a-self-healing-ci-pipeline-with-agentic-ai-51ec)** — **6** 👍 · 0 💬
-* **[You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had](https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7)** — **5** 👍 · 0 💬
+* **[I let a model suggest Postgres indexes, then made the database mark its work](https://dev.to/remdore/i-let-a-model-suggest-postgres-indexes-then-made-the-database-mark-its-work-2a4c)** — **13** 👍 · 3 💬
+* **[Postgres 19's REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)** — **11** 👍 · 0 💬
+* **[Git's repack --drop-filtered reclaims the disk a partial clone quietly took back](https://dev.to/remdore/gits-repack-drop-filtered-reclaims-the-disk-a-partial-clone-quietly-took-back-3bk2)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **14** 👍 · 0 💬
-* **[The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n)** — **2** 👍 · 0 💬
-* **[Building My CCNA Packet Tracer Lab Collection](https://dev.to/abderaouf-b/building-my-ccna-packet-tracer-lab-collection-15fd)** — **1** 👍 · 1 💬
+* **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **19** 👍 · 5 💬
+* **[How Netflix Ships a Third of the Internet: The CDN They Had to Build](https://dev.to/devopsdaily/how-netflix-ships-a-third-of-the-internet-the-cdn-they-had-to-build-7p5)** — **5** 👍 · 0 💬
+* **[I Wasn’t Supposed to Be in That Computer Lab — But That’s Where Everything Changed](https://dev.to/beshoy2khalil/i-wasnt-supposed-to-be-in-that-computer-lab-but-thats-where-everything-changed-4mib)** — **1** 👍 · 3 💬
 
-<!-- Log-ID: 2026-09-09T01:03:39.374730+00:00 -->
+<!-- Log-ID: 2026-09-09T17:03:21.193545+00:00 -->
