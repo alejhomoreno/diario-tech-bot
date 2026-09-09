@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-08 20:30 (UTC)
+📅 **Last Update:** 2026-09-09 01:03 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Stop rebuilding from scratch: cache Docker layers on Cloud Build](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0)** — **8** 👍 · 0 💬
-* **[Kubernetes can resize your pod without a restart. Your app might not notice.](https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c)** — **7** 👍 · 0 💬
+* **[Stop rebuilding from scratch: cache Docker layers on Cloud Build](https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0)** — **9** 👍 · 0 💬
+* **[This Is How I Built a Self-Healing CI Pipeline With Agents!](https://dev.to/pavanbelagatti/this-is-how-i-built-a-self-healing-ci-pipeline-with-agentic-ai-51ec)** — **6** 👍 · 0 💬
 * **[You Don't Need Kubernetes to Become a DevOps Engineer: The Learning Path I Wish I Had](https://dev.to/arbythecoder/you-dont-need-kubernetes-to-become-a-devops-engineer-the-learning-path-i-wish-i-had-3gh7)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **11** 👍 · 0 💬
-* **[Networking is Hard but easy to think about.](https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1)** — **9** 👍 · 3 💬
+* **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **14** 👍 · 0 💬
 * **[The Cable Buys Headroom: 91% of a USB 2.0 Bus, 3.6% of a Thunderbolt One](https://dev.to/gde/the-cable-buys-headroom-91-of-a-usb-20-bus-36-of-a-thunderbolt-one-563n)** — **2** 👍 · 0 💬
+* **[Building My CCNA Packet Tracer Lab Collection](https://dev.to/abderaouf-b/building-my-ccna-packet-tracer-lab-collection-15fd)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-08T20:30:31.877104+00:00 -->
+<!-- Log-ID: 2026-09-09T01:03:39.374730+00:00 -->
