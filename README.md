@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-09 20:13 (UTC)
+📅 **Last Update:** 2026-09-10 00:52 (UTC)
 
 ---
 
@@ -25,12 +25,12 @@
 
 * **[I let a model suggest Postgres indexes, then made the database mark its work](https://dev.to/remdore/i-let-a-model-suggest-postgres-indexes-then-made-the-database-mark-its-work-2a4c)** — **14** 👍 · 3 💬
 * **[Postgres 19's REPACK rewrites a bloated table without locking out your writers](https://dev.to/remdore/postgres-19s-repack-rewrites-a-bloated-table-without-locking-out-your-writers-2ep0)** — **12** 👍 · 0 💬
-* **[Gate Your Terraform Plans: Rules Decide, the Model Explains](https://dev.to/devopsdaily/gate-your-terraform-plans-rules-decide-the-model-explains-125g)** — **5** 👍 · 0 💬
+* **[Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[What Happens When You Type a URL: Answer It With Three Interactive Simulators](https://dev.to/devopsdaily/what-happens-when-you-type-a-url-answer-it-with-three-interactive-simulators-44c0)** — **19** 👍 · 5 💬
-* **[How Netflix Ships a Third of the Internet: The CDN They Had to Build](https://dev.to/devopsdaily/how-netflix-ships-a-third-of-the-internet-the-cdn-they-had-to-build-7p5)** — **5** 👍 · 0 💬
 * **[I Wasn’t Supposed to Be in That Computer Lab — But That’s Where Everything Changed](https://dev.to/beshoy2khalil/i-wasnt-supposed-to-be-in-that-computer-lab-but-thats-where-everything-changed-4mib)** — **1** 👍 · 3 💬
+* **[THE DARK SIDE OF DNS: WEAPONIZING RECURSIVE RESOLVERS FOR STEALTH DATA EXFILTRATION](https://dev.to/njenga_nganga_00063bc67/the-dark-side-of-dns-weaponizing-recursive-resolvers-for-stealth-data-exfiltration-85g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-09T20:13:12.403994+00:00 -->
+<!-- Log-ID: 2026-09-10T00:52:28.095312+00:00 -->
