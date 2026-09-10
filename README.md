@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-10 16:54 (UTC)
+📅 **Last Update:** 2026-09-10 20:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)** — **5** 👍 · 0 💬
-* **[Strategy Pattern em Java: Isolando Regras de Cálculo Fiscal em um Sistema B2B](https://dev.to/leticiareizz/strategy-pattern-em-java-isolando-regras-de-calculo-fiscal-em-um-sistema-b2b-2h4j)** — **2** 👍 · 0 💬
+* **[Build Hints That Fail Before the Build Server](https://dev.to/codenameone/build-hints-that-fail-before-the-build-server-3c6o)** — **5** 👍 · 1 💬
+* **[Java Learning Series - Updated Product Management System](https://dev.to/dev_saravanan_journey/java-learning-series-updated-product-management-system-3d5c)** — **2** 👍 · 0 💬
 * **[Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2)** — **8** 👍 · 1 💬
-* **[22 horas de um honeypot SSH: o que a internet faz com uma porta 22 aberta](https://dev.to/mensonones/22-horas-de-um-honeypot-ssh-o-que-a-internet-faz-com-uma-porta-22-aberta-555j)** — **2** 👍 · 1 💬
-* **[MCP, Context, and Agents: Building the AI-Native SDLC](https://dev.to/chris-faraglia/mcp-context-and-agents-building-the-ai-native-sdlc-b7i)** — **1** 👍 · 0 💬
+* **[Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2)** — **8** 👍 · 2 💬
+* **[Day 38: A Tag Is a Name, Not a Copy, and RUNNING Is Not Reachable](https://dev.to/ndcodes/day-38-a-tag-is-a-name-not-a-copy-and-running-is-not-reachable-19op)** — **2** 👍 · 0 💬
+* **[Building an Enterprise GenAI Platform on OCI — Part 2: The Data Pipeline Nobody Talks About](https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[I Wasn’t Supposed to Be in That Computer Lab — But That’s Where Everything Changed](https://dev.to/beshoy2khalil/i-wasnt-supposed-to-be-in-that-computer-lab-but-thats-where-everything-changed-4mib)** — **1** 👍 · 3 💬
-* **[I Built a 64-Bit OS from Scratch: BIOS/UEFI, GUI, Networking, a Browser, and DOOM](https://dev.to/adrian-thebolt/i-built-a-64-bit-os-from-scratch-biosuefi-gui-networking-a-browser-and-doom-4j90)** — **1** 👍 · 0 💬
+* **[CampusLink: A Chat Server With No Internet Needed](https://dev.to/jixie30/campuslink-a-chat-server-with-no-internet-needed-4a4)** — **1** 👍 · 1 💬
 * **[THE DARK SIDE OF DNS: WEAPONIZING RECURSIVE RESOLVERS FOR STEALTH DATA EXFILTRATION](https://dev.to/njenga_nganga_00063bc67/the-dark-side-of-dns-weaponizing-recursive-resolvers-for-stealth-data-exfiltration-85g)** — **1** 👍 · 0 💬
+* **[What is SSRF? How Can a Server Be Tricked Into Attacking Its Own Network?](https://dev.to/aditya_d_sharma/what-is-ssrf-how-can-a-server-be-tricked-into-attacking-its-own-network-932)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-10T16:54:59.464955+00:00 -->
+<!-- Log-ID: 2026-09-10T20:14:52.407162+00:00 -->
