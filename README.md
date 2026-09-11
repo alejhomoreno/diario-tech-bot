@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-11 00:50 (UTC)
+📅 **Last Update:** 2026-09-11 16:56 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Build Hints That Fail Before the Build Server](https://dev.to/codenameone/build-hints-that-fail-before-the-build-server-3c6o)** — **5** 👍 · 1 💬
-* **[Java Learning Series - Updated Product Management System](https://dev.to/dev_saravanan_journey/java-learning-series-updated-product-management-system-3d5c)** — **2** 👍 · 0 💬
 * **[Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)** — **1** 👍 · 1 💬
+* **[How My Microservices Architecture Collapsed (And How I Fixed It)](https://dev.to/sandeep_chagalakonda_6e60/how-my-microservices-architecture-collapsed-and-how-i-fixed-it-3o5d)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Four Debian 13 Boxes, One Brief: 1,923 Packages on Metal, 328 in the Cloud](https://dev.to/gde/four-debian-13-boxes-one-brief-1923-packages-on-metal-328-in-the-cloud-and-the-backup-gpt-cc2)** — **8** 👍 · 2 💬
-* **[Building an Enterprise GenAI Platform on OCI — Part 2: The Data Pipeline Nobody Talks About](https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22)** — **1** 👍 · 1 💬
-* **[MCP, Context, and Agents: Building the AI-Native SDLC](https://dev.to/chris-faraglia/mcp-context-and-agents-building-the-ai-native-sdlc-b7i)** — **1** 👍 · 0 💬
+* **[I rented three servers, told nobody, and watched the internet break in anyway](https://dev.to/remdore/i-rented-three-servers-told-nobody-and-watched-the-internet-break-in-anyway-i0a)** — **12** 👍 · 2 💬
+* **[Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show](https://dev.to/alexgeorgiev17/valkey-91s-hash-field-ttl-triples-memory-use-for-the-pattern-its-own-docs-show-22k8)** — **10** 👍 · 1 💬
+* **[Day 39: Commit Captures the Layer, Not the Recipe, and AccessDenied Is Not Always IAM](https://dev.to/ndcodes/day-39-commit-captures-the-layer-not-the-recipe-and-accessdenied-is-not-always-iam-n36)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[CampusLink: A Chat Server With No Internet Needed](https://dev.to/jixie30/campuslink-a-chat-server-with-no-internet-needed-4a4)** — **1** 👍 · 1 💬
+* **[I rented three servers, told nobody, and watched the internet break in anyway](https://dev.to/remdore/i-rented-three-servers-told-nobody-and-watched-the-internet-break-in-anyway-i0a)** — **12** 👍 · 2 💬
+* **[What Is DNS Rebinding? How Can a Domain Point to Different IP Addresses?](https://dev.to/aditya_d_sharma/what-is-dns-rebinding-how-can-a-domain-point-to-different-ip-addresses-3ob)** — **1** 👍 · 0 💬
 * **[THE DARK SIDE OF DNS: WEAPONIZING RECURSIVE RESOLVERS FOR STEALTH DATA EXFILTRATION](https://dev.to/njenga_nganga_00063bc67/the-dark-side-of-dns-weaponizing-recursive-resolvers-for-stealth-data-exfiltration-85g)** — **1** 👍 · 0 💬
-* **[What is SSRF? How Can a Server Be Tricked Into Attacking Its Own Network?](https://dev.to/aditya_d_sharma/what-is-ssrf-how-can-a-server-be-tricked-into-attacking-its-own-network-932)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-11T00:50:34.581588+00:00 -->
+<!-- Log-ID: 2026-09-11T16:56:20.127511+00:00 -->
