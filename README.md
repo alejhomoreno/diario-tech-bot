@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-11 16:56 (UTC)
+📅 **Last Update:** 2026-09-11 20:14 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[I rented three servers, told nobody, and watched the internet break in anyway](https://dev.to/remdore/i-rented-three-servers-told-nobody-and-watched-the-internet-break-in-anyway-i0a)** — **12** 👍 · 2 💬
+* **[Day 39: Commit Captures the Layer, Not the Recipe, and AccessDenied Is Not Always IAM](https://dev.to/ndcodes/day-39-commit-captures-the-layer-not-the-recipe-and-accessdenied-is-not-always-iam-n36)** — **13** 👍 · 0 💬
 * **[Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show](https://dev.to/alexgeorgiev17/valkey-91s-hash-field-ttl-triples-memory-use-for-the-pattern-its-own-docs-show-22k8)** — **10** 👍 · 1 💬
-* **[Day 39: Commit Captures the Layer, Not the Recipe, and AccessDenied Is Not Always IAM](https://dev.to/ndcodes/day-39-commit-captures-the-layer-not-the-recipe-and-accessdenied-is-not-always-iam-n36)** — **7** 👍 · 0 💬
+* **[Autoscaling Docker Containers Without Kubernetes: How Gubernator Scales CPU & GPU Workloads Automatically](https://dev.to/gde/autoscaling-docker-containers-without-kubernetes-how-gubernator-scales-cpu-gpu-workloads-1p0b)** — **6** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What Is DNS Rebinding? How Can a Domain Point to Different IP Addresses?](https://dev.to/aditya_d_sharma/what-is-dns-rebinding-how-can-a-domain-point-to-different-ip-addresses-3ob)** — **1** 👍 · 0 💬
 * **[THE DARK SIDE OF DNS: WEAPONIZING RECURSIVE RESOLVERS FOR STEALTH DATA EXFILTRATION](https://dev.to/njenga_nganga_00063bc67/the-dark-side-of-dns-weaponizing-recursive-resolvers-for-stealth-data-exfiltration-85g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-11T16:56:20.127511+00:00 -->
+<!-- Log-ID: 2026-09-11T20:14:15.134397+00:00 -->
