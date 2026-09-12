@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-12 00:55 (UTC)
+📅 **Last Update:** 2026-09-12 16:03 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Build Hints That Fail Before the Build Server](https://dev.to/codenameone/build-hints-that-fail-before-the-build-server-3c6o)** — **5** 👍 · 1 💬
-* **[How My Microservices Architecture Collapsed (And How I Fixed It)](https://dev.to/sandeep_chagalakonda_6e60/how-my-microservices-architecture-collapsed-and-how-i-fixed-it-3o5d)** — **1** 👍 · 0 💬
+* **[Your ConcurrentHashMap Is Thread-Safe. Your Code Still Isn't.](https://dev.to/nikz11/your-concurrenthashmap-is-thread-safe-your-code-still-isnt-4m3e)** — **1** 👍 · 0 💬
 * **[The /actuator/env Sanitizer Doesn't Know Your Naming Conventions](https://dev.to/jtorchia/the-actuatorenv-sanitizer-doesnt-know-your-naming-conventions-3dpl)** — **1** 👍 · 0 💬
+* **[JDK vs JRE vs JVM Explained: What Every Java Beginner Needs to Know](https://dev.to/poojakolusu/jdk-vs-jre-vs-jvm-explained-what-every-java-beginner-needs-to-know-31f1)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Day 39: Commit Captures the Layer, Not the Recipe, and AccessDenied Is Not Always IAM](https://dev.to/ndcodes/day-39-commit-captures-the-layer-not-the-recipe-and-accessdenied-is-not-always-iam-n36)** — **14** 👍 · 1 💬
-* **[750 Free Hours a Month, but a Month Is 730: 3 Free-Tier Mistakes That Took Down My App](https://dev.to/sanjaysah/750-free-hours-a-month-but-a-month-is-730-3-free-tier-mistakes-that-took-down-my-app-17g8)** — **2** 👍 · 3 💬
-* **[The Importance of Testing](https://dev.to/techlabma/the-importance-of-testing-35fc)** — **1** 👍 · 0 💬
+* **[Day 40: Curl's 000 Says Where to Look, and Blackhole Says Exactly What Broke](https://dev.to/ndcodes/day-40-curls-000-says-where-to-look-and-blackhole-says-exactly-what-broke-3cjl)** — **16** 👍 · 4 💬
+* **[Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)** — **5** 👍 · 1 💬
+* **[Copilot Wrote a Kubernetes Manifest That Passed Schema Validation With 21 Security Findings In It](https://dev.to/jjoyneriv/copilot-wrote-a-kubernetes-manifest-that-passed-schema-validation-with-21-security-findings-in-it-38ch)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[What Is DNS Rebinding? How Can a Domain Point to Different IP Addresses?](https://dev.to/aditya_d_sharma/what-is-dns-rebinding-how-can-a-domain-point-to-different-ip-addresses-3ob)** — **2** 👍 · 0 💬
-* **[When a VPN Connects but Large Transfers Stall: Build an MTU Evidence Case](https://dev.to/m_montazeri/when-a-vpn-connects-but-large-transfers-stall-build-an-mtu-evidence-case-17c0)** — **0** 👍 · 1 💬
-* **[Deleting a VPN Profile Is Not the Same as Revoking Access](https://dev.to/m_montazeri/deleting-a-vpn-profile-is-not-the-same-as-revoking-access-50dk)** — **0** 👍 · 1 💬
+* **[Day 40: Curl's 000 Says Where to Look, and Blackhole Says Exactly What Broke](https://dev.to/ndcodes/day-40-curls-000-says-where-to-look-and-blackhole-says-exactly-what-broke-3cjl)** — **16** 👍 · 4 💬
+* **[7 Things an AI Workflow Needs Beyond a Good Prompt](https://dev.to/chizurumchidimma/7-things-an-ai-workflow-needs-beyond-a-good-prompt-79h)** — **5** 👍 · 0 💬
+* **[THE DARK SIDE OF DNS: WEAPONIZING RECURSIVE RESOLVERS FOR STEALTH DATA EXFILTRATION](https://dev.to/njenga_nganga_00063bc67/the-dark-side-of-dns-weaponizing-recursive-resolvers-for-stealth-data-exfiltration-85g)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-12T00:55:35.120105+00:00 -->
+<!-- Log-ID: 2026-09-12T16:03:59.013635+00:00 -->
