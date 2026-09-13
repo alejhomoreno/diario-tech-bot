@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-13 00:38 (UTC)
+📅 **Last Update:** 2026-09-13 16:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spec Driven Development Kit w/HexaLayered Architecture](https://dev.to/agitrubard/spec-driven-development-kit-whexalayered-architecture-578i)** — **6** 👍 · 0 💬
 * **[A Dialog Can Now Be a Native Desktop Window](https://dev.to/codenameone/a-dialog-can-now-be-a-native-desktop-window-1jgk)** — **5** 👍 · 2 💬
-* **[What Six Codex Runs Taught Me About Tool Design](https://dev.to/renanfranca/what-six-codex-runs-taught-me-about-tool-design-3mle)** — **5** 👍 · 0 💬
+* **[Java 27：值得关注的新特性](https://dev.to/andylow/java-27zhi-de-guan-zhu-de-xin-te-xing-3ck0)** — **1** 👍 · 0 💬
+* **[Your ConcurrentHashMap Is Thread-Safe. Your Code Still Isn't.](https://dev.to/nikz11/your-concurrenthashmap-is-thread-safe-your-code-still-isnt-4m3e)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Path-Based Routing with Reverse Proxy: Serving Multiple Websites from One Domain](https://dev.to/solitrix02/path-based-routing-with-reverse-proxy-serving-multiple-websites-from-one-domain-3c63)** — **5** 👍 · 3 💬
 * **[Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)** — **5** 👍 · 1 💬
-* **[How Seed4J Validates Compatibility](https://dev.to/renanfranca/how-seed4j-validates-compatibility-2pdo)** — **5** 👍 · 0 💬
+* **[A warm pip install took me 13 seconds. uv took 56 milliseconds.](https://dev.to/remdore/a-warm-pip-install-took-me-13-seconds-uv-took-56-milliseconds-3ehp)** — **5** 👍 · 0 💬
+* **[My build went green and the permanent record kept almost none of it](https://dev.to/mahirhir/my-build-went-green-and-the-permanent-record-kept-almost-none-of-it-5fd1)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[7 Things an AI Workflow Needs Beyond a Good Prompt](https://dev.to/chizurumchidimma/7-things-an-ai-workflow-needs-beyond-a-good-prompt-79h)** — **5** 👍 · 0 💬
 * **[Figma Made Multiplayer Instant by Picking the Dumber Algorithm](https://dev.to/devopsdaily/figma-made-multiplayer-instant-by-picking-the-dumber-algorithm-c5k)** — **5** 👍 · 0 💬
-* **[I measured whether datacenter IPs are actually blocked. Only 4% of the top 1,000 sites refuse them.](https://dev.to/faceless_satine_148164446/i-measured-whether-datacenter-ips-are-actually-blocked-only-4-of-the-top-1000-sites-refuse-them-fk8)** — **0** 👍 · 3 💬
+* **[Why Do So Many People Use WhatsApp? Understanding the Technology and Network Effect](https://dev.to/darshan_dev/why-do-so-many-people-use-whatsapp-understanding-the-technology-and-network-effect-3312)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-13T00:38:26.045728+00:00 -->
+<!-- Log-ID: 2026-09-13T16:52:15.471507+00:00 -->
