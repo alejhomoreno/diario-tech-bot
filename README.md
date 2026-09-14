@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-13 20:01 (UTC)
+📅 **Last Update:** 2026-09-14 00:46 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[Day 41: EXPOSE Does Not Publish, and a KMS Key Has No Name](https://dev.to/ndcodes/day-41-expose-does-not-publish-and-a-kms-key-has-no-name-426c)** — **12** 👍 · 2 💬
+* **[A warm pip install took me 13 seconds. uv took 56 milliseconds.](https://dev.to/remdore/a-warm-pip-install-took-me-13-seconds-uv-took-56-milliseconds-3ehp)** — **6** 👍 · 1 💬
 * **[Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms](https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0)** — **5** 👍 · 1 💬
-* **[A warm pip install took me 13 seconds. uv took 56 milliseconds.](https://dev.to/remdore/a-warm-pip-install-took-me-13-seconds-uv-took-56-milliseconds-3ehp)** — **5** 👍 · 1 💬
-* **[My registry accepted a duplicate ID, and the wrong thing failed three steps later](https://dev.to/mahirhir/my-registry-accepted-a-duplicate-id-and-the-wrong-thing-failed-three-steps-later-5538)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Figma Made Multiplayer Instant by Picking the Dumber Algorithm](https://dev.to/devopsdaily/figma-made-multiplayer-instant-by-picking-the-dumber-algorithm-c5k)** — **5** 👍 · 0 💬
 * **[Why Do So Many People Use WhatsApp? Understanding the Technology and Network Effect](https://dev.to/darshan_dev/why-do-so-many-people-use-whatsapp-understanding-the-technology-and-network-effect-3312)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-13T20:01:41.113060+00:00 -->
+<!-- Log-ID: 2026-09-14T00:46:42.422622+00:00 -->
