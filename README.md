@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-14 21:12 (UTC)
+📅 **Last Update:** 2026-09-15 01:11 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Shift Left Code Review: How Qodo Turns Your Coding Agent Into Its Own First Reviewer](https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc)** — **68** 👍 · 2 💬
-* **[Preview environments: from a PR label to teardown](https://dev.to/devopsdaily/preview-environments-from-a-pr-label-to-teardown-12bo)** — **16** 👍 · 1 💬
 * **[My wait-for-it wrapper reported success for a port that never opened](https://dev.to/raknaos/my-wait-for-it-wrapper-reported-success-for-a-port-that-never-opened-ga3)** — **6** 👍 · 9 💬
+* **[My guard asserted the output path was a scratch directory. The row landed in the permanent log anyway.](https://dev.to/mahirhir/my-guard-asserted-the-output-path-was-a-scratch-directory-the-row-landed-in-the-permanent-log-5043)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Cloudflare Zero Trust: Enterprise Access Security Guide](https://dev.to/mecanik-dev/cloudflare-zero-trust-enterprise-access-security-guide-41hd)** — **1** 👍 · 0 💬
+* **[Ethernet Speed Evolution Reaches 1.6 Terabit Milestone](https://dev.to/vpodk/ethernet-speed-evolution-reaches-16-terabit-milestone-27nf)** — **1** 👍 · 0 💬
 * **[Why Do So Many People Use WhatsApp? Understanding the Technology and Network Effect](https://dev.to/darshan_dev/why-do-so-many-people-use-whatsapp-understanding-the-technology-and-network-effect-3312)** — **1** 👍 · 0 💬
-* **[ICMP vs TCP vs UDP: the difference, explained for developers](https://dev.to/slima4/icmp-vs-tcp-vs-udp-the-difference-explained-for-developers-49g6)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-14T21:12:14.021139+00:00 -->
+<!-- Log-ID: 2026-09-15T01:11:33.279546+00:00 -->
