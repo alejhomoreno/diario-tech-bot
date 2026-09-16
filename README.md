@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-16 17:31 (UTC)
+📅 **Last Update:** 2026-09-16 20:40 (UTC)
 
 ---
 
@@ -19,7 +19,7 @@
 
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 * **[Instrumenting a Keycloak SPI provider so the next silent JDBC bug doesn't need a code review to find it](https://dev.to/jihedbfrart/instrumenting-a-keycloak-spi-provider-so-the-next-silent-jdbc-bug-doesnt-need-a-code-review-to-563a)** — **4** 👍 · 0 💬
-* **[Keycloak lets you pick a login option that's guaranteed to fail — here's the fix](https://dev.to/jihedbfrart/keycloak-lets-you-pick-a-login-option-thats-guaranteed-to-fail-heres-the-fix-2jbn)** — **3** 👍 · 0 💬
+* **[Building a Reusable Keycloak Theme Architecture](https://dev.to/ismailzahir/building-a-reusable-keycloak-theme-architecture-1b9h)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
@@ -33,4 +33,4 @@
 * **[SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)](https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal)** — **0** 👍 · 0 💬
 * **[A /24 where every address is flagged is weaker evidence, not stronger](https://dev.to/szp2005/a-24-where-every-address-is-flagged-is-weaker-evidence-not-stronger-48)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-16T17:31:28.386100+00:00 -->
+<!-- Log-ID: 2026-09-16T20:40:38.900199+00:00 -->
