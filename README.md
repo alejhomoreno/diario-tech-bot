@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-16 01:07 (UTC)
+📅 **Last Update:** 2026-09-16 17:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Fill an SMS Verification Code Without Reading the Inbox](https://dev.to/codenameone/fill-an-sms-verification-code-without-reading-the-inbox-926)** — **5** 👍 · 1 💬
-* **[JetBrains Ranked AI Agents on Real Kotlin Projects. The Token Column Is the Real Story.](https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li)** — **1** 👍 · 0 💬
-* **[Java Essentials: Tools, Setup, Syntax & Execution Architecture](https://dev.to/poojakolusu/java-essentials-tools-setup-syntax-execution-architecture-1940)** — **1** 👍 · 0 💬
+* **[Java Output Methods: Complete Guide to print() vs. println()](https://dev.to/poojakolusu/java-output-methods-complete-guide-to-print-vs-println-23lh)** — **3** 👍 · 0 💬
+* **[Why Kotlin Won Me Over After Java](https://dev.to/quantum3600/why-kotlin-won-me-over-after-java-1458)** — **2** 👍 · 0 💬
+* **[New Java Features Are Not Just for Interviews. Two Real-World Use Cases from Axelix](https://dev.to/axelix-labs/new-java-features-are-not-just-for-interviews-two-real-world-use-cases-from-axelix-51aa)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **["Too many levels of symbolic links" with no symlink in sight: autofs, a bind mount and a cron container](https://dev.to/goodbarber/too-many-levels-of-symbolic-links-with-no-symlink-in-sight-autofs-a-bind-mount-and-a-cron-20nf)** — **12** 👍 · 0 💬
-* **[Tigris marks every read with the region and cache layer that actually served it](https://dev.to/alexgeorgiev17/tigris-marks-every-read-with-the-region-and-cache-layer-that-actually-served-it-28p)** — **7** 👍 · 0 💬
-* **[Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day](https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6)** — **1** 👍 · 0 💬
+* **[Anthropic's grammar compiler counts properties, not characters](https://dev.to/robswierk/anthropics-grammar-compiler-counts-properties-not-characters-5el6)** — **5** 👍 · 1 💬
+* **[OpenAI's Software Factory Can Skip Human Review. Who Evaluates That Decision?](https://dev.to/sara_mo/openais-software-factory-can-skip-human-review-who-evaluates-that-decision-21bf)** — **3** 👍 · 8 💬
+* **[There Is No Repro for a Phone Call](https://dev.to/nabeelbaghoor/there-is-no-repro-for-a-phone-call-2d74)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[The hostname you visit over HTTPS is sent in plain text](https://dev.to/remdore/the-hostname-you-visit-over-https-is-sent-in-plain-text-563g)** — **6** 👍 · 0 💬
-* **[Promoting a Member Server to Domain Controller, Transferring FSMO Roles, and Configuring Active Directory Sites](https://dev.to/rahimah_dev/promoting-a-member-server-to-domain-controller-transferring-fsmo-roles-and-configuring-active-5675)** — **1** 👍 · 3 💬
-* **[Python ile DNS Tünelleme (DNS Tunneling) Mantığını Anlamak](https://dev.to/mehmet_amed_urey/python-ile-dns-tunelleme-dns-tunneling-mantigini-anlamak-23h6)** — **1** 👍 · 0 💬
+* **[The OSI Model: Why Every Networking Concept You Know Fits Into Seven Boxes](https://dev.to/dehemi_fabio/the-osi-model-why-every-networking-concept-you-know-fits-into-seven-boxes-1hdf)** — **5** 👍 · 0 💬
+* **[SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)](https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal)** — **0** 👍 · 0 💬
+* **[A /24 where every address is flagged is weaker evidence, not stronger](https://dev.to/szp2005/a-24-where-every-address-is-flagged-is-weaker-evidence-not-stronger-48)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-16T01:07:52.873846+00:00 -->
+<!-- Log-ID: 2026-09-16T17:31:28.386100+00:00 -->
