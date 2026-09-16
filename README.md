@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-15 20:40 (UTC)
+📅 **Last Update:** 2026-09-16 01:07 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **["Too many levels of symbolic links" with no symlink in sight: autofs, a bind mount and a cron container](https://dev.to/goodbarber/too-many-levels-of-symbolic-links-with-no-symlink-in-sight-autofs-a-bind-mount-and-a-cron-20nf)** — **10** 👍 · 0 💬
-* **[Tigris marks every read with the region and cache layer that actually served it](https://dev.to/alexgeorgiev17/tigris-marks-every-read-with-the-region-and-cache-layer-that-actually-served-it-28p)** — **6** 👍 · 0 💬
-* **[Your integration is running as an admin. Nobody remembers approving that.](https://dev.to/hrshitkunwartech/your-integration-is-running-as-an-admin-nobody-remembers-approving-that-5ei3)** — **0** 👍 · 1 💬
+* **["Too many levels of symbolic links" with no symlink in sight: autofs, a bind mount and a cron container](https://dev.to/goodbarber/too-many-levels-of-symbolic-links-with-no-symlink-in-sight-autofs-a-bind-mount-and-a-cron-20nf)** — **12** 👍 · 0 💬
+* **[Tigris marks every read with the region and cache layer that actually served it](https://dev.to/alexgeorgiev17/tigris-marks-every-read-with-the-region-and-cache-layer-that-actually-served-it-28p)** — **7** 👍 · 0 💬
+* **[Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day](https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Cloudflare Zero Trust: Enterprise Access Security Guide](https://dev.to/mecanik-dev/cloudflare-zero-trust-enterprise-access-security-guide-41hd)** — **1** 👍 · 0 💬
-* **[Ethernet Speed Evolution Reaches 1.6 Terabit Milestone](https://dev.to/vpodk/ethernet-speed-evolution-reaches-16-terabit-milestone-27nf)** — **1** 👍 · 0 💬
-* **[Why Do So Many People Use WhatsApp? Understanding the Technology and Network Effect](https://dev.to/darshan_dev/why-do-so-many-people-use-whatsapp-understanding-the-technology-and-network-effect-3312)** — **1** 👍 · 0 💬
+* **[The hostname you visit over HTTPS is sent in plain text](https://dev.to/remdore/the-hostname-you-visit-over-https-is-sent-in-plain-text-563g)** — **6** 👍 · 0 💬
+* **[Promoting a Member Server to Domain Controller, Transferring FSMO Roles, and Configuring Active Directory Sites](https://dev.to/rahimah_dev/promoting-a-member-server-to-domain-controller-transferring-fsmo-roles-and-configuring-active-5675)** — **1** 👍 · 3 💬
+* **[Python ile DNS Tünelleme (DNS Tunneling) Mantığını Anlamak](https://dev.to/mehmet_amed_urey/python-ile-dns-tunelleme-dns-tunneling-mantigini-anlamak-23h6)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-15T20:40:15.952881+00:00 -->
+<!-- Log-ID: 2026-09-16T01:07:52.873846+00:00 -->
