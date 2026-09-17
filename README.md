@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-16 20:40 (UTC)
+📅 **Last Update:** 2026-09-17 01:05 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Anthropic's grammar compiler counts properties, not characters](https://dev.to/robswierk/anthropics-grammar-compiler-counts-properties-not-characters-5el6)** — **5** 👍 · 1 💬
-* **[OpenAI's Software Factory Can Skip Human Review. Who Evaluates That Decision?](https://dev.to/sara_mo/openais-software-factory-can-skip-human-review-who-evaluates-that-decision-21bf)** — **3** 👍 · 8 💬
-* **[There Is No Repro for a Phone Call](https://dev.to/nabeelbaghoor/there-is-no-repro-for-a-phone-call-2d74)** — **2** 👍 · 1 💬
+* **[I Deleted My Entire Security Stack. My Apps Got Safer.](https://dev.to/dhruv_malaviya_cdcc71e595/i-deleted-my-entire-security-stack-my-apps-got-safer-3png)** — **4** 👍 · 0 💬
+* **[Node 22.22 runs TypeScript. Ubuntu's Node 22.22 doesn't.](https://dev.to/mk023/node-2222-runs-typescript-ubuntus-node-2222-doesnt-1pn8)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)](https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal)** — **0** 👍 · 0 💬
 * **[A /24 where every address is flagged is weaker evidence, not stronger](https://dev.to/szp2005/a-24-where-every-address-is-flagged-is-weaker-evidence-not-stronger-48)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-16T20:40:38.900199+00:00 -->
+<!-- Log-ID: 2026-09-17T01:05:52.348788+00:00 -->
