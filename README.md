@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-17 01:05 (UTC)
+📅 **Last Update:** 2026-09-17 17:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Output Methods: Complete Guide to print() vs. println()](https://dev.to/poojakolusu/java-output-methods-complete-guide-to-print-vs-println-23lh)** — **3** 👍 · 0 💬
 * **[Why Kotlin Won Me Over After Java](https://dev.to/quantum3600/why-kotlin-won-me-over-after-java-1458)** — **2** 👍 · 0 💬
-* **[New Java Features Are Not Just for Interviews. Two Real-World Use Cases from Axelix](https://dev.to/axelix-labs/new-java-features-are-not-just-for-interviews-two-real-world-use-cases-from-axelix-51aa)** — **1** 👍 · 0 💬
+* **[Quarkus 4 Is Coming for Spring Boot 4. Here Is How the Two Big Java Frameworks Actually Compare in 2026](https://dev.to/jamilxt/quarkus-4-is-coming-for-spring-boot-4-here-is-how-the-two-big-java-frameworks-actually-compare-in-8p7)** — **1** 👍 · 0 💬
+* **[Top K Frequent Elements](https://dev.to/yoges/top-k-frequent-elements-klj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Anthropic's grammar compiler counts properties, not characters](https://dev.to/robswierk/anthropics-grammar-compiler-counts-properties-not-characters-5el6)** — **5** 👍 · 1 💬
-* **[I Deleted My Entire Security Stack. My Apps Got Safer.](https://dev.to/dhruv_malaviya_cdcc71e595/i-deleted-my-entire-security-stack-my-apps-got-safer-3png)** — **4** 👍 · 0 💬
-* **[Node 22.22 runs TypeScript. Ubuntu's Node 22.22 doesn't.](https://dev.to/mk023/node-2222-runs-typescript-ubuntus-node-2222-doesnt-1pn8)** — **2** 👍 · 0 💬
+* **[Automating Android Play Store Releases, Part 2: Wrong Track & Broken YAML](https://dev.to/cynthizo/automating-android-play-store-releases-part-2-wrong-track-broken-yaml-3559)** — **1** 👍 · 0 💬
+* **[Twelve Checks That Could Not Fail](https://dev.to/efe_genc/twelve-checks-that-could-not-fail-4lea)** — **1** 👍 · 0 💬
+* **[Why I Built a Lightweight Rust Watcher for Linux Services & Docker Containers](https://dev.to/aegira/why-i-built-a-lightweight-rust-watcher-for-linux-services-docker-containers-5ol)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[The OSI Model: Why Every Networking Concept You Know Fits Into Seven Boxes](https://dev.to/dehemi_fabio/the-osi-model-why-every-networking-concept-you-know-fits-into-seven-boxes-1hdf)** — **5** 👍 · 0 💬
-* **[SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)](https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal)** — **0** 👍 · 0 💬
-* **[A /24 where every address is flagged is weaker evidence, not stronger](https://dev.to/szp2005/a-24-where-every-address-is-flagged-is-weaker-evidence-not-stronger-48)** — **0** 👍 · 0 💬
+* **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
+* **[How I Handle 1,642 WebRTC Connections at 6% CPU on a $29 Server - WebRTC Layer Benchmark](https://dev.to/salahaldainabduljalil/how-i-handle-1642-sfu-connections-at-6-cpu-on-a-29-server-kamailio-rtpengine-kernel--i)** — **0** 👍 · 0 💬
+* **[Looking for Contributors: Good First Issues in Network Doctor](https://dev.to/heymaikol/looking-for-contributors-good-first-issues-in-network-doctor-3fcb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-17T01:05:52.348788+00:00 -->
+<!-- Log-ID: 2026-09-17T17:31:02.015741+00:00 -->
