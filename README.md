@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-17 20:46 (UTC)
+📅 **Last Update:** 2026-09-18 01:04 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[A task-healer has to bound its own coordination noise](https://dev.to/ilya_mozerov_867dbdd91feb/a-task-healer-has-to-bound-its-own-coordination-noise-28o1)** — **1** 👍 · 0 💬
 * **[Automating Android Play Store Releases, Part 2: Wrong Track & Broken YAML](https://dev.to/cynthizo/automating-android-play-store-releases-part-2-wrong-track-broken-yaml-3559)** — **1** 👍 · 0 💬
-* **[Twelve Checks That Could Not Fail](https://dev.to/efe_genc/twelve-checks-that-could-not-fail-4lea)** — **1** 👍 · 0 💬
-* **[Why I Built a Lightweight Rust Watcher for Linux Services & Docker Containers](https://dev.to/aegira/why-i-built-a-lightweight-rust-watcher-for-linux-services-docker-containers-5ol)** — **1** 👍 · 0 💬
+* **[5 Best LLM Routing Tools in 2026: Architectures, Latency, and Trade-Offs](https://dev.to/moussa62/5-best-llm-routing-tools-in-2026-architectures-latency-and-trade-offs-2hgl)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How I Handle 1,642 WebRTC Connections at 6% CPU on a $29 Server - WebRTC Layer Benchmark](https://dev.to/salahaldainabduljalil/how-i-handle-1642-sfu-connections-at-6-cpu-on-a-29-server-kamailio-rtpengine-kernel--i)** — **0** 👍 · 0 💬
 * **[Looking for Contributors: Good First Issues in Network Doctor](https://dev.to/heymaikol/looking-for-contributors-good-first-issues-in-network-doctor-3fcb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-17T20:46:34.040333+00:00 -->
+<!-- Log-ID: 2026-09-18T01:04:02.088416+00:00 -->
