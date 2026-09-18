@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-18 01:04 (UTC)
+📅 **Last Update:** 2026-09-18 16:58 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A task-healer has to bound its own coordination noise](https://dev.to/ilya_mozerov_867dbdd91feb/a-task-healer-has-to-bound-its-own-coordination-noise-28o1)** — **1** 👍 · 0 💬
-* **[Automating Android Play Store Releases, Part 2: Wrong Track & Broken YAML](https://dev.to/cynthizo/automating-android-play-store-releases-part-2-wrong-track-broken-yaml-3559)** — **1** 👍 · 0 💬
-* **[5 Best LLM Routing Tools in 2026: Architectures, Latency, and Trade-Offs](https://dev.to/moussa62/5-best-llm-routing-tools-in-2026-architectures-latency-and-trade-offs-2hgl)** — **0** 👍 · 1 💬
+* **[Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call](https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj)** — **17** 👍 · 1 💬
+* **[I Built an AI Agent That Audits AWS (And It Can't Touch Anything)](https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip)** — **10** 👍 · 1 💬
+* **[Following Seed4J's Main Branch with Seed4J CLI Experimental](https://dev.to/renanfranca/following-seed4js-main-branch-with-seed4j-cli-experimental-52dn)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[🌐 What is Networking? (The Backbone of Cyber Security)](https://dev.to/yash-infra/what-is-networking-the-backbone-of-cyber-security-14ld)** — **3** 👍 · 0 💬
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
-* **[How I Handle 1,642 WebRTC Connections at 6% CPU on a $29 Server - WebRTC Layer Benchmark](https://dev.to/salahaldainabduljalil/how-i-handle-1642-sfu-connections-at-6-cpu-on-a-29-server-kamailio-rtpengine-kernel--i)** — **0** 👍 · 0 💬
-* **[Looking for Contributors: Good First Issues in Network Doctor](https://dev.to/heymaikol/looking-for-contributors-good-first-issues-in-network-doctor-3fcb)** — **0** 👍 · 0 💬
+* **[An Old Trick in Networking, Rediscovered by AI](https://dev.to/cheng2zhang/an-old-trick-in-networking-rediscovered-by-ai-2iio)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-18T01:04:02.088416+00:00 -->
+<!-- Log-ID: 2026-09-18T16:58:18.539229+00:00 -->
