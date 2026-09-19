@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-18 20:10 (UTC)
+📅 **Last Update:** 2026-09-19 00:59 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call](https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj)** — **17** 👍 · 1 💬
-* **[I Built an AI Agent That Audits AWS (And It Can't Touch Anything)](https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip)** — **12** 👍 · 2 💬
-* **[Building a Production-Grade End-to-End MLOps Pipeline from Scratch](https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h)** — **5** 👍 · 0 💬
+* **[I Built an AI Agent That Audits AWS (And It Can't Touch Anything)](https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip)** — **13** 👍 · 2 💬
+* **[I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway](https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9)** — **4** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
 * **[🌐 What is Networking? (The Backbone of Cyber Security)](https://dev.to/yash-infra/what-is-networking-the-backbone-of-cyber-security-14ld)** — **3** 👍 · 0 💬
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
-* **[An Old Trick in Networking, Rediscovered by AI](https://dev.to/cheng2zhang/an-old-trick-in-networking-rediscovered-by-ai-2iio)** — **0** 👍 · 0 💬
+* **[What Actually Causes Buffering in Video Streaming? A Practical Look at the Network Stack](https://dev.to/bilal_elabbadi_c5f7287dd0/what-actually-causes-buffering-in-video-streaming-a-practical-look-at-the-network-stack-28mb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-18T20:10:42.959560+00:00 -->
+<!-- Log-ID: 2026-09-19T00:59:39.239117+00:00 -->
