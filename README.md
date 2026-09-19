@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-19 16:17 (UTC)
+📅 **Last Update:** 2026-09-19 19:47 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Why Kotlin Won Me Over After Java](https://dev.to/quantum3600/why-kotlin-won-me-over-after-java-1458)** — **2** 👍 · 0 💬
-* **[Quarkus 4 Is Coming for Spring Boot 4. Here Is How the Two Big Java Frameworks Actually Compare in 2026](https://dev.to/jamilxt/quarkus-4-is-coming-for-spring-boot-4-here-is-how-the-two-big-java-frameworks-actually-compare-in-8p7)** — **1** 👍 · 0 💬
-* **[Top K Frequent Elements](https://dev.to/yoges/top-k-frequent-elements-klj)** — **1** 👍 · 0 💬
+* **[The Day Our Green CI Pipeline Deployed an 11-Day-Old Bug to Production](https://dev.to/sandeep_chagalakonda_6e60/the-day-our-green-ci-pipeline-deployed-an-11-day-old-bug-to-production-1n3c)** — **1** 👍 · 0 💬
+* **[From Thread Pools to Virtual Threads: How Spring Boot on Java 21 Scales in Production](https://dev.to/nikz11/from-thread-pools-to-virtual-threads-how-spring-boot-on-java-21-scales-in-production-38im)** — **1** 👍 · 0 💬
+* **[What Go Taught Us About Java Garbage Collection](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[Caddy 2.11's default post-quantum key exchange sends six times more handshake bytes](https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3)** — **12** 👍 · 2 💬
 * **[I open-sourced the cockpit we used to understand huge engineering departments in days](https://dev.to/yaniv_zalevas_a91253c56bb/i-open-sourced-the-cockpit-we-used-to-understand-huge-engineering-departments-in-days-4h6m)** — **2** 👍 · 0 💬
-* **[My Paper Trading Bot Went Live This Week — Here's the Guardrail Stack I Built First](https://dev.to/samhartley_dev/my-paper-trading-bot-went-live-this-week-heres-the-guardrail-stack-i-built-first-e48)** — **1** 👍 · 1 💬
+* **[DNS change monitoring: the seven false alarms I had to kill](https://dev.to/dnsnotify/dns-change-monitoring-the-seven-false-alarms-i-had-to-kill-hh3)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
 * **[What Actually Causes Buffering in Video Streaming? A Practical Look at the Network Stack](https://dev.to/bilal_elabbadi_c5f7287dd0/what-actually-causes-buffering-in-video-streaming-a-practical-look-at-the-network-stack-28mb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-19T16:17:26.191674+00:00 -->
+<!-- Log-ID: 2026-09-19T19:47:27.822633+00:00 -->
