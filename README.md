@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-19 00:59 (UTC)
+📅 **Last Update:** 2026-09-19 16:17 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Node.js 26.9 turns node:ffi on by default at 37 nanoseconds a call](https://dev.to/alexgeorgiev17/nodejs-269-turns-nodeffi-on-by-default-at-37-nanoseconds-a-call-ngj)** — **17** 👍 · 1 💬
-* **[I Built an AI Agent That Audits AWS (And It Can't Touch Anything)](https://dev.to/aws-builders/i-built-an-ai-agent-that-audits-aws-and-it-cant-touch-anything-4nip)** — **13** 👍 · 2 💬
-* **[I almost replaced Lovable with a $5 VPS, Dokploy and one MCP gateway](https://dev.to/k2sodev/i-almost-replaced-lovable-with-a-5-vps-dokploy-and-one-mcp-gateway-3mn9)** — **4** 👍 · 4 💬
+* **[Caddy 2.11's default post-quantum key exchange sends six times more handshake bytes](https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3)** — **12** 👍 · 2 💬
+* **[I open-sourced the cockpit we used to understand huge engineering departments in days](https://dev.to/yaniv_zalevas_a91253c56bb/i-open-sourced-the-cockpit-we-used-to-understand-huge-engineering-departments-in-days-4h6m)** — **2** 👍 · 0 💬
+* **[My Paper Trading Bot Went Live This Week — Here's the Guardrail Stack I Built First](https://dev.to/samhartley_dev/my-paper-trading-bot-went-live-this-week-heres-the-guardrail-stack-i-built-first-e48)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
 * **[What Actually Causes Buffering in Video Streaming? A Practical Look at the Network Stack](https://dev.to/bilal_elabbadi_c5f7287dd0/what-actually-causes-buffering-in-video-streaming-a-practical-look-at-the-network-stack-28mb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-19T00:59:39.239117+00:00 -->
+<!-- Log-ID: 2026-09-19T16:17:26.191674+00:00 -->
