@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-19 19:47 (UTC)
+📅 **Last Update:** 2026-09-20 00:42 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
-* **[Caddy 2.11's default post-quantum key exchange sends six times more handshake bytes](https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3)** — **12** 👍 · 2 💬
-* **[I open-sourced the cockpit we used to understand huge engineering departments in days](https://dev.to/yaniv_zalevas_a91253c56bb/i-open-sourced-the-cockpit-we-used-to-understand-huge-engineering-departments-in-days-4h6m)** — **2** 👍 · 0 💬
+* **[Stop Letting Your README Rot: Auto-Sync It on Every Push](https://dev.to/readmeforge/stop-letting-your-readme-rot-auto-sync-it-on-every-push-ade)** — **2** 👍 · 0 💬
+* **[The crash retry that posted the same landing task twice](https://dev.to/ilya_mozerov_867dbdd91feb/the-crash-retry-that-posted-the-same-landing-task-twice-34ki)** — **1** 👍 · 1 💬
 * **[DNS change monitoring: the seven false alarms I had to kill](https://dev.to/dnsnotify/dns-change-monitoring-the-seven-false-alarms-i-had-to-kill-hh3)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
 * **[What Actually Causes Buffering in Video Streaming? A Practical Look at the Network Stack](https://dev.to/bilal_elabbadi_c5f7287dd0/what-actually-causes-buffering-in-video-streaming-a-practical-look-at-the-network-stack-28mb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-19T19:47:27.822633+00:00 -->
+<!-- Log-ID: 2026-09-20T00:42:56.447342+00:00 -->
