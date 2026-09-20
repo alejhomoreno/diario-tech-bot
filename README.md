@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-20 00:42 (UTC)
+📅 **Last Update:** 2026-09-20 16:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[The Day Our Green CI Pipeline Deployed an 11-Day-Old Bug to Production](https://dev.to/sandeep_chagalakonda_6e60/the-day-our-green-ci-pipeline-deployed-an-11-day-old-bug-to-production-1n3c)** — **1** 👍 · 0 💬
-* **[From Thread Pools to Virtual Threads: How Spring Boot on Java 21 Scales in Production](https://dev.to/nikz11/from-thread-pools-to-virtual-threads-how-spring-boot-on-java-21-scales-in-production-38im)** — **1** 👍 · 0 💬
-* **[What Go Taught Us About Java Garbage Collection](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha)** — **0** 👍 · 0 💬
+* **[What Go Taught Us About Java Garbage Collection](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha)** — **5** 👍 · 0 💬
+* **[I Built Shree AI OS — A Deterministic AI Runtime for Java 21](https://dev.to/darshanrathod04/i-built-shree-ai-os-a-deterministic-ai-runtime-for-java-21-3d61)** — **1** 👍 · 0 💬
+* **[Cronsmith: Stop hand-writing cron: build and parse it in Java](https://dev.to/paganini2008/stop-hand-writing-cron-build-and-parse-it-in-java-3gkj)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Stop Letting Your README Rot: Auto-Sync It on Every Push](https://dev.to/readmeforge/stop-letting-your-readme-rot-auto-sync-it-on-every-push-ade)** — **2** 👍 · 0 💬
-* **[The crash retry that posted the same landing task twice](https://dev.to/ilya_mozerov_867dbdd91feb/the-crash-retry-that-posted-the-same-landing-task-twice-34ki)** — **1** 👍 · 1 💬
-* **[DNS change monitoring: the seven false alarms I had to kill](https://dev.to/dnsnotify/dns-change-monitoring-the-seven-false-alarms-i-had-to-kill-hh3)** — **1** 👍 · 0 💬
+* **[Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials](https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj)** — **6** 👍 · 0 💬
+* **[The secret was correct. The first byte wasn't.](https://dev.to/redcapra/the-secret-was-correct-the-first-byte-wasnt-6p9)** — **2** 👍 · 0 💬
+* **[Nine teams were taking turns on one staging environment](https://dev.to/sergey_shinder_ab2d943365/nine-teams-were-taking-turns-on-one-staging-environment-5h16)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)** — **1** 👍 · 1 💬
 * **[What Actually Causes Buffering in Video Streaming? A Practical Look at the Network Stack](https://dev.to/bilal_elabbadi_c5f7287dd0/what-actually-causes-buffering-in-video-streaming-a-practical-look-at-the-network-stack-28mb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-20T00:42:56.447342+00:00 -->
+<!-- Log-ID: 2026-09-20T16:42:11.293053+00:00 -->
