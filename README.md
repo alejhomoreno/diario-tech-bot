@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-21 00:52 (UTC)
+📅 **Last Update:** 2026-09-21 18:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[What Go Taught Us About Java Garbage Collection](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha)** — **5** 👍 · 0 💬
-* **[Java Learning Series - Product Management System with CRUD operations for beginners](https://dev.to/dev_saravanan_journey/java-learning-series-product-management-system-with-crud-operations-for-beginners-1ef2)** — **2** 👍 · 0 💬
-* **[I Built the MVP First. Then I Wrote the README.](https://dev.to/nocklock/i-built-the-mvp-first-then-i-wrote-the-readme-1be7)** — **1** 👍 · 1 💬
+* **[INTRODUTION OF Java](https://dev.to/keerthana_2004/introdution-of-java-5bn6)** — **5** 👍 · 0 💬
+* **[JAVA INTRO](https://dev.to/shobika_003/java-intro-5k2)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials](https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj)** — **16** 👍 · 0 💬
-* **[Docker Sandboxes Changed the Trust Boundary for AI Coding Agents](https://dev.to/raju_dandigam/docker-sandboxes-changed-the-trust-boundary-for-ai-coding-agents-10k6)** — **5** 👍 · 2 💬
-* **[Why AI Code Breaks in Production: The "Context Ceiling" of Distributed Systems](https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc)** — **5** 👍 · 2 💬
+* **[Traefik 3.6's multi-layer routing held up against 500 concurrent header-spoofing attempts](https://dev.to/alexgeorgiev17/traefik-36s-multi-layer-routing-held-up-against-500-concurrent-header-spoofing-attempts-2ck2)** — **6** 👍 · 0 💬
+* **[I Built a Multi-Region Pilot Light on AWS. The Diagram Was the Easy Part.](https://dev.to/rykiel-dev/i-built-a-multi-region-pilot-light-on-aws-the-diagram-was-the-easy-part-ebi)** — **2** 👍 · 1 💬
+* **[The CoreDNS Black Hole: how one dead DNS pod broke our API gateway](https://dev.to/akarshan/the-coredns-black-hole-how-one-dead-dns-pod-broke-our-api-gateway-4hh3)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[What breaks when you self-host a TURN server (coturn — symptom, cause, fix)](https://dev.to/ailaohuyu/what-breaks-when-you-self-host-a-turn-server-coturn-symptom-cause-fix-g10)** — **1** 👍 · 0 💬
-* **[Two hosts, one wire, and a hairpin through the router](https://dev.to/vainamoinen/two-hosts-one-wire-and-a-hairpin-through-the-router-1f40)** — **0** 👍 · 0 💬
-* **[I got tired of checking which process was using my ports, so I built Portop](https://dev.to/senseipado/i-got-tired-of-checking-which-process-was-using-my-ports-so-i-built-portop-3n9)** — **0** 👍 · 0 💬
+* **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
+* **[The CoreDNS Black Hole: how one dead DNS pod broke our API gateway](https://dev.to/akarshan/the-coredns-black-hole-how-one-dead-dns-pod-broke-our-api-gateway-4hh3)** — **2** 👍 · 0 💬
+* **[2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://dev.to/mark0_617b45cda9782a/2026-09-17-seven-days-of-scans-and-probes-and-web-traffic-hitting-my-web-server-24gb)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-21T00:52:14.616954+00:00 -->
+<!-- Log-ID: 2026-09-21T18:31:24.513596+00:00 -->
