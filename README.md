@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-20 20:00 (UTC)
+📅 **Last Update:** 2026-09-21 00:52 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials](https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj)** — **16** 👍 · 0 💬
-* **[Docker Sandboxes Changed the Trust Boundary for AI Coding Agents](https://dev.to/raju_dandigam/docker-sandboxes-changed-the-trust-boundary-for-ai-coding-agents-10k6)** — **4** 👍 · 2 💬
-* **[The secret was correct. The first byte wasn't.](https://dev.to/redcapra/the-secret-was-correct-the-first-byte-wasnt-6p9)** — **2** 👍 · 0 💬
+* **[Docker Sandboxes Changed the Trust Boundary for AI Coding Agents](https://dev.to/raju_dandigam/docker-sandboxes-changed-the-trust-boundary-for-ai-coding-agents-10k6)** — **5** 👍 · 2 💬
+* **[Why AI Code Breaks in Production: The "Context Ceiling" of Distributed Systems](https://dev.to/tarikmostafa/why-ai-code-breaks-in-production-the-context-ceiling-of-distributed-systems-5glc)** — **5** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Two hosts, one wire, and a hairpin through the router](https://dev.to/vainamoinen/two-hosts-one-wire-and-a-hairpin-through-the-router-1f40)** — **0** 👍 · 0 💬
 * **[I got tired of checking which process was using my ports, so I built Portop](https://dev.to/senseipado/i-got-tired-of-checking-which-process-was-using-my-ports-so-i-built-portop-3n9)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-20T20:00:56.690545+00:00 -->
+<!-- Log-ID: 2026-09-21T00:52:14.616954+00:00 -->
