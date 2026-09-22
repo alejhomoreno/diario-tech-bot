@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-22 17:32 (UTC)
+📅 **Last Update:** 2026-09-22 20:40 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Java Task](https://dev.to/g_gokul_ganapathy/java-task-2jf8)** — **3** 👍 · 0 💬
 * **[Java Introduction](https://dev.to/veera_ganapathi/java-introduction-4igk)** — **2** 👍 · 0 💬
-* **[Java Error task](https://dev.to/veera_ganapathi/java-error-task-89)** — **2** 👍 · 0 💬
+* **[Spring Boot Learning by doing](https://dev.to/techtester99/spring-boot-learning-by-doing-21mf)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[PostgreSQL 19's data checksums can now be switched on without stopping the server](https://dev.to/alexgeorgiev17/postgresql-19s-data-checksums-can-now-be-switched-on-without-stopping-the-server-fn)** — **11** 👍 · 0 💬
 * **[The Junior Ops Pipeline Did Not Collapse. It Never Existed.](https://dev.to/devopsdaily/the-junior-ops-pipeline-did-not-collapse-it-never-existed-1ke3)** — **5** 👍 · 0 💬
-* **[Provisioning a Functional Virtual Machine with Terraform on Azure](https://dev.to/prayo25/provisioning-a-functional-virtual-machine-with-terraform-on-azure-3mg6)** — **1** 👍 · 5 💬
+* **[Google Open Sourced AX, an Orchestrator for Billions of AI Agents. Hacker News Isn't Buying the Number.](https://dev.to/jamilxt/google-open-sourced-ax-an-orchestrator-for-billions-of-ai-agents-hacker-news-isnt-buying-the-5hgf)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
 * **[What an attacker gains from CVE-2026-7273 on a Zyxel GS1900 switch](https://dev.to/kozhevniko/what-an-attacker-gains-from-cve-2026-7273-on-a-zyxel-gs1900-switch-5col)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-22T17:32:40.077322+00:00 -->
+<!-- Log-ID: 2026-09-22T20:40:41.446755+00:00 -->
