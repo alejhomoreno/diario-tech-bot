@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-22 01:27 (UTC)
+📅 **Last Update:** 2026-09-22 17:32 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[What Go Taught Us About Java Garbage Collection](https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha)** — **5** 👍 · 0 💬
-* **[INTRODUTION OF Java](https://dev.to/keerthana_2004/introdution-of-java-5bn6)** — **5** 👍 · 0 💬
-* **[JAVA INTRO](https://dev.to/shobika_003/java-intro-5k2)** — **5** 👍 · 0 💬
+* **[Java Task](https://dev.to/g_gokul_ganapathy/java-task-2jf8)** — **3** 👍 · 0 💬
+* **[Java Introduction](https://dev.to/veera_ganapathi/java-introduction-4igk)** — **2** 👍 · 0 💬
+* **[Java Error task](https://dev.to/veera_ganapathi/java-error-task-89)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Traefik 3.6's multi-layer routing held up against 500 concurrent header-spoofing attempts](https://dev.to/alexgeorgiev17/traefik-36s-multi-layer-routing-held-up-against-500-concurrent-header-spoofing-attempts-2ck2)** — **7** 👍 · 0 💬
-* **[How much traffic can a $6 server handle? I measured it: 9,737 requests a second](https://dev.to/remdore/how-much-traffic-can-a-6-server-handle-i-measured-it-9737-requests-a-second-24il)** — **6** 👍 · 0 💬
-* **[Day 47: Copy Requirements Before the Code, and SQS Has No Priority Feature](https://dev.to/ndcodes/day-47-copy-requirements-before-the-code-and-sqs-has-no-priority-feature-5363)** — **5** 👍 · 0 💬
+* **[PostgreSQL 19's data checksums can now be switched on without stopping the server](https://dev.to/alexgeorgiev17/postgresql-19s-data-checksums-can-now-be-switched-on-without-stopping-the-server-fn)** — **11** 👍 · 0 💬
+* **[The Junior Ops Pipeline Did Not Collapse. It Never Existed.](https://dev.to/devopsdaily/the-junior-ops-pipeline-did-not-collapse-it-never-existed-1ke3)** — **5** 👍 · 0 💬
+* **[Provisioning a Functional Virtual Machine with Terraform on Azure](https://dev.to/prayo25/provisioning-a-functional-virtual-machine-with-terraform-on-azure-3mg6)** — **1** 👍 · 5 💬
 
 ## 🔖 Top Networking
 
+* **[We Put Localhost on the Internet and Watched Who Turned Up](https://dev.to/devopsdaily/we-put-localhost-on-the-internet-and-watched-who-turned-up-58cb)** — **5** 👍 · 0 💬
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
-* **[The CoreDNS Black Hole: how one dead DNS pod broke our API gateway](https://dev.to/akarshan/the-coredns-black-hole-how-one-dead-dns-pod-broke-our-api-gateway-4hh3)** — **2** 👍 · 0 💬
-* **[2026-09-17: Seven days of scans and probes and web traffic hitting my web server](https://dev.to/mark0_617b45cda9782a/2026-09-17-seven-days-of-scans-and-probes-and-web-traffic-hitting-my-web-server-24gb)** — **1** 👍 · 0 💬
+* **[What an attacker gains from CVE-2026-7273 on a Zyxel GS1900 switch](https://dev.to/kozhevniko/what-an-attacker-gains-from-cve-2026-7273-on-a-zyxel-gs1900-switch-5col)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-22T01:27:17.959900+00:00 -->
+<!-- Log-ID: 2026-09-22T17:32:40.077322+00:00 -->
