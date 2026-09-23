@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-23 17:45 (UTC)
+📅 **Last Update:** 2026-09-23 20:53 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Docker Engine 29.8's --umask flag fixes permissions docker exec used to reset](https://dev.to/alexgeorgiev17/docker-engine-298s-umask-flag-fixes-permissions-docker-exec-used-to-reset-edj)** — **13** 👍 · 1 💬
-* **[What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0)** — **11** 👍 · 1 💬
-* **[We Hid 96 Instructions in the Logs an Ops Agent Reads. Here Is What Stopped Them.](https://dev.to/devopsdaily/we-hid-96-instructions-in-the-logs-an-ops-agent-reads-here-is-what-stopped-them-3fec)** — **5** 👍 · 1 💬
+* **[I Compared 5 LLM Gateway Tools for Real-World Production Use](https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p)** — **9** 👍 · 3 💬
+* **[Vibe engineering with Opus 5.5? route by the feedback](https://dev.to/azankhyder/vibe-engineering-with-opus-55-route-by-the-feedback-3i77)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
 * **[Azure Multicloud Interconnect, how Azure and AWS now connect without a middleman](https://dev.to/carlosjcastrog/azure-multicloud-interconnect-how-azure-and-aws-now-connect-without-a-middleman-16jc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-23T17:45:07.363250+00:00 -->
+<!-- Log-ID: 2026-09-23T20:53:03.267410+00:00 -->
