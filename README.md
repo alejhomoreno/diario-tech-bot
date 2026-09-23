@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-23 01:16 (UTC)
+📅 **Last Update:** 2026-09-23 17:45 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Task](https://dev.to/g_gokul_ganapathy/java-task-2jf8)** — **3** 👍 · 0 💬
-* **[Java Introduction](https://dev.to/veera_ganapathi/java-introduction-4igk)** — **2** 👍 · 0 💬
-* **[Spring Boot Learning by doing](https://dev.to/techtester99/spring-boot-learning-by-doing-21mf)** — **1** 👍 · 0 💬
+* **[Native Drag and Drop Meets Cross-Device Continuity](https://dev.to/codenameone/native-drag-and-drop-meets-cross-device-continuity-36nd)** — **5** 👍 · 0 💬
+* **[Interfaces in Java, Explained](https://dev.to/deyems_adesola/interfaces-in-java-explained-4fmm)** — **1** 👍 · 0 💬
+* **[Java Finally Killed Double-Checked Locking. The Code Proves It.](https://dev.to/jamilxt/java-finally-killed-double-checked-locking-the-code-proves-it-3m4i)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[PostgreSQL 19's data checksums can now be switched on without stopping the server](https://dev.to/alexgeorgiev17/postgresql-19s-data-checksums-can-now-be-switched-on-without-stopping-the-server-fn)** — **11** 👍 · 0 💬
-* **[The Junior Ops Pipeline Did Not Collapse. It Never Existed.](https://dev.to/devopsdaily/the-junior-ops-pipeline-did-not-collapse-it-never-existed-1ke3)** — **5** 👍 · 0 💬
-* **[Google Open Sourced AX, an Orchestrator for Billions of AI Agents. Hacker News Isn't Buying the Number.](https://dev.to/jamilxt/google-open-sourced-ax-an-orchestrator-for-billions-of-ai-agents-hacker-news-isnt-buying-the-5hgf)** — **1** 👍 · 1 💬
+* **[Docker Engine 29.8's --umask flag fixes permissions docker exec used to reset](https://dev.to/alexgeorgiev17/docker-engine-298s-umask-flag-fixes-permissions-docker-exec-used-to-reset-edj)** — **13** 👍 · 1 💬
+* **[What Nobody Is Using in Your Google Cloud Projects, and What It Costs](https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0)** — **11** 👍 · 1 💬
+* **[We Hid 96 Instructions in the Logs an Ops Agent Reads. Here Is What Stopped Them.](https://dev.to/devopsdaily/we-hid-96-instructions-in-the-logs-an-ops-agent-reads-here-is-what-stopped-them-3fec)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
 * **[Azure Multicloud Interconnect, how Azure and AWS now connect without a middleman](https://dev.to/carlosjcastrog/azure-multicloud-interconnect-how-azure-and-aws-now-connect-without-a-middleman-16jc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-23T01:16:22.915688+00:00 -->
+<!-- Log-ID: 2026-09-23T17:45:07.363250+00:00 -->
