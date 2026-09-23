@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-22 20:40 (UTC)
+📅 **Last Update:** 2026-09-23 01:16 (UTC)
 
 ---
 
@@ -31,6 +31,6 @@
 
 * **[We Put Localhost on the Internet and Watched Who Turned Up](https://dev.to/devopsdaily/we-put-localhost-on-the-internet-and-watched-who-turned-up-58cb)** — **5** 👍 · 0 💬
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
-* **[What an attacker gains from CVE-2026-7273 on a Zyxel GS1900 switch](https://dev.to/kozhevniko/what-an-attacker-gains-from-cve-2026-7273-on-a-zyxel-gs1900-switch-5col)** — **0** 👍 · 0 💬
+* **[Azure Multicloud Interconnect, how Azure and AWS now connect without a middleman](https://dev.to/carlosjcastrog/azure-multicloud-interconnect-how-azure-and-aws-now-connect-without-a-middleman-16jc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-22T20:40:41.446755+00:00 -->
+<!-- Log-ID: 2026-09-23T01:16:22.915688+00:00 -->
