@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-24 01:08 (UTC)
+📅 **Last Update:** 2026-09-24 17:46 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Native Drag and Drop Meets Cross-Device Continuity](https://dev.to/codenameone/native-drag-and-drop-meets-cross-device-continuity-36nd)** — **5** 👍 · 0 💬
-* **[Interfaces in Java, Explained](https://dev.to/deyems_adesola/interfaces-in-java-explained-4fmm)** — **1** 👍 · 0 💬
-* **[Java Finally Killed Double-Checked Locking. The Code Proves It.](https://dev.to/jamilxt/java-finally-killed-double-checked-locking-the-code-proves-it-3m4i)** — **1** 👍 · 0 💬
+* **[The Benchmark That's Half Traps — and Why That's Brilliant](https://dev.to/alimafana/the-benchmark-thats-half-traps-and-why-thats-brilliant-5bl9)** — **8** 👍 · 0 💬
+* **[Javadoc That Feels Like Your Website](https://dev.to/codenameone/javadoc-that-feels-like-your-website-4a6l)** — **5** 👍 · 0 💬
+* **[Building Security-monitoring in Finovara](https://dev.to/m4rc1nek/building-security-monitoring-in-finovara-lia)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Docker Engine 29.8's --umask flag fixes permissions docker exec used to reset](https://dev.to/alexgeorgiev17/docker-engine-298s-umask-flag-fixes-permissions-docker-exec-used-to-reset-edj)** — **13** 👍 · 1 💬
-* **[I Compared 5 LLM Gateway Tools for Real-World Production Use](https://dev.to/devstackcommunity/i-compared-5-llm-gateway-tools-for-real-world-production-use-4n5p)** — **9** 👍 · 3 💬
-* **[Vibe engineering with Opus 5.5? route by the feedback](https://dev.to/azankhyder/vibe-engineering-with-opus-55-route-by-the-feedback-3i77)** — **5** 👍 · 1 💬
+* **[Can AI Trust Its Gut?](https://dev.to/azankhyder/can-ai-trust-its-gut-1le7)** — **10** 👍 · 0 💬
+* **[Stop Mocking Everything in Integration Tests: Why Testcontainers Changed My CI Strategy](https://dev.to/mindinu/stop-mocking-everything-in-integration-tests-why-testcontainers-changed-my-ci-strategy-2akl)** — **5** 👍 · 0 💬
+* **[Git 2.55's reftable backend creates 10,000 refs in 40ms instead of 650ms](https://dev.to/alexgeorgiev17/git-255s-reftable-backend-creates-10000-refs-in-40ms-instead-of-650ms-inn)** — **3** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[TCP vs UDP: The Two Ways to Move Data, and Why Neither Is "Better"](https://dev.to/dehemi_fabio/tcp-vs-udp-the-two-ways-to-move-data-and-why-neither-is-better-b05)** — **5** 👍 · 0 💬
 * **[Azure Multicloud Interconnect, how Azure and AWS now connect without a middleman](https://dev.to/carlosjcastrog/azure-multicloud-interconnect-how-azure-and-aws-now-connect-without-a-middleman-16jc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-24T01:08:17.531095+00:00 -->
+<!-- Log-ID: 2026-09-24T17:46:36.881242+00:00 -->
