@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-25 17:48 (UTC)
+📅 **Last Update:** 2026-09-25 20:53 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Followed the n8n AWS Docs and It Broke at the First Command](https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k)** — **16** 👍 · 1 💬
-* **[I Think AI Is Making Coding Easier and Learning Harder](https://dev.to/jaideepparashar/i-think-ai-is-making-coding-easier-and-learning-harder-5hjf)** — **7** 👍 · 5 💬
+* **[I Followed the n8n AWS Docs and It Broke at the First Command](https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k)** — **16** 👍 · 2 💬
 * **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** — **7** 👍 · 0 💬
+* **[GRO Hid My TLS Handshake's Real Packet Split, Even Over a Real Network](https://dev.to/alexgeorgiev17/gro-hid-my-tls-handshakes-real-packet-split-even-over-a-real-network-2eec)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Copying Chrome's handshake opened 18 doors that had been closed](https://dev.to/remdore/copying-chromes-handshake-opened-18-doors-that-had-been-closed-5h75)** — **6** 👍 · 1 💬
+* **[GRO Hid My TLS Handshake's Real Packet Split, Even Over a Real Network](https://dev.to/alexgeorgiev17/gro-hid-my-tls-handshakes-real-packet-split-even-over-a-real-network-2eec)** — **7** 👍 · 0 💬
 * **[What a server knows about you before it reads a single header](https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig)** — **6** 👍 · 0 💬
-* **[Cloudflare Freed 100 TB of RAM From Its Hash Rings. Your Proxy May Have the Opposite Problem](https://dev.to/devopsdaily/cloudflare-freed-100-tb-of-ram-from-its-hash-rings-your-proxy-may-have-the-opposite-problem-5b2)** — **5** 👍 · 0 💬
+* **[Day 49: A Deployment Keeps Pods Alive, and Routable Is Not Reachable](https://dev.to/ndcodes/day-49-a-deployment-keeps-pods-alive-and-routable-is-not-reachable-2noh)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-25T17:48:15.565742+00:00 -->
+<!-- Log-ID: 2026-09-25T20:53:35.307208+00:00 -->
