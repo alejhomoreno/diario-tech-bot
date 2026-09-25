@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-25 01:09 (UTC)
+📅 **Last Update:** 2026-09-25 17:48 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Can AI Trust Its Gut?](https://dev.to/azankhyder/can-ai-trust-its-gut-1le7)** — **10** 👍 · 0 💬
-* **[Git 2.55's reftable backend creates 10,000 refs in 40ms instead of 650ms](https://dev.to/alexgeorgiev17/git-255s-reftable-backend-creates-10000-refs-in-40ms-instead-of-650ms-inn)** — **9** 👍 · 6 💬
-* **[Stop Mocking Everything in Integration Tests: Why Testcontainers Changed My CI Strategy](https://dev.to/mindinu/stop-mocking-everything-in-integration-tests-why-testcontainers-changed-my-ci-strategy-2akl)** — **5** 👍 · 0 💬
+* **[I Followed the n8n AWS Docs and It Broke at the First Command](https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k)** — **16** 👍 · 1 💬
+* **[I Think AI Is Making Coding Easier and Learning Harder](https://dev.to/jaideepparashar/i-think-ai-is-making-coding-easier-and-learning-harder-5hjf)** — **7** 👍 · 5 💬
+* **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What a server knows about you before it reads a single header](https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig)** — **6** 👍 · 0 💬
 * **[Cloudflare Freed 100 TB of RAM From Its Hash Rings. Your Proxy May Have the Opposite Problem](https://dev.to/devopsdaily/cloudflare-freed-100-tb-of-ram-from-its-hash-rings-your-proxy-may-have-the-opposite-problem-5b2)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-25T01:09:49.446589+00:00 -->
+<!-- Log-ID: 2026-09-25T17:48:15.565742+00:00 -->
