@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-26 01:13 (UTC)
+📅 **Last Update:** 2026-09-26 16:54 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Javadoc That Feels Like Your Website](https://dev.to/codenameone/javadoc-that-feels-like-your-website-4a6l)** — **5** 👍 · 0 💬
 * **[Building Security-monitoring in Finovara](https://dev.to/m4rc1nek/building-security-monitoring-in-finovara-lia)** — **5** 👍 · 0 💬
-* **[Native Drag and Drop Meets Cross-Device Continuity](https://dev.to/codenameone/native-drag-and-drop-meets-cross-device-continuity-36nd)** — **5** 👍 · 0 💬
+* **[Spring boot learning by doing](https://dev.to/techtester99/spring-boot-learning-by-doing-4b78)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,12 +25,12 @@
 
 * **[I Followed the n8n AWS Docs and It Broke at the First Command](https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k)** — **16** 👍 · 2 💬
 * **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** — **7** 👍 · 0 💬
-* **[GRO Hid My TLS Handshake's Real Packet Split, Even Over a Real Network](https://dev.to/alexgeorgiev17/gro-hid-my-tls-handshakes-real-packet-split-even-over-a-real-network-2eec)** — **7** 👍 · 0 💬
+* **[The 1.4 milliseconds that separate managed Postgres from a local one](https://dev.to/remdore/the-14-milliseconds-that-separate-managed-postgres-from-a-local-one-26de)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Day 49: A Deployment Keeps Pods Alive, and Routable Is Not Reachable](https://dev.to/ndcodes/day-49-a-deployment-keeps-pods-alive-and-routable-is-not-reachable-2noh)** — **11** 👍 · 0 💬
-* **[GRO Hid My TLS Handshake's Real Packet Split, Even Over a Real Network](https://dev.to/alexgeorgiev17/gro-hid-my-tls-handshakes-real-packet-split-even-over-a-real-network-2eec)** — **7** 👍 · 0 💬
 * **[What a server knows about you before it reads a single header](https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig)** — **6** 👍 · 0 💬
+* **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
+* **[What 255 bytes of padding can and can’t do for an encrypted tunnel](https://dev.to/__bf699f275acc/what-255-bytes-of-padding-can-and-cant-do-for-an-encrypted-tunnel-1m93)** — **4** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-26T01:13:01.873633+00:00 -->
+<!-- Log-ID: 2026-09-26T16:54:41.051452+00:00 -->
