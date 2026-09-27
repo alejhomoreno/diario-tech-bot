@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-26 20:24 (UTC)
+📅 **Last Update:** 2026-09-27 01:06 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[One Java Model from the App to PostgreSQL](https://dev.to/codenameone/one-java-model-from-the-app-to-postgresql-3oke)** — **5** 👍 · 1 💬
 * **[Javadoc That Feels Like Your Website](https://dev.to/codenameone/javadoc-that-feels-like-your-website-4a6l)** — **5** 👍 · 0 💬
 * **[Large SQS and SNS messages in Kotlin: the extended client pattern without Java baggage](https://dev.to/christophsens/large-sqs-and-sns-messages-in-kotlin-the-extended-client-pattern-without-java-baggage-l9d)** — **1** 👍 · 1 💬
-* **[Spring boot learning by doing](https://dev.to/techtester99/spring-boot-learning-by-doing-4b78)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** — **7** 👍 · 0 💬
-* **[The 1.4 milliseconds that separate managed Postgres from a local one](https://dev.to/remdore/the-14-milliseconds-that-separate-managed-postgres-from-a-local-one-26de)** — **7** 👍 · 0 💬
 * **[Staging Went Down Last Month. Our Customers Tweeted About It.](https://dev.to/dhruv_malaviya_cdcc71e595/staging-went-down-last-month-our-customers-tweeted-about-it-4hfj)** — **5** 👍 · 1 💬
+* **[Your Agent Telemetry Has a Cardinality Problem](https://dev.to/raju_dandigam/your-agent-telemetry-has-a-cardinality-problem-586j)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
 * **[What 255 bytes of padding can and can’t do for an encrypted tunnel](https://dev.to/__bf699f275acc/what-255-bytes-of-padding-can-and-cant-do-for-an-encrypted-tunnel-1m93)** — **4** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-26T20:24:17.653102+00:00 -->
+<!-- Log-ID: 2026-09-27T01:06:13.248727+00:00 -->
