@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-27 17:34 (UTC)
+📅 **Last Update:** 2026-09-27 20:37 (UTC)
 
 ---
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[containerd 2.2's mount manager panics on a one-mount mkfs chain](https://dev.to/alexgeorgiev17/containerd-22s-mount-manager-panics-on-a-one-mount-mkfs-chain-545n)** — **6** 👍 · 1 💬
-* **[We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)** — **5** 👍 · 6 💬
+* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **6** 👍 · 1 💬
 * **[Can Claude Code and Cursor actually enforce your org rules and coding standards?](https://dev.to/dev_kiran/can-claude-code-and-cursor-actually-enforce-your-org-rules-and-coding-standards-1e44)** — **5** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
-* **[What a server knows about you before it reads a single header](https://dev.to/remdore/what-a-server-knows-about-you-before-it-reads-a-single-header-hig)** — **6** 👍 · 0 💬
+* **[Dev log #23 Polishing the stack: Diagrams, async shutdowns, and a whole lot of code reviews](https://dev.to/yashksaini/dev-log-polishing-the-stack-diagrams-async-shutdowns-and-a-whole-lot-of-code-reviews-162b)** — **11** 👍 · 2 💬
+* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **6** 👍 · 1 💬
 * **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
-* **[What 255 bytes of padding can and can’t do for an encrypted tunnel](https://dev.to/__bf699f275acc/what-255-bytes-of-padding-can-and-cant-do-for-an-encrypted-tunnel-1m93)** — **4** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-27T17:34:46.089687+00:00 -->
+<!-- Log-ID: 2026-09-27T20:37:59.978715+00:00 -->
