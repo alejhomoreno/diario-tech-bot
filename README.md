@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-27 01:06 (UTC)
+📅 **Last Update:** 2026-09-27 17:34 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[One Java Model from the App to PostgreSQL](https://dev.to/codenameone/one-java-model-from-the-app-to-postgresql-3oke)** — **5** 👍 · 1 💬
-* **[Javadoc That Feels Like Your Website](https://dev.to/codenameone/javadoc-that-feels-like-your-website-4a6l)** — **5** 👍 · 0 💬
-* **[Large SQS and SNS messages in Kotlin: the extended client pattern without Java baggage](https://dev.to/christophsens/large-sqs-and-sns-messages-in-kotlin-the-extended-client-pattern-without-java-baggage-l9d)** — **1** 👍 · 1 💬
+* **[Concurrency Programming (3): Mutexes — Atomicity, Visibility, and Ordering at the Language Level](https://dev.to/thinkerqaq/concurrency-programming-3-mutexes-atomicity-visibility-and-ordering-at-the-language-level-1h3j)** — **1** 👍 · 0 💬
+* **[Customizing Keycloak: Themes, Login Flows, and Disabled-User Handling](https://dev.to/gnauqthebeast/customizing-keycloak-themes-login-flows-and-disabled-user-handling-5chf)** — **1** 👍 · 0 💬
+* **[Spring boot learning by doing](https://dev.to/techtester99/spring-boot-learning-by-doing-4b78)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply](https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a)** — **7** 👍 · 0 💬
-* **[Staging Went Down Last Month. Our Customers Tweeted About It.](https://dev.to/dhruv_malaviya_cdcc71e595/staging-went-down-last-month-our-customers-tweeted-about-it-4hfj)** — **5** 👍 · 1 💬
-* **[Your Agent Telemetry Has a Cardinality Problem](https://dev.to/raju_dandigam/your-agent-telemetry-has-a-cardinality-problem-586j)** — **2** 👍 · 1 💬
+* **[containerd 2.2's mount manager panics on a one-mount mkfs chain](https://dev.to/alexgeorgiev17/containerd-22s-mount-manager-panics-on-a-one-mount-mkfs-chain-545n)** — **6** 👍 · 1 💬
+* **[We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)** — **5** 👍 · 6 💬
+* **[Can Claude Code and Cursor actually enforce your org rules and coding standards?](https://dev.to/dev_kiran/can-claude-code-and-cursor-actually-enforce-your-org-rules-and-coding-standards-1e44)** — **5** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
 * **[What 255 bytes of padding can and can’t do for an encrypted tunnel](https://dev.to/__bf699f275acc/what-255-bytes-of-padding-can-and-cant-do-for-an-encrypted-tunnel-1m93)** — **4** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-27T01:06:13.248727+00:00 -->
+<!-- Log-ID: 2026-09-27T17:34:46.089687+00:00 -->
