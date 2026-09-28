@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-27 20:37 (UTC)
+📅 **Last Update:** 2026-09-28 01:25 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[containerd 2.2's mount manager panics on a one-mount mkfs chain](https://dev.to/alexgeorgiev17/containerd-22s-mount-manager-panics-on-a-one-mount-mkfs-chain-545n)** — **6** 👍 · 1 💬
-* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **6** 👍 · 1 💬
-* **[Can Claude Code and Cursor actually enforce your org rules and coding standards?](https://dev.to/dev_kiran/can-claude-code-and-cursor-actually-enforce-your-org-rules-and-coding-standards-1e44)** — **5** 👍 · 3 💬
+* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **8** 👍 · 1 💬
+* **[Before you pick a hosted agent runtime, check what happens at idle](https://dev.to/mishabuildingai/before-you-pick-a-hosted-agent-runtime-check-what-happens-at-idle-4lj7)** — **1** 👍 · 3 💬
+* **[Daily Dose of DevOps — OpenTelemetry: for infrastructure and application teams](https://dev.to/marco13moo/daily-dose-of-devops-opentelemetry-for-infrastructure-and-application-teams-35fj)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
 * **[Dev log #23 Polishing the stack: Diagrams, async shutdowns, and a whole lot of code reviews](https://dev.to/yashksaini/dev-log-polishing-the-stack-diagrams-async-shutdowns-and-a-whole-lot-of-code-reviews-162b)** — **11** 👍 · 2 💬
-* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **6** 👍 · 1 💬
+* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **8** 👍 · 1 💬
 * **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
 
-<!-- Log-ID: 2026-09-27T20:37:59.978715+00:00 -->
+<!-- Log-ID: 2026-09-28T01:25:31.857462+00:00 -->
