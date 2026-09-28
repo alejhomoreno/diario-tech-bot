@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-28 01:25 (UTC)
+📅 **Last Update:** 2026-09-28 20:00 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **8** 👍 · 1 💬
-* **[Before you pick a hosted agent runtime, check what happens at idle](https://dev.to/mishabuildingai/before-you-pick-a-hosted-agent-runtime-check-what-happens-at-idle-4lj7)** — **1** 👍 · 3 💬
-* **[Daily Dose of DevOps — OpenTelemetry: for infrastructure and application teams](https://dev.to/marco13moo/daily-dose-of-devops-opentelemetry-for-infrastructure-and-application-teams-35fj)** — **1** 👍 · 1 💬
+* **[Karpenter Troubleshooting: Pending Pods, Failed Launches, and Nodes That Never Join](https://dev.to/skyhook-radar/karpenter-troubleshooting-pending-pods-failed-launches-and-nodes-that-never-join-467h)** — **6** 👍 · 1 💬
+* **[Fatal: Not a Git Repository? The 60-Second Fix](https://dev.to/mrsaynothing/fatal-not-a-git-repository-the-60-second-fix-2bcj)** — **4** 👍 · 2 💬
+* **[Agent history is unsigned and writable by anyone](https://dev.to/analista_83/agent-history-is-unsigned-and-writable-by-anyone-46c0)** — **1** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
-* **[Dev log #23 Polishing the stack: Diagrams, async shutdowns, and a whole lot of code reviews](https://dev.to/yashksaini/dev-log-polishing-the-stack-diagrams-async-shutdowns-and-a-whole-lot-of-code-reviews-162b)** — **11** 👍 · 2 💬
-* **[A new server gets its first unsolicited packet in 3.77 seconds](https://dev.to/remdore/a-new-server-gets-its-first-unsolicited-packet-in-377-seconds-4cco)** — **8** 👍 · 1 💬
 * **[# Receive buffers and flow control in Rust multiplexer](https://dev.to/__bf699f275acc/-receive-buffers-and-flow-control-in-rust-multiplexer-2cl0)** — **5** 👍 · 0 💬
+* **[Why HTTP/3 Exists: The Limits of HTTP/2 and the Rise of QUIC](https://dev.to/nilesh_vishwakarma_01e134/why-http3-exists-the-limits-of-http2-and-the-rise-of-quic-46d0)** — **1** 👍 · 1 💬
+* **[How to Simulate a Bad Internet Connection on Windows: Test Latency, Packet Loss & Jitter](https://dev.to/donislawdev/how-to-simulate-a-bad-internet-connection-on-windows-test-latency-packet-loss-jitter-2m9d)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-28T01:25:31.857462+00:00 -->
+<!-- Log-ID: 2026-09-28T20:00:57.640310+00:00 -->
