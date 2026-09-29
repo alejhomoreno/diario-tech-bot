@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-28 22:47 (UTC)
+📅 **Last Update:** 2026-09-29 02:29 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[Notes on waiting for a server to boot](https://dev.to/remdore/notes-on-waiting-for-a-server-to-boot-5c9k)** — **6** 👍 · 1 💬
 * **[Karpenter Troubleshooting: Pending Pods, Failed Launches, and Nodes That Never Join](https://dev.to/skyhook-radar/karpenter-troubleshooting-pending-pods-failed-launches-and-nodes-that-never-join-467h)** — **6** 👍 · 1 💬
-* **[Fatal: Not a Git Repository? The 60-Second Fix](https://dev.to/mrsaynothing/fatal-not-a-git-repository-the-60-second-fix-2bcj)** — **4** 👍 · 2 💬
+* **[Knight Capital: How One Forgotten Server Lost $440 Million in 45 Minutes](https://dev.to/vladut02/knight-capital-how-one-forgotten-server-lost-440-million-in-45-minutes-3jd1)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Why HTTP/3 Exists: The Limits of HTTP/2 and the Rise of QUIC](https://dev.to/nilesh_vishwakarma_01e134/why-http3-exists-the-limits-of-http2-and-the-rise-of-quic-46d0)** — **1** 👍 · 1 💬
 * **[How to Simulate a Bad Internet Connection on Windows: Test Latency, Packet Loss & Jitter](https://dev.to/donislawdev/how-to-simulate-a-bad-internet-connection-on-windows-test-latency-packet-loss-jitter-2m9d)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-28T22:47:06.328219+00:00 -->
+<!-- Log-ID: 2026-09-29T02:29:23.481496+00:00 -->
