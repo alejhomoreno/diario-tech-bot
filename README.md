@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-30 01:51 (UTC)
+📅 **Last Update:** 2026-09-30 18:17 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Pausing an agent mid-task and resuming it four minutes later, with its memory intact](https://dev.to/remdore/pausing-an-agent-mid-task-and-resuming-it-four-minutes-later-with-its-memory-intact-1ipg)** — **13** 👍 · 1 💬
-* **[Your Metric Is Not Your State](https://dev.to/kenwalger/your-metric-is-not-your-state-2lfl)** — **8** 👍 · 4 💬
-* **[Stop Waiting for GitHub Actions: Make Your CI Faster Today](https://dev.to/johnnylemonny/stop-waiting-for-github-actions-make-your-ci-faster-today-a2l)** — **8** 👍 · 3 💬
+* **[Your AI guardrail is green. It's also catching nothing.](https://dev.to/rudratosh/your-ai-guardrail-is-green-its-also-catching-nothing-5eel)** — **6** 👍 · 12 💬
+* **[Ollama Connection Refused? The 60-Second Triage](https://dev.to/mrsaynothing/ollama-connection-refused-the-60-second-triage-21jp)** — **5** 👍 · 1 💬
+* **[I Did Recon on My Own Company , Using Only What We Published.](https://dev.to/dhruv_malaviya_cdcc71e595/i-did-recon-on-my-own-company-using-only-what-we-published-6cd)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Notes on waiting for a server to boot](https://dev.to/remdore/notes-on-waiting-for-a-server-to-boot-5c9k)** — **8** 👍 · 1 💬
-* **[Why HTTP/3 Exists: The Limits of HTTP/2 and the Rise of QUIC](https://dev.to/nilesh_vishwakarma_01e134/why-http3-exists-the-limits-of-http2-and-the-rise-of-quic-46d0)** — **1** 👍 · 1 💬
-* **[How to Simulate a Bad Internet Connection on Windows: Test Latency, Packet Loss & Jitter](https://dev.to/donislawdev/how-to-simulate-a-bad-internet-connection-on-windows-test-latency-packet-loss-jitter-2m9d)** — **1** 👍 · 1 💬
+* **[Adaptive Network Diagnostics: Engineering Review](https://dev.to/manivarun_avishetty_db030/adaptive-network-diagnostics-engineering-review-356b)** — **1** 👍 · 0 💬
+* **[DoH JSON from the browser: 5 ways Cloudflare and Google differ](https://dev.to/kassol/doh-json-from-the-browser-5-ways-cloudflare-and-google-differ-4o1o)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-30T01:51:30.230458+00:00 -->
+<!-- Log-ID: 2026-09-30T18:17:41.932372+00:00 -->
