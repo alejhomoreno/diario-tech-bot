@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-30 18:17 (UTC)
+📅 **Last Update:** 2026-09-30 21:41 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Your AI guardrail is green. It's also catching nothing.](https://dev.to/rudratosh/your-ai-guardrail-is-green-its-also-catching-nothing-5eel)** — **6** 👍 · 12 💬
+* **[Your AI guardrail is green. It's also catching nothing.](https://dev.to/rudratosh/your-ai-guardrail-is-green-its-also-catching-nothing-5eel)** — **7** 👍 · 13 💬
 * **[Ollama Connection Refused? The 60-Second Triage](https://dev.to/mrsaynothing/ollama-connection-refused-the-60-second-triage-21jp)** — **5** 👍 · 1 💬
-* **[I Did Recon on My Own Company , Using Only What We Published.](https://dev.to/dhruv_malaviya_cdcc71e595/i-did-recon-on-my-own-company-using-only-what-we-published-6cd)** — **4** 👍 · 0 💬
+* **[I built "boss levels" for my Linux & Docker game: you're on call and prod is down](https://dev.to/doodelinux/i-built-boss-levels-for-my-linux-docker-game-youre-on-call-and-prod-is-down-3p22)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Adaptive Network Diagnostics: Engineering Review](https://dev.to/manivarun_avishetty_db030/adaptive-network-diagnostics-engineering-review-356b)** — **1** 👍 · 0 💬
 * **[DoH JSON from the browser: 5 ways Cloudflare and Google differ](https://dev.to/kassol/doh-json-from-the-browser-5-ways-cloudflare-and-google-differ-4o1o)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-30T18:17:41.932372+00:00 -->
+<!-- Log-ID: 2026-09-30T21:41:26.113538+00:00 -->
