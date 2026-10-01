@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-09-30 21:41 (UTC)
+📅 **Last Update:** 2026-10-01 01:49 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Your AI guardrail is green. It's also catching nothing.](https://dev.to/rudratosh/your-ai-guardrail-is-green-its-also-catching-nothing-5eel)** — **7** 👍 · 13 💬
 * **[Ollama Connection Refused? The 60-Second Triage](https://dev.to/mrsaynothing/ollama-connection-refused-the-60-second-triage-21jp)** — **5** 👍 · 1 💬
-* **[I built "boss levels" for my Linux & Docker game: you're on call and prod is down](https://dev.to/doodelinux/i-built-boss-levels-for-my-linux-docker-game-youre-on-call-and-prod-is-down-3p22)** — **1** 👍 · 0 💬
+* **[Deploying Penpot - Open-Source Design and Prototyping Platform](https://dev.to/vultr/deploying-penpot-open-source-design-and-prototyping-platform-3igd)** — **5** 👍 · 0 💬
+* **[Deploying Ory Keto - Open-Source Permission and Access Control Server](https://dev.to/vultr/deploying-ory-keto-open-source-permission-and-access-control-server-m0j)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Adaptive Network Diagnostics: Engineering Review](https://dev.to/manivarun_avishetty_db030/adaptive-network-diagnostics-engineering-review-356b)** — **1** 👍 · 0 💬
 * **[DoH JSON from the browser: 5 ways Cloudflare and Google differ](https://dev.to/kassol/doh-json-from-the-browser-5-ways-cloudflare-and-google-differ-4o1o)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-09-30T21:41:26.113538+00:00 -->
+<!-- Log-ID: 2026-10-01T01:49:07.830712+00:00 -->
