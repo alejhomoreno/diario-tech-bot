@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-02 18:14 (UTC)
+📅 **Last Update:** 2026-10-02 21:36 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[LangChain4j: Bringing Language Model Orchestration to Java Developers](https://dev.to/said_olano/langchain4j-bringing-language-model-orchestration-to-java-developers-3578)** — **1** 👍 · 1 💬
 * **[Reopening a project after two weeks? I built a tool so I never lose the thread again](https://dev.to/goldman_raf/reopening-a-project-after-two-weeks-i-built-a-tool-so-i-never-lose-the-thread-again-2ppm)** — **1** 👍 · 0 💬
-* **[AI Made Me Faster. It Also Exposed What I Didn't Understand](https://dev.to/nocklock/ai-made-me-faster-it-also-exposed-what-i-didnt-understand-4mbo)** — **0** 👍 · 0 💬
+* **[How I Rebuilt My AI Doctor App with Spring AI and MCP (and Stopped Stuffing Prompts)](https://dev.to/iswayamverma/how-i-rebuilt-my-ai-doctor-app-with-spring-ai-and-mcp-and-stopped-stuffing-prompts-40b1)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **8** 👍 · 1 💬
+* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **14** 👍 · 1 💬
 * **[Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)** — **8** 👍 · 0 💬
-* **[Day 54: A Volume Belongs to the Pod, and a Resource Group's Region Is Only Metadata](https://dev.to/ndcodes/day-54-a-volume-belongs-to-the-pod-and-a-resource-groups-region-is-only-metadata-3gj3)** — **7** 👍 · 1 💬
+* **[Redis says the key is gone. The memory comes back 22 seconds later.](https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Notes on waiting for a server to boot](https://dev.to/remdore/notes-on-waiting-for-a-server-to-boot-5c9k)** — **8** 👍 · 1 💬
-* **[Adaptive Network Diagnostics: Engineering Review](https://dev.to/manivarun_avishetty_db030/adaptive-network-diagnostics-engineering-review-356b)** — **1** 👍 · 0 💬
-* **[DoH JSON from the browser: 5 ways Cloudflare and Google differ](https://dev.to/kassol/doh-json-from-the-browser-5-ways-cloudflare-and-google-differ-4o1o)** — **0** 👍 · 1 💬
+* **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
+* **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-02T18:14:39.647611+00:00 -->
+<!-- Log-ID: 2026-10-02T21:36:51.587136+00:00 -->
