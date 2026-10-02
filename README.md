@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-02 02:01 (UTC)
+📅 **Last Update:** 2026-10-02 18:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Your Code Editor Says More About You Than You Think](https://dev.to/hadil/your-code-editor-says-more-about-you-than-you-think-2jfd)** — **13** 👍 · 3 💬
 * **[LangChain4j: Bringing Language Model Orchestration to Java Developers](https://dev.to/said_olano/langchain4j-bringing-language-model-orchestration-to-java-developers-3578)** — **1** 👍 · 1 💬
-* **[The Java Compiler That Became Its Own Test Case](https://dev.to/codenameone/the-java-compiler-that-became-its-own-test-case-436c)** — **1** 👍 · 0 💬
+* **[Reopening a project after two weeks? I built a tool so I never lose the thread again](https://dev.to/goldman_raf/reopening-a-project-after-two-weeks-i-built-a-tool-so-i-never-lose-the-thread-again-2ppm)** — **1** 👍 · 0 💬
+* **[AI Made Me Faster. It Also Exposed What I Didn't Understand](https://dev.to/nocklock/ai-made-me-faster-it-also-exposed-what-i-didnt-understand-4mbo)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Hacktoberfest 2026 Stopped Counting PRs. Make Your First Ones Anyway, One a Day](https://dev.to/devopsdaily/hacktoberfest-2026-stopped-counting-prs-make-your-first-ones-anyway-one-a-day-377b)** — **16** 👍 · 0 💬
-* **[We Deleted Our CI. The Machine Ships Anyway.](https://dev.to/mrsaynothing/we-deleted-our-ci-the-machine-ships-anyway-ake)** — **5** 👍 · 1 💬
-* **[From “It Works on My Machine” to Azure: Deploying a Dockerized Notes App in 3 Ways, Breaking Things, Fixing Them, and Learning Along the Way](https://dev.to/4thman/from-it-works-on-my-machine-to-azure-deploying-a-dockerized-notes-app-in-3-ways-breaking-2nlk)** — **5** 👍 · 0 💬
+* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **8** 👍 · 1 💬
+* **[Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)** — **8** 👍 · 0 💬
+* **[Day 54: A Volume Belongs to the Pod, and a Resource Group's Region Is Only Metadata](https://dev.to/ndcodes/day-54-a-volume-belongs-to-the-pod-and-a-resource-groups-region-is-only-metadata-3gj3)** — **7** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Adaptive Network Diagnostics: Engineering Review](https://dev.to/manivarun_avishetty_db030/adaptive-network-diagnostics-engineering-review-356b)** — **1** 👍 · 0 💬
 * **[DoH JSON from the browser: 5 ways Cloudflare and Google differ](https://dev.to/kassol/doh-json-from-the-browser-5-ways-cloudflare-and-google-differ-4o1o)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-02T02:01:42.504143+00:00 -->
+<!-- Log-ID: 2026-10-02T18:14:39.647611+00:00 -->
