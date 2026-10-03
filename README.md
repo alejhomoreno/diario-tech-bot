@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-02 21:36 (UTC)
+📅 **Last Update:** 2026-10-03 01:45 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **14** 👍 · 1 💬
+* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **15** 👍 · 1 💬
 * **[Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)** — **8** 👍 · 0 💬
-* **[Redis says the key is gone. The memory comes back 22 seconds later.](https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5)** — **5** 👍 · 0 💬
+* **[Redis says the key is gone. The memory comes back 22 seconds later.](https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Notes on waiting for a server to boot](https://dev.to/remdore/notes-on-waiting-for-a-server-to-boot-5c9k)** — **8** 👍 · 1 💬
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
+* **[tcpcat: an open-source network recon engine in Go with eBPF/AF_XDP and WASM detection](https://dev.to/tcpcat/tcpcat-an-open-source-network-recon-engine-in-go-with-ebpfafxdp-and-wasm-detection-4i31)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-02T21:36:51.587136+00:00 -->
+<!-- Log-ID: 2026-10-03T01:45:17.090705+00:00 -->
