@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-03 17:02 (UTC)
+📅 **Last Update:** 2026-10-03 20:22 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Apple Shouldn't Dictate Your App's Redesign Schedule](https://dev.to/codenameone/apple-shouldnt-dictate-your-apps-redesign-schedule-igh)** — **5** 👍 · 0 💬
 * **[My Java Full Stack Interview Experience 🚀](https://dev.to/narasimma/my-java-full-stack-interview-experience-5eod)** — **5** 👍 · 0 💬
 * **[Who Deletes Resources Created by a Kubernetes Operator?](https://dev.to/shubhamgoel23/who-deletes-resources-created-by-a-kubernetes-operator-4237)** — **1** 👍 · 1 💬
-* **[OpenJDK Banned AI-Generated Code. Here Is Exactly What the Policy Allows](https://dev.to/jamilxt/openjdk-banned-ai-generated-code-here-is-exactly-what-the-policy-allows-ac1)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **15** 👍 · 1 💬
-* **[Redis says the key is gone. The memory comes back 22 seconds later.](https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5)** — **6** 👍 · 0 💬
-* **[Auditing 50 Petabytes of Agent Logs Costs More Than Sandboxing Egress](https://dev.to/reidmarlow/auditing-50-petabytes-of-agent-logs-costs-more-than-sandboxing-egress-3822)** — **2** 👍 · 3 💬
+* **[A service mesh costs 0.16ms at one connection and 86% of your throughput at 32](https://dev.to/remdore/a-service-mesh-costs-016ms-at-one-connection-and-86-of-your-throughput-at-32-4akf)** — **11** 👍 · 0 💬
+* **[How I Led Capacity Planning for an Approximately 1,000x E-Commerce Traffic Spike](https://dev.to/eiji-kudo/how-i-led-capacity-planning-for-an-approximately-1000x-e-commerce-traffic-spike-32g5)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-03T17:02:11.435552+00:00 -->
+<!-- Log-ID: 2026-10-03T20:22:17.297142+00:00 -->
