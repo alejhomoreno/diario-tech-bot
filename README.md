@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-03 01:45 (UTC)
+📅 **Last Update:** 2026-10-03 17:02 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[LangChain4j: Bringing Language Model Orchestration to Java Developers](https://dev.to/said_olano/langchain4j-bringing-language-model-orchestration-to-java-developers-3578)** — **1** 👍 · 1 💬
-* **[Reopening a project after two weeks? I built a tool so I never lose the thread again](https://dev.to/goldman_raf/reopening-a-project-after-two-weeks-i-built-a-tool-so-i-never-lose-the-thread-again-2ppm)** — **1** 👍 · 0 💬
-* **[How I Rebuilt My AI Doctor App with Spring AI and MCP (and Stopped Stuffing Prompts)](https://dev.to/iswayamverma/how-i-rebuilt-my-ai-doctor-app-with-spring-ai-and-mcp-and-stopped-stuffing-prompts-40b1)** — **0** 👍 · 0 💬
+* **[My Java Full Stack Interview Experience 🚀](https://dev.to/narasimma/my-java-full-stack-interview-experience-5eod)** — **5** 👍 · 0 💬
+* **[Who Deletes Resources Created by a Kubernetes Operator?](https://dev.to/shubhamgoel23/who-deletes-resources-created-by-a-kubernetes-operator-4237)** — **1** 👍 · 1 💬
+* **[OpenJDK Banned AI-Generated Code. Here Is Exactly What the Policy Allows](https://dev.to/jamilxt/openjdk-banned-ai-generated-code-here-is-exactly-what-the-policy-allows-ac1)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **15** 👍 · 1 💬
-* **[Building Sarrera: Self-Hosted Enterprise AI Inference Gateway with RBAC, Token Quotas & Telemetry](https://dev.to/gde/building-sarrera-self-hosted-enterprise-ai-inference-gateway-with-rbac-token-quotas-telemetry-316o)** — **8** 👍 · 0 💬
 * **[Redis says the key is gone. The memory comes back 22 seconds later.](https://dev.to/remdore/redis-says-the-key-is-gone-the-memory-comes-back-22-seconds-later-5ap5)** — **6** 👍 · 0 💬
+* **[Auditing 50 Petabytes of Agent Logs Costs More Than Sandboxing Egress](https://dev.to/reidmarlow/auditing-50-petabytes-of-agent-logs-costs-more-than-sandboxing-egress-3822)** — **2** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
+* **[Docker Engine 29.7's overlay networking breaks every Swarm task without IPv6](https://dev.to/alexgeorgiev17/docker-engine-297s-overlay-networking-breaks-every-swarm-task-without-ipv6-72l)** — **7** 👍 · 0 💬
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
-* **[tcpcat: an open-source network recon engine in Go with eBPF/AF_XDP and WASM detection](https://dev.to/tcpcat/tcpcat-an-open-source-network-recon-engine-in-go-with-ebpfafxdp-and-wasm-detection-4i31)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-03T01:45:17.090705+00:00 -->
+<!-- Log-ID: 2026-10-03T17:02:11.435552+00:00 -->
