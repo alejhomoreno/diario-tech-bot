@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-03 20:22 (UTC)
+📅 **Last Update:** 2026-10-04 02:25 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A dead Kubernetes node is detected in 3 seconds and keeps receiving traffic for 13](https://dev.to/remdore/a-dead-kubernetes-node-is-detected-in-3-seconds-and-keeps-receiving-traffic-for-13-7fo)** — **15** 👍 · 1 💬
-* **[A service mesh costs 0.16ms at one connection and 86% of your throughput at 32](https://dev.to/remdore/a-service-mesh-costs-016ms-at-one-connection-and-86-of-your-throughput-at-32-4akf)** — **11** 👍 · 0 💬
-* **[How I Led Capacity Planning for an Approximately 1,000x E-Commerce Traffic Spike](https://dev.to/eiji-kudo/how-i-led-capacity-planning-for-an-approximately-1000x-e-commerce-traffic-spike-32g5)** — **5** 👍 · 0 💬
+* **[A service mesh costs 0.16ms at one connection and 86% of your throughput at 32](https://dev.to/remdore/a-service-mesh-costs-016ms-at-one-connection-and-86-of-your-throughput-at-32-4akf)** — **12** 👍 · 0 💬
+* **[Azure Container Apps Guided Project (AZ-2026), Part 5: Traffic Splitting and Revision Management](https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-5-traffic-splitting-and-revision-management-25dl)** — **1** 👍 · 2 💬
+* **[I Added Prometheus to My Go Job Scraper and It Changed How I Think About Production](https://dev.to/aureliopires186/i-added-prometheus-to-my-go-job-scraper-and-it-changed-how-i-think-about-production-3fhm)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-03T20:22:17.297142+00:00 -->
+<!-- Log-ID: 2026-10-04T02:25:34.704453+00:00 -->
