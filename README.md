@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-04 02:25 (UTC)
+📅 **Last Update:** 2026-10-04 17:20 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Apple Shouldn't Dictate Your App's Redesign Schedule](https://dev.to/codenameone/apple-shouldnt-dictate-your-apps-redesign-schedule-igh)** — **5** 👍 · 0 💬
-* **[My Java Full Stack Interview Experience 🚀](https://dev.to/narasimma/my-java-full-stack-interview-experience-5eod)** — **5** 👍 · 0 💬
-* **[Who Deletes Resources Created by a Kubernetes Operator?](https://dev.to/shubhamgoel23/who-deletes-resources-created-by-a-kubernetes-operator-4237)** — **1** 👍 · 1 💬
+* **[We Built a Hackathon Platform Where Every Rule Lives at the Layer That Can't Be Bypassed](https://dev.to/maheshwarianmol/we-built-a-hackathon-platform-where-every-rule-lives-at-the-layer-that-cant-be-bypassed-4546)** — **1** 👍 · 0 💬
+* **[Stop Picking a Side: How to Use Spring Data JPA and jOOQ Together in One Spring Boot App](https://dev.to/jamilxt/stop-picking-a-side-how-to-use-spring-data-jpa-and-jooq-together-in-one-spring-boot-app-4mi1)** — **1** 👍 · 0 💬
+* **[I made every Java challenge in my app a public link you can solve without signing up. Roast the setup?](https://dev.to/nextpatch/i-made-every-java-challenge-in-my-app-a-public-link-you-can-solve-without-signing-up-roast-the-45dh)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[A service mesh costs 0.16ms at one connection and 86% of your throughput at 32](https://dev.to/remdore/a-service-mesh-costs-016ms-at-one-connection-and-86-of-your-throughput-at-32-4akf)** — **12** 👍 · 0 💬
-* **[Azure Container Apps Guided Project (AZ-2026), Part 5: Traffic Splitting and Revision Management](https://dev.to/rahimah_dev/azure-container-apps-guided-project-az-2026-part-5-traffic-splitting-and-revision-management-25dl)** — **1** 👍 · 2 💬
-* **[I Added Prometheus to My Go Job Scraper and It Changed How I Think About Production](https://dev.to/aureliopires186/i-added-prometheus-to-my-go-job-scraper-and-it-changed-how-i-think-about-production-3fhm)** — **1** 👍 · 0 💬
+* **[Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB](https://dev.to/alexgeorgiev17/valkey-92s-forkless-bgsave-cuts-my-memory-spike-from-350mb-to-10mb-23km)** — **7** 👍 · 0 💬
+* **[Why I’m building a unified DevOps OS to kill context switching at 16](https://dev.to/ejoyment/why-im-building-a-unified-devops-os-to-kill-context-switching-at-16-1hkm)** — **2** 👍 · 0 💬
+* **[AI Coding Agents Are Leaking Credentials: Cursor, Claude Code, Copilot, and MCP](https://dev.to/gitguardian/ai-coding-agents-are-leaking-credentials-cursor-claude-code-copilot-and-mcp-2883)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-04T02:25:34.704453+00:00 -->
+<!-- Log-ID: 2026-10-04T17:20:04.339912+00:00 -->
