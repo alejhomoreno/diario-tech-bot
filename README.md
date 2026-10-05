@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-05 01:39 (UTC)
+📅 **Last Update:** 2026-10-05 21:10 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[iOS 27 Glass You Can Choose, Measure, and Test](https://dev.to/codenameone/ios-27-glass-you-can-choose-measure-and-test-45ce)** — **5** 👍 · 0 💬
-* **[Java Learning Series - Exploring Comparable and Comparator Interface and it's methods](https://dev.to/dev_saravanan_journey/java-learning-series-exploring-comparable-and-comparator-interface-and-its-methods-1on3)** — **2** 👍 · 0 💬
+* **[Your Social Network: When "Optimize It" Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)** — **1** 👍 · 0 💬
+* **[I benchmarked 4 vector DBs with identical vectors — retrieval was identical, scores were not](https://dev.to/ragleap/i-benchmarked-4-vector-dbs-with-identical-vectors-retrieval-was-identical-scores-were-not-5hlo)** — **1** 👍 · 0 💬
 * **[We Built a Hackathon Platform Where Every Rule Lives at the Layer That Can't Be Bypassed](https://dev.to/maheshwarianmol/we-built-a-hackathon-platform-where-every-rule-lives-at-the-layer-that-cant-be-bypassed-4546)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[My Health Check Watched the Wrong File](https://dev.to/kenielzep97/my-health-check-watched-the-wrong-file-p7h)** — **15** 👍 · 1 💬
-* **[Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB](https://dev.to/alexgeorgiev17/valkey-92s-forkless-bgsave-cuts-my-memory-spike-from-350mb-to-10mb-23km)** — **8** 👍 · 0 💬
-* **[Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)](https://dev.to/thegdsks/install-a-self-hosted-paas-on-a-5-vps-in-five-minutes-levelrail-3f8j)** — **4** 👍 · 0 💬
+* **[I forked a live AI agent three ways, and every copy came up with its web server already running](https://dev.to/remdore/i-forked-a-live-ai-agent-three-ways-and-every-copy-came-up-with-its-web-server-already-running-8a6)** — **16** 👍 · 1 💬
+* **[Touch Grass: 6 Project Ideas for People Who Live in a Terminal (Hacktoberfest DEV Challenge, Week 1)](https://dev.to/devopsdaily/touch-grass-6-project-ideas-for-people-who-live-in-a-terminal-hacktoberfest-dev-challenge-week-1-1e7n)** — **11** 👍 · 0 💬
+* **[The DevOps Toolchain Every Beginner Needs](https://dev.to/anderson-devvs/the-devops-toolchain-every-beginner-needs-3gp3)** — **10** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[Docker Engine 29.7's overlay networking breaks every Swarm task without IPv6](https://dev.to/alexgeorgiev17/docker-engine-297s-overlay-networking-breaks-every-swarm-task-without-ipv6-72l)** — **7** 👍 · 0 💬
-* **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
-* **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
+* **[Dev log #24 Hardening the p2p stack: From flaky tests to WebSocket fixes](https://dev.to/yashksaini/dev-log-24-hardening-the-p2p-stack-from-flaky-tests-to-websocket-fixes-55f)** — **14** 👍 · 0 💬
+* **[nginx 1.29.6 moves cookie-based session affinity out of nginx Plus](https://dev.to/alexgeorgiev17/nginx-1296-moves-cookie-based-session-affinity-out-of-nginx-plus-26c)** — **10** 👍 · 1 💬
+* **[Subsea Backbone: The Geopolitics and Engineering of Fiber-Optic Transoceanic Cables](https://dev.to/njenga_nganga_00063bc67/subsea-backbone-the-geopolitics-and-engineering-of-fiber-optic-transoceanic-cables-4j06)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-05T01:39:16.777060+00:00 -->
+<!-- Log-ID: 2026-10-05T21:10:37.181224+00:00 -->
