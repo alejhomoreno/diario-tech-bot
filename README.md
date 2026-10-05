@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-04 20:40 (UTC)
+📅 **Last Update:** 2026-10-05 01:39 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[iOS 27 Glass You Can Choose, Measure, and Test](https://dev.to/codenameone/ios-27-glass-you-can-choose-measure-and-test-45ce)** — **5** 👍 · 0 💬
 * **[Java Learning Series - Exploring Comparable and Comparator Interface and it's methods](https://dev.to/dev_saravanan_journey/java-learning-series-exploring-comparable-and-comparator-interface-and-its-methods-1on3)** — **2** 👍 · 0 💬
 * **[We Built a Hackathon Platform Where Every Rule Lives at the Layer That Can't Be Bypassed](https://dev.to/maheshwarianmol/we-built-a-hackathon-platform-where-every-rule-lives-at-the-layer-that-cant-be-bypassed-4546)** — **1** 👍 · 0 💬
-* **[Stop Picking a Side: How to Use Spring Data JPA and jOOQ Together in One Spring Boot App](https://dev.to/jamilxt/stop-picking-a-side-how-to-use-spring-data-jpa-and-jooq-together-in-one-spring-boot-app-4mi1)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[My Health Check Watched the Wrong File](https://dev.to/kenielzep97/my-health-check-watched-the-wrong-file-p7h)** — **15** 👍 · 0 💬
+* **[My Health Check Watched the Wrong File](https://dev.to/kenielzep97/my-health-check-watched-the-wrong-file-p7h)** — **15** 👍 · 1 💬
 * **[Valkey 9.2's forkless BGSAVE cuts my memory spike from 350MB to 10MB](https://dev.to/alexgeorgiev17/valkey-92s-forkless-bgsave-cuts-my-memory-spike-from-350mb-to-10mb-23km)** — **8** 👍 · 0 💬
-* **[AI Coding Agents Are Leaking Credentials: Cursor, Claude Code, Copilot, and MCP](https://dev.to/gitguardian/ai-coding-agents-are-leaking-credentials-cursor-claude-code-copilot-and-mcp-2883)** — **1** 👍 · 2 💬
+* **[Install a Self-Hosted PaaS on a $5 VPS in Five Minutes (Levelrail)](https://dev.to/thegdsks/install-a-self-hosted-paas-on-a-5-vps-in-five-minutes-levelrail-3f8j)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Router Device List vs Network Scan: What Each One Can Tell You](https://dev.to/deviceshelf/router-device-list-vs-network-scan-what-each-one-can-tell-you-4l21)** — **1** 👍 · 0 💬
 * **[How HTTP Requests Work?](https://dev.to/aryangupta9680/how-http-requests-work-e79)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-04T20:40:32.701418+00:00 -->
+<!-- Log-ID: 2026-10-05T01:39:16.777060+00:00 -->
