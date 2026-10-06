@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-06 02:42 (UTC)
+📅 **Last Update:** 2026-10-06 18:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Your Social Network: When "Optimize It" Is a Trap](https://dev.to/obrutus/your-social-network-when-optimize-it-is-a-trap-162d)** — **1** 👍 · 0 💬
-* **[I benchmarked 4 vector DBs with identical vectors — retrieval was identical, scores were not](https://dev.to/ragleap/i-benchmarked-4-vector-dbs-with-identical-vectors-retrieval-was-identical-scores-were-not-5hlo)** — **1** 👍 · 0 💬
-* **[We Built a Hackathon Platform Where Every Rule Lives at the Layer That Can't Be Bypassed](https://dev.to/maheshwarianmol/we-built-a-hackathon-platform-where-every-rule-lives-at-the-layer-that-cant-be-bypassed-4546)** — **1** 👍 · 0 💬
+* **[Questions I Was Asked in My Kaiser Interview: Java, Spring Boot, Kafka, React and More](https://dev.to/renukapatil/questions-i-was-asked-in-my-kaiser-interview-java-spring-boot-kafka-react-and-more-dfp)** — **5** 👍 · 1 💬
+* **[OpenTelemetry Support from App to Database](https://dev.to/codenameone/opentelemetry-support-from-app-to-database-3dio)** — **5** 👍 · 0 💬
+* **[JPA Inspired ORM from SQLite to PostgreSQL](https://dev.to/codenameone/jpa-inspired-orm-from-sqlite-to-postgresql-15i9)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I forked a live AI agent three ways, and every copy came up with its web server already running](https://dev.to/remdore/i-forked-a-live-ai-agent-three-ways-and-every-copy-came-up-with-its-web-server-already-running-8a6)** — **16** 👍 · 1 💬
-* **[Touch Grass: 6 Project Ideas for People Who Live in a Terminal (Hacktoberfest DEV Challenge, Week 1)](https://dev.to/devopsdaily/touch-grass-6-project-ideas-for-people-who-live-in-a-terminal-hacktoberfest-dev-challenge-week-1-1e7n)** — **13** 👍 · 0 💬
-* **[The DevOps Toolchain Every Beginner Needs](https://dev.to/anderson-devvs/the-devops-toolchain-every-beginner-needs-3gp3)** — **10** 👍 · 2 💬
+* **[What Happens If Your Lead Developer Resigns Tomorrow?](https://dev.to/ksoft_technologies_33f7f6/what-happens-if-your-lead-developer-resigns-tomorrow-24fd)** — **1** 👍 · 0 💬
+* **[Don't put an LLM where a bash script will do](https://dev.to/vi7al/dont-put-an-llm-where-a-bash-script-will-do-728)** — **0** 👍 · 0 💬
+* **[Anthropic's Open-Source Disclosure Ledger Shows Where Remediation Slows Down](https://dev.to/neticslabs/anthropics-open-source-disclosure-ledger-shows-where-remediation-slows-down-2p12)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Dev log #24 Hardening the p2p stack: From flaky tests to WebSocket fixes](https://dev.to/yashksaini/dev-log-24-hardening-the-p2p-stack-from-flaky-tests-to-websocket-fixes-55f)** — **14** 👍 · 0 💬
-* **[nginx 1.29.6 moves cookie-based session affinity out of nginx Plus](https://dev.to/alexgeorgiev17/nginx-1296-moves-cookie-based-session-affinity-out-of-nginx-plus-26c)** — **10** 👍 · 1 💬
-* **[Subsea Backbone: The Geopolitics and Engineering of Fiber-Optic Transoceanic Cables](https://dev.to/njenga_nganga_00063bc67/subsea-backbone-the-geopolitics-and-engineering-of-fiber-optic-transoceanic-cables-4j06)** — **1** 👍 · 0 💬
+* **[What Really Happens When Your Phone Connects to Wi-Fi?](https://dev.to/tanu_priya/what-really-happens-when-your-phone-connects-to-wi-fi-111f)** — **1** 👍 · 0 💬
+* **[Give Your Agent Its Own Public IPv6 Address with Nexus SDK](https://dev.to/carychang/give-your-agent-its-own-public-ipv6-address-with-nexus-sdk-3een)** — **1** 👍 · 0 💬
+* **[Streaming 4K From a WebDAV Mount: Why I Stopped Syncing My Media Library](https://dev.to/scsoi/streaming-4k-from-a-webdav-mount-why-i-stopped-syncing-my-media-library-jn)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-06T02:42:50.073527+00:00 -->
+<!-- Log-ID: 2026-10-06T18:49:03.613415+00:00 -->
