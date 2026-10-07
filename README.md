@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-07 02:08 (UTC)
+📅 **Last Update:** 2026-10-07 19:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Questions I Was Asked in My Kaiser Interview: Java, Spring Boot, Kafka, React and More](https://dev.to/renukapatil/questions-i-was-asked-in-my-kaiser-interview-java-spring-boot-kafka-react-and-more-dfp)** — **5** 👍 · 1 💬
 * **[OpenTelemetry Support from App to Database](https://dev.to/codenameone/opentelemetry-support-from-app-to-database-3dio)** — **5** 👍 · 0 💬
-* **[JPA Inspired ORM from SQLite to PostgreSQL](https://dev.to/codenameone/jpa-inspired-orm-from-sqlite-to-postgresql-15i9)** — **5** 👍 · 0 💬
+* **[Duelo de Fotos: a photo duel for two, judged by a local Gemma that is sometimes confidently wrong](https://dev.to/mathfe/duelo-de-fotos-a-photo-duel-for-two-judged-by-a-local-gemma-that-is-sometimes-confidently-wrong-1bmg)** — **3** 👍 · 0 💬
+* **[Rotating refresh tokens with reuse detection in Spring Boot 4 (no extra JWT library)](https://dev.to/kodkodmx/rotating-refresh-tokens-with-reuse-detection-in-spring-boot-4-no-extra-jwt-library-3nmo)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[What Happens If Your Lead Developer Resigns Tomorrow?](https://dev.to/ksoft_technologies_33f7f6/what-happens-if-your-lead-developer-resigns-tomorrow-24fd)** — **1** 👍 · 0 💬
-* **[Don't put an LLM where a bash script will do](https://dev.to/vi7al/dont-put-an-llm-where-a-bash-script-will-do-728)** — **0** 👍 · 0 💬
-* **[Anthropic's Open-Source Disclosure Ledger Shows Where Remediation Slows Down](https://dev.to/neticslabs/anthropics-open-source-disclosure-ledger-shows-where-remediation-slows-down-2p12)** — **0** 👍 · 0 💬
+* **[Bash Isn't a Programming Language. It's a Text Substitution Engine.](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml)** — **22** 👍 · 4 💬
+* **[Top 7 Enterprise AI Gateways I Wish I Knew Before I Deployed One](https://dev.to/devstackcommunity/top-7-enterprise-ai-gateways-i-wish-i-knew-before-i-deployed-one-1oki)** — **15** 👍 · 5 💬
+* **[Day 57: Env Vars and a Public IP](https://dev.to/ndcodes/day-57-env-vars-and-a-public-ip-3dn6)** — **9** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[What Really Happens When Your Phone Connects to Wi-Fi?](https://dev.to/tanu_priya/what-really-happens-when-your-phone-connects-to-wi-fi-111f)** — **1** 👍 · 0 💬
-* **[Two Chinese cloud providers have the same broken IP metadata. One is 6x more likely to be blacklisted.](https://dev.to/mazijuacc/two-chinese-cloud-providers-have-the-same-broken-ip-metadata-one-is-6x-more-likely-to-be-hg0)** — **0** 👍 · 0 💬
-* **[161 of 360 VPS IPs have no reverse DNS. They're cleaner than the ones that do.](https://dev.to/mazijuacc/161-of-360-vps-ips-have-no-reverse-dns-theyre-cleaner-than-the-ones-that-do-5bhh)** — **0** 👍 · 0 💬
+* **[The internet's root key rotates in five days. Your resolver may not be ready.](https://dev.to/slabb/the-internets-root-key-rotates-in-five-days-your-resolver-may-not-be-ready-3j8e)** — **5** 👍 · 2 💬
+* **[AWS VPC Peering vs Transit Gateway: A Practical Guide to Scalable Cloud Networking](https://dev.to/toqeer_afzal_d1e337ddf67f/aws-vpc-peering-vs-transit-gateway-a-practical-guide-to-scalable-cloud-networking-11m6)** — **2** 👍 · 0 💬
+* **[The Door Is Now an Endpoint: What Gallagher’s ASSA ABLOY Integration Changes](https://dev.to/andriislobodskyi/the-door-is-now-an-endpoint-what-gallaghers-assa-abloy-integration-changes-5602)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-07T02:08:05.494860+00:00 -->
+<!-- Log-ID: 2026-10-07T19:14:05.799028+00:00 -->
