@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-07 22:27 (UTC)
+📅 **Last Update:** 2026-10-08 02:33 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Bash Isn't a Programming Language. It's a Text Substitution Engine.](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml)** — **22** 👍 · 4 💬
-* **[Top 7 Enterprise AI Gateways I Wish I Knew Before I Deployed One](https://dev.to/devstackcommunity/top-7-enterprise-ai-gateways-i-wish-i-knew-before-i-deployed-one-1oki)** — **16** 👍 · 5 💬
-* **[Day 57: Env Vars and a Public IP](https://dev.to/ndcodes/day-57-env-vars-and-a-public-ip-3dn6)** — **14** 👍 · 3 💬
+* **[Bash Isn't a Programming Language. It's a Text Substitution Engine.](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml)** — **23** 👍 · 5 💬
+* **[Where the four minutes go when a cluster adds a node](https://dev.to/remdore/where-the-four-minutes-go-when-a-cluster-adds-a-node-2pn9)** — **7** 👍 · 0 💬
+* **[“It Worked” Is Not the Same as “It Can Run in Production”](https://dev.to/_797a7c3a31b7c8547037/it-worked-is-not-the-same-as-it-can-run-in-production-198j)** — **5** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
 * **[The internet's root key rotates in five days. Your resolver may not be ready.](https://dev.to/slabb/the-internets-root-key-rotates-in-five-days-your-resolver-may-not-be-ready-3j8e)** — **5** 👍 · 2 💬
 * **[AWS VPC Peering vs Transit Gateway: A Practical Guide to Scalable Cloud Networking](https://dev.to/toqeer_afzal_d1e337ddf67f/aws-vpc-peering-vs-transit-gateway-a-practical-guide-to-scalable-cloud-networking-11m6)** — **2** 👍 · 0 💬
-* **[The Door Is Now an Endpoint: What Gallagher’s ASSA ABLOY Integration Changes](https://dev.to/andriislobodskyi/the-door-is-now-an-endpoint-what-gallaghers-assa-abloy-integration-changes-5602)** — **0** 👍 · 0 💬
+* **[Groq returned the same 403 for my real key, a fake key, and no key](https://dev.to/build996/groq-returned-the-same-403-for-my-real-key-a-fake-key-and-no-key-10j8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-07T22:27:27.516107+00:00 -->
+<!-- Log-ID: 2026-10-08T02:33:56.439098+00:00 -->
