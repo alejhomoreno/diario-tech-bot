@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-08 22:40 (UTC)
+📅 **Last Update:** 2026-10-09 02:48 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[OpenTelemetry Support from App to Database](https://dev.to/codenameone/opentelemetry-support-from-app-to-database-3dio)** — **5** 👍 · 0 💬
-* **[Duelo de Fotos: a photo duel for two, judged by a local Gemma that is sometimes confidently wrong](https://dev.to/mathfe/duelo-de-fotos-a-photo-duel-for-two-judged-by-a-local-gemma-that-is-sometimes-confidently-wrong-1bmg)** — **3** 👍 · 0 💬
-* **[Rotating refresh tokens with reuse detection in Spring Boot 4 (no extra JWT library)](https://dev.to/kodkodmx/rotating-refresh-tokens-with-reuse-detection-in-spring-boot-4-no-extra-jwt-library-3nmo)** — **0** 👍 · 0 💬
+* **[Spring AI vs LangChain4j in October 2026: Both Shipped Big. Here Is How to Pick.](https://dev.to/jamilxt/spring-ai-vs-langchain4j-in-october-2026-both-shipped-big-here-is-how-to-pick-3bm0)** — **3** 👍 · 0 💬
+* **[Java vs. JavaScript: What's the Difference?](https://dev.to/jeni860/java-vs-javascript-whats-the-difference-3e34)** — **1** 👍 · 0 💬
+* **[Pinecone with Java in AI: Building Semantic Search and RAG Pipelines](https://dev.to/said_olano/pinecone-with-java-in-ai-building-semantic-search-and-rag-pipelines-3jdg)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms](https://dev.to/alexgeorgiev17/paradedbs-pgsearch-026-cuts-a-ten-term-bm25-search-from-129ms-to-29ms-5287)** — **8** 👍 · 0 💬
 * **[Why Go Is Becoming a Favorite Language for Cloud & DevOps Engineers](https://dev.to/yash_sonawane25/why-go-is-becoming-a-favorite-language-for-cloud-devops-engineers-3ha2)** — **5** 👍 · 2 💬
-* **[The Amazon Great Indian Festival and Flipkart Big Billion Days Started: How AWS EKS Handles Millions of Users](https://dev.to/rahul_r15/the-amazon-great-indian-festival-and-flipkart-big-billion-days-started-how-aws-eks-handles-4nk)** — **1** 👍 · 0 💬
+* **[Using the SSH Agent and Keychain on macOS](https://dev.to/__3381495fd2b/using-the-ssh-agent-and-keychain-on-macos-3mg6)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[The Packet That Should Never Have Been Seen: Protecting Data Privacy in Computer Networks](https://dev.to/seucra/the-packet-that-should-never-have-been-seen-protecting-data-privacy-in-computer-networks-5fig)** — **1** 👍 · 0 💬
 * **[Expose Your Localhost to the Internet With One Command, No Account, No Config File](https://dev.to/jamilxt/expose-your-localhost-to-the-internet-with-one-command-no-account-no-config-file-47nf)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-08T22:40:28.400226+00:00 -->
+<!-- Log-ID: 2026-10-09T02:48:21.942349+00:00 -->
