@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-09 18:41 (UTC)
+📅 **Last Update:** 2026-10-09 22:02 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[The YAML Norway problem and cron's day-of-month trap: two config formats that lie to you](https://dev.to/devopsdaily/the-yaml-norway-problem-and-crons-day-of-month-trap-two-config-formats-that-lie-to-you-a11)** — **17** 👍 · 0 💬
-* **[Docker just shipped the agent wall I wanted. It's off by default.](https://dev.to/slabb/docker-just-shipped-the-agent-wall-i-wanted-its-off-by-default-f18)** — **12** 👍 · 9 💬
+* **[The YAML Norway problem and cron's day-of-month trap: two config formats that lie to you](https://dev.to/devopsdaily/the-yaml-norway-problem-and-crons-day-of-month-trap-two-config-formats-that-lie-to-you-a11)** — **17** 👍 · 1 💬
+* **[Docker just shipped the agent wall I wanted. It's off by default.](https://dev.to/slabb/docker-just-shipped-the-agent-wall-i-wanted-its-off-by-default-f18)** — **13** 👍 · 10 💬
 * **[ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms](https://dev.to/alexgeorgiev17/paradedbs-pgsearch-026-cuts-a-ten-term-bm25-search-from-129ms-to-29ms-5287)** — **8** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[The Networking Concepts Nobody Explains Until You Hit Them in Production](https://dev.to/dehemi_fabio/the-networking-concepts-nobody-explains-until-you-hit-them-in-production-2lg8)** — **5** 👍 · 0 💬
-* **[" What Actually Happens When You Click \"Submit\"? A Request From Browser to Database and Back "](https://dev.to/shreysaraswatweb/-what-actually-happens-when-you-click-submit-a-request-from-browser-to-database-and-back--27di)** — **4** 👍 · 1 💬
 * **[What Is DNS Tunneling? How Can Hackers Hide Data Inside DNS Queries?](https://dev.to/aditya_d_sharma/what-is-dns-tunneling-how-can-hackers-hide-data-inside-dns-queries-22j1)** — **2** 👍 · 1 💬
+* **[Securing a small shop LAN app: network basics for a business VM](https://dev.to/repairamigo/securing-a-small-shop-lan-app-network-basics-for-a-business-vm-2o5o)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-09T18:41:02.118020+00:00 -->
+<!-- Log-ID: 2026-10-09T22:02:08.981803+00:00 -->
