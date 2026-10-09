@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-09 02:48 (UTC)
+📅 **Last Update:** 2026-10-09 18:41 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spring AI vs LangChain4j in October 2026: Both Shipped Big. Here Is How to Pick.](https://dev.to/jamilxt/spring-ai-vs-langchain4j-in-october-2026-both-shipped-big-here-is-how-to-pick-3bm0)** — **3** 👍 · 0 💬
-* **[Java vs. JavaScript: What's the Difference?](https://dev.to/jeni860/java-vs-javascript-whats-the-difference-3e34)** — **1** 👍 · 0 💬
-* **[Pinecone with Java in AI: Building Semantic Search and RAG Pipelines](https://dev.to/said_olano/pinecone-with-java-in-ai-building-semantic-search-and-rag-pipelines-3jdg)** — **0** 👍 · 1 💬
+* **[I Was Learning Java, So I Built My Own Java Learning Website - JavaBook](https://dev.to/akshit_suthar/i-was-learning-java-so-i-built-my-own-java-learning-website-javabook-4b1e)** — **5** 👍 · 0 💬
+* **[Your Fargate Autoscaler Doesn't Understand Your JVM (by Default): Lessons Learned the Hard Way](https://dev.to/jeroen_dirks_29c3ab2f43a7/your-fargate-autoscaler-doesnt-understand-your-jvm-by-default-lessons-learned-the-hard-way-2f57)** — **0** 👍 · 0 💬
+* **[Debugging Gradle tasks in Eclipse, the way IntelliJ does it](https://dev.to/gionata_legrottaglie/debugging-gradle-tasks-in-eclipse-the-way-intellij-does-it-1a82)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
+* **[The YAML Norway problem and cron's day-of-month trap: two config formats that lie to you](https://dev.to/devopsdaily/the-yaml-norway-problem-and-crons-day-of-month-trap-two-config-formats-that-lie-to-you-a11)** — **17** 👍 · 0 💬
+* **[Docker just shipped the agent wall I wanted. It's off by default.](https://dev.to/slabb/docker-just-shipped-the-agent-wall-i-wanted-its-off-by-default-f18)** — **12** 👍 · 9 💬
 * **[ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms](https://dev.to/alexgeorgiev17/paradedbs-pgsearch-026-cuts-a-ten-term-bm25-search-from-129ms-to-29ms-5287)** — **8** 👍 · 0 💬
-* **[Why Go Is Becoming a Favorite Language for Cloud & DevOps Engineers](https://dev.to/yash_sonawane25/why-go-is-becoming-a-favorite-language-for-cloud-devops-engineers-3ha2)** — **5** 👍 · 2 💬
-* **[Using the SSH Agent and Keychain on macOS](https://dev.to/__3381495fd2b/using-the-ssh-agent-and-keychain-on-macos-3mg6)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[AWS VPC Peering vs Transit Gateway: A Practical Guide to Scalable Cloud Networking](https://dev.to/toqeer_afzal_d1e337ddf67f/aws-vpc-peering-vs-transit-gateway-a-practical-guide-to-scalable-cloud-networking-11m6)** — **2** 👍 · 0 💬
-* **[The Packet That Should Never Have Been Seen: Protecting Data Privacy in Computer Networks](https://dev.to/seucra/the-packet-that-should-never-have-been-seen-protecting-data-privacy-in-computer-networks-5fig)** — **1** 👍 · 0 💬
-* **[Expose Your Localhost to the Internet With One Command, No Account, No Config File](https://dev.to/jamilxt/expose-your-localhost-to-the-internet-with-one-command-no-account-no-config-file-47nf)** — **1** 👍 · 0 💬
+* **[The Networking Concepts Nobody Explains Until You Hit Them in Production](https://dev.to/dehemi_fabio/the-networking-concepts-nobody-explains-until-you-hit-them-in-production-2lg8)** — **5** 👍 · 0 💬
+* **[" What Actually Happens When You Click \"Submit\"? A Request From Browser to Database and Back "](https://dev.to/shreysaraswatweb/-what-actually-happens-when-you-click-submit-a-request-from-browser-to-database-and-back--27di)** — **4** 👍 · 1 💬
+* **[What Is DNS Tunneling? How Can Hackers Hide Data Inside DNS Queries?](https://dev.to/aditya_d_sharma/what-is-dns-tunneling-how-can-hackers-hide-data-inside-dns-queries-22j1)** — **2** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-09T02:48:21.942349+00:00 -->
+<!-- Log-ID: 2026-10-09T18:41:02.118020+00:00 -->
