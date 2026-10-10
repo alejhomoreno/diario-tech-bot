@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-09 22:02 (UTC)
+📅 **Last Update:** 2026-10-10 02:08 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The YAML Norway problem and cron's day-of-month trap: two config formats that lie to you](https://dev.to/devopsdaily/the-yaml-norway-problem-and-crons-day-of-month-trap-two-config-formats-that-lie-to-you-a11)** — **17** 👍 · 1 💬
-* **[Docker just shipped the agent wall I wanted. It's off by default.](https://dev.to/slabb/docker-just-shipped-the-agent-wall-i-wanted-its-off-by-default-f18)** — **13** 👍 · 10 💬
 * **[ParadeDB's pg_search 0.26 cuts a ten-term BM25 search from 129ms to 29ms](https://dev.to/alexgeorgiev17/paradedbs-pgsearch-026-cuts-a-ten-term-bm25-search-from-129ms-to-29ms-5287)** — **8** 👍 · 0 💬
+* **[Kubernetes resource-cost estimates and a local GitOps review with kube-saver](https://dev.to/pooyan_azad_334489f/kubernetes-resource-cost-estimates-and-a-local-gitops-review-with-kube-saver-1gno)** — **1** 👍 · 0 💬
+* **[Microservices at Scale: Engineering Debt and System Complexity](https://dev.to/merolhack/microservices-at-scale-engineering-debt-and-system-complexity-26n)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What Is DNS Tunneling? How Can Hackers Hide Data Inside DNS Queries?](https://dev.to/aditya_d_sharma/what-is-dns-tunneling-how-can-hackers-hide-data-inside-dns-queries-22j1)** — **2** 👍 · 1 💬
 * **[Securing a small shop LAN app: network basics for a business VM](https://dev.to/repairamigo/securing-a-small-shop-lan-app-network-basics-for-a-business-vm-2o5o)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-09T22:02:08.981803+00:00 -->
+<!-- Log-ID: 2026-10-10T02:08:10.163637+00:00 -->
