@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-11 01:34 (UTC)
+📅 **Last Update:** 2026-10-11 17:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Honey, I Shrunk Java](https://dev.to/codenameone/honey-i-shrunk-java-2d7i)** — **5** 👍 · 1 💬
-* **[Revisiting SiFuture with Kof](https://dev.to/renanfranca/revisiting-sifuture-with-kof-420h)** — **5** 👍 · 0 💬
-* **[This Framework Compiles Java Straight to CUDA: Can It Really Match llama.cpp?](https://dev.to/jamilxt/this-framework-compiles-java-straight-to-cuda-can-it-really-match-llamacpp-2m8)** — **2** 👍 · 0 💬
+* **[I wanted something faster than gradle build for my coding agent, so I made a Java checker in Rust](https://dev.to/mihaidaniel34/i-wanted-something-faster-than-gradle-build-for-my-coding-agent-so-i-made-a-java-checker-in-rust-16ee)** — **2** 👍 · 1 💬
+* **[Kookaburra: Query Java Objects with Streams, Accelerated by RoaringBitmap](https://dev.to/paganini2008/kookaburra-query-java-objects-with-streams-accelerated-by-roaringbitmap-3nkb)** — **2** 👍 · 1 💬
+* **[Connecting an Android App to a REST API Using Retrofit in Java](https://dev.to/dhananjay_bagul/connecting-an-android-app-to-a-rest-api-using-retrofit-in-java-3j6g)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and the Index Actually Work Under the Hood](https://dev.to/smtahosin/git-isnt-a-diff-tracker-how-blobs-trees-dag-commits-and-the-index-actually-work-under-the-hood-19eo)** — **16** 👍 · 2 💬
-* **[Temporal finished my workflow exactly once and ran its first step four times](https://dev.to/remdore/temporal-finished-my-workflow-exactly-once-and-ran-its-first-step-four-times-59dh)** — **9** 👍 · 2 💬
-* **[Looking for a Cheaper mabl Alternative? Here's What I'd Compare Before Renewing](https://dev.to/randomsquirrel802/looking-for-a-cheaper-mabl-alternative-heres-what-id-compare-before-renewing-3f3h)** — **6** 👍 · 1 💬
+* **[Git Isn't a Diff Tracker: How Blobs, Trees, DAG Commits, and the Index Actually Work Under the Hood](https://dev.to/smtahosin/git-isnt-a-diff-tracker-how-blobs-trees-dag-commits-and-the-index-actually-work-under-the-hood-19eo)** — **30** 👍 · 4 💬
+* **[I Replaced My Entire Dev Workflow With AI Agents — Here's What Actually Worked](https://dev.to/infoinlet1/i-replaced-my-entire-dev-workflow-with-ai-agents-heres-what-actually-worked-f9g)** — **13** 👍 · 4 💬
+* **[MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%](https://dev.to/alexgeorgiev17/mongodb-83s-arrayindexas-cuts-a-map-with-index-workarounds-overhead-by-up-to-31-409p)** — **9** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[The Networking Concepts Nobody Explains Until You Hit Them in Production](https://dev.to/dehemi_fabio/the-networking-concepts-nobody-explains-until-you-hit-them-in-production-2lg8)** — **5** 👍 · 0 💬
-* **[Securing a small shop LAN app: network basics for a business VM](https://dev.to/repairamigo/securing-a-small-shop-lan-app-network-basics-for-a-business-vm-2o5o)** — **1** 👍 · 1 💬
+* **[Why your telemetry platform loses frames and nobody notices](https://dev.to/crtdrops/why-your-telemetry-platform-loses-frames-and-nobody-notices-1ok4)** — **1** 👍 · 2 💬
+* **[IoT VLAN on OPNsense: three firewall rules that don't break casting or Home Assistant](https://dev.to/charleshartmann/iot-vlan-on-opnsense-three-firewall-rules-that-dont-break-casting-or-home-assistant-106)** — **1** 👍 · 0 💬
 * **[Stake-Weighted QoS on Solana, With the Actual Formula](https://dev.to/sulimanmukhtar/stake-weighted-qos-on-solana-with-the-actual-formula-32hm)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-11T01:34:43.122477+00:00 -->
+<!-- Log-ID: 2026-10-11T17:55:18.091225+00:00 -->
