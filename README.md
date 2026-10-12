@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-11 21:16 (UTC)
+📅 **Last Update:** 2026-10-12 02:06 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[I Replaced My Entire Dev Workflow With AI Agents — Here's What Actually Worked](https://dev.to/infoinlet1/i-replaced-my-entire-dev-workflow-with-ai-agents-heres-what-actually-worked-f9g)** — **13** 👍 · 4 💬
 * **[MongoDB 8.3's arrayIndexAs cuts a map-with-index workaround's overhead by up to 31%](https://dev.to/alexgeorgiev17/mongodb-83s-arrayindexas-cuts-a-map-with-index-workarounds-overhead-by-up-to-31-409p)** — **11** 👍 · 1 💬
 * **[Slashing LLM Bills by 58%: Building an OpenTelemetry Semantic Cache Proxy in FastAPI](https://dev.to/reigen/slashing-llm-bills-by-58-building-an-opentelemetry-semantic-cache-proxy-in-fastapi-59j4)** — **1** 👍 · 1 💬
+* **[My Python Tests Passed While Writing Synthetic Rows to the Production Log.](https://dev.to/hexisteme/my-python-tests-passed-while-writing-synthetic-rows-to-the-production-log-15fd)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why your telemetry platform loses frames and nobody notices](https://dev.to/crtdrops/why-your-telemetry-platform-loses-frames-and-nobody-notices-1ok4)** — **1** 👍 · 3 💬
+* **[Why your telemetry platform loses frames and nobody notices](https://dev.to/crtdrops/why-your-telemetry-platform-loses-frames-and-nobody-notices-1ok4)** — **1** 👍 · 4 💬
 * **[Securing Kubernetes Homelab: Cilium, Gateway API, and Cloudflare Tunnel for Efficient, Segmented Networking](https://dev.to/maricode/securing-kubernetes-homelab-cilium-gateway-api-and-cloudflare-tunnel-for-efficient-segmented-28ab)** — **1** 👍 · 1 💬
 * **[IoT VLAN on OPNsense: three firewall rules that don't break casting or Home Assistant](https://dev.to/charleshartmann/iot-vlan-on-opnsense-three-firewall-rules-that-dont-break-casting-or-home-assistant-106)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-11T21:16:42.846256+00:00 -->
+<!-- Log-ID: 2026-10-12T02:06:09.025088+00:00 -->
