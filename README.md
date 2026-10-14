@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-14 01:37 (UTC)
+📅 **Last Update:** 2026-10-14 17:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[How to Secure Java Docker Images and Reduce CVE Risk](https://dev.to/docker/how-to-secure-java-docker-images-and-reduce-cve-risk-a78)** — **5** 👍 · 0 💬
-* **[Why Exact Arguments Matter in Mockito Tests](https://dev.to/swd_eagle/why-exact-arguments-matter-in-mockito-tests-f1l)** — **1** 👍 · 0 💬
-* **[Do You Prefer Gradle?](https://dev.to/codenameone/do-you-prefer-gradle-46ko)** — **0** 👍 · 1 💬
+* **[Connect Your App to Your Enterprise Traces](https://dev.to/codenameone/connect-your-app-to-your-enterprise-traces-2n9m)** — **5** 👍 · 0 💬
+* **[Our quote service stopped at lunchtime with its CPU at two percent](https://dev.to/sergey_shinder_ab2d943365/our-quote-service-stopped-at-lunchtime-with-its-cpu-at-two-percent-2ci)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[GitHub Isn't Just a Remote Git Server: How Spoke Clusters, Fork Alternates, and Actions Runner Sandboxes Work Under the Hood](https://dev.to/smtahosin/github-isnt-just-a-remote-git-server-how-spoke-clusters-fork-alternates-and-actions-runner-25ij)** — **21** 👍 · 2 💬
-* **[Your Metrics Are Lying After They Hit the Cardinality Limit](https://dev.to/johnnylemonny/your-metrics-are-lying-after-they-hit-the-cardinality-limit-47mf)** — **8** 👍 · 2 💬
-* **[How to Secure Java Docker Images and Reduce CVE Risk](https://dev.to/docker/how-to-secure-java-docker-images-and-reduce-cve-risk-a78)** — **5** 👍 · 0 💬
+* **[We Rendered a HQ Demo Video on a Free Farm Run by Strangers](https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440)** — **17** 👍 · 0 💬
+* **[Kubernetes RBAC Explained by Breaking It: Practice Roles and Bindings in Your Browser](https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a)** — **12** 👍 · 0 💬
+* **[PostgreSQL 19's REPACK CONCURRENTLY swaps a five-second table lock for one under a second](https://dev.to/alexgeorgiev17/postgresql-19s-repack-concurrently-swaps-a-five-second-table-lock-for-one-under-a-second-34kp)** — **8** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Your Wi-Fi Has No Walls: What Aluminum Foil Reveals About Wireless Security](https://dev.to/khalisollis/your-wi-fi-has-no-walls-what-aluminum-foil-reveals-about-wireless-security-3cgd)** — **15** 👍 · 2 💬
-* **[Learning TCP/IP From the Linux Side: Spec, Code, and Wire](https://dev.to/muzasio/learning-tcpip-from-the-linux-side-spec-code-and-wire-5fp1)** — **2** 👍 · 0 💬
+* **[Learning TCP/IP From the Linux Side: Spec, Code, and Wire](https://dev.to/muzasio/learning-tcpip-from-the-linux-side-spec-code-and-wire-5fp1)** — **2** 👍 · 1 💬
 * **[From URL to Pixels: DNS, TCP, TLS and Rendering Explained](https://dev.to/md_isfaruddin_65557809e/from-url-to-pixels-dns-tcp-tls-and-rendering-explained-52eo)** — **1** 👍 · 1 💬
+* **[ssh from 3 places: Why TinyCore inside Oracle VM worked when PuTTY and PowerShell didn't](https://dev.to/melnet/ssh-from-3-places-why-tinycore-inside-oracle-vm-worked-when-putty-and-powershell-didnt-4n4b)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-14T01:37:17.620918+00:00 -->
+<!-- Log-ID: 2026-10-14T17:49:23.001442+00:00 -->
