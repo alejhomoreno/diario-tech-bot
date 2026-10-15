@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-14 21:07 (UTC)
+📅 **Last Update:** 2026-10-15 01:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Secure Java Docker Images and Reduce CVE Risk](https://dev.to/docker/how-to-secure-java-docker-images-and-reduce-cve-risk-a78)** — **5** 👍 · 0 💬
 * **[Connect Your App to Your Enterprise Traces](https://dev.to/codenameone/connect-your-app-to-your-enterprise-traces-2n9m)** — **5** 👍 · 0 💬
 * **[Our quote service stopped at lunchtime with its CPU at two percent](https://dev.to/sergey_shinder_ab2d943365/our-quote-service-stopped-at-lunchtime-with-its-cpu-at-two-percent-2ci)** — **1** 👍 · 1 💬
+* **[Escape Analysis: How Can a Compiler Eliminate a Heap Allocation Without Changing Your Code?](https://dev.to/aditya_d_sharma/escape-analysis-how-can-a-compiler-eliminate-a-heap-allocation-without-changing-your-code-1n7a)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[We Rendered a HQ Demo Video on a Free Farm Run by Strangers](https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440)** — **22** 👍 · 0 💬
-* **[Kubernetes RBAC Explained by Breaking It: Practice Roles and Bindings in Your Browser](https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a)** — **12** 👍 · 0 💬
 * **[PostgreSQL 19's REPACK CONCURRENTLY swaps a five-second table lock for one under a second](https://dev.to/alexgeorgiev17/postgresql-19s-repack-concurrently-swaps-a-five-second-table-lock-for-one-under-a-second-34kp)** — **8** 👍 · 0 💬
+* **[Managing Node Applications with PM2](https://dev.to/vultr/managing-node-applications-with-pm2-39dn)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
+* **[Installing and Using nftables in Linux](https://dev.to/vultr/installing-and-using-nftables-in-linux-30kn)** — **5** 👍 · 0 💬
+* **[What VPN services really do and what are their limits](https://dev.to/hacksgr/what-vpn-services-really-do-and-what-are-their-limits-oja)** — **2** 👍 · 1 💬
 * **[Learning TCP/IP From the Linux Side: Spec, Code, and Wire](https://dev.to/muzasio/learning-tcpip-from-the-linux-side-spec-code-and-wire-5fp1)** — **2** 👍 · 1 💬
-* **[From URL to Pixels: DNS, TCP, TLS and Rendering Explained](https://dev.to/md_isfaruddin_65557809e/from-url-to-pixels-dns-tcp-tls-and-rendering-explained-52eo)** — **1** 👍 · 1 💬
-* **[ssh from 3 places: Why TinyCore inside Oracle VM worked when PuTTY and PowerShell didn't](https://dev.to/melnet/ssh-from-3-places-why-tinycore-inside-oracle-vm-worked-when-putty-and-powershell-didnt-4n4b)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-14T21:07:29.444104+00:00 -->
+<!-- Log-ID: 2026-10-15T01:14:01.001867+00:00 -->
