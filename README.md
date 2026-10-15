@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-15 01:14 (UTC)
+📅 **Last Update:** 2026-10-15 17:38 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Connect Your App to Your Enterprise Traces](https://dev.to/codenameone/connect-your-app-to-your-enterprise-traces-2n9m)** — **5** 👍 · 0 💬
-* **[Our quote service stopped at lunchtime with its CPU at two percent](https://dev.to/sergey_shinder_ab2d943365/our-quote-service-stopped-at-lunchtime-with-its-cpu-at-two-percent-2ci)** — **1** 👍 · 1 💬
+* **[Webhook Hub with Spring Boot: Strategy Pattern, Sub-Strategies and Collection Injection](https://dev.to/alaugks/webhook-hub-with-spring-boot-strategy-pattern-sub-strategies-and-collection-injection-16b9)** — **2** 👍 · 0 💬
+* **[Three Things I Learned Building a Local-LLM Java Repair Tool](https://dev.to/njabulo_ncube_70ab007445f/three-things-i-learned-building-a-local-llm-java-repair-tool-30l2)** — **1** 👍 · 0 💬
 * **[Escape Analysis: How Can a Compiler Eliminate a Heap Allocation Without Changing Your Code?](https://dev.to/aditya_d_sharma/escape-analysis-how-can-a-compiler-eliminate-a-heap-allocation-without-changing-your-code-1n7a)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[We Rendered a HQ Demo Video on a Free Farm Run by Strangers](https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440)** — **22** 👍 · 0 💬
-* **[PostgreSQL 19's REPACK CONCURRENTLY swaps a five-second table lock for one under a second](https://dev.to/alexgeorgiev17/postgresql-19s-repack-concurrently-swaps-a-five-second-table-lock-for-one-under-a-second-34kp)** — **8** 👍 · 0 💬
-* **[Managing Node Applications with PM2](https://dev.to/vultr/managing-node-applications-with-pm2-39dn)** — **5** 👍 · 0 💬
+* **[How Docker Works Under the Hood: Watch Namespaces Isolate a Container and cgroups Stop a Fork Bomb](https://dev.to/devopsdaily/how-docker-works-under-the-hood-watch-namespaces-isolate-a-container-and-cgroups-stop-a-fork-bomb-2k22)** — **12** 👍 · 2 💬
+* **[DuckDB 2.0 alpha's triggers cost three times more per row than per statement](https://dev.to/alexgeorgiev17/duckdb-20-alphas-triggers-cost-three-times-more-per-row-than-per-statement-13cj)** — **5** 👍 · 0 💬
+* **[CircleCI's Runners Were Ready. PostgreSQL Couldn't Dispatch Jobs.](https://dev.to/buildopsy/the-database-was-the-healthiest-part-of-circlecis-fleet-it-still-took-down-3500-jobs-2fi5)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Installing and Using nftables in Linux](https://dev.to/vultr/installing-and-using-nftables-in-linux-30kn)** — **5** 👍 · 0 💬
-* **[What VPN services really do and what are their limits](https://dev.to/hacksgr/what-vpn-services-really-do-and-what-are-their-limits-oja)** — **2** 👍 · 1 💬
-* **[Learning TCP/IP From the Linux Side: Spec, Code, and Wire](https://dev.to/muzasio/learning-tcpip-from-the-linux-side-spec-code-and-wire-5fp1)** — **2** 👍 · 1 💬
+* **[Let's Encrypt Goes to 64-Day Certificates: When Does Your ACME Client Actually Renew?](https://dev.to/devopsdaily/lets-encrypt-goes-to-64-day-certificates-when-does-your-acme-client-actually-renew-347l)** — **5** 👍 · 0 💬
+* **[Routes, Ingress or Gateway API on OpenShift 4: Which to Choose and How to Migrate](https://dev.to/florient_4262fab5463a691/routes-ingress-or-gateway-api-on-openshift-4-which-to-choose-and-how-to-migrate-1d5c)** — **1** 👍 · 0 💬
+* **[Multi-Account AWS Networking: Shared VPC, RAM, and the Hub-and-Spoke Model](https://dev.to/aloknecessary/multi-account-aws-networking-shared-vpc-ram-and-the-hub-and-spoke-model-35ck)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-15T01:14:01.001867+00:00 -->
+<!-- Log-ID: 2026-10-15T17:38:38.690944+00:00 -->
