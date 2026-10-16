@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-16 17:11 (UTC)
+📅 **Last Update:** 2026-10-16 20:17 (UTC)
 
 ---
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged](https://dev.to/alexgeorgiev17/postgresql-19-betas-parallel-autovacuum-launches-workers-but-leaves-vacuum-time-unchanged-3g4j)** — **11** 👍 · 0 💬
-* **[rsync command generator — dry-run first, delete with a net](https://dev.to/mrsaynothing/rsync-command-generator-dry-run-first-delete-with-a-net-5e4j)** — **5** 👍 · 2 💬
 * **[Day 64: A Bad Image and a Small Disk](https://dev.to/ndcodes/day-64-a-bad-image-and-a-small-disk-1m4)** — **5** 👍 · 0 💬
+* **[Build in Public Without Breaking Trust: Write the Migration Note First](https://dev.to/urielbitton/build-in-public-without-breaking-trust-write-the-migration-note-first-420f)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[I replaced NFS with a FUSE filesystem on my homelab, and macOS ate three working days](https://dev.to/prodbymarcu/i-replaced-nfs-with-a-fuse-filesystem-on-my-homelab-and-macos-ate-three-working-days-2lb0)** — **1** 👍 · 1 💬
 * **[IPv4 /26 Subnetting Explained: A Beginner-Friendly Guide](https://dev.to/pintocristofer_fba3039fc6/ipv4-26-subnetting-explained-a-beginner-friendly-guide-39oe)** — **1** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-16T17:11:45.778223+00:00 -->
+<!-- Log-ID: 2026-10-16T20:17:18.342852+00:00 -->
