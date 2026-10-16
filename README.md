@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-15 20:44 (UTC)
+📅 **Last Update:** 2026-10-16 01:00 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How Docker Works Under the Hood: Watch Namespaces Isolate a Container and cgroups Stop a Fork Bomb](https://dev.to/devopsdaily/how-docker-works-under-the-hood-watch-namespaces-isolate-a-container-and-cgroups-stop-a-fork-bomb-2k22)** — **13** 👍 · 3 💬
 * **[DuckDB 2.0 alpha's triggers cost three times more per row than per statement](https://dev.to/alexgeorgiev17/duckdb-20-alphas-triggers-cost-three-times-more-per-row-than-per-statement-13cj)** — **5** 👍 · 0 💬
 * **[964 hours of agent work in six days. Here's where my own hours went.](https://dev.to/dsiacci/964-hours-of-agent-work-in-six-days-heres-where-my-own-hours-went-13oc)** — **4** 👍 · 2 💬
+* **[Worktree lifecycle for AI agents](https://dev.to/saez520/worktree-lifecycle-for-ai-agents-1ooo)** — **3** 👍 · 8 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Routes, Ingress or Gateway API on OpenShift 4: Which to Choose and How to Migrate](https://dev.to/florient_4262fab5463a691/routes-ingress-or-gateway-api-on-openshift-4-which-to-choose-and-how-to-migrate-1d5c)** — **1** 👍 · 0 💬
 * **[Multi-Account AWS Networking: Shared VPC, RAM, and the Hub-and-Spoke Model](https://dev.to/aloknecessary/multi-account-aws-networking-shared-vpc-ram-and-the-hub-and-spoke-model-35ck)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-15T20:44:37.181438+00:00 -->
+<!-- Log-ID: 2026-10-16T01:00:37.406886+00:00 -->
