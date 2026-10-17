@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-17 01:05 (UTC)
+📅 **Last Update:** 2026-10-17 16:09 (UTC)
 
 ---
 
@@ -18,19 +18,19 @@
 ## 🔖 Top Keycloak
 
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
-* **[Instrumenting a Keycloak SPI provider so the next silent JDBC bug doesn't need a code review to find it](https://dev.to/jihedbfrart/instrumenting-a-keycloak-spi-provider-so-the-next-silent-jdbc-bug-doesnt-need-a-code-review-to-563a)** — **4** 👍 · 0 💬
-* **[Building a Reusable Keycloak Theme Architecture](https://dev.to/ismailzahir/building-a-reusable-keycloak-theme-architecture-1b9h)** — **2** 👍 · 0 💬
+* **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
+* **[🔐 Alfresco Authentication & SSO Integration: LDAP, SAML & Keycloak](https://dev.to/nirankari/alfresco-authentication-sso-integration-ldap-saml-keycloak-27hf)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[PostgreSQL 19 beta's parallel autovacuum launches workers but leaves vacuum time unchanged](https://dev.to/alexgeorgiev17/postgresql-19-betas-parallel-autovacuum-launches-workers-but-leaves-vacuum-time-unchanged-3g4j)** — **12** 👍 · 0 💬
-* **[Build in Public Without Breaking Trust: Write the Migration Note First](https://dev.to/urielbitton/build-in-public-without-breaking-trust-write-the-migration-note-first-420f)** — **3** 👍 · 0 💬
-* **[What Is a Zombie Process in Linux? How Processes Become Stuck in the Process Table](https://dev.to/aditya_d_sharma/what-is-a-zombie-process-in-linux-how-processes-become-stuck-in-the-process-table-4ka9)** — **1** 👍 · 0 💬
+* **[Docker Compose 5.6's jobs type only starts through docker compose run](https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a)** — **6** 👍 · 0 💬
+* **[Three days without a bench](https://dev.to/mrsaynothing/three-days-without-a-bench-3kan)** — **5** 👍 · 2 💬
+* **[The Hidden Work Behind Moving an Integration from Staging to Production](https://dev.to/nwajichukwu_goodness_audit/the-hidden-work-behind-moving-an-integration-from-staging-to-production-3jhf)** — **5** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Serious Linux kernel vulnerability allows access to remote computers](https://dev.to/hacksgr/serious-linux-kernel-vulnerability-allows-access-to-remote-computers-6h8)** — **5** 👍 · 0 💬
-* **[I replaced NFS with a FUSE filesystem on my homelab, and macOS ate three working days](https://dev.to/prodbymarcu/i-replaced-nfs-with-a-fuse-filesystem-on-my-homelab-and-macos-ate-three-working-days-2lb0)** — **1** 👍 · 1 💬
-* **[IPv4 /26 Subnetting Explained: A Beginner-Friendly Guide](https://dev.to/pintocristofer_fba3039fc6/ipv4-26-subnetting-explained-a-beginner-friendly-guide-39oe)** — **1** 👍 · 1 💬
+* **[A Management Interface Vulnerability in PAN-OS Needed Credentials. Attackers Used It Anyway](https://dev.to/rbonweb/a-management-interface-vulnerability-in-pan-os-needed-credentials-attackers-used-it-anyway-nb1)** — **1** 👍 · 1 💬
+* **[How to combine wireless and wired internet at home](https://dev.to/hacksgr/how-to-combine-wireless-and-wired-internet-at-home-1642)** — **1** 👍 · 0 💬
+* **[Routes, Ingress or Gateway API on OpenShift 4: Which to Choose and How to Migrate](https://dev.to/florient_4262fab5463a691/routes-ingress-or-gateway-api-on-openshift-4-which-to-choose-and-how-to-migrate-74k)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-17T01:05:57.702229+00:00 -->
+<!-- Log-ID: 2026-10-17T16:09:49.433312+00:00 -->
