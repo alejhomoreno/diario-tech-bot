@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-18 16:23 (UTC)
+📅 **Last Update:** 2026-10-18 19:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Don't Order Fish on Monday. Don't Release on Friday](https://dev.to/codenameone/dont-order-fish-on-monday-dont-release-on-friday-me0)** — **5** 👍 · 0 💬
-* **[Twitter Added id_str in 2010 Because JavaScript Can't Hold a Java long](https://dev.to/gabrielanhaia/twitter-added-idstr-in-2010-because-javascript-cant-hold-a-java-long-1p5a)** — **1** 👍 · 1 💬
-* **[How to Build a Production-Ready SaaS with Spring Boot 3, React 18 & Stripe in 2026](https://dev.to/darkred7/how-to-build-a-production-ready-saas-with-spring-boot-3-react-18-stripe-in-2026-pon)** — **1** 👍 · 1 💬
+* **[The Creator of Jenkins Now Wants You to Run Fewer Tests](https://dev.to/jamilxt/the-creator-of-jenkins-now-wants-you-to-run-fewer-tests-5dm3)** — **1** 👍 · 0 💬
+* **[A Java Architect Mapped AI Into Four Layers: Where Java Wins Today and Where It Still Hurts](https://dev.to/jamilxt/a-java-architect-mapped-ai-into-four-layers-where-java-wins-today-and-where-it-still-hurts-2p4p)** — **1** 👍 · 0 💬
+* **[Structured Concurrency vs CompletableFuture: How Java Finally Fixed Parallel Calls](https://dev.to/jamilxt/structured-concurrency-vs-completablefuture-how-java-finally-fixed-parallel-calls-1o1e)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[SQLite 3.54's diskused command needs a build flag sqlite3_analyzer never required](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8)** — **10** 👍 · 0 💬
+* **[Bookmark This: The First Deploy Checklist for Vibe Coders](https://dev.to/tdk-cli/bookmark-this-the-first-deploy-checklist-for-vibe-coders-35gl)** — **5** 👍 · 5 💬
 * **[Three days without a bench](https://dev.to/mrsaynothing/three-days-without-a-bench-3kan)** — **5** 👍 · 2 💬
-* **[Scaling Voice Agents to 10K+ Calls: Jarvis’s 3 Biggest Challenges: Part 1](https://dev.to/darshil89/scaling-voice-agents-to-10k-calls-jarviss-3-biggest-challenges-part-1-2111)** — **3** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Wireshark shows DNS for an HTTP lab site but no plaintext HTTP GET on WLAN](https://dev.to/gordon_deng/wireshark-shows-dns-for-an-http-lab-site-but-no-plaintext-http-get-on-wlan-hm4)** — **0** 👍 · 1 💬
 * **[My self-hosted ad blocker poisoned Apple's push servers and killed iMessage](https://dev.to/prodbymarcu/my-self-hosted-ad-blocker-poisoned-apples-push-servers-and-killed-imessage-4je8)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-18T16:23:52.992253+00:00 -->
+<!-- Log-ID: 2026-10-18T19:52:52.845349+00:00 -->
