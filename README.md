@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-18 00:40 (UTC)
+📅 **Last Update:** 2026-10-18 16:23 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Docker Compose 5.6's jobs type only starts through docker compose run](https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a)** — **10** 👍 · 0 💬
+* **[SQLite 3.54's diskused command needs a build flag sqlite3_analyzer never required](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8)** — **10** 👍 · 0 💬
 * **[Three days without a bench](https://dev.to/mrsaynothing/three-days-without-a-bench-3kan)** — **5** 👍 · 2 💬
-* **[A 33-hour Office.js rollout that changed four bytes](https://dev.to/r0men_/a-33-hour-officejs-rollout-that-changed-four-bytes-3001)** — **4** 👍 · 0 💬
+* **[Scaling Voice Agents to 10K+ Calls: Jarvis’s 3 Biggest Challenges: Part 1](https://dev.to/darshil89/scaling-voice-agents-to-10k-calls-jarviss-3-biggest-challenges-part-1-2111)** — **3** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
-* **[A Management Interface Vulnerability in PAN-OS Needed Credentials. Attackers Used It Anyway](https://dev.to/rbonweb/a-management-interface-vulnerability-in-pan-os-needed-credentials-attackers-used-it-anyway-nb1)** — **1** 👍 · 1 💬
-* **[How to combine wireless and wired internet at home](https://dev.to/hacksgr/how-to-combine-wireless-and-wired-internet-at-home-1642)** — **1** 👍 · 0 💬
-* **[Routes, Ingress or Gateway API on OpenShift 4: Which to Choose and How to Migrate](https://dev.to/florient_4262fab5463a691/routes-ingress-or-gateway-api-on-openshift-4-which-to-choose-and-how-to-migrate-74k)** — **1** 👍 · 0 💬
+* **[AWS Security Groups vs. Network ACLs: Key Differences, Examples, and Best Practices](https://dev.to/madhuchamara/aws-security-groups-vs-network-acls-key-differences-examples-and-best-practices-4i8m)** — **1** 👍 · 0 💬
+* **[Wireshark shows DNS for an HTTP lab site but no plaintext HTTP GET on WLAN](https://dev.to/gordon_deng/wireshark-shows-dns-for-an-http-lab-site-but-no-plaintext-http-get-on-wlan-hm4)** — **0** 👍 · 1 💬
+* **[My self-hosted ad blocker poisoned Apple's push servers and killed iMessage](https://dev.to/prodbymarcu/my-self-hosted-ad-blocker-poisoned-apples-push-servers-and-killed-imessage-4je8)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-18T00:40:18.310662+00:00 -->
+<!-- Log-ID: 2026-10-18T16:23:52.992253+00:00 -->
