@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-19 00:51 (UTC)
+📅 **Last Update:** 2026-10-19 19:06 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Update DB Schema in Production with Flyway like Syntax](https://dev.to/codenameone/update-db-schema-in-production-with-flyway-like-syntax-2lj6)** — **5** 👍 · 0 💬
-* **[The Creator of Jenkins Now Wants You to Run Fewer Tests](https://dev.to/jamilxt/the-creator-of-jenkins-now-wants-you-to-run-fewer-tests-5dm3)** — **1** 👍 · 0 💬
-* **[A Java Architect Mapped AI Into Four Layers: Where Java Wins Today and Where It Still Hurts](https://dev.to/jamilxt/a-java-architect-mapped-ai-into-four-layers-where-java-wins-today-and-where-it-still-hurts-2p4p)** — **1** 👍 · 0 💬
+* **[Update DB Schema in Production with Flyway like Syntax](https://dev.to/codenameone/update-db-schema-in-production-with-flyway-like-syntax-2lj6)** — **6** 👍 · 0 💬
+* **[You Don't Need Python to Ship AI: Adding an LLM Feature to a Spring Boot API](https://dev.to/jwzqeygxtonh/you-dont-need-python-to-ship-ai-adding-an-llm-feature-to-a-spring-boot-api-20di)** — **1** 👍 · 0 💬
+* **[What Contributing to Two Keycloak Projects Taught Me About Building Authentication Extensions](https://dev.to/ismailzahir/what-contributing-to-two-keycloak-projects-taught-me-about-building-authentication-extensions-9pn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 * **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
-* **[🔐 Alfresco Authentication & SSO Integration: LDAP, SAML & Keycloak](https://dev.to/nirankari/alfresco-authentication-sso-integration-ldap-saml-keycloak-27hf)** — **1** 👍 · 0 💬
+* **[What Contributing to Two Keycloak Projects Taught Me About Building Authentication Extensions](https://dev.to/ismailzahir/what-contributing-to-two-keycloak-projects-taught-me-about-building-authentication-extensions-9pn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
+* **[How Do You Make a Microservice Only Your Other Services Can Call?](https://dev.to/lovestaco/how-do-you-make-a-microservice-only-your-other-services-can-call-2f1f)** — **12** 👍 · 1 💬
 * **[SQLite 3.54's diskused command needs a build flag sqlite3_analyzer never required](https://dev.to/alexgeorgiev17/sqlite-354s-diskused-command-needs-a-build-flag-sqlite3analyzer-never-required-4na8)** — **10** 👍 · 0 💬
-* **[Bookmark This: The First Deploy Checklist for Vibe Coders](https://dev.to/tdk-cli/bookmark-this-the-first-deploy-checklist-for-vibe-coders-35gl)** — **5** 👍 · 5 💬
-* **[Three days without a bench](https://dev.to/mrsaynothing/three-days-without-a-bench-3kan)** — **5** 👍 · 2 💬
+* **[How to Detect Schema Drift Before Production Deployments](https://dev.to/databaseinsights/how-to-detect-schema-drift-before-production-deployments-50lk)** — **9** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[AWS Security Groups vs. Network ACLs: Key Differences, Examples, and Best Practices](https://dev.to/madhuchamara/aws-security-groups-vs-network-acls-key-differences-examples-and-best-practices-4i8m)** — **1** 👍 · 0 💬
-* **[Wireshark shows DNS for an HTTP lab site but no plaintext HTTP GET on WLAN](https://dev.to/gordon_deng/wireshark-shows-dns-for-an-http-lab-site-but-no-plaintext-http-get-on-wlan-hm4)** — **0** 👍 · 1 💬
-* **[Mirror Speed Is a Lie Until You Measure It](https://dev.to/street_foodchinese_57726/mirror-speed-is-a-lie-until-you-measure-it-1bkp)** — **0** 👍 · 0 💬
+* **[Localhost Lies About Latency: Why Your Tests Pass and Your Multiplayer Game Doesn't](https://dev.to/tdk-cli/localhost-lies-about-latency-why-your-tests-pass-and-your-multiplayer-game-doesnt-4dgd)** — **5** 👍 · 1 💬
+* **[tcpdump and dig Examples You'll Actually Paste Into a Runbook](https://dev.to/schiff_heimlich/tcpdump-and-dig-examples-youll-actually-paste-into-a-runbook-bjg)** — **1** 👍 · 2 💬
+* **[🌐 MAC Address: The Permanent Fingerprint of Your Device](https://dev.to/yash-infra/mac-address-the-permanent-fingerprint-of-your-device-4fgb)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-19T00:51:39.630138+00:00 -->
+<!-- Log-ID: 2026-10-19T19:06:05.303368+00:00 -->
