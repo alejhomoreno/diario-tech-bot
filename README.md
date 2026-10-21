@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-21 01:19 (UTC)
+📅 **Last Update:** 2026-10-21 17:55 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How Do You Test Spring Compatibility?](https://dev.to/codenameone/how-do-you-test-spring-compatibility-1n7m)** — **5** 👍 · 0 💬
-* **[I'm a .NET Developer. I Benchmarked Java vs C# and I Didn't Like the Answer. Again.](https://dev.to/haikasatryan/im-a-net-developer-i-benchmarked-java-vs-c-and-i-didnt-like-the-answer-again-164n)** — **1** 👍 · 0 💬
-* **[You Don't Need Python to Ship AI: Adding an LLM Feature to a Spring Boot API](https://dev.to/jwzqeygxtonh/you-dont-need-python-to-ship-ai-adding-an-llm-feature-to-a-spring-boot-api-20di)** — **1** 👍 · 0 💬
+* **[Every Step Runs Inside poll(): The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)** — **0** 👍 · 0 💬
+* **[Spring Boot Integration Tests Are Slow and Messy: Here's How to Fix Them](https://dev.to/heraldofsolace/spring-boot-integration-tests-are-slow-and-messy-heres-how-to-fix-them-4dnm)** — **0** 👍 · 0 💬
+* **[AssertJ vs Kotest Assertions: picking the right assertion library for JVM tests](https://dev.to/heraldofsolace/assertj-vs-kotest-assertions-picking-the-right-assertion-library-for-jvm-tests-43in)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[What happens to your Redis data in Docker](https://dev.to/remdore/what-happens-to-your-redis-data-in-docker-5079)** — **8** 👍 · 1 💬
-* **[Monitoring AI Quality: Evaluation Pipelines for Non-Deterministic Products](https://dev.to/isaque_silvachaves/monitoring-ai-quality-evaluation-pipelines-for-non-deterministic-products-355j)** — **6** 👍 · 1 💬
-* **[Symfony AI in 2026: Did the 'School Bus' Actually Get Rocket Boosters?](https://dev.to/jeandevbr/symfony-ai-in-2026-did-the-school-bus-actually-get-rocket-boosters-14ao)** — **5** 👍 · 2 💬
+* **[Who watches the watcher when the watcher is a file in the repo?](https://dev.to/slabb/who-watches-the-watcher-when-the-watcher-is-a-file-in-the-repo-31m8)** — **8** 👍 · 7 💬
+* **[From Pilot Purgatory to Agentic Chaos: Why Medium Enterprises Keep Breaking Their Own SDLCs](https://dev.to/debashish_ghosal/from-pilot-purgatory-to-agentic-chaos-why-medium-enterprises-keep-breaking-their-own-sdlcs-4309)** — **8** 👍 · 1 💬
+* **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Localhost Lies About Latency: Why Your Tests Pass and Your Multiplayer Game Doesn't](https://dev.to/tdk-cli/localhost-lies-about-latency-why-your-tests-pass-and-your-multiplayer-game-doesnt-4dgd)** — **10** 👍 · 3 💬
-* **[tcpdump and dig Examples You'll Actually Paste Into a Runbook](https://dev.to/schiff_heimlich/tcpdump-and-dig-examples-youll-actually-paste-into-a-runbook-bjg)** — **1** 👍 · 2 💬
-* **[Ping failed. Now what? I taught sping to investigate.](https://dev.to/antoniocotos/ping-failed-now-what-i-taught-sping-to-investigate-234k)** — **0** 👍 · 2 💬
+* **[Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets](https://dev.to/yashksaini/dev-log-26-deep-in-the-libp2p-weeds-fixing-dht-prefixes-and-yamux-resets-315n)** — **15** 👍 · 0 💬
+* **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
+* **[Inside Kubernetes Service Networking: Follow a Packet from ClusterIP to Pod](https://dev.to/sreekanth_kuruba_91721e5d/inside-kubernetes-service-networking-follow-a-packet-from-clusterip-to-pod-19jf)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-21T01:19:36.640761+00:00 -->
+<!-- Log-ID: 2026-10-21T17:55:33.884510+00:00 -->
