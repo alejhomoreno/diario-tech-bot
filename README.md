@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-21 17:55 (UTC)
+📅 **Last Update:** 2026-10-21 21:02 (UTC)
 
 ---
 
@@ -17,20 +17,20 @@
 
 ## 🔖 Top Keycloak
 
+* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **19** 👍 · 4 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 * **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
-* **[What Contributing to Two Keycloak Projects Taught Me About Building Authentication Extensions](https://dev.to/ismailzahir/what-contributing-to-two-keycloak-projects-taught-me-about-building-authentication-extensions-9pn)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[Who watches the watcher when the watcher is a file in the repo?](https://dev.to/slabb/who-watches-the-watcher-when-the-watcher-is-a-file-in-the-repo-31m8)** — **8** 👍 · 7 💬
-* **[From Pilot Purgatory to Agentic Chaos: Why Medium Enterprises Keep Breaking Their Own SDLCs](https://dev.to/debashish_ghosal/from-pilot-purgatory-to-agentic-chaos-why-medium-enterprises-keep-breaking-their-own-sdlcs-4309)** — **8** 👍 · 1 💬
-* **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — **6** 👍 · 0 💬
+* **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — **9** 👍 · 2 💬
+* **[From Pilot Purgatory to Agentic Chaos: Why Medium Enterprises Keep Breaking Their Own SDLCs](https://dev.to/debashish_ghosal/from-pilot-purgatory-to-agentic-chaos-why-medium-enterprises-keep-breaking-their-own-sdlcs-4309)** — **9** 👍 · 1 💬
+* **[Who watches the watcher when the watcher is a file in the repo?](https://dev.to/slabb/who-watches-the-watcher-when-the-watcher-is-a-file-in-the-repo-31m8)** — **8** 👍 · 8 💬
 
 ## 🔖 Top Networking
 
 * **[Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets](https://dev.to/yashksaini/dev-log-26-deep-in-the-libp2p-weeds-fixing-dht-prefixes-and-yamux-resets-315n)** — **15** 👍 · 0 💬
 * **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
-* **[Inside Kubernetes Service Networking: Follow a Packet from ClusterIP to Pod](https://dev.to/sreekanth_kuruba_91721e5d/inside-kubernetes-service-networking-follow-a-packet-from-clusterip-to-pod-19jf)** — **1** 👍 · 0 💬
+* **[A multiplayer network starter for Mini Micro](https://dev.to/joestrout/a-multiplayer-network-starter-for-mini-micro-3kpa)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-21T17:55:33.884510+00:00 -->
+<!-- Log-ID: 2026-10-21T21:02:55.996384+00:00 -->
