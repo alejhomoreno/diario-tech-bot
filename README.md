@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-21 21:02 (UTC)
+📅 **Last Update:** 2026-10-22 01:16 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[PGO for Faster Apps and Generational/Adaptive GC](https://dev.to/codenameone/pgo-for-faster-apps-and-generationaladaptive-gc-122e)** — **1** 👍 · 0 💬
 * **[Every Step Runs Inside poll(): The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)** — **0** 👍 · 0 💬
 * **[Spring Boot Integration Tests Are Slow and Messy: Here's How to Fix Them](https://dev.to/heraldofsolace/spring-boot-integration-tests-are-slow-and-messy-heres-how-to-fix-them-4dnm)** — **0** 👍 · 0 💬
-* **[AssertJ vs Kotest Assertions: picking the right assertion library for JVM tests](https://dev.to/heraldofsolace/assertj-vs-kotest-assertions-picking-the-right-assertion-library-for-jvm-tests-43in)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — **9** 👍 · 2 💬
 * **[From Pilot Purgatory to Agentic Chaos: Why Medium Enterprises Keep Breaking Their Own SDLCs](https://dev.to/debashish_ghosal/from-pilot-purgatory-to-agentic-chaos-why-medium-enterprises-keep-breaking-their-own-sdlcs-4309)** — **9** 👍 · 1 💬
-* **[Who watches the watcher when the watcher is a file in the repo?](https://dev.to/slabb/who-watches-the-watcher-when-the-watcher-is-a-file-in-the-repo-31m8)** — **8** 👍 · 8 💬
+* **[My AWS Learning Journey: Understanding IAM and Why It Matters](https://dev.to/akeemomosanyaa/my-aws-learning-journey-understanding-iam-and-why-it-matters-4nj9)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
 * **[A multiplayer network starter for Mini Micro](https://dev.to/joestrout/a-multiplayer-network-starter-for-mini-micro-3kpa)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-21T21:02:55.996384+00:00 -->
+<!-- Log-ID: 2026-10-22T01:16:30.008485+00:00 -->
