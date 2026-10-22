@@ -5,27 +5,27 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-22 01:16 (UTC)
+📅 **Last Update:** 2026-10-22 17:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[PGO for Faster Apps and Generational/Adaptive GC](https://dev.to/codenameone/pgo-for-faster-apps-and-generationaladaptive-gc-122e)** — **1** 👍 · 0 💬
-* **[Every Step Runs Inside poll(): The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)** — **0** 👍 · 0 💬
-* **[Spring Boot Integration Tests Are Slow and Messy: Here's How to Fix Them](https://dev.to/heraldofsolace/spring-boot-integration-tests-are-slow-and-messy-heres-how-to-fix-them-4dnm)** — **0** 👍 · 0 💬
+* **[JUnit 5 Explained: Unit Testing, TDD and Annotations](https://dev.to/mayur_bodhare/junit-5-explained-unit-testing-tdd-and-annotations-27g2)** — **1** 👍 · 0 💬
+* **[How to Add, Edit, and Remove Hyperlinks in PowerPoint Using Java](https://dev.to/dm_dev/how-to-add-edit-and-remove-hyperlinks-in-powerpoint-using-java-n98)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
-* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **19** 👍 · 4 💬
+* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **21** 👍 · 4 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 * **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Devops
 
-* **[Kubernetes 1.35's kubelet refuses to start on a cgroup v1 host by default](https://dev.to/alexgeorgiev17/kubernetes-135s-kubelet-refuses-to-start-on-a-cgroup-v1-host-by-default-4o3h)** — **9** 👍 · 2 💬
-* **[From Pilot Purgatory to Agentic Chaos: Why Medium Enterprises Keep Breaking Their Own SDLCs](https://dev.to/debashish_ghosal/from-pilot-purgatory-to-agentic-chaos-why-medium-enterprises-keep-breaking-their-own-sdlcs-4309)** — **9** 👍 · 1 💬
-* **[My AWS Learning Journey: Understanding IAM and Why It Matters](https://dev.to/akeemomosanyaa/my-aws-learning-journey-understanding-iam-and-why-it-matters-4nj9)** — **5** 👍 · 0 💬
+* **[Your Retry Policy Is Making Production Outages Worse](https://dev.to/johnnylemonny/your-retry-policy-is-making-production-outages-worse-31cb)** — **14** 👍 · 5 💬
+* **[Docker Containers Aren't Virtual Machines: How Namespaces, cgroups, and OverlayFS Actually Work Under the Hood](https://dev.to/smtahosin/docker-containers-arent-virtual-machines-how-namespaces-cgroups-and-overlayfs-actually-work-4nkb)** — **14** 👍 · 2 💬
+* **[Log Aggregation Pipeline Explained: Follow One Log Line and Run the Incident in Your Browser](https://dev.to/devopsdaily/log-aggregation-pipeline-explained-follow-one-log-line-and-run-the-incident-in-your-browser-3h91)** — **11** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
 * **[A multiplayer network starter for Mini Micro](https://dev.to/joestrout/a-multiplayer-network-starter-for-mini-micro-3kpa)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-22T01:16:30.008485+00:00 -->
+<!-- Log-ID: 2026-10-22T17:52:23.656678+00:00 -->
