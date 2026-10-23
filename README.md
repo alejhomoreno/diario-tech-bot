@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-23 01:15 (UTC)
+📅 **Last Update:** 2026-10-23 17:45 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Smaller Simpler Maven Projects](https://dev.to/codenameone/smaller-simpler-maven-projects-4ca5)** — **5** 👍 · 0 💬
-* **[JUnit 5 Explained: Unit Testing, TDD and Annotations](https://dev.to/mayur_bodhare/junit-5-explained-unit-testing-tdd-and-annotations-27g2)** — **1** 👍 · 0 💬
-* **[How to Add, Edit, and Remove Hyperlinks in PowerPoint Using Java](https://dev.to/dm_dev/how-to-add-edit-and-remove-hyperlinks-in-powerpoint-using-java-n98)** — **1** 👍 · 0 💬
+* **[Java](https://dev.to/raksha_murugesan/java-3boj)** — **3** 👍 · 0 💬
+* **[Google's Abirami Sukumaran Wants Java Agents to Stop Talking Directly to Databases](https://dev.to/jamilxt/googles-abirami-sukumaran-wants-java-agents-to-stop-talking-directly-to-databases-3cd7)** — **2** 👍 · 0 💬
+* **[Scaling Your Spring AI Agent: From One User to Many](https://dev.to/shamprakash2000/scaling-your-spring-ai-agent-from-one-user-to-many-dmm)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
-* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **21** 👍 · 4 💬
+* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **60** 👍 · 4 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 * **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Devops
 
-* **[Log Aggregation Pipeline Explained: Follow One Log Line and Run the Incident in Your Browser](https://dev.to/devopsdaily/log-aggregation-pipeline-explained-follow-one-log-line-and-run-the-incident-in-your-browser-3h91)** — **17** 👍 · 0 💬
-* **[PHP2Shell: Your Code Was Fine, The Engine Was Not](https://dev.to/lovestaco/php2shell-your-code-was-fine-the-engine-was-not-gc2)** — **15** 👍 · 1 💬
-* **[Your Retry Policy Is Making Production Outages Worse](https://dev.to/johnnylemonny/your-retry-policy-is-making-production-outages-worse-31cb)** — **14** 👍 · 6 💬
+* **[nginx 1.31.5's control API turns a failed reload into an HTTP 422 instead of a log line](https://dev.to/alexgeorgiev17/nginx-1315s-control-api-turns-a-failed-reload-into-an-http-422-instead-of-a-log-line-48bc)** — **6** 👍 · 1 💬
+* **[Most Package Managers Won't Stop a Tampered Download by Default](https://dev.to/dhruv1206/most-package-managers-wont-stop-a-tampered-download-by-default-1a67)** — **5** 👍 · 0 💬
+* **[When Automatic Configuration Leaves Questions Unanswered](https://dev.to/nwajichukwu_goodness_audit/when-automatic-configuration-leaves-questions-unanswered-346o)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Dev log #26 Deep in the libp2p weeds: Fixing DHT prefixes and Yamux resets](https://dev.to/yashksaini/dev-log-26-deep-in-the-libp2p-weeds-fixing-dht-prefixes-and-yamux-resets-315n)** — **15** 👍 · 0 💬
-* **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
-* **[A multiplayer network starter for Mini Micro](https://dev.to/joestrout/a-multiplayer-network-starter-for-mini-micro-3kpa)** — **1** 👍 · 0 💬
+* **[nginx 1.31.5's control API turns a failed reload into an HTTP 422 instead of a log line](https://dev.to/alexgeorgiev17/nginx-1315s-control-api-turns-a-failed-reload-into-an-http-422-instead-of-a-log-line-48bc)** — **6** 👍 · 1 💬
+* **[How a Mac download manager actually works, and 8 you can use in 2026](https://dev.to/slowroxhq/how-a-mac-download-manager-actually-works-and-8-you-can-use-in-2026-206i)** — **0** 👍 · 0 💬
+* **[Exponer entornos de desarrollo con Cloudflare Tunnel y WARP sin abrir puertos](https://dev.to/ifirestone/exponer-entornos-de-desarrollo-con-cloudflare-tunnel-y-warp-sin-abrir-puertos-2h5e)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-23T01:15:17.121533+00:00 -->
+<!-- Log-ID: 2026-10-23T17:45:13.332899+00:00 -->
