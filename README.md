@@ -5,13 +5,13 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-22 20:59 (UTC)
+📅 **Last Update:** 2026-10-23 01:15 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[PGO for Faster Apps and Generational/Adaptive GC](https://dev.to/codenameone/pgo-for-faster-apps-and-generationaladaptive-gc-122e)** — **1** 👍 · 0 💬
+* **[Smaller Simpler Maven Projects](https://dev.to/codenameone/smaller-simpler-maven-projects-4ca5)** — **5** 👍 · 0 💬
 * **[JUnit 5 Explained: Unit Testing, TDD and Annotations](https://dev.to/mayur_bodhare/junit-5-explained-unit-testing-tdd-and-annotations-27g2)** — **1** 👍 · 0 💬
 * **[How to Add, Edit, and Remove Hyperlinks in PowerPoint Using Java](https://dev.to/dm_dev/how-to-add-edit-and-remove-hyperlinks-in-powerpoint-using-java-n98)** — **1** 👍 · 0 💬
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Log Aggregation Pipeline Explained: Follow One Log Line and Run the Incident in Your Browser](https://dev.to/devopsdaily/log-aggregation-pipeline-explained-follow-one-log-line-and-run-the-incident-in-your-browser-3h91)** — **17** 👍 · 0 💬
+* **[PHP2Shell: Your Code Was Fine, The Engine Was Not](https://dev.to/lovestaco/php2shell-your-code-was-fine-the-engine-was-not-gc2)** — **15** 👍 · 1 💬
 * **[Your Retry Policy Is Making Production Outages Worse](https://dev.to/johnnylemonny/your-retry-policy-is-making-production-outages-worse-31cb)** — **14** 👍 · 6 💬
-* **[Docker Containers Aren't Virtual Machines: How Namespaces, cgroups, and OverlayFS Actually Work Under the Hood](https://dev.to/smtahosin/docker-containers-arent-virtual-machines-how-namespaces-cgroups-and-overlayfs-actually-work-4nkb)** — **14** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)** — **13** 👍 · 0 💬
 * **[A multiplayer network starter for Mini Micro](https://dev.to/joestrout/a-multiplayer-network-starter-for-mini-micro-3kpa)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-22T20:59:46.898584+00:00 -->
+<!-- Log-ID: 2026-10-23T01:15:17.121533+00:00 -->
