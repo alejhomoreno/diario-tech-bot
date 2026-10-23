@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-23 17:45 (UTC)
+📅 **Last Update:** 2026-10-23 20:49 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[nginx 1.31.5's control API turns a failed reload into an HTTP 422 instead of a log line](https://dev.to/alexgeorgiev17/nginx-1315s-control-api-turns-a-failed-reload-into-an-http-422-instead-of-a-log-line-48bc)** — **6** 👍 · 1 💬
-* **[Most Package Managers Won't Stop a Tampered Download by Default](https://dev.to/dhruv1206/most-package-managers-wont-stop-a-tampered-download-by-default-1a67)** — **5** 👍 · 0 💬
-* **[When Automatic Configuration Leaves Questions Unanswered](https://dev.to/nwajichukwu_goodness_audit/when-automatic-configuration-leaves-questions-unanswered-346o)** — **5** 👍 · 0 💬
+* **[Most Package Managers Won't Stop a Tampered Download by Default](https://dev.to/dhruv1206/most-package-managers-wont-stop-a-tampered-download-by-default-1a67)** — **7** 👍 · 2 💬
+* **[One Knob, 19x Latency: What I Learned Benchmarking vLLM on a Single GPU](https://dev.to/raihan-js/one-knob-19x-latency-what-i-learned-benchmarking-vllm-on-a-single-gpu-14bh)** — **2** 👍 · 1 💬
+* **[A release plan is a return plan](https://dev.to/aligator527/a-release-plan-is-a-return-plan-pjj)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[nginx 1.31.5's control API turns a failed reload into an HTTP 422 instead of a log line](https://dev.to/alexgeorgiev17/nginx-1315s-control-api-turns-a-failed-reload-into-an-http-422-instead-of-a-log-line-48bc)** — **6** 👍 · 1 💬
+* **[How to Benchmark a VPS Line Before You Buy](https://dev.to/lumaozhanghao/how-to-benchmark-a-vps-line-before-you-buy-15c9)** — **0** 👍 · 0 💬
 * **[How a Mac download manager actually works, and 8 you can use in 2026](https://dev.to/slowroxhq/how-a-mac-download-manager-actually-works-and-8-you-can-use-in-2026-206i)** — **0** 👍 · 0 💬
-* **[Exponer entornos de desarrollo con Cloudflare Tunnel y WARP sin abrir puertos](https://dev.to/ifirestone/exponer-entornos-de-desarrollo-con-cloudflare-tunnel-y-warp-sin-abrir-puertos-2h5e)** — **0** 👍 · 0 💬
+* **[Network Devices Explained: From Routers to Firewalls (A Software Engineer’s Guide) | Day 2](https://dev.to/muhammad_hassanobaid_908/network-devices-explained-from-routers-to-firewalls-a-software-engineers-guide-day-2-4039)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-23T17:45:13.332899+00:00 -->
+<!-- Log-ID: 2026-10-23T20:49:12.957255+00:00 -->
