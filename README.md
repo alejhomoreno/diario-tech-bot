@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-24 01:23 (UTC)
+📅 **Last Update:** 2026-10-24 16:27 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java](https://dev.to/raksha_murugesan/java-3boj)** — **3** 👍 · 0 💬
-* **[Google's Abirami Sukumaran Wants Java Agents to Stop Talking Directly to Databases](https://dev.to/jamilxt/googles-abirami-sukumaran-wants-java-agents-to-stop-talking-directly-to-databases-3cd7)** — **2** 👍 · 0 💬
-* **[Scaling Your Spring AI Agent: From One User to Many](https://dev.to/shamprakash2000/scaling-your-spring-ai-agent-from-one-user-to-many-dmm)** — **0** 👍 · 0 💬
+* **[One Load per Key: Collapsing Duplicate Lookups with Spring Boot's Cache and Caffeine](https://dev.to/fialhorenato/one-load-per-key-collapsing-duplicate-lookups-with-spring-boots-cache-and-caffeine-390p)** — **5** 👍 · 0 💬
+* **[NIO-Pulse](https://dev.to/noah_austin/nio-pulse-11jp)** — **5** 👍 · 0 💬
+* **[Getting Started with Clojure](https://dev.to/itsvinayak/getting-started-with-clojure-o03)** — **4** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Most Package Managers Won't Stop a Tampered Download by Default](https://dev.to/dhruv1206/most-package-managers-wont-stop-a-tampered-download-by-default-1a67)** — **8** 👍 · 4 💬
-* **[Your publishing daemon will read a success code as a failure](https://dev.to/llmrt/your-publishing-daemon-will-read-a-success-code-as-a-failure-4dhh)** — **2** 👍 · 1 💬
-* **[A release plan is a return plan](https://dev.to/aligator527/a-release-plan-is-a-return-plan-pjj)** — **1** 👍 · 2 💬
+* **[Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400](https://dev.to/alexgeorgiev17/caddy-2116-turns-a-silent-config-failure-on-load-into-an-http-400-4656)** — **6** 👍 · 3 💬
+* **[PHP2Shell, Node.js, GitLab & LiteLLM Vulnerabilities: October 2026 Patch Guide](https://dev.to/asyncinnovator/php2shell-nodejs-gitlab-litellm-vulnerabilities-october-2026-patch-guide-25le)** — **5** 👍 · 0 💬
+* **[Why no Python configuration library covers everything](https://dev.to/niccolum/why-no-python-configuration-library-covers-everything-1phe)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How a Mac download manager actually works, and 8 you can use in 2026](https://dev.to/slowroxhq/how-a-mac-download-manager-actually-works-and-8-you-can-use-in-2026-206i)** — **0** 👍 · 0 💬
 * **[Network Devices Explained: From Routers to Firewalls (A Software Engineer’s Guide) | Day 2](https://dev.to/muhammad_hassanobaid_908/network-devices-explained-from-routers-to-firewalls-a-software-engineers-guide-day-2-4039)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-24T01:23:16.815046+00:00 -->
+<!-- Log-ID: 2026-10-24T16:27:04.313332+00:00 -->
