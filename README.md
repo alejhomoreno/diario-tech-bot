@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-25 16:58 (UTC)
+📅 **Last Update:** 2026-10-25 20:10 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
+* **[Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB](https://dev.to/alexgeorgiev17/valkey-92s-new-rdbcompression-lz4-setting-cuts-a-1m-row-rdb-from-178mb-to-35mb-1cje)** — **7** 👍 · 0 💬
 * **[Bubbles: a new kind of software, where one reply becomes a running stack](https://dev.to/flisk/bubbles-a-new-kind-of-software-where-one-reply-becomes-a-running-stack-1b72)** — **5** 👍 · 1 💬
 * **[Giving Kubernetes ServiceAccounts an identity in Forgejo with oauth2-proxy](https://dev.to/3deep5me/giving-kubernetes-serviceaccounts-an-identity-in-forgejo-with-oauth2-proxy-1po6)** — **3** 👍 · 0 💬
-* **[Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB](https://dev.to/alexgeorgiev17/valkey-92s-new-rdbcompression-lz4-setting-cuts-a-1m-row-rdb-from-178mb-to-35mb-1cje)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[No inbound ports, no peering: putting an edge in front of our servers](https://dev.to/vivek_itp/no-inbound-ports-no-peering-putting-an-edge-in-front-of-our-servers-ih6)** — **0** 👍 · 0 💬
 * **[IPv4 Subnetting and CIDR Explained: How Routers Hand Out Host Ranges](https://dev.to/routeripguide/ipv4-subnetting-and-cidr-explained-how-routers-hand-out-host-ranges-5a1m)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-25T16:58:39.829070+00:00 -->
+<!-- Log-ID: 2026-10-25T20:10:28.800110+00:00 -->
