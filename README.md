@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-24 19:59 (UTC)
+📅 **Last Update:** 2026-10-25 00:52 (UTC)
 
 ---
 
@@ -24,7 +24,7 @@
 ## 🔖 Top Devops
 
 * **[Caddy 2.11.6 turns a silent config failure on /load into an HTTP 400](https://dev.to/alexgeorgiev17/caddy-2116-turns-a-silent-config-failure-on-load-into-an-http-400-4656)** — **8** 👍 · 3 💬
-* **[GKE Autopilot vs Cloud Run: The Decision I Keep Coming Back To](https://dev.to/purvanshbhatt/gke-autopilot-vs-cloud-run-the-decision-i-keep-coming-back-to-2m93)** — **1** 👍 · 0 💬
+* **[AWS Won't Patch a CVSS 9.8 Bug in Multi Model Server. Its Management API Has No Login](https://dev.to/gabrielanhaia/aws-wont-patch-a-cvss-98-bug-in-multi-model-server-its-management-api-has-no-login-2e71)** — **1** 👍 · 1 💬
 * **[What your cron schedule does on the two DST nights, tested](https://dev.to/40_c9e9d448914c1f95a55f68/what-your-cron-schedule-does-on-the-two-dst-nights-tested-2h93)** — **0** 👍 · 2 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[How a Mac download manager actually works, and 8 you can use in 2026](https://dev.to/slowroxhq/how-a-mac-download-manager-actually-works-and-8-you-can-use-in-2026-206i)** — **0** 👍 · 0 💬
 * **[Network Devices Explained: From Routers to Firewalls (A Software Engineer’s Guide) | Day 2](https://dev.to/muhammad_hassanobaid_908/network-devices-explained-from-routers-to-firewalls-a-software-engineers-guide-day-2-4039)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-24T19:59:50.372723+00:00 -->
+<!-- Log-ID: 2026-10-25T00:52:12.443335+00:00 -->
