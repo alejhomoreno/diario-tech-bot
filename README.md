@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-26 19:03 (UTC)
+📅 **Last Update:** 2026-10-26 22:07 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Design : Distributed Spring Batch Without a Message Broker](https://dev.to/jchejarla/design-distributed-spring-batch-without-a-message-broker-1369)** — **1** 👍 · 0 💬
-* **[Encrypting Sensitive Data in Spring Boot: AES-256-GCM Explained with a Real-World Example](https://dev.to/rakib455/encrypting-sensitive-data-in-spring-boot-aes-256-gcm-explained-with-a-real-world-example-3a3o)** — **0** 👍 · 1 💬
+* **[Java](https://dev.to/abishek_m_82/java-1c07)** — **1** 👍 · 0 💬
 * **[Dependency Injection Without Reflection: Wiring 100 Beans in 65 ms (Building Ligero, Part 3)](https://dev.to/duvanjamid/dependency-injection-without-reflection-wiring-100-beans-in-65-ms-building-ligero-part-3-7dn)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Python 3.14's concurrent.interpreters module turns a 3.6-second GIL bottleneck into 0.9 seconds](https://dev.to/alexgeorgiev17/python-314s-concurrentinterpreters-module-turns-a-36-second-gil-bottleneck-into-09-seconds-219)** — **8** 👍 · 0 💬
-* **[Gheist: 13,500 secret-dumping workflows planted with stolen GitHub tokens — audit yours in 5 minutes](https://dev.to/slabb/gheist-13500-secret-dumping-workflows-planted-with-stolen-github-tokens-audit-yours-in-5-minutes-299f)** — **7** 👍 · 0 💬
 * **[Day 72: A Parameter and a Boot Script](https://dev.to/ndcodes/day-72-a-parameter-and-a-boot-script-4gjj)** — **5** 👍 · 0 💬
+* **[Kubernetes on AKS: From Zero to Production Workloads - Publishing to GitHub and Cleaning Up Azure Resources (Part 9/9)](https://dev.to/rahimah_dev/kubernetes-on-aks-from-zero-to-production-workloads-publishing-to-github-and-cleaning-up-azure-2fh8)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[IPv6 Logging and Abuse Handling: Why the /64 Is the Unit](https://dev.to/ipye_com/ipv6-logging-and-abuse-handling-why-the-64-is-the-unit-5eo5)** — **0** 👍 · 0 💬
 * **[Rate Limiting and Banning IPv6 Clients by /64 with nftables](https://dev.to/ipye_com/rate-limiting-and-banning-ipv6-clients-by-64-with-nftables-4k97)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-26T19:03:20.122208+00:00 -->
+<!-- Log-ID: 2026-10-26T22:07:03.970859+00:00 -->
