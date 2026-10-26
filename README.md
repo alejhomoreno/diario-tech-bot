@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-26 00:59 (UTC)
+📅 **Last Update:** 2026-10-26 19:03 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spring Data-Style Repositories Compiled to Native Code](https://dev.to/codenameone/spring-data-style-repositories-compiled-to-native-code-2f4b)** — **5** 👍 · 0 💬
-* **[Trace Path: Why Net Displacement Is the Wrong Check](https://dev.to/obrutus/trace-path-why-net-displacement-is-the-wrong-check-3gkh)** — **1** 👍 · 0 💬
-* **[Java: Introduction, History, and Features](https://dev.to/abimanyu_p_9e75124634d2a4/java-introduction-history-and-features-51lk)** — **1** 👍 · 0 💬
+* **[Design : Distributed Spring Batch Without a Message Broker](https://dev.to/jchejarla/design-distributed-spring-batch-without-a-message-broker-1369)** — **1** 👍 · 0 💬
+* **[Encrypting Sensitive Data in Spring Boot: AES-256-GCM Explained with a Real-World Example](https://dev.to/rakib455/encrypting-sensitive-data-in-spring-boot-aes-256-gcm-explained-with-a-real-world-example-3a3o)** — **0** 👍 · 1 💬
+* **[Dependency Injection Without Reflection: Wiring 100 Beans in 65 ms (Building Ligero, Part 3)](https://dev.to/duvanjamid/dependency-injection-without-reflection-wiring-100-beans-in-65-ms-building-ligero-part-3-7dn)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Valkey 9.2's new rdbcompression lz4 setting cuts a 1M-row RDB from 178MB to 35MB](https://dev.to/alexgeorgiev17/valkey-92s-new-rdbcompression-lz4-setting-cuts-a-1m-row-rdb-from-178mb-to-35mb-1cje)** — **7** 👍 · 0 💬
-* **[My HVAC Voice Agent Was Listening for the Word Invisalign](https://dev.to/nabeelbaghoor/my-hvac-voice-agent-was-listening-for-the-word-invisalign-273g)** — **2** 👍 · 1 💬
-* **[How to check your servers, Docker images and logs for PHP2Shell](https://dev.to/noanya/how-to-check-your-servers-docker-images-and-logs-for-php2shell-2c5d)** — **1** 👍 · 1 💬
+* **[Python 3.14's concurrent.interpreters module turns a 3.6-second GIL bottleneck into 0.9 seconds](https://dev.to/alexgeorgiev17/python-314s-concurrentinterpreters-module-turns-a-36-second-gil-bottleneck-into-09-seconds-219)** — **8** 👍 · 0 💬
+* **[Gheist: 13,500 secret-dumping workflows planted with stolen GitHub tokens — audit yours in 5 minutes](https://dev.to/slabb/gheist-13500-secret-dumping-workflows-planted-with-stolen-github-tokens-audit-yours-in-5-minutes-299f)** — **7** 👍 · 0 💬
+* **[Day 72: A Parameter and a Boot Script](https://dev.to/ndcodes/day-72-a-parameter-and-a-boot-script-4gjj)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why Does TCP Use a Sliding Window? (Flow Control vs BDP)](https://dev.to/binarydose/why-does-tcp-use-a-sliding-window-flow-control-vs-bdp-d25)** — **1** 👍 · 0 💬
-* **[No inbound ports, no peering: putting an edge in front of our servers](https://dev.to/vivek_itp/no-inbound-ports-no-peering-putting-an-edge-in-front-of-our-servers-ih6)** — **0** 👍 · 0 💬
-* **[IPv4 Subnetting and CIDR Explained: How Routers Hand Out Host Ranges](https://dev.to/routeripguide/ipv4-subnetting-and-cidr-explained-how-routers-hand-out-host-ranges-5a1m)** — **0** 👍 · 0 💬
+* **[Isolating East-West Traffic: Default-Deny NetworkPolicy and Observability with Cilium Hubble](https://dev.to/florient_4262fab5463a691/isolating-east-west-traffic-default-deny-networkpolicy-and-observability-with-cilium-hubble-3jlh)** — **1** 👍 · 0 💬
+* **[IPv6 Logging and Abuse Handling: Why the /64 Is the Unit](https://dev.to/ipye_com/ipv6-logging-and-abuse-handling-why-the-64-is-the-unit-5eo5)** — **0** 👍 · 0 💬
+* **[Rate Limiting and Banning IPv6 Clients by /64 with nftables](https://dev.to/ipye_com/rate-limiting-and-banning-ipv6-clients-by-64-with-nftables-4k97)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-26T00:59:38.451412+00:00 -->
+<!-- Log-ID: 2026-10-26T19:03:20.122208+00:00 -->
