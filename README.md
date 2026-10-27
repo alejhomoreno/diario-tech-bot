@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-27 18:34 (UTC)
+📅 **Last Update:** 2026-10-27 21:36 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **19** 👍 · 6 💬
+* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **19** 👍 · 8 💬
 * **[How long it takes to move an IP address between two servers](https://dev.to/remdore/how-long-it-takes-to-move-an-ip-address-between-two-servers-42g9)** — **12** 👍 · 0 💬
-* **[The 12 Websites Every DevOps Engineer Should Bookmark in 2026](https://dev.to/boiliev/the-12-websites-every-devops-engineer-should-bookmark-in-2026-1k0n)** — **10** 👍 · 0 💬
+* **[The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost](https://dev.to/nedomas/the-cheapest-github-actions-runners-in-2026-what-100000-minutes-cost-2mlc)** — **3** 👍 · 4 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET](https://dev.to/yashksaini/dev-log-deep-in-the-review-queue-hardening-libp2p-across-python-and-net-357l)** — **11** 👍 · 2 💬
 * **[Our ingress saw every visitor as one of our own nodes and let them reach the admin pages](https://dev.to/sergey_shinder_ab2d943365/our-ingress-saw-every-visitor-as-one-of-our-own-nodes-and-let-them-reach-the-admin-pages-1a4p)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-27T18:34:58.721661+00:00 -->
+<!-- Log-ID: 2026-10-27T21:36:56.237702+00:00 -->
