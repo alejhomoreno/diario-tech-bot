@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-27 01:50 (UTC)
+📅 **Last Update:** 2026-10-27 18:34 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Building an annotation-driven MCP server in Java](https://dev.to/ayushwing/building-an-annotation-driven-mcp-server-in-java-39mo)** — **1** 👍 · 0 💬
 * **[Design : Distributed Spring Batch Without a Message Broker](https://dev.to/jchejarla/design-distributed-spring-batch-without-a-message-broker-1369)** — **1** 👍 · 0 💬
-* **[Java](https://dev.to/abishek_m_82/java-1c07)** — **1** 👍 · 0 💬
-* **[Dependency Injection Without Reflection: Wiring 100 Beans in 65 ms (Building Ligero, Part 3)](https://dev.to/duvanjamid/dependency-injection-without-reflection-wiring-100-beans-in-65-ms-building-ligero-part-3-7dn)** — **0** 👍 · 1 💬
+* **[Spring AI 2.1 Session Memory: Build a Restart-Safe Agent with JDBC](https://dev.to/jamilxt/spring-ai-21-session-memory-build-a-restart-safe-agent-with-jdbc-2igh)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Python 3.14's concurrent.interpreters module turns a 3.6-second GIL bottleneck into 0.9 seconds](https://dev.to/alexgeorgiev17/python-314s-concurrentinterpreters-module-turns-a-36-second-gil-bottleneck-into-09-seconds-219)** — **8** 👍 · 1 💬
-* **[The Zeroeth Law of Engineering](https://dev.to/regis-ud/the-zeroeth-law-of-engineering-ckm)** — **1** 👍 · 1 💬
-* **[Kubernetes on AKS: From Zero to Production Workloads - Publishing to GitHub and Cleaning Up Azure Resources (Part 9/9)](https://dev.to/rahimah_dev/kubernetes-on-aks-from-zero-to-production-workloads-publishing-to-github-and-cleaning-up-azure-2fh8)** — **1** 👍 · 1 💬
+* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **19** 👍 · 6 💬
+* **[How long it takes to move an IP address between two servers](https://dev.to/remdore/how-long-it-takes-to-move-an-ip-address-between-two-servers-42g9)** — **12** 👍 · 0 💬
+* **[The 12 Websites Every DevOps Engineer Should Bookmark in 2026](https://dev.to/boiliev/the-12-websites-every-devops-engineer-should-bookmark-in-2026-1k0n)** — **10** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Isolating East-West Traffic: Default-Deny NetworkPolicy and Observability with Cilium Hubble](https://dev.to/florient_4262fab5463a691/isolating-east-west-traffic-default-deny-networkpolicy-and-observability-with-cilium-hubble-3jlh)** — **1** 👍 · 0 💬
-* **[IPv6 Logging and Abuse Handling: Why the /64 Is the Unit](https://dev.to/ipye_com/ipv6-logging-and-abuse-handling-why-the-64-is-the-unit-5eo5)** — **0** 👍 · 0 💬
-* **[Rate Limiting and Banning IPv6 Clients by /64 with nftables](https://dev.to/ipye_com/rate-limiting-and-banning-ipv6-clients-by-64-with-nftables-4k97)** — **0** 👍 · 0 💬
+* **[How long it takes to move an IP address between two servers](https://dev.to/remdore/how-long-it-takes-to-move-an-ip-address-between-two-servers-42g9)** — **12** 👍 · 0 💬
+* **[Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET](https://dev.to/yashksaini/dev-log-deep-in-the-review-queue-hardening-libp2p-across-python-and-net-357l)** — **11** 👍 · 2 💬
+* **[Our ingress saw every visitor as one of our own nodes and let them reach the admin pages](https://dev.to/sergey_shinder_ab2d943365/our-ingress-saw-every-visitor-as-one-of-our-own-nodes-and-let-them-reach-the-admin-pages-1a4p)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-27T01:50:15.073913+00:00 -->
+<!-- Log-ID: 2026-10-27T18:34:58.721661+00:00 -->
