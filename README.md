@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-28 02:01 (UTC)
+📅 **Last Update:** 2026-10-28 18:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Give Your Desktop App a Useful Title Bar and Real Tools](https://dev.to/codenameone/give-your-desktop-app-a-useful-title-bar-and-real-tools-199h)** — **1** 👍 · 0 💬
-* **[Building an annotation-driven MCP server in Java](https://dev.to/ayushwing/building-an-annotation-driven-mcp-server-in-java-39mo)** — **1** 👍 · 0 💬
-* **[Design : Distributed Spring Batch Without a Message Broker](https://dev.to/jchejarla/design-distributed-spring-batch-without-a-message-broker-1369)** — **1** 👍 · 0 💬
+* **[Spring AI 2.1 Session Memory: Build a Restart-Safe Agent with JDBC](https://dev.to/jamilxt/spring-ai-21-session-memory-build-a-restart-safe-agent-with-jdbc-2igh)** — **0** 👍 · 1 💬
+* **[Kuyō: a funeral for the code you deleted, written by a local Gemma](https://dev.to/mauricioandrade/kuyo-a-funeral-for-the-code-you-deleted-written-by-a-local-gemma-c4i)** — **0** 👍 · 0 💬
+* **[Encrypting Sensitive Data in Spring Boot: AES-256-GCM Explained with a Real-World Example](https://dev.to/rakibhasan455/encrypting-sensitive-data-in-spring-boot-aes-256-gcm-explained-with-a-real-world-example-41go)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
-* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **73** 👍 · 6 💬
+* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **74** 👍 · 6 💬
+* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **55** 👍 · 2 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
-* **[A provisioned Keycloak client inherits no PKCE pin, and the obvious fix is inert](https://dev.to/marcos_sousa/a-provisioned-keycloak-client-inherits-no-pkce-pin-and-the-obvious-fix-is-inert-4126)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Devops
 
-* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **24** 👍 · 8 💬
-* **[How long it takes to move an IP address between two servers](https://dev.to/remdore/how-long-it-takes-to-move-an-ip-address-between-two-servers-42g9)** — **12** 👍 · 0 💬
-* **[The cheapest GitHub Actions runners in 2026: what 100,000 minutes cost](https://dev.to/nedomas/the-cheapest-github-actions-runners-in-2026-what-100000-minutes-cost-2mlc)** — **3** 👍 · 5 💬
+* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **30** 👍 · 15 💬
+* **[EIDOLON: The Human Ghost Archive](https://dev.to/shaguftah_19/eidolon-the-human-ghost-archive-1gi3)** — **2** 👍 · 3 💬
+* **[What Should Stop an AI Coding Agent From Running terraform destroy?](https://dev.to/aws-safebox/what-should-stop-an-ai-coding-agent-from-running-terraform-destroy-3h80)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[How long it takes to move an IP address between two servers](https://dev.to/remdore/how-long-it-takes-to-move-an-ip-address-between-two-servers-42g9)** — **12** 👍 · 0 💬
-* **[Dev log #27 Deep in the review queue: Hardening libp2p across Python and .NET](https://dev.to/yashksaini/dev-log-deep-in-the-review-queue-hardening-libp2p-across-python-and-net-357l)** — **11** 👍 · 2 💬
-* **[Our ingress saw every visitor as one of our own nodes and let them reach the admin pages](https://dev.to/sergey_shinder_ab2d943365/our-ingress-saw-every-visitor-as-one-of-our-own-nodes-and-let-them-reach-the-admin-pages-1a4p)** — **1** 👍 · 0 💬
+* **[MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161)** — **25** 👍 · 3 💬
+* **[AWS VPC: Public & Private Subnets with EC2 & Docker](https://dev.to/rajdevx/aws-vpc-public-private-subnets-with-ec2-docker-30ml)** — **1** 👍 · 0 💬
+* **[GCP: Cutting Cross-Region Latency with Cloud Load Balancing and Anycast IP](https://dev.to/florient_4262fab5463a691/gcp-cutting-cross-region-latency-with-cloud-load-balancing-and-anycast-ip-1k3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-28T02:01:15.223144+00:00 -->
+<!-- Log-ID: 2026-10-28T18:40:42.846736+00:00 -->
