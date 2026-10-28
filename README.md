@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-28 18:40 (UTC)
+📅 **Last Update:** 2026-10-28 22:01 (UTC)
 
 ---
 
@@ -18,19 +18,19 @@
 ## 🔖 Top Keycloak
 
 * **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **74** 👍 · 6 💬
-* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **55** 👍 · 2 💬
+* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **55** 👍 · 4 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
 * **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **30** 👍 · 15 💬
-* **[EIDOLON: The Human Ghost Archive](https://dev.to/shaguftah_19/eidolon-the-human-ghost-archive-1gi3)** — **2** 👍 · 3 💬
-* **[What Should Stop an AI Coding Agent From Running terraform destroy?](https://dev.to/aws-safebox/what-should-stop-an-ai-coding-agent-from-running-terraform-destroy-3h80)** — **1** 👍 · 2 💬
+* **[Tailscale SSH Tailworm: what the fix in 1.104.4 closes](https://dev.to/axrisi/tailscale-ssh-tailworm-what-the-fix-in-11044-closes-in0)** — **1** 👍 · 2 💬
+* **[Before You Buy AI SOC Triage, Make It Explain What It Dismisses](https://dev.to/david_boggs_adaptive/before-you-buy-ai-soc-triage-make-it-explain-what-it-dismisses-2bid)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161)** — **25** 👍 · 3 💬
+* **[MQTT Doesn't Have Message Queues. Inside the 2-Byte Protocol Powering Modern IoT.](https://dev.to/smtahosin/mqtt-doesnt-have-message-queues-inside-the-2-byte-protocol-powering-modern-iot-161)** — **26** 👍 · 4 💬
 * **[AWS VPC: Public & Private Subnets with EC2 & Docker](https://dev.to/rajdevx/aws-vpc-public-private-subnets-with-ec2-docker-30ml)** — **1** 👍 · 0 💬
 * **[GCP: Cutting Cross-Region Latency with Cloud Load Balancing and Anycast IP](https://dev.to/florient_4262fab5463a691/gcp-cutting-cross-region-latency-with-cloud-load-balancing-and-anycast-ip-1k3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-28T18:40:42.846736+00:00 -->
+<!-- Log-ID: 2026-10-28T22:01:02.603051+00:00 -->
