@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-28 22:01 (UTC)
+📅 **Last Update:** 2026-10-29 02:08 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **30** 👍 · 15 💬
-* **[Tailscale SSH Tailworm: what the fix in 1.104.4 closes](https://dev.to/axrisi/tailscale-ssh-tailworm-what-the-fix-in-11044-closes-in0)** — **1** 👍 · 2 💬
-* **[Before You Buy AI SOC Triage, Make It Explain What It Dismisses](https://dev.to/david_boggs_adaptive/before-you-buy-ai-soc-triage-make-it-explain-what-it-dismisses-2bid)** — **1** 👍 · 0 💬
+* **[The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)** — **32** 👍 · 15 💬
+* **[What I actually use Cloud Run for (and what I don't)](https://dev.to/murphy_90/what-i-actually-use-cloud-run-for-and-what-i-dont-1n2j)** — **12** 👍 · 2 💬
+* **[Cloud Run cold starts: what I measured and what I changed](https://dev.to/harper_ships/cloud-run-cold-starts-what-i-measured-and-what-i-changed-573)** — **12** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[AWS VPC: Public & Private Subnets with EC2 & Docker](https://dev.to/rajdevx/aws-vpc-public-private-subnets-with-ec2-docker-30ml)** — **1** 👍 · 0 💬
 * **[GCP: Cutting Cross-Region Latency with Cloud Load Balancing and Anycast IP](https://dev.to/florient_4262fab5463a691/gcp-cutting-cross-region-latency-with-cloud-load-balancing-and-anycast-ip-1k3)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-28T22:01:02.603051+00:00 -->
+<!-- Log-ID: 2026-10-29T02:08:43.018646+00:00 -->
