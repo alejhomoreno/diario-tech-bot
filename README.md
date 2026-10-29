@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-29 18:49 (UTC)
+📅 **Last Update:** 2026-10-29 22:12 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Built for Humans, Flooded by Agents: Why Git Infrastructure Is Being Rebuilt](https://dev.to/james_anderson_h/built-for-humans-flooded-by-agents-why-git-infrastructure-is-being-rebuilt-5ccb)** — **9** 👍 · 3 💬
-* **[Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)** — **9** 👍 · 0 💬
-* **[We Automated the Journey. Did We Remember the Human?](https://dev.to/navidishaq/we-automated-the-journey-did-we-remember-the-human-19fm)** — **5** 👍 · 6 💬
+* **[Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)** — **9** 👍 · 1 💬
+* **[Illusory Cloud Backups: Actually Testing Your DR Plan with Velero and a Timed Restore](https://dev.to/florient_4262fab5463a691/illusory-cloud-backups-actually-testing-your-dr-plan-with-velero-and-a-timed-restore-1811)** — **2** 👍 · 0 💬
+* **[Fail closed: if a command doesn't say staging, treat it as production](https://dev.to/nicholasflemmer/fail-closed-if-a-command-doesnt-say-staging-treat-it-as-production-4l67)** — **1** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Terraform finally met switches: Cisco Network as Code with ACI just works](https://dev.to/jan_pokorn_cd874da1d88ff/terraform-finally-met-switches-cisco-network-as-code-with-aci-just-works-22al)** — **1** 👍 · 0 💬
 * **[How I Troubleshoot a Linux Server That Suddenly Loses Network Access](https://dev.to/asepsayyad007/how-i-troubleshoot-a-linux-server-that-suddenly-loses-network-access-2106)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-10-29T18:49:01.554750+00:00 -->
+<!-- Log-ID: 2026-10-29T22:12:52.270173+00:00 -->
