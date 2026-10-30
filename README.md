@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-30 18:26 (UTC)
+📅 **Last Update:** 2026-10-30 21:48 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier](https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj)** — **7** 👍 · 0 💬
+* **[Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier](https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj)** — **8** 👍 · 0 💬
 * **[I got tired of production incidents caused by bad config, so I built a scanner](https://dev.to/vishnusatheesh/i-got-tired-of-production-incidents-caused-by-bad-config-so-i-built-a-scanner-ohd)** — **5** 👍 · 0 💬
-* **[I Deliberately Broke a Git Merge to See What Happens Under the Hood](https://dev.to/anderson-devvs/i-deliberately-broke-a-git-merge-to-see-what-happens-under-the-hood-4li)** — **5** 👍 · 0 💬
+* **[S3 Glacier Restore Is Not a Storage-Class Migration](https://dev.to/nishikantaray/s3-glacier-restore-is-not-a-storage-class-migration-3ffo)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[What if you could just tell Packet Tracer what to build? Looking for your thoughts (and a question about AI)](https://dev.to/pitcha2121/what-if-you-could-just-tell-packet-tracer-what-to-build-looking-for-your-thoughts-and-a-question-23g1)** — **0** 👍 · 2 💬
+* **[Measuring What My Electron App Sends: 94 Sockets, 0 Out](https://dev.to/ji_ai/measuring-what-my-electron-app-sends-94-sockets-0-out-5cek)** — **0** 👍 · 1 💬
 * **[Reproducing a flaky network in Linux namespaces with netem](https://dev.to/forestvpn/reproducing-a-flaky-network-in-linux-namespaces-with-netem-1gln)** — **0** 👍 · 0 💬
-* **[Bridging Code and Security: SQL Injection, Hardening and Network Basics | GCF Parul University (Part 1)](https://dev.to/justjbear/bridging-code-and-security-sql-injection-hardening-and-network-basics-gcf-parul-university-1c0l)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-30T18:26:34.848771+00:00 -->
+<!-- Log-ID: 2026-10-30T21:48:48.723545+00:00 -->
