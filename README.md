@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-29 22:12 (UTC)
+📅 **Last Update:** 2026-10-30 02:25 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java Erases Your Generics. TypeScript Erases Every Type. What Survives to Runtime](https://dev.to/gabrielanhaia/java-erases-your-generics-typescript-erases-every-type-what-survives-to-runtime-16mk)** — **1** 👍 · 0 💬
-* **["⚡ Kafka Is a Better Agent Bus Than Your Chat Loop"](https://dev.to/journal_ai/-kafka-is-a-better-agent-bus-than-your-chat-loop-mab)** — **0** 👍 · 0 💬
-* **[Kotlin data class in Spring Boot 4: what the bytecode shows](https://dev.to/protsenko/kotlin-data-class-in-spring-boot-4-what-the-bytecode-shows-1ena)** — **0** 👍 · 0 💬
+* **[A Java IDE in Your Browser, With Your Files in Your Browser](https://dev.to/codenameone/a-java-ide-in-your-browser-with-your-files-in-your-browser-1g9p)** — **0** 👍 · 0 💬
+* **[How I got a thread dump from a timed-out GitHub Actions test](https://dev.to/maschiojv/how-i-got-a-thread-dump-from-a-timed-out-github-actions-test-hpp)** — **0** 👍 · 0 💬
+* **[How to Detect Circular Dependencies in Java, TypeScript, Python and Go](https://dev.to/august_occh_dev/how-to-detect-circular-dependencies-in-java-typescript-python-and-go-2ib5)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)** — **9** 👍 · 1 💬
-* **[Illusory Cloud Backups: Actually Testing Your DR Plan with Velero and a Timed Restore](https://dev.to/florient_4262fab5463a691/illusory-cloud-backups-actually-testing-your-dr-plan-with-velero-and-a-timed-restore-1811)** — **2** 👍 · 0 💬
-* **[Fail closed: if a command doesn't say staging, treat it as production](https://dev.to/nicholasflemmer/fail-closed-if-a-command-doesnt-say-staging-treat-it-as-production-4l67)** — **1** 👍 · 2 💬
+* **[Deno 2.9's task cache turns a 4-second build into a 10-millisecond skip](https://dev.to/alexgeorgiev17/deno-29s-task-cache-turns-a-4-second-build-into-a-10-millisecond-skip-43bn)** — **9** 👍 · 2 💬
+* **[Building a Declarative Homelab: Deploying Linkding & Mealie to Kubernetes with Flux CD GitOps](https://dev.to/alanvarghese-dev/building-a-declarative-homelab-deploying-linkding-mealie-to-kubernetes-with-flux-cd-gitops-4g63)** — **1** 👍 · 1 💬
+* **[What Happens When Prometheus Goes Down? Monitoring the Monitoring System](https://dev.to/amira_abidi/what-happens-when-prometheus-goes-down-monitoring-the-monitoring-system-5dkf)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[How to Find Your Router Default Gateway IP and Access the Admin Panel](https://dev.to/routeripguide/how-to-find-your-router-default-gateway-ip-and-access-the-admin-panel-2970)** — **1** 👍 · 0 💬
-* **[Terraform finally met switches: Cisco Network as Code with ACI just works](https://dev.to/jan_pokorn_cd874da1d88ff/terraform-finally-met-switches-cisco-network-as-code-with-aci-just-works-22al)** — **1** 👍 · 0 💬
 * **[How I Troubleshoot a Linux Server That Suddenly Loses Network Access](https://dev.to/asepsayyad007/how-i-troubleshoot-a-linux-server-that-suddenly-loses-network-access-2106)** — **0** 👍 · 1 💬
+* **[Deterministic Reordering of Concurrent Webhooks: Handling Out-of-Order State Transitions with CRDTs](https://dev.to/instawebhook/deterministic-reordering-of-concurrent-webhooks-handling-out-of-order-state-transitions-with-crdts-flf)** — **0** 👍 · 0 💬
+* **[Most RFCs are never replaced, and errata held for a document update mostly stay held: two pre-registered studies](https://dev.to/munimv2/most-rfcs-are-never-replaced-and-errata-held-for-a-document-update-mostly-stay-held-two-2n80)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-29T22:12:52.270173+00:00 -->
+<!-- Log-ID: 2026-10-30T02:25:15.749040+00:00 -->
