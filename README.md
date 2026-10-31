@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-10-31 02:02 (UTC)
+📅 **Last Update:** 2026-10-31 17:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How to Add, Read, and Remove Footnotes and Endnotes in Word Using Java](https://dev.to/dm_dev/how-to-add-read-and-remove-footnotes-and-endnotes-in-word-using-java-2eg1)** — **1** 👍 · 0 💬
-* **[Data Types in Java](https://dev.to/iamsubash/data-types-in-java-2n36)** — **1** 👍 · 0 💬
-* **[Variables and Objects in Java](https://dev.to/iamsubash/variables-and-objects-in-java-3ahc)** — **1** 👍 · 0 💬
+* **[GhostTrace — A Local AI That Makes Your Terminal Feel Haunted (Java Edition)](https://dev.to/diwakararya/ghosttrace-a-local-ai-that-makes-your-terminal-feel-haunted-java-edition-3mjl)** — **0** 👍 · 1 💬
+* **[Idempotency keys: making retries safe for money](https://dev.to/ayushwing/idempotency-keys-making-retries-safe-for-money-383c)** — **0** 👍 · 0 💬
+* **[Why Your Redis Values Look Like Garbage in Every GUI (and How to Fix It)](https://dev.to/hepengju/why-your-redis-values-look-like-garbage-in-every-gui-and-how-to-fix-it-47ic)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Bun 1.4.4's bun fmt checks Prettier's own repository about 280 times faster than Prettier](https://dev.to/alexgeorgiev17/bun-144s-bun-fmt-checks-prettiers-own-repository-about-280-times-faster-than-prettier-gjj)** — **8** 👍 · 0 💬
-* **[Self-Hosted Vercel and Heroku Alternatives, Compared](https://dev.to/thegdsks/self-hosted-vercel-and-heroku-alternatives-compared-4o3l)** — **3** 👍 · 0 💬
-* **[5 Self-Hosted Apps Worth Running on Your Own Server](https://dev.to/thegdsks/5-self-hosted-apps-worth-running-on-your-own-server-50je)** — **3** 👍 · 0 💬
+* **[6 Best API Gateways for Developers Breaking Their Routing Logic](https://dev.to/devstackhub/6-best-api-gateways-for-developers-breaking-their-routing-logic-4a99)** — **13** 👍 · 2 💬
+* **[TypeScript 7.1 beta's native compiler checks a 353,000-line project in 2.8 seconds instead of 12.4](https://dev.to/alexgeorgiev17/typescript-71-betas-native-compiler-checks-a-353000-line-project-in-28-seconds-instead-of-124-3h91)** — **9** 👍 · 1 💬
+* **[How AI Changed Our Hiring: An AI SRE on a Spare GPU](https://dev.to/ranjbaryshahab/how-ai-changed-our-hiring-an-ai-sre-on-a-spare-gpu-38ea)** — **2** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
 * **[Measuring What My Electron App Sends: 94 Sockets, 0 Out](https://dev.to/ji_ai/measuring-what-my-electron-app-sends-94-sockets-0-out-5cek)** — **1** 👍 · 1 💬
+* **[Two nameservers on one box: the outage that takes DNS and the website down together](https://dev.to/imonitorsoft/two-nameservers-on-one-box-the-outage-that-takes-dns-and-the-website-down-together-4dbg)** — **1** 👍 · 0 💬
 * **[What if you could just tell Packet Tracer what to build? Looking for your thoughts (and a question about AI)](https://dev.to/pitcha2121/what-if-you-could-just-tell-packet-tracer-what-to-build-looking-for-your-thoughts-and-a-question-23g1)** — **0** 👍 · 2 💬
-* **[How a NAT VPS works: shared IPv4, your own ports, and a routed /80 of IPv6](https://dev.to/sarrph/how-a-nat-vps-works-shared-ipv4-your-own-ports-and-a-routed-80-of-ipv6-2bjd)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-10-31T02:02:49.260751+00:00 -->
+<!-- Log-ID: 2026-10-31T17:31:46.644006+00:00 -->
