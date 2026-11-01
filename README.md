@@ -5,27 +5,27 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-01 01:54 (UTC)
+📅 **Last Update:** 2026-11-01 18:17 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[When Java 27 Removed JVMCI, TornadoVM Built Its Own Compiler](https://dev.to/jamilxt/when-java-27-removed-jvmci-tornadovm-built-its-own-compiler-9d2)** — **1** 👍 · 0 💬
+* **[Spring Boot App Is Running, but CloudWatch Shows No Custom Metrics. Here's How to Debug It.](https://dev.to/anjali_07/spring-boot-app-is-running-but-cloudwatch-shows-no-custom-metrics-heres-how-to-debug-it-22ji)** — **3** 👍 · 3 💬
+* **[Exploring tenant isolation with Spring Boot, OIDC, and PostgreSQL RLS](https://dev.to/chafian/exploring-tenant-isolation-with-spring-boot-oidc-and-postgresql-rls-3e22)** — **1** 👍 · 0 💬
 * **[GhostTrace — A Local AI That Makes Your Terminal Feel Haunted (Java Edition)](https://dev.to/diwakararya/ghosttrace-a-local-ai-that-makes-your-terminal-feel-haunted-java-edition-3mjl)** — **0** 👍 · 1 💬
-* **[Skirmish: A Multiplayer Strategy Game Template in Java](https://dev.to/codenameone/skirmish-a-multiplayer-strategy-game-template-in-java-c5d)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
 * **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **74** 👍 · 6 💬
-* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **67** 👍 · 10 💬
+* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **68** 👍 · 11 💬
 * **[The kubectl client secret CNCF wants you to stop distributing](https://dev.to/leobaniak/the-kubectl-client-secret-cncf-wants-you-to-stop-distributing-4c2h)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Devops
 
-* **[How AI Changed Our Hiring: An AI SRE on a Spare GPU](https://dev.to/ranjbaryshahab/how-ai-changed-our-hiring-an-ai-sre-on-a-spare-gpu-38ea)** — **2** 👍 · 0 💬
-* **[git push --force-with-lease Is Unsafe If Your Editor Auto-Fetches](https://dev.to/ji_ai/git-push-force-with-lease-is-unsafe-if-your-editor-auto-fetches-37ja)** — **1** 👍 · 0 💬
-* **[503 vs 504: what each error means and who has to fix it](https://dev.to/upordownonline/vs-504-what-each-error-means-and-who-has-to-fix-it-5g20)** — **0** 👍 · 0 💬
+* **[GitHub Actions lockfile: pin your workflows safely](https://dev.to/sascha-ms/github-actions-lockfile-pin-your-workflows-safely-3j17)** — **2** 👍 · 2 💬
+* **[SQLite 3.54 stops rewriting an expression index when the indexed value hasn't changed](https://dev.to/alexgeorgiev17/sqlite-354-stops-rewriting-an-expression-index-when-the-indexed-value-hasnt-changed-56bb)** — **2** 👍 · 0 💬
+* **[We put 7 frontier models on call for 100 real Kubernetes incidents. The best fixed 79.](https://dev.to/shivam_singh_8a9ada1e8b88/we-put-7-frontier-models-on-call-for-100-real-kubernetes-incidents-the-best-fixed-79-28cp)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What if you could just tell Packet Tracer what to build? Looking for your thoughts (and a question about AI)](https://dev.to/pitcha2121/what-if-you-could-just-tell-packet-tracer-what-to-build-looking-for-your-thoughts-and-a-question-23g1)** — **0** 👍 · 2 💬
 * **[Daily Dose of DevOps — Kubernetes networking: for resilient workloads](https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-networking-for-resilient-workloads-5cd6)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-01T01:54:14.998706+00:00 -->
+<!-- Log-ID: 2026-11-01T18:17:12.906134+00:00 -->
