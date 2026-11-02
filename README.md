@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-01 21:30 (UTC)
+📅 **Last Update:** 2026-11-02 02:07 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[GitHub Actions lockfile: pin your workflows safely](https://dev.to/sascha-ms/github-actions-lockfile-pin-your-workflows-safely-3j17)** — **2** 👍 · 2 💬
-* **[SQLite 3.54 stops rewriting an expression index when the indexed value hasn't changed](https://dev.to/alexgeorgiev17/sqlite-354-stops-rewriting-an-expression-index-when-the-indexed-value-hasnt-changed-56bb)** — **2** 👍 · 0 💬
+* **[GitHub Actions lockfile: pin your workflows safely](https://dev.to/sascha-ms/github-actions-lockfile-pin-your-workflows-safely-3j17)** — **3** 👍 · 2 💬
 * **[We put 7 frontier models on call for 100 real Kubernetes incidents. The best fixed 79.](https://dev.to/shivam_singh_8a9ada1e8b88/we-put-7-frontier-models-on-call-for-100-real-kubernetes-incidents-the-best-fixed-79-28cp)** — **1** 👍 · 0 💬
+* **[Check your dependencies against OSV from your editor, CI, API or Apify](https://dev.to/setrov/check-your-dependencies-against-osv-from-your-editor-ci-api-or-apify-30c)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[What if you could just tell Packet Tracer what to build? Looking for your thoughts (and a question about AI)](https://dev.to/pitcha2121/what-if-you-could-just-tell-packet-tracer-what-to-build-looking-for-your-thoughts-and-a-question-23g1)** — **0** 👍 · 2 💬
 * **[Daily Dose of DevOps — Kubernetes networking: for resilient workloads](https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-networking-for-resilient-workloads-5cd6)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-01T21:30:31.197256+00:00 -->
+<!-- Log-ID: 2026-11-02T02:07:34.647632+00:00 -->
