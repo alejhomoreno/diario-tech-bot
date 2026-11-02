@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-02 02:07 (UTC)
+📅 **Last Update:** 2026-11-02 22:11 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Spring Boot App Is Running, but CloudWatch Shows No Custom Metrics. Here's How to Debug It.](https://dev.to/anjali_07/spring-boot-app-is-running-but-cloudwatch-shows-no-custom-metrics-heres-how-to-debug-it-22ji)** — **3** 👍 · 3 💬
-* **[Exploring tenant isolation with Spring Boot, OIDC, and PostgreSQL RLS](https://dev.to/chafian/exploring-tenant-isolation-with-spring-boot-oidc-and-postgresql-rls-3e22)** — **1** 👍 · 0 💬
-* **[GhostTrace — A Local AI That Makes Your Terminal Feel Haunted (Java Edition)](https://dev.to/diwakararya/ghosttrace-a-local-ai-that-makes-your-terminal-feel-haunted-java-edition-3mjl)** — **0** 👍 · 1 💬
+* **[Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)** — **8** 👍 · 0 💬
+* **[Classes and Objects in Java](https://dev.to/abimanyu_p_9e75124634d2a4/classes-and-objects-in-java-h9n)** — **1** 👍 · 0 💬
+* **[HikariPool-1 Connection is not available: pool exhausted](https://dev.to/sudoexplain/hikaripool-1-connection-is-not-available-pool-exhausted-21p8)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[GitHub Actions lockfile: pin your workflows safely](https://dev.to/sascha-ms/github-actions-lockfile-pin-your-workflows-safely-3j17)** — **3** 👍 · 2 💬
-* **[We put 7 frontier models on call for 100 real Kubernetes incidents. The best fixed 79.](https://dev.to/shivam_singh_8a9ada1e8b88/we-put-7-frontier-models-on-call-for-100-real-kubernetes-incidents-the-best-fixed-79-28cp)** — **1** 👍 · 0 💬
-* **[Check your dependencies against OSV from your editor, CI, API or Apify](https://dev.to/setrov/check-your-dependencies-against-osv-from-your-editor-ci-api-or-apify-30c)** — **1** 👍 · 0 💬
+* **[Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)** — **11** 👍 · 2 💬
+* **[Redis 8.12 RC2's SEXPIRE command cuts a set membership check from two round trips to one](https://dev.to/alexgeorgiev17/redis-812-rc2s-sexpire-command-cuts-a-set-membership-check-from-two-round-trips-to-one-2mi4)** — **7** 👍 · 2 💬
+* **[AI coding and open-source CRM: the Salesforce replacement test](https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Two nameservers on one box: the outage that takes DNS and the website down together](https://dev.to/imonitorsoft/two-nameservers-on-one-box-the-outage-that-takes-dns-and-the-website-down-together-4dbg)** — **1** 👍 · 1 💬
-* **[What if you could just tell Packet Tracer what to build? Looking for your thoughts (and a question about AI)](https://dev.to/pitcha2121/what-if-you-could-just-tell-packet-tracer-what-to-build-looking-for-your-thoughts-and-a-question-23g1)** — **0** 👍 · 2 💬
-* **[Daily Dose of DevOps — Kubernetes networking: for resilient workloads](https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-networking-for-resilient-workloads-5cd6)** — **0** 👍 · 1 💬
+* **[Spotifast in a Homelab: Keep Remote Administration Separate From Spotify Connect](https://dev.to/clara_dupont/spotifast-in-a-homelab-keep-remote-administration-separate-from-spotify-connect-1p7e)** — **1** 👍 · 0 💬
+* **[RDP or VNC to reach a Mac from Windows? A fact table](https://dev.to/hssolution/rdp-or-vnc-to-reach-a-mac-from-windows-a-fact-table-37c1)** — **0** 👍 · 1 💬
+* **[How HTTP/3 and QUIC Actually Work: UDP, Streams, and Why 0-RTT Changes Everything](https://dev.to/syed_anzar/how-http3-and-quic-actually-work-udp-streams-and-why-0-rtt-changes-everything-1jnf)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-02T02:07:34.647632+00:00 -->
+<!-- Log-ID: 2026-11-02T22:11:41.084605+00:00 -->
