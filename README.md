@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-03 19:58 (UTC)
+📅 **Last Update:** 2026-11-03 22:42 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[SIP: Security Immediate Plan for Java](https://dev.to/aerabi/sip-security-immediate-plan-for-java-2aek)** — **5** 👍 · 0 💬
-* **[Converting Excel Worksheets to Images in Java: A Practical Look](https://dev.to/yahey/converting-excel-worksheets-to-images-in-java-a-practical-look-2lf0)** — **1** 👍 · 0 💬
-* **[Redis Memory Full and Keys Evicted: A Java Backend Checklist of 4 Spots](https://dev.to/nicholas1991/redis-memory-full-and-keys-evicted-a-java-backend-checklist-of-4-spots-2o5i)** — **0** 👍 · 0 💬
+* **[How I structure a Java test automation project (and the free template I made from it)](https://dev.to/edwardmrdoian/how-i-structure-a-java-test-automation-project-and-the-free-template-i-made-from-it-49il)** — **4** 👍 · 0 💬
+* **[How to have Bedrock and Java both joining the same Minecraft server](https://dev.to/zaphoddev/how-to-have-bedrock-and-java-both-joining-the-same-minecraft-server-oig)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,13 +24,13 @@
 ## 🔖 Top Devops
 
 * **[Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)** — **14** 👍 · 12 💬
-* **[I lost half a day to an n8n workflow that was "working." It never ran.](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p)** — **13** 👍 · 2 💬
+* **[I lost half a day to an n8n workflow that was "working." It never ran.](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p)** — **13** 👍 · 3 💬
 * **[Writing code for a computer that is mostly asleep](https://dev.to/remdore/writing-code-for-a-computer-that-is-mostly-asleep-27ok)** — **12** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
+* **[Building a Career Network When You Don't Know a Single Person in Tech](https://dev.to/adhikareeprayush/building-a-career-network-when-you-dont-know-a-single-person-in-tech-1fpn)** — **1** 👍 · 1 💬
 * **[How to Monitor Internet Usage on Windows: Real-Time Network Speed and Data Consumption Tracking](https://dev.to/robin_hood_991fffecf68062/how-to-monitor-internet-usage-on-windows-real-time-network-speed-and-data-consumption-tracking-3cko)** — **1** 👍 · 0 💬
 * **[The Mathematics of IPv4 Subnetting: Bitwise Operations, CIDR Masking, and Fast Address Space Routing](https://dev.to/urbanmixo/the-mathematics-of-ipv4-subnetting-bitwise-operations-cidr-masking-and-fast-address-space-routing-328a)** — **1** 👍 · 0 💬
-* **[I Built an SDK Because I Was Desperate](https://dev.to/xayenuniverse/i-built-an-sdk-because-i-was-desperate-5flb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-03T19:58:43.159961+00:00 -->
+<!-- Log-ID: 2026-11-03T22:42:36.887202+00:00 -->
