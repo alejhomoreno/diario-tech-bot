@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-03 03:50 (UTC)
+📅 **Last Update:** 2026-11-03 19:58 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Next.js Doesn't Render Pages Anymore. It Streams Something Stranger.](https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij)** — **13** 👍 · 0 💬
-* **[Savor: A Food Delivery Template for Restaurants and Local Fleets](https://dev.to/codenameone/savor-a-food-delivery-template-for-restaurants-and-local-fleets-36o0)** — **6** 👍 · 0 💬
 * **[SIP: Security Immediate Plan for Java](https://dev.to/aerabi/sip-security-immediate-plan-for-java-2aek)** — **5** 👍 · 0 💬
+* **[Converting Excel Worksheets to Images in Java: A Practical Look](https://dev.to/yahey/converting-excel-worksheets-to-images-in-java-a-practical-look-2lf0)** — **1** 👍 · 0 💬
+* **[Redis Memory Full and Keys Evicted: A Java Backend Checklist of 4 Spots](https://dev.to/nicholas1991/redis-memory-full-and-keys-evicted-a-java-backend-checklist-of-4-spots-2o5i)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)** — **11** 👍 · 4 💬
-* **[Redis 8.12 RC2's SEXPIRE command cuts a set membership check from two round trips to one](https://dev.to/alexgeorgiev17/redis-812-rc2s-sexpire-command-cuts-a-set-membership-check-from-two-round-trips-to-one-2mi4)** — **7** 👍 · 2 💬
-* **[Simulate Your Cloud Architecture with an MCP Server Before You Deploy](https://dev.to/canvascloudai/simulate-your-cloud-architecture-with-an-mcp-server-before-you-deploy-5b4i)** — **2** 👍 · 1 💬
+* **[Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)** — **14** 👍 · 12 💬
+* **[I lost half a day to an n8n workflow that was "working." It never ran.](https://dev.to/sarvar_04/i-lost-half-a-day-to-an-n8n-workflow-that-was-working-it-never-ran-43p)** — **13** 👍 · 2 💬
+* **[Writing code for a computer that is mostly asleep](https://dev.to/remdore/writing-code-for-a-computer-that-is-mostly-asleep-27ok)** — **12** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[Why your cloud monitoring is blind to IPv6 blackholes (and how to fix it)](https://dev.to/dafili/why-your-cloud-monitoring-is-blind-to-ipv6-blackholes-and-how-to-fix-it-m8i)** — **1** 👍 · 0 💬
-* **[Your DNS TTL is why the outage lasted 2 hours: set it before you need it](https://dev.to/upordownonline/your-dns-ttl-is-why-the-outage-lasted-2-hours-set-it-before-you-need-it-meh)** — **1** 👍 · 0 💬
-* **[Spotifast in a Homelab: Keep Remote Administration Separate From Spotify Connect](https://dev.to/clara_dupont/spotifast-in-a-homelab-keep-remote-administration-separate-from-spotify-connect-1p7e)** — **1** 👍 · 0 💬
+* **[How to Monitor Internet Usage on Windows: Real-Time Network Speed and Data Consumption Tracking](https://dev.to/robin_hood_991fffecf68062/how-to-monitor-internet-usage-on-windows-real-time-network-speed-and-data-consumption-tracking-3cko)** — **1** 👍 · 0 💬
+* **[The Mathematics of IPv4 Subnetting: Bitwise Operations, CIDR Masking, and Fast Address Space Routing](https://dev.to/urbanmixo/the-mathematics-of-ipv4-subnetting-bitwise-operations-cidr-masking-and-fast-address-space-routing-328a)** — **1** 👍 · 0 💬
+* **[I Built an SDK Because I Was Desperate](https://dev.to/xayenuniverse/i-built-an-sdk-because-i-was-desperate-5flb)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-03T03:50:52.680583+00:00 -->
+<!-- Log-ID: 2026-11-03T19:58:43.159961+00:00 -->
