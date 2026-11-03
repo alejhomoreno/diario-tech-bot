@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-02 22:11 (UTC)
+📅 **Last Update:** 2026-11-03 00:12 (UTC)
 
 ---
 
@@ -25,7 +25,7 @@
 
 * **[Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)** — **11** 👍 · 2 💬
 * **[Redis 8.12 RC2's SEXPIRE command cuts a set membership check from two round trips to one](https://dev.to/alexgeorgiev17/redis-812-rc2s-sexpire-command-cuts-a-set-membership-check-from-two-round-trips-to-one-2mi4)** — **7** 👍 · 2 💬
-* **[AI coding and open-source CRM: the Salesforce replacement test](https://dev.to/axrisi/ai-coding-and-open-source-crm-the-salesforce-replacement-test-4on2)** — **1** 👍 · 1 💬
+* **[SIP: Security Immediate Plan for Java](https://dev.to/aerabi/sip-security-immediate-plan-for-java-2aek)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[RDP or VNC to reach a Mac from Windows? A fact table](https://dev.to/hssolution/rdp-or-vnc-to-reach-a-mac-from-windows-a-fact-table-37c1)** — **0** 👍 · 1 💬
 * **[How HTTP/3 and QUIC Actually Work: UDP, Streams, and Why 0-RTT Changes Everything](https://dev.to/syed_anzar/how-http3-and-quic-actually-work-udp-streams-and-why-0-rtt-changes-everything-1jnf)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-02T22:11:41.084605+00:00 -->
+<!-- Log-ID: 2026-11-03T00:12:47.312473+00:00 -->
