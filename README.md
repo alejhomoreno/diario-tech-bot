@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-05 20:29 (UTC)
+📅 **Last Update:** 2026-11-05 23:03 (UTC)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🔖 Top Devops
 
-* **[Don't Write Markdown Files for Your Coding Agent. Write Scripts.](https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00)** — **22** 👍 · 7 💬
+* **[Don't Write Markdown Files for Your Coding Agent. Write Scripts.](https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00)** — **29** 👍 · 8 💬
 * **[PostgreSQL 19's pg_stat_lock only counts waits that cross deadlock_timeout](https://dev.to/alexgeorgiev17/postgresql-19s-pgstatlock-only-counts-waits-that-cross-deadlocktimeout-15lj)** — **8** 👍 · 0 💬
 * **[I Turned a Jira Time in Status Report Into 4 Charts. One of Them Lied to Me at First](https://dev.to/khrystyna_dzhus/i-turned-a-jira-time-in-status-report-into-4-charts-one-of-them-lied-to-me-at-first-2fhe)** — **6** 👍 · 1 💬
 
@@ -33,4 +33,4 @@
 * **[Your Browser Works, but curl Fails: Check Proxy Settings Before Blaming the VPN](https://dev.to/klarvpn/your-browser-works-but-curl-fails-check-proxy-settings-before-blaming-the-vpn-19lj)** — **1** 👍 · 0 💬
 * **[Proxies Explained Using a Cafe Example](https://dev.to/khushindpatel/proxies-explained-using-a-cafe-example-4mi3)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-05T20:29:21.315958+00:00 -->
+<!-- Log-ID: 2026-11-05T23:03:09.487063+00:00 -->
