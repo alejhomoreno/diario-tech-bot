@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-06 03:13 (UTC)
+📅 **Last Update:** 2026-11-06 19:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Native Menus, File Dialogs and 3D Models](https://dev.to/codenameone/native-menus-file-dialogs-and-3d-models-8pe)** — **6** 👍 · 0 💬
-* **[WebRTC Calls, Key Agreement and ORM Checks at Build Time](https://dev.to/codenameone/webrtc-calls-key-agreement-and-orm-checks-at-build-time-2cgb)** — **1** 👍 · 0 💬
-* **[How to switch Java versions on Windows with one command (no more editing JAVA_HOME)](https://dev.to/captivator/how-to-switch-java-versions-on-windows-with-one-command-no-more-editing-javahome-5d07)** — **1** 👍 · 0 💬
+* **[PostgreSQL 14 ends on Nov 12. The upgrade won't break your Java service. The next password reset will.](https://dev.to/silpa_nallagopula_4d02cde/postgresql-14-ends-on-nov-12-the-upgrade-wont-break-your-java-service-the-next-password-reset-14fb)** — **1** 👍 · 1 💬
+* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Don't Write Markdown Files for Your Coding Agent. Write Scripts.](https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00)** — **38** 👍 · 19 💬
-* **[One word in a chat took my shop offline. I built it that way.](https://dev.to/codeswithroh/one-word-in-a-chat-took-my-shop-offline-i-built-it-that-way-97i)** — **5** 👍 · 1 💬
-* **[AWS Interconnect - Last Mile Preview with Equinix: Simplifying and Securing Hybrid Cloud Connectivity](https://dev.to/pklavc/aws-interconnect-last-mile-preview-with-equinix-simplifying-and-securing-hybrid-cloud-5bbj)** — **2** 👍 · 2 💬
+* **[9 Transactional Email Mistakes That Show Up in Production](https://dev.to/boiliev/9-transactional-email-mistakes-that-show-up-in-production-k6o)** — **15** 👍 · 0 💬
+* **[10 AI Terms Every Developer Should Know to Build Better Systems](https://dev.to/jaideepparashar/10-ai-terms-every-developer-should-know-to-build-better-systems-2lpa)** — **5** 👍 · 2 💬
+* **[Day 79: Polling and a Registry](https://dev.to/ndcodes/day-79-polling-and-a-registry-5b39)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[HTTP/2 Multiplexing Under Load: Stream Prioritization, Head-of-Line Blocking, and the Connection Reuse Trap](https://dev.to/neeraj_singhi_golang/http2-multiplexing-under-load-stream-prioritization-head-of-line-blocking-and-the-connection-50o0)** — **3** 👍 · 0 💬
-* **[Your Browser Works, but curl Fails: Check Proxy Settings Before Blaming the VPN](https://dev.to/klarvpn/your-browser-works-but-curl-fails-check-proxy-settings-before-blaming-the-vpn-19lj)** — **1** 👍 · 0 💬
-* **[Proxies Explained Using a Cafe Example](https://dev.to/khushindpatel/proxies-explained-using-a-cafe-example-4mi3)** — **0** 👍 · 1 💬
+* **[We gave our servers IPv6 addresses and every call to two of our carriers waited three seconds first](https://dev.to/sergey_shinder_ab2d943365/we-gave-our-servers-ipv6-addresses-and-every-call-to-two-of-our-carriers-waited-three-seconds-first-2nd7)** — **1** 👍 · 0 💬
+* **[Your SSRF Filter Probably Doesn't Handle Unicode IPs](https://dev.to/schiff_heimlich/your-ssrf-filter-probably-doesnt-handle-unicode-ips-cc3)** — **0** 👍 · 0 💬
+* **[When the mesh fights Kubernetes: a webhook deadlock, a probe loop, and what it costs](https://dev.to/anthony_amoah/when-the-mesh-fights-kubernetes-a-webhook-deadlock-a-probe-loop-and-what-it-costs-56d2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-06T03:13:22.396740+00:00 -->
+<!-- Log-ID: 2026-11-06T19:52:20.022645+00:00 -->
