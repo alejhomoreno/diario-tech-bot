@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-06 19:52 (UTC)
+📅 **Last Update:** 2026-11-06 22:33 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Native Menus, File Dialogs and 3D Models](https://dev.to/codenameone/native-menus-file-dialogs-and-3d-models-8pe)** — **6** 👍 · 0 💬
+* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **2** 👍 · 0 💬
 * **[PostgreSQL 14 ends on Nov 12. The upgrade won't break your Java service. The next password reset will.](https://dev.to/silpa_nallagopula_4d02cde/postgresql-14-ends-on-nov-12-the-upgrade-wont-break-your-java-service-the-next-password-reset-14fb)** — **1** 👍 · 1 💬
-* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[9 Transactional Email Mistakes That Show Up in Production](https://dev.to/boiliev/9-transactional-email-mistakes-that-show-up-in-production-k6o)** — **15** 👍 · 0 💬
 * **[10 AI Terms Every Developer Should Know to Build Better Systems](https://dev.to/jaideepparashar/10-ai-terms-every-developer-should-know-to-build-better-systems-2lpa)** — **5** 👍 · 2 💬
-* **[Day 79: Polling and a Registry](https://dev.to/ndcodes/day-79-polling-and-a-registry-5b39)** — **5** 👍 · 0 💬
+* **[Stop Swapping Models: Optimizing the Agent Environment Cuts 70% More Cost](https://dev.to/reidmarlow/stop-swapping-models-optimizing-the-agent-environment-cuts-70-more-cost-36cf)** — **3** 👍 · 4 💬
+* **[AWS Interconnect - Last Mile Preview with Equinix: Simplifying and Securing Hybrid Cloud Connectivity](https://dev.to/pklavc/aws-interconnect-last-mile-preview-with-equinix-simplifying-and-securing-hybrid-cloud-5bbj)** — **2** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Your SSRF Filter Probably Doesn't Handle Unicode IPs](https://dev.to/schiff_heimlich/your-ssrf-filter-probably-doesnt-handle-unicode-ips-cc3)** — **0** 👍 · 0 💬
 * **[When the mesh fights Kubernetes: a webhook deadlock, a probe loop, and what it costs](https://dev.to/anthony_amoah/when-the-mesh-fights-kubernetes-a-webhook-deadlock-a-probe-loop-and-what-it-costs-56d2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-06T19:52:20.022645+00:00 -->
+<!-- Log-ID: 2026-11-06T22:33:00.047887+00:00 -->
