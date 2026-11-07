@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-06 22:33 (UTC)
+📅 **Last Update:** 2026-11-07 02:32 (UTC)
 
 ---
 
@@ -19,7 +19,7 @@
 
 * **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **79** 👍 · 6 💬
 * **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **73** 👍 · 12 💬
-* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **17** 👍 · 9 💬
+* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **23** 👍 · 10 💬
 
 ## 🔖 Top Devops
 
@@ -29,8 +29,8 @@
 
 ## 🔖 Top Networking
 
+* **[When the mesh fights Kubernetes: a webhook deadlock, a probe loop, and what it costs](https://dev.to/anthony_amoah/when-the-mesh-fights-kubernetes-a-webhook-deadlock-a-probe-loop-and-what-it-costs-56d2)** — **1** 👍 · 1 💬
 * **[We gave our servers IPv6 addresses and every call to two of our carriers waited three seconds first](https://dev.to/sergey_shinder_ab2d943365/we-gave-our-servers-ipv6-addresses-and-every-call-to-two-of-our-carriers-waited-three-seconds-first-2nd7)** — **1** 👍 · 0 💬
-* **[Your SSRF Filter Probably Doesn't Handle Unicode IPs](https://dev.to/schiff_heimlich/your-ssrf-filter-probably-doesnt-handle-unicode-ips-cc3)** — **0** 👍 · 0 💬
-* **[When the mesh fights Kubernetes: a webhook deadlock, a probe loop, and what it costs](https://dev.to/anthony_amoah/when-the-mesh-fights-kubernetes-a-webhook-deadlock-a-probe-loop-and-what-it-costs-56d2)** — **0** 👍 · 0 💬
+* **[Zero-Copy Parsers at the Edge: Processing Webhook Streams with Rust, WASM, and Cloudflare Workers](https://dev.to/instawebhook/zero-copy-parsers-at-the-edge-processing-webhook-streams-with-rust-wasm-and-cloudflare-workers-3ca7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-06T22:33:00.047887+00:00 -->
+<!-- Log-ID: 2026-11-07T02:32:59.250244+00:00 -->
