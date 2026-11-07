@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-07 02:32 (UTC)
+📅 **Last Update:** 2026-11-07 17:57 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **7** 👍 · 0 💬
 * **[Native Menus, File Dialogs and 3D Models](https://dev.to/codenameone/native-menus-file-dialogs-and-3d-models-8pe)** — **6** 👍 · 0 💬
-* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **2** 👍 · 0 💬
 * **[PostgreSQL 14 ends on Nov 12. The upgrade won't break your Java service. The next password reset will.](https://dev.to/silpa_nallagopula_4d02cde/postgresql-14-ends-on-nov-12-the-upgrade-wont-break-your-java-service-the-next-password-reset-14fb)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
 * **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **79** 👍 · 6 💬
 * **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **73** 👍 · 12 💬
-* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **23** 👍 · 10 💬
+* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **23** 👍 · 11 💬
 
 ## 🔖 Top Devops
 
-* **[10 AI Terms Every Developer Should Know to Build Better Systems](https://dev.to/jaideepparashar/10-ai-terms-every-developer-should-know-to-build-better-systems-2lpa)** — **5** 👍 · 2 💬
-* **[Stop Swapping Models: Optimizing the Agent Environment Cuts 70% More Cost](https://dev.to/reidmarlow/stop-swapping-models-optimizing-the-agent-environment-cuts-70-more-cost-36cf)** — **3** 👍 · 4 💬
-* **[AWS Interconnect - Last Mile Preview with Equinix: Simplifying and Securing Hybrid Cloud Connectivity](https://dev.to/pklavc/aws-interconnect-last-mile-preview-with-equinix-simplifying-and-securing-hybrid-cloud-5bbj)** — **2** 👍 · 2 💬
+* **[An agent told me it deployed. I asked the server, and the containers were a day old](https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i)** — **58** 👍 · 8 💬
+* **[You tried git-lrc. Meet LiveReview 👀](https://dev.to/lovestaco/you-tried-git-lrc-meet-livereview-7od)** — **39** 👍 · 4 💬
+* **[Building Warrant: Every Agent-Made Change, Traced to the Human Who Said Yes](https://dev.to/shreyansh_agrahari_2009db/building-warrant-every-agent-made-change-traced-to-the-human-who-said-yes-dco)** — **11** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[When the mesh fights Kubernetes: a webhook deadlock, a probe loop, and what it costs](https://dev.to/anthony_amoah/when-the-mesh-fights-kubernetes-a-webhook-deadlock-a-probe-loop-and-what-it-costs-56d2)** — **1** 👍 · 1 💬
-* **[We gave our servers IPv6 addresses and every call to two of our carriers waited three seconds first](https://dev.to/sergey_shinder_ab2d943365/we-gave-our-servers-ipv6-addresses-and-every-call-to-two-of-our-carriers-waited-three-seconds-first-2nd7)** — **1** 👍 · 0 💬
-* **[Zero-Copy Parsers at the Edge: Processing Webhook Streams with Rust, WASM, and Cloudflare Workers](https://dev.to/instawebhook/zero-copy-parsers-at-the-edge-processing-webhook-streams-with-rust-wasm-and-cloudflare-workers-3ca7)** — **0** 👍 · 0 💬
+* **[Setting up a server that has no IPv4](https://dev.to/remdore/setting-up-a-server-that-has-no-ipv4-3e4f)** — **1** 👍 · 1 💬
+* **[DNS Debugging: Six Symptoms, One Decision Tree, and a +cd Trick That Saves an Hour](https://dev.to/jun_liu_ca219b73a8f1489b5/dns-debugging-six-symptoms-one-decision-tree-and-a-cd-trick-that-saves-an-hour-29al)** — **1** 👍 · 0 💬
+* **[Dozens of VPN Credentials in a Leak — What to Do in the First 24 Hours](https://dev.to/daanial/dozens-of-vpn-credentials-in-a-leak-what-to-do-in-the-first-24-hours-1pd2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-07T02:32:59.250244+00:00 -->
+<!-- Log-ID: 2026-11-07T17:57:21.286041+00:00 -->
