@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-08 02:03 (UTC)
+📅 **Last Update:** 2026-11-08 18:14 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[An agent told me it deployed. I asked the server, and the containers were a day old](https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i)** — **58** 👍 · 11 💬
-* **[Freeing AI from the Terminal: How We Built SwitchWarRoom to Turn Coding Agents into SRE Teammates in Slack](https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom)** — **9** 👍 · 0 💬
-* **[Containerd 2.4's switch to klauspost's gzip decoder speeds up real image layers by 18%](https://dev.to/alexgeorgiev17/containerd-24s-switch-to-klausposts-gzip-decoder-speeds-up-real-image-layers-by-18-2jne)** — **7** 👍 · 0 💬
+* **[Redis 8.12-rc1's roaring bitmap type shrinks a sparse bitmap from 24MB to 239KB](https://dev.to/alexgeorgiev17/redis-812-rc1s-roaring-bitmap-type-shrinks-a-sparse-bitmap-from-24mb-to-239kb-5bll)** — **6** 👍 · 1 💬
+* **[Application Logs Lie: Why Backend Engineers Still Need Packet-Level Debugging](https://dev.to/eekhdv/application-logs-lie-why-backend-engineers-still-need-packet-level-debugging-g00)** — **1** 👍 · 1 💬
+* **[Docker Container Security Hardening: Rootless, Seccomp, AppArmor & Read-Only Filesystems](https://dev.to/devscampus_a497dc3309edea/docker-container-security-hardening-rootless-seccomp-apparmor-read-only-filesystems-1lko)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Setting up a server that has no IPv4](https://dev.to/remdore/setting-up-a-server-that-has-no-ipv4-3e4f)** — **6** 👍 · 1 💬
-* **[192.168.1.1 Not Loading? A Layer-by-Layer Diagnostic Runbook](https://dev.to/routeripguide/19216811-not-loading-a-layer-by-layer-diagnostic-runbook-djl)** — **1** 👍 · 0 💬
-* **[DNS Debugging: Six Symptoms, One Decision Tree, and a +cd Trick That Saves an Hour](https://dev.to/jun_liu_ca219b73a8f1489b5/dns-debugging-six-symptoms-one-decision-tree-and-a-cd-trick-that-saves-an-hour-29al)** — **1** 👍 · 0 💬
+* **[Application Logs Lie: Why Backend Engineers Still Need Packet-Level Debugging](https://dev.to/eekhdv/application-logs-lie-why-backend-engineers-still-need-packet-level-debugging-g00)** — **1** 👍 · 1 💬
+* **[SSH host key fingerprints and configurations](https://dev.to/robertpaschal/ssh-host-key-fingerprints-and-configurations-1igl)** — **1** 👍 · 0 💬
+* **[A small ACK can hide a failed return path: collecting both endpoint logs](https://dev.to/lazypanic999/a-small-ack-can-hide-a-failed-return-path-collecting-both-endpoint-logs-9d7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-08T02:03:40.892957+00:00 -->
+<!-- Log-ID: 2026-11-08T18:14:33.256786+00:00 -->
