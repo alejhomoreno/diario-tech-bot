@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-07 21:14 (UTC)
+📅 **Last Update:** 2026-11-08 02:03 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[An agent told me it deployed. I asked the server, and the containers were a day old](https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i)** — **58** 👍 · 10 💬
-* **[You tried git-lrc. Meet LiveReview 👀](https://dev.to/lovestaco/you-tried-git-lrc-meet-livereview-7od)** — **44** 👍 · 5 💬
-* **[Building Warrant: Every Agent-Made Change, Traced to the Human Who Said Yes](https://dev.to/shreyansh_agrahari_2009db/building-warrant-every-agent-made-change-traced-to-the-human-who-said-yes-dco)** — **11** 👍 · 0 💬
+* **[An agent told me it deployed. I asked the server, and the containers were a day old](https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i)** — **58** 👍 · 11 💬
+* **[Freeing AI from the Terminal: How We Built SwitchWarRoom to Turn Coding Agents into SRE Teammates in Slack](https://dev.to/vidisha_gupta_/freeing-ai-from-the-terminal-how-we-built-switchwarroom-to-turn-coding-agents-into-sre-teammates-2aom)** — **9** 👍 · 0 💬
+* **[Containerd 2.4's switch to klauspost's gzip decoder speeds up real image layers by 18%](https://dev.to/alexgeorgiev17/containerd-24s-switch-to-klausposts-gzip-decoder-speeds-up-real-image-layers-by-18-2jne)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Setting up a server that has no IPv4](https://dev.to/remdore/setting-up-a-server-that-has-no-ipv4-3e4f)** — **1** 👍 · 1 💬
+* **[Setting up a server that has no IPv4](https://dev.to/remdore/setting-up-a-server-that-has-no-ipv4-3e4f)** — **6** 👍 · 1 💬
+* **[192.168.1.1 Not Loading? A Layer-by-Layer Diagnostic Runbook](https://dev.to/routeripguide/19216811-not-loading-a-layer-by-layer-diagnostic-runbook-djl)** — **1** 👍 · 0 💬
 * **[DNS Debugging: Six Symptoms, One Decision Tree, and a +cd Trick That Saves an Hour](https://dev.to/jun_liu_ca219b73a8f1489b5/dns-debugging-six-symptoms-one-decision-tree-and-a-cd-trick-that-saves-an-hour-29al)** — **1** 👍 · 0 💬
-* **[Dozens of VPN Credentials in a Leak — What to Do in the First 24 Hours](https://dev.to/daanial/dozens-of-vpn-credentials-in-a-leak-what-to-do-in-the-first-24-hours-1pd2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-07T21:14:41.230113+00:00 -->
+<!-- Log-ID: 2026-11-08T02:03:40.892957+00:00 -->
