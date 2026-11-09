@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-08 21:29 (UTC)
+📅 **Last Update:** 2026-11-09 02:24 (UTC)
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **7** 👍 · 0 💬
 * **[Native Menus, File Dialogs and 3D Models](https://dev.to/codenameone/native-menus-file-dialogs-and-3d-models-8pe)** — **6** 👍 · 0 💬
-* **[PostgreSQL 14 ends on Nov 12. The upgrade won't break your Java service. The next password reset will.](https://dev.to/silpa_nallagopula_4d02cde/postgresql-14-ends-on-nov-12-the-upgrade-wont-break-your-java-service-the-next-password-reset-14fb)** — **1** 👍 · 1 💬
+* **[Your Swing and JavaFX Code on iPhone, Android and the Web](https://dev.to/codenameone/your-swing-and-javafx-code-on-iphone-android-and-the-web-24c8)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[SSH host key fingerprints and configurations](https://dev.to/robertpaschal/ssh-host-key-fingerprints-and-configurations-1igl)** — **1** 👍 · 0 💬
 * **[A small ACK can hide a failed return path: collecting both endpoint logs](https://dev.to/lazypanic999/a-small-ack-can-hide-a-failed-return-path-collecting-both-endpoint-logs-9d7)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-08T21:29:37.304551+00:00 -->
+<!-- Log-ID: 2026-11-09T02:24:28.485312+00:00 -->
