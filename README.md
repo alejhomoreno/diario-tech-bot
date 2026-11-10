@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-09 22:53 (UTC)
+📅 **Last Update:** 2026-11-10 00:59 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Flutter Better in Java](https://dev.to/codenameone/flutter-better-in-java-1e48)** — **7** 👍 · 0 💬
-* **[Native Menus, File Dialogs and 3D Models](https://dev.to/codenameone/native-menus-file-dialogs-and-3d-models-8pe)** — **6** 👍 · 0 💬
-* **[Your Swing and JavaFX Code on iPhone, Android and the Web](https://dev.to/codenameone/your-swing-and-javafx-code-on-iphone-android-and-the-web-24c8)** — **6** 👍 · 0 💬
+* **[Why a Java pod gets OOMKilled in Kubernetes with a half-empty heap](https://dev.to/andronaft/why-a-java-pod-gets-oomkilled-in-kubernetes-with-a-half-empty-heap-5aok)** — **1** 👍 · 0 💬
+* **[Why I Stopped Exposing JPA Entities Directly in My Spring Boot API](https://dev.to/me_nishant_18/why-i-stopped-exposing-jpa-entities-directly-in-my-spring-boot-api-1ne1)** — **1** 👍 · 0 💬
+* **[Building Complex SQL Queries in a Type-Safe Way with Java and Querier](https://dev.to/aissam_assouik/building-complex-sql-queries-in-a-type-safe-way-with-java-and-querier-4b92)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -33,4 +33,4 @@
 * **[Breaking Kubernetes DNS on Purpose: A Hands-On CoreDNS Tutorial](https://dev.to/zain_ulabidin_5a2cea24457/breaking-kubernetes-dns-on-purpose-a-hands-on-coredns-tutorial-4m1a)** — **0** 👍 · 1 💬
 * **[The TCP three-way handshake, packet by packet](https://dev.to/nickhu150/the-tcp-three-way-handshake-packet-by-packet-3l5k)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-09T22:53:44.886794+00:00 -->
+<!-- Log-ID: 2026-11-10T00:59:22.829787+00:00 -->
