@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-10 00:59 (UTC)
+📅 **Last Update:** 2026-11-10 04:29 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[Transactional outbox and inbox for Spring Boot: which library to choose in 2026](https://dev.to/miguel_carvalho_22b80551c/transactional-outbox-and-inbox-for-spring-boot-which-library-to-choose-in-2026-3cpo)** — **4** 👍 · 1 💬
 * **[Why a Java pod gets OOMKilled in Kubernetes with a half-empty heap](https://dev.to/andronaft/why-a-java-pod-gets-oomkilled-in-kubernetes-with-a-half-empty-heap-5aok)** — **1** 👍 · 0 💬
 * **[Why I Stopped Exposing JPA Entities Directly in My Spring Boot API](https://dev.to/me_nishant_18/why-i-stopped-exposing-jpa-entities-directly-in-my-spring-boot-api-1ne1)** — **1** 👍 · 0 💬
-* **[Building Complex SQL Queries in a Type-Safe Way with Java and Querier](https://dev.to/aissam_assouik/building-complex-sql-queries-in-a-type-safe-way-with-java-and-querier-4b92)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[We Built Opsville, a Free Pixel-Art Town Where You Fix DevOps Incidents](https://dev.to/devopsdaily/we-built-opsville-a-free-pixel-art-town-where-you-fix-devops-incidents-5892)** — **21** 👍 · 0 💬
-* **[Day 82: A Password Removed and a Copy That Stayed Put](https://dev.to/ndcodes/day-82-a-password-removed-and-a-copy-that-stayed-put-35jd)** — **11** 👍 · 0 💬
+* **[Day 82: A Password Removed and a Copy That Stayed Put](https://dev.to/ndcodes/day-82-a-password-removed-and-a-copy-that-stayed-put-35jd)** — **13** 👍 · 0 💬
 * **[Traefik 3.8's tap middleware triples request latency even with an instant local receiver](https://dev.to/alexgeorgiev17/traefik-38s-tap-middleware-triples-request-latency-even-with-an-instant-local-receiver-421a)** — **8** 👍 · 0 💬
+* **[Resizing a managed Postgres database while writing to it](https://dev.to/remdore/resizing-a-managed-postgres-database-while-writing-to-it-1g2n)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a](https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc)** — **16** 👍 · 0 💬
-* **[Breaking Kubernetes DNS on Purpose: A Hands-On CoreDNS Tutorial](https://dev.to/zain_ulabidin_5a2cea24457/breaking-kubernetes-dns-on-purpose-a-hands-on-coredns-tutorial-4m1a)** — **0** 👍 · 1 💬
-* **[The TCP three-way handshake, packet by packet](https://dev.to/nickhu150/the-tcp-three-way-handshake-packet-by-packet-3l5k)** — **0** 👍 · 1 💬
+* **[WireGuard Site-to-Site with BGP—Route Your Free /48 Through the Tunnel](https://dev.to/ipye_com/wireguard-site-to-site-with-bgp-route-your-free-48-through-the-tunnel-49kp)** — **0** 👍 · 1 💬
+* **[My Free /48 Is Filtered: A Triage Checklist That Starts With ROA and IRR](https://dev.to/ipye_com/my-free-48-is-filtered-a-triage-checklist-that-starts-with-roa-and-irr-185g)** — **0** 👍 · 0 💬
+* **[Blackhole and Static Route Hygiene for a Free /48 You Originate](https://dev.to/ipye_com/blackhole-and-static-route-hygiene-for-a-free-48-you-originate-183j)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-10T00:59:22.829787+00:00 -->
+<!-- Log-ID: 2026-11-10T04:29:28.400187+00:00 -->
