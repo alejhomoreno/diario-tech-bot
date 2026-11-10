@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-10 20:18 (UTC)
+📅 **Last Update:** 2026-11-10 22:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)** — **91** 👍 · 12 💬
 * **[Transactional outbox and inbox for Spring Boot: which library to choose in 2026](https://dev.to/miguel_carvalho_22b80551c/transactional-outbox-and-inbox-for-spring-boot-which-library-to-choose-in-2026-3cpo)** — **4** 👍 · 1 💬
-* **[Why a Java pod gets OOMKilled in Kubernetes with a half-empty heap](https://dev.to/andronaft/why-a-java-pod-gets-oomkilled-in-kubernetes-with-a-half-empty-heap-5aok)** — **1** 👍 · 0 💬
-* **[Why I Stopped Exposing JPA Entities Directly in My Spring Boot API](https://dev.to/me_nishant_18/why-i-stopped-exposing-jpa-entities-directly-in-my-spring-boot-api-1ne1)** — **1** 👍 · 0 💬
+* **[Building Token Budgets for Spring AI: The Problems I Didn't Expect](https://dev.to/ultron03/building-token-budgets-for-spring-ai-the-problems-i-didnt-expect-lg2)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[Resizing a managed Postgres database while writing to it](https://dev.to/remdore/resizing-a-managed-postgres-database-while-writing-to-it-1g2n)** — **9** 👍 · 1 💬
 * **[What We Learned from N Developers Testing the Zero-Hallucination SQL Compiler](https://dev.to/esproc_spl/what-we-learned-from-n-developers-testing-the-zero-hallucination-sql-compiler-1dpb)** — **6** 👍 · 0 💬
-* **[The AI bill is visible and the cost per task is not](https://dev.to/analista_83/the-ai-bill-is-visible-and-the-cost-per-task-is-not-4kej)** — **4** 👍 · 4 💬
+* **[Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox](https://dev.to/aws-builders/stop-trusting-npm-scans-run-untrusted-packages-in-an-isolated-aws-sandbox-cmm)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[My Free /48 Is Filtered: A Triage Checklist That Starts With ROA and IRR](https://dev.to/ipye_com/my-free-48-is-filtered-a-triage-checklist-that-starts-with-roa-and-irr-185g)** — **0** 👍 · 0 💬
 * **[Blackhole and Static Route Hygiene for a Free /48 You Originate](https://dev.to/ipye_com/blackhole-and-static-route-hygiene-for-a-free-48-you-originate-183j)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-10T20:18:33.101778+00:00 -->
+<!-- Log-ID: 2026-11-10T22:40:03.676720+00:00 -->
