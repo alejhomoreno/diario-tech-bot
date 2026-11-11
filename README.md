@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-11 20:01 (UTC)
+📅 **Last Update:** 2026-11-11 23:52 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Part 5: The Control That Protected an Empty Bucket](https://dev.to/ndcodes/part-5-the-control-that-protected-an-empty-bucket-e1j)** — **16** 👍 · 0 💬
 * **[Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox](https://dev.to/aws-builders/stop-trusting-npm-scans-run-untrusted-packages-in-an-isolated-aws-sandbox-cmm)** — **12** 👍 · 8 💬
 * **[Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment](https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn)** — **11** 👍 · 1 💬
+* **[How To Review Pull Requests with Kiro CLI and GitHub Actions](https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b)** — **10** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[My Free /48 Is Filtered: A Triage Checklist That Starts With ROA and IRR](https://dev.to/ipye_com/my-free-48-is-filtered-a-triage-checklist-that-starts-with-roa-and-irr-185g)** — **0** 👍 · 0 💬
 * **[Blackhole and Static Route Hygiene for a Free /48 You Originate](https://dev.to/ipye_com/blackhole-and-static-route-hygiene-for-a-free-48-you-originate-183j)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-11T20:01:22.226099+00:00 -->
+<!-- Log-ID: 2026-11-11T23:52:26.863002+00:00 -->
