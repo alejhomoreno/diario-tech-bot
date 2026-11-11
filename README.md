@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-10 22:40 (UTC)
+📅 **Last Update:** 2026-11-11 02:32 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)** — **91** 👍 · 12 💬
-* **[Transactional outbox and inbox for Spring Boot: which library to choose in 2026](https://dev.to/miguel_carvalho_22b80551c/transactional-outbox-and-inbox-for-spring-boot-which-library-to-choose-in-2026-3cpo)** — **4** 👍 · 1 💬
+* **[I Used gp-grid to Build a React Food Festival App with Advanced Data Grid Features](https://dev.to/hadil/i-used-gp-grid-to-build-a-react-food-festival-app-with-advanced-data-grid-features-3l22)** — **91** 👍 · 14 💬
+* **[Reel: Your Own Streaming Service or Course Platform](https://dev.to/codenameone/reel-your-own-streaming-service-or-course-platform-4i2d)** — **5** 👍 · 0 💬
 * **[Building Token Budgets for Spring AI: The Problems I Didn't Expect](https://dev.to/ultron03/building-token-budgets-for-spring-ai-the-problems-i-didnt-expect-lg2)** — **2** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Resizing a managed Postgres database while writing to it](https://dev.to/remdore/resizing-a-managed-postgres-database-while-writing-to-it-1g2n)** — **9** 👍 · 1 💬
-* **[What We Learned from N Developers Testing the Zero-Hallucination SQL Compiler](https://dev.to/esproc_spl/what-we-learned-from-n-developers-testing-the-zero-hallucination-sql-compiler-1dpb)** — **6** 👍 · 0 💬
-* **[Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox](https://dev.to/aws-builders/stop-trusting-npm-scans-run-untrusted-packages-in-an-isolated-aws-sandbox-cmm)** — **5** 👍 · 0 💬
+* **[What Are Human Code Reviews For?](https://dev.to/googlecloud/what-are-human-code-reviews-for-1ho8)** — **5** 👍 · 2 💬
+* **[Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox](https://dev.to/aws-builders/stop-trusting-npm-scans-run-untrusted-packages-in-an-isolated-aws-sandbox-cmm)** — **5** 👍 · 1 💬
+* **[Use Docker Sandboxes as Your Development Environment](https://dev.to/aerabi/use-docker-sandboxes-as-your-development-environment-5ed6)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[My Free /48 Is Filtered: A Triage Checklist That Starts With ROA and IRR](https://dev.to/ipye_com/my-free-48-is-filtered-a-triage-checklist-that-starts-with-roa-and-irr-185g)** — **0** 👍 · 0 💬
 * **[Blackhole and Static Route Hygiene for a Free /48 You Originate](https://dev.to/ipye_com/blackhole-and-static-route-hygiene-for-a-free-48-you-originate-183j)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-10T22:40:03.676720+00:00 -->
+<!-- Log-ID: 2026-11-11T02:32:59.055071+00:00 -->
