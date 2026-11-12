@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-12 03:38 (UTC)
+📅 **Last Update:** 2026-11-12 20:40 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://dev.to/codenameone/grapheneos-lineageos-eos-and-others-are-now-officially-supported-3102)** — **6** 👍 · 0 💬
-* **[Reel: Your Own Streaming Service or Course Platform](https://dev.to/codenameone/reel-your-own-streaming-service-or-course-platform-4i2d)** — **5** 👍 · 0 💬
-* **[siftwise v0.3: riskiest tests first, time budgets, Jest and Java selection, and live dogfooding numbers](https://dev.to/pm_22/siftwise-v03-riskiest-tests-first-time-budgets-jest-and-java-selection-and-live-dogfooding-2b0c)** — **1** 👍 · 0 💬
+* **[Caches, Certificates, Streaming Uploads and a Simulator That Types](https://dev.to/codenameone/caches-certificates-streaming-uploads-and-a-simulator-that-types-3d1j)** — **1** 👍 · 0 💬
+* **[Operators in Java](https://dev.to/raksha_murugesan/operators-in-java-1p47)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
-* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **82** 👍 · 20 💬
+* **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **83** 👍 · 20 💬
 * **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **80** 👍 · 6 💬
-* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **74** 👍 · 12 💬
+* **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **76** 👍 · 12 💬
 
 ## 🔖 Top Devops
 
-* **[Stop Trusting npm Scans: Run Untrusted Packages in an Isolated AWS Sandbox](https://dev.to/aws-builders/stop-trusting-npm-scans-run-untrusted-packages-in-an-isolated-aws-sandbox-cmm)** — **12** 👍 · 8 💬
-* **[How To Review Pull Requests with Kiro CLI and GitHub Actions](https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b)** — **12** 👍 · 2 💬
-* **[Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment](https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn)** — **11** 👍 · 1 💬
+* **[How To Review Pull Requests with Kiro CLI and GitHub Actions](https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b)** — **23** 👍 · 3 💬
+* **[I Built GitHub Hot-Reloading in 3 Seconds (Without Rebuilding the Sandbox) ⚡🧟‍♂️](https://dev.to/koda2026/i-built-github-hot-reloading-in-3-seconds-without-rebuilding-the-sandbox-2p0)** — **18** 👍 · 5 💬
+* **[ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold](https://dev.to/alexgeorgiev17/clickhouse-2610s-string-filter-during-scan-cuts-a-selective-like-querys-memory-25-fold-228j)** — **13** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[WireGuard Site-to-Site with BGP—Route Your Free /48 Through the Tunnel](https://dev.to/ipye_com/wireguard-site-to-site-with-bgp-route-your-free-48-through-the-tunnel-49kp)** — **0** 👍 · 1 💬
-* **[My Free /48 Is Filtered: A Triage Checklist That Starts With ROA and IRR](https://dev.to/ipye_com/my-free-48-is-filtered-a-triage-checklist-that-starts-with-roa-and-irr-185g)** — **0** 👍 · 0 💬
-* **[Blackhole and Static Route Hygiene for a Free /48 You Originate](https://dev.to/ipye_com/blackhole-and-static-route-hygiene-for-a-free-48-you-originate-183j)** — **0** 👍 · 0 💬
+* **[The Application Is Running, but Port 443 Times Out: A CompTIA Security+ (SY0-701) Incident Triage Walkthrough](https://dev.to/evolveskill4/the-application-is-running-but-port-443-times-out-a-comptia-security-sy0-701-incident-triage-4ak3)** — **1** 👍 · 0 💬
+* **[VoIP One-Way Audio and Calls That Drop at 32 Seconds: What Causes Them and How to Fix Them](https://dev.to/ashtech52/voip-one-way-audio-and-calls-that-drop-at-32-seconds-what-causes-them-and-how-to-fix-them-4db7)** — **1** 👍 · 0 💬
+* **[Claude IP allowlist: Lambda with a static egress IP](https://dev.to/sascha-ms/claude-ip-allowlist-lambda-with-a-static-egress-ip-2km8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-12T03:38:12.705177+00:00 -->
+<!-- Log-ID: 2026-11-12T20:40:28.972133+00:00 -->
