@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-12 20:40 (UTC)
+📅 **Last Update:** 2026-11-12 22:59 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[How To Review Pull Requests with Kiro CLI and GitHub Actions](https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b)** — **23** 👍 · 3 💬
-* **[I Built GitHub Hot-Reloading in 3 Seconds (Without Rebuilding the Sandbox) ⚡🧟‍♂️](https://dev.to/koda2026/i-built-github-hot-reloading-in-3-seconds-without-rebuilding-the-sandbox-2p0)** — **18** 👍 · 5 💬
+* **[How To Review Pull Requests with Kiro CLI and GitHub Actions](https://dev.to/erikch/how-to-review-pull-requests-with-kiro-cli-and-github-actions-1b9b)** — **29** 👍 · 4 💬
 * **[ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold](https://dev.to/alexgeorgiev17/clickhouse-2610s-string-filter-during-scan-cuts-a-selective-like-querys-memory-25-fold-228j)** — **13** 👍 · 1 💬
+* **[When the Cloud Goes Dark: What Microsoft's Outage Reveals About Our Fragile Digital Infrastructure](https://dev.to/marieeee/when-the-cloud-goes-dark-what-microsofts-outage-reveals-about-our-fragile-digital-infrastructure-p3m)** — **5** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[VoIP One-Way Audio and Calls That Drop at 32 Seconds: What Causes Them and How to Fix Them](https://dev.to/ashtech52/voip-one-way-audio-and-calls-that-drop-at-32-seconds-what-causes-them-and-how-to-fix-them-4db7)** — **1** 👍 · 0 💬
 * **[Claude IP allowlist: Lambda with a static egress IP](https://dev.to/sascha-ms/claude-ip-allowlist-lambda-with-a-static-egress-ip-2km8)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-12T20:40:28.972133+00:00 -->
+<!-- Log-ID: 2026-11-12T22:59:28.303316+00:00 -->
