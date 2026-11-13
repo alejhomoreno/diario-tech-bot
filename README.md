@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-13 03:09 (UTC)
+📅 **Last Update:** 2026-11-13 20:21 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Caches, Certificates, Streaming Uploads and a Simulator That Types](https://dev.to/codenameone/caches-certificates-streaming-uploads-and-a-simulator-that-types-3d1j)** — **6** 👍 · 0 💬
 * **[GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://dev.to/codenameone/grapheneos-lineageos-eos-and-others-are-now-officially-supported-3102)** — **6** 👍 · 0 💬
-* **[Operators in Java](https://dev.to/raksha_murugesan/operators-in-java-1p47)** — **1** 👍 · 0 💬
+* **[Embedded Java: 20x Smaller Than Chrome, Faster Than Rust, Royalty Free](https://dev.to/codenameone/embedded-java-20x-smaller-than-chrome-faster-than-rust-royalty-free-59p8)** — **1** 👍 · 0 💬
+* **[How Java Exceptions Work: A Quick Walkthrough](https://dev.to/vishnub33527201/how-java-exceptions-work-a-quick-walkthrough-3cnp)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[ClickHouse 26.10's string filter during scan cuts a selective LIKE query's memory 25-fold](https://dev.to/alexgeorgiev17/clickhouse-2610s-string-filter-during-scan-cuts-a-selective-like-querys-memory-25-fold-228j)** — **13** 👍 · 1 💬
-* **[Microsoft 365 Went Down Overnight. 17.6% of Indonesian co.id Domains Get Their Mail Through It](https://dev.to/kielltampubolon/microsoft-365-went-down-overnight-176-of-indonesian-coid-domains-get-their-mail-through-it-a59)** — **6** 👍 · 0 💬
-* **[Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies](https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d)** — **5** 👍 · 0 💬
+* **[Git 2.56's history drop command replays commits 40 to 77 times faster than rebase](https://dev.to/alexgeorgiev17/git-256s-history-drop-command-replays-commits-40-to-77-times-faster-than-rebase-45jm)** — **13** 👍 · 0 💬
+* **[We tested 37,000 MCP servers. Here's how many actually work](https://dev.to/nestdaddy/we-tested-37000-mcp-servers-heres-how-many-actually-work-1pne)** — **3** 👍 · 3 💬
+* **[Two rejected series stalled all my metrics](https://dev.to/slima4/two-rejected-series-stalled-all-my-metrics-2523)** — **3** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[The Application Is Running, but Port 443 Times Out: A CompTIA Security+ (SY0-701) Incident Triage Walkthrough](https://dev.to/evolveskill4/the-application-is-running-but-port-443-times-out-a-comptia-security-sy0-701-incident-triage-4ak3)** — **1** 👍 · 0 💬
-* **[VoIP One-Way Audio and Calls That Drop at 32 Seconds: What Causes Them and How to Fix Them](https://dev.to/ashtech52/voip-one-way-audio-and-calls-that-drop-at-32-seconds-what-causes-them-and-how-to-fix-them-4db7)** — **1** 👍 · 0 💬
-* **[Claude IP allowlist: Lambda with a static egress IP](https://dev.to/sascha-ms/claude-ip-allowlist-lambda-with-a-static-egress-ip-2km8)** — **1** 👍 · 0 💬
+* **[Your IPv4 and IPv6 Exits Can Disagree: Looking Up IPv6 on IP99](https://dev.to/ip99/your-ipv4-and-ipv6-exits-can-disagree-looking-up-ipv6-on-ip99-54pb)** — **2** 👍 · 0 💬
+* **[Putting a CDN in front of your site? A 12-point checklist so the CDN isn't your next outage](https://dev.to/upordownonline/putting-a-cdn-in-front-of-your-site-a-12-point-checklist-so-the-cdn-isnt-your-next-outage-4881)** — **2** 👍 · 0 💬
+* **[What a 30-second-old VPS does to your install script](https://dev.to/dtisch/what-a-30-second-old-vps-does-to-your-install-script-1bgc)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-13T03:09:56.960669+00:00 -->
+<!-- Log-ID: 2026-11-13T20:21:37.066500+00:00 -->
