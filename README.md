@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-14 02:55 (UTC)
+📅 **Last Update:** 2026-11-14 18:39 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[GrapheneOS, LineageOS, /e/OS and Others Are Now Officially Supported](https://dev.to/codenameone/grapheneos-lineageos-eos-and-others-are-now-officially-supported-3102)** — **6** 👍 · 0 💬
+* **[Why Our Java Memory Crept Up on Flat Traffic: A Modern Stack Post-Mortem](https://dev.to/satyaki_saha_367d015583da/why-our-java-memory-crept-up-on-flat-traffic-a-modern-stack-post-mortem-4lpa)** — **4** 👍 · 0 💬
+* **[JWT Login in Spring Boot 4 Without jjwt or a Custom Filter](https://dev.to/pushpak_raut/jwt-login-in-spring-boot-4-without-jjwt-or-a-custom-filter-m7b)** — **1** 👍 · 0 💬
 * **[How Java Exceptions Work: A Quick Walkthrough](https://dev.to/vishnub33527201/how-java-exceptions-work-a-quick-walkthrough-3cnp)** — **1** 👍 · 0 💬
-* **[Spring's Release Cycle in 2026. How AI Broke Everything](https://dev.to/axelix-labs/springs-release-cycle-in-2026-how-ai-broke-everything-2f3b)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[We tested 37,000 MCP servers. Here's how many actually work](https://dev.to/nestdaddy/we-tested-37000-mcp-servers-heres-how-many-actually-work-1pne)** — **3** 👍 · 4 💬
-* **[Two rejected series stalled all my metrics](https://dev.to/slima4/two-rejected-series-stalled-all-my-metrics-2523)** — **3** 👍 · 1 💬
-* **[Keeping a software factory stable at 1,000 PRs a week](https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j)** — **2** 👍 · 1 💬
+* **[nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding it](https://dev.to/alexgeorgiev17/nginx-131s-jsonset-directive-rejects-a-bad-webhook-payload-about-13-times-faster-than-forwarding-3b00)** — **8** 👍 · 1 💬
+* **[Snapshotting a DigitalOcean Droplet while it's running](https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c)** — **8** 👍 · 1 💬
+* **[I Posted a v0.2.0 CLI Roaster on Monday. The Comments Challenged My Architecture, So I Built v1.0.5.](https://dev.to/hao610/i-posted-a-v020-cli-roaster-on-monday-the-comments-challenged-my-architecture-so-i-built-v105-1jle)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Your IPv4 and IPv6 Exits Can Disagree: Looking Up IPv6 on IP99](https://dev.to/ip99/your-ipv4-and-ipv6-exits-can-disagree-looking-up-ipv6-on-ip99-54pb)** — **2** 👍 · 0 💬
-* **[What a 30-second-old VPS does to your install script](https://dev.to/dtisch/what-a-30-second-old-vps-does-to-your-install-script-1bgc)** — **1** 👍 · 0 💬
-* **[What Happens When You Hit Search? Every Stop in 190 Milliseconds](https://dev.to/thebytemechanics/what-happens-when-you-hit-search-every-stop-in-190-milliseconds-5a8)** — **1** 👍 · 0 💬
+* **[☸️ Kubernetes Networking Explained: What Actually Happens When You Access an Application?](https://dev.to/yash_sonawane25/kubernetes-networking-explained-what-actually-happens-when-you-access-an-application-380j)** — **5** 👍 · 0 💬
+* **[ORA-03113 After the Connection Sat Idle: The Firewall Forgot It](https://dev.to/uptimearchitect/ora-03113-after-the-connection-sat-idle-the-firewall-forgot-it-5ek0)** — **1** 👍 · 1 💬
+* **[Your reverse proxy makes the internet look like localhost](https://dev.to/notaflightrisk/your-reverse-proxy-makes-the-internet-look-like-localhost-197m)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-14T02:55:01.857777+00:00 -->
+<!-- Log-ID: 2026-11-14T18:39:42.864394+00:00 -->
