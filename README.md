@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-14 18:39 (UTC)
+📅 **Last Update:** 2026-11-14 21:49 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Why Our Java Memory Crept Up on Flat Traffic: A Modern Stack Post-Mortem](https://dev.to/satyaki_saha_367d015583da/why-our-java-memory-crept-up-on-flat-traffic-a-modern-stack-post-mortem-4lpa)** — **4** 👍 · 0 💬
+* **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **1** 👍 · 0 💬
 * **[JWT Login in Spring Boot 4 Without jjwt or a Custom Filter](https://dev.to/pushpak_raut/jwt-login-in-spring-boot-4-without-jjwt-or-a-custom-filter-m7b)** — **1** 👍 · 0 💬
-* **[How Java Exceptions Work: A Quick Walkthrough](https://dev.to/vishnub33527201/how-java-exceptions-work-a-quick-walkthrough-3cnp)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -25,7 +25,7 @@
 
 * **[nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding it](https://dev.to/alexgeorgiev17/nginx-131s-jsonset-directive-rejects-a-bad-webhook-payload-about-13-times-faster-than-forwarding-3b00)** — **8** 👍 · 1 💬
 * **[Snapshotting a DigitalOcean Droplet while it's running](https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c)** — **8** 👍 · 1 💬
-* **[I Posted a v0.2.0 CLI Roaster on Monday. The Comments Challenged My Architecture, So I Built v1.0.5.](https://dev.to/hao610/i-posted-a-v020-cli-roaster-on-monday-the-comments-challenged-my-architecture-so-i-built-v105-1jle)** — **1** 👍 · 0 💬
+* **[How to Handle Incidents in a Small Team](https://dev.to/fattakhov/how-to-handle-incidents-in-a-small-team-5d7n)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[ORA-03113 After the Connection Sat Idle: The Firewall Forgot It](https://dev.to/uptimearchitect/ora-03113-after-the-connection-sat-idle-the-firewall-forgot-it-5ek0)** — **1** 👍 · 1 💬
 * **[Your reverse proxy makes the internet look like localhost](https://dev.to/notaflightrisk/your-reverse-proxy-makes-the-internet-look-like-localhost-197m)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-14T18:39:42.864394+00:00 -->
+<!-- Log-ID: 2026-11-14T21:49:51.205889+00:00 -->
