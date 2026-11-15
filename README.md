@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-15 02:24 (UTC)
+📅 **Last Update:** 2026-11-15 19:16 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Why Our Java Memory Crept Up on Flat Traffic: A Modern Stack Post-Mortem](https://dev.to/satyaki_saha_367d015583da/why-our-java-memory-crept-up-on-flat-traffic-a-modern-stack-post-mortem-4lpa)** — **4** 👍 · 0 💬
-* **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **1** 👍 · 0 💬
-* **[JWT Login in Spring Boot 4 Without jjwt or a Custom Filter](https://dev.to/pushpak_raut/jwt-login-in-spring-boot-4-without-jjwt-or-a-custom-filter-m7b)** — **1** 👍 · 0 💬
+* **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **6** 👍 · 0 💬
+* **[5 commands that list every deprecated call your code still makes (Python, TS, Go, Java, Kotlin)](https://dev.to/getversyka/5-commands-that-list-every-deprecated-call-your-code-still-makes-python-ts-go-java-kotlin-2ja9)** — **1** 👍 · 0 💬
+* **[UPI MDR Is Back: What NPCI's Supreme Court Defence of the 0.4% Merchant Discount Rate Means for Payment Engineers](https://dev.to/krishna_y/upi-mdr-is-back-what-npcis-supreme-court-defence-of-the-04-merchant-discount-rate-means-for-4dbi)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Snapshotting a DigitalOcean Droplet while it's running](https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c)** — **8** 👍 · 1 💬
-* **[How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)** — **5** 👍 · 0 💬
-* **[Your CI artifacts and preview deployments can leak unprotected JavaScript](https://dev.to/veilvm/your-ci-artifacts-and-preview-deployments-can-leak-unprotected-javascript-12k5)** — **1** 👍 · 1 💬
+* **[Day 83: Two Files and Four Parts](https://dev.to/ndcodes/day-83-two-files-and-four-parts-40hc)** — **14** 👍 · 0 💬
+* **[My ISP would not give me a public IP, so I stopped asking for one](https://dev.to/thegdsks/my-isp-would-not-give-me-a-public-ip-so-i-stopped-asking-for-one-4o85)** — **4** 👍 · 0 💬
+* **[My nightly backup job had been green for months. I never restored it once.](https://dev.to/known_developer/my-nightly-backup-job-had-been-green-for-months-i-never-restored-it-once-bme)** — **3** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[☸️ Kubernetes Networking Explained: What Actually Happens When You Access an Application?](https://dev.to/yash_sonawane25/kubernetes-networking-explained-what-actually-happens-when-you-access-an-application-380j)** — **5** 👍 · 0 💬
-* **[ORA-03113 After the Connection Sat Idle: The Firewall Forgot It](https://dev.to/uptimearchitect/ora-03113-after-the-connection-sat-idle-the-firewall-forgot-it-5ek0)** — **1** 👍 · 1 💬
-* **[Your reverse proxy makes the internet look like localhost](https://dev.to/notaflightrisk/your-reverse-proxy-makes-the-internet-look-like-localhost-197m)** — **0** 👍 · 1 💬
+* **[EKS "failed to assign an IP address to container" and awscni_no_available_ip_addresses: start-up race or IP exhaustion?](https://dev.to/kkhdevs/eks-failed-to-assign-an-ip-address-to-container-and-awscninoavailableipaddresses-start-up-pl1)** — **1** 👍 · 0 💬
+* **[What Happens When Cloud Servers Start Failing One by One?](https://dev.to/rishi_kumavat_5a530396376/what-happens-when-cloud-servers-start-failing-one-by-one-19i3)** — **1** 👍 · 0 💬
+* **[Hybrid Interconnect: Linking a Datacenter to AWS with WireGuard When Direct Connect Is Out of Budget](https://dev.to/florient_4262fab5463a691/hybrid-interconnect-linking-a-datacenter-to-aws-with-wireguard-when-direct-connect-is-out-of-budget-3olj)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-15T02:24:53.894989+00:00 -->
+<!-- Log-ID: 2026-11-15T19:16:00.979706+00:00 -->
