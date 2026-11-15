@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-14 21:49 (UTC)
+📅 **Last Update:** 2026-11-15 02:24 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[nginx 1.31's json_set directive rejects a bad webhook payload about 13 times faster than forwarding it](https://dev.to/alexgeorgiev17/nginx-131s-jsonset-directive-rejects-a-bad-webhook-payload-about-13-times-faster-than-forwarding-3b00)** — **8** 👍 · 1 💬
 * **[Snapshotting a DigitalOcean Droplet while it's running](https://dev.to/remdore/snapshotting-a-digitalocean-droplet-while-its-running-4m3c)** — **8** 👍 · 1 💬
-* **[How to Handle Incidents in a Small Team](https://dev.to/fattakhov/how-to-handle-incidents-in-a-small-team-5d7n)** — **1** 👍 · 0 💬
+* **[How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)** — **5** 👍 · 0 💬
+* **[Your CI artifacts and preview deployments can leak unprotected JavaScript](https://dev.to/veilvm/your-ci-artifacts-and-preview-deployments-can-leak-unprotected-javascript-12k5)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[ORA-03113 After the Connection Sat Idle: The Firewall Forgot It](https://dev.to/uptimearchitect/ora-03113-after-the-connection-sat-idle-the-firewall-forgot-it-5ek0)** — **1** 👍 · 1 💬
 * **[Your reverse proxy makes the internet look like localhost](https://dev.to/notaflightrisk/your-reverse-proxy-makes-the-internet-look-like-localhost-197m)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-14T21:49:51.205889+00:00 -->
+<!-- Log-ID: 2026-11-15T02:24:53.894989+00:00 -->
