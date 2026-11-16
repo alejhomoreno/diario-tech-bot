@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-16 02:34 (UTC)
+📅 **Last Update:** 2026-11-16 22:46 (UTC)
 
 ---
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Day 83: Two Files and Four Parts](https://dev.to/ndcodes/day-83-two-files-and-four-parts-40hc)** — **14** 👍 · 0 💬
-* **[Patches Welcome #5: The Small Ones. CI Workflows, Docs, and Drive-By Fixes](https://dev.to/ghagsagar23/patches-welcome-5-the-small-ones-ci-workflows-docs-and-drive-by-fixes-2i7l)** — **1** 👍 · 0 💬
-* **[One Desktop App Instead of 100+ MCP Server Setups](https://dev.to/w4p/one-desktop-app-instead-of-100-mcp-server-setups-5do)** — **0** 👍 · 2 💬
+* **[Where to Draw the Boundaries When AI Agents Write Code: Building a Control Layer Around Kiro CLI and Running It for a Month](https://dev.to/aws-builders/where-to-draw-the-boundaries-when-ai-agents-write-code-building-a-control-layer-around-kiro-cli-52k8)** — **19** 👍 · 4 💬
+* **[PostgreSQL 19's pg_plan_advice turned a 28ms query into 264ms under load](https://dev.to/alexgeorgiev17/postgresql-19s-pgplanadvice-turned-a-28ms-query-into-264ms-under-load-46o5)** — **16** 👍 · 0 💬
+* **[Deploying new Temporal workflow code while workflows are running](https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150)** — **10** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
-* **[Inside the AWS Default VPC (and Why You'll Want Your Own)](https://dev.to/rahimah_dev/inside-the-aws-default-vpc-and-why-youll-want-your-own-148n)** — **2** 👍 · 1 💬
-* **[EKS "failed to assign an IP address to container" and awscni_no_available_ip_addresses: start-up race or IP exhaustion?](https://dev.to/kkhdevs/eks-failed-to-assign-an-ip-address-to-container-and-awscninoavailableipaddresses-start-up-pl1)** — **1** 👍 · 0 💬
-* **[One Cast button, three kinds of receiver: how a phone decides what to send](https://dev.to/yonto/one-cast-button-three-kinds-of-receiver-how-a-phone-decides-what-to-send-5nj)** — **0** 👍 · 0 💬
+* **[ndots:5 in Kubernetes: Why One DNS Lookup Turns Into Ten Queries](https://dev.to/devopsdaily/ndots5-in-kubernetes-why-one-dns-lookup-turns-into-ten-queries-2g15)** — **5** 👍 · 0 💬
+* **[How to fix ERR_HTTP2_PROTOCOL_ERROR in Chrome (what actually causes it, and how to find it on your server)](https://dev.to/upordownonline/how-to-fix-errhttp2protocolerror-in-chrome-what-actually-causes-it-and-how-to-find-it-on-your-3a8i)** — **2** 👍 · 0 💬
+* **[Changing DNS providers? A 12-point checklist so your site and email survive the move](https://dev.to/upordownonline/changing-dns-providers-a-12-point-checklist-so-your-site-and-email-survive-the-move-362a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-16T02:34:10.363849+00:00 -->
+<!-- Log-ID: 2026-11-16T22:46:00.569913+00:00 -->
