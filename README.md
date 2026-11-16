@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-15 22:17 (UTC)
+📅 **Last Update:** 2026-11-16 02:34 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **6** 👍 · 0 💬
+* **[Building an Async Java REST Client with CompletableFuture, Concurrent Requests, and Virtual Threads](https://dev.to/deividas-strole/building-an-async-java-rest-client-with-completablefuture-concurrent-requests-and-virtual-55o)** — **1** 👍 · 0 💬
 * **[5 commands that list every deprecated call your code still makes (Python, TS, Go, Java, Kotlin)](https://dev.to/getversyka/5-commands-that-list-every-deprecated-call-your-code-still-makes-python-ts-go-java-kotlin-2ja9)** — **1** 👍 · 0 💬
-* **[AWS's Spring AI Agent Blueprint Gets the Boring Parts Right](https://dev.to/jamilxt/awss-spring-ai-agent-blueprint-gets-the-boring-parts-right-24e5)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Day 83: Two Files and Four Parts](https://dev.to/ndcodes/day-83-two-files-and-four-parts-40hc)** — **14** 👍 · 0 💬
-* **[My nightly backup job had been green for months. I never restored it once.](https://dev.to/known_developer/my-nightly-backup-job-had-been-green-for-months-i-never-restored-it-once-bme)** — **3** 👍 · 0 💬
 * **[Patches Welcome #5: The Small Ones. CI Workflows, Docs, and Drive-By Fixes](https://dev.to/ghagsagar23/patches-welcome-5-the-small-ones-ci-workflows-docs-and-drive-by-fixes-2i7l)** — **1** 👍 · 0 💬
+* **[One Desktop App Instead of 100+ MCP Server Setups](https://dev.to/w4p/one-desktop-app-instead-of-100-mcp-server-setups-5do)** — **0** 👍 · 2 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[EKS "failed to assign an IP address to container" and awscni_no_available_ip_addresses: start-up race or IP exhaustion?](https://dev.to/kkhdevs/eks-failed-to-assign-an-ip-address-to-container-and-awscninoavailableipaddresses-start-up-pl1)** — **1** 👍 · 0 💬
 * **[One Cast button, three kinds of receiver: how a phone decides what to send](https://dev.to/yonto/one-cast-button-three-kinds-of-receiver-how-a-phone-decides-what-to-send-5nj)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-15T22:17:56.138501+00:00 -->
+<!-- Log-ID: 2026-11-16T02:34:10.363849+00:00 -->
