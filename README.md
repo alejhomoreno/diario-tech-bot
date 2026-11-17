@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-17 04:57 (UTC)
+📅 **Last Update:** 2026-11-17 21:32 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Real-Time Java: Control Loops the Garbage Collector Never Stops](https://dev.to/codenameone/real-time-java-control-loops-the-garbage-collector-never-stops-4gop)** — **6** 👍 · 0 💬
-* **[We added one nullable column and every pod failed its order lookups until each connection had seen the error](https://dev.to/sergey_shinder_ab2d943365/we-added-one-nullable-column-and-every-pod-failed-its-order-lookups-until-each-connection-had-seen-kca)** — **1** 👍 · 1 💬
-* **[Taking ShopEase to 1,000 Concurrent Users: High-Concurrency Load Testing with k6](https://dev.to/shitanshu686/taking-shopease-to-1000-concurrent-users-high-concurrency-load-testing-with-k6-2fgd)** — **1** 👍 · 0 💬
+* **[OpenIDEA vs IntelliJ IDEA: Can a Rust-Native IDE Replace Your Daily Driver?](https://dev.to/jamilxt/openidea-vs-intellij-idea-can-a-rust-native-ide-replace-your-daily-driver-g4b)** — **2** 👍 · 0 💬
+* **[Our order service built against a library snapshot someone had deployed from a feature branch](https://dev.to/sergey_shinder_ab2d943365/our-order-service-built-against-a-library-snapshot-someone-had-deployed-from-a-feature-branch-1ni0)** — **1** 👍 · 0 💬
+* **[Class and Object in Java](https://dev.to/esakki_muthu_55/class-and-object-in-java-5d35)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[Silent Failure #9: The Heartbeat Was Green Because Nothing Ran](https://dev.to/dafili/silent-failure-9-the-heartbeat-was-green-because-nothing-ran-1l8b)** — **2** 👍 · 2 💬
-* **[No Pipeline, No Problem: Building an Instant Serverless CloudOps, FinOps & DevSecOps Agent on Amazon Bedrock](https://dev.to/lizui_still_learning/no-pipeline-no-problem-building-an-instant-serverless-cloudops-finops-devsecops-agent-on-1oa7)** — **1** 👍 · 0 💬
-* **[Electron Release Engineering: A Practical Guide to Versioning, CI Build Matrices, Update Channels, Artifact Integrity, and Safe Rollbacks](https://dev.to/mp3sss31/electron-release-engineering-a-practical-guide-to-versioning-ci-build-matrices-update-channels-21g2)** — **0** 👍 · 1 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **16** 👍 · 8 💬
+* **[Day 85: A Task That Always Changes and Two Halves](https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic)** — **12** 👍 · 0 💬
+* **[Git 2.56's git add --resolved only checks conflict markers while git still calls a file unmerged](https://dev.to/alexgeorgiev17/git-256s-git-add-resolved-only-checks-conflict-markers-while-git-still-calls-a-file-unmerged-jgm)** — **11** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[ndots:5 in Kubernetes: Why One DNS Lookup Turns Into Ten Queries](https://dev.to/devopsdaily/ndots5-in-kubernetes-why-one-dns-lookup-turns-into-ten-queries-2g15)** — **5** 👍 · 0 💬
-* **[How to fix ERR_HTTP2_PROTOCOL_ERROR in Chrome (what actually causes it, and how to find it on your server)](https://dev.to/upordownonline/how-to-fix-errhttp2protocolerror-in-chrome-what-actually-causes-it-and-how-to-find-it-on-your-3a8i)** — **2** 👍 · 0 💬
-* **[Changing DNS providers? A 12-point checklist so your site and email survive the move](https://dev.to/upordownonline/changing-dns-providers-a-12-point-checklist-so-your-site-and-email-survive-the-move-362a)** — **2** 👍 · 0 💬
+* **[What an IP reputation score can (and can't) tell you](https://dev.to/isipsafe/what-an-ip-reputation-score-can-and-cant-tell-you-149f)** — **0** 👍 · 1 💬
+* **[Your proxy hides your IP, but your DNS lookups still happen at home. One letter fixes it.](https://dev.to/ishantsinghdev/your-proxy-hides-your-ip-but-your-dns-lookups-still-happen-at-home-one-letter-fixes-it-1mdi)** — **0** 👍 · 0 💬
+* **[Cleaning Up Stale Policy Routing: Removing Orphaned VPN Rules from the Kernel Table](https://dev.to/futhgar/cleaning-up-stale-policy-routing-removing-orphaned-vpn-rules-from-the-kernel-table-led)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-17T04:57:35.188713+00:00 -->
+<!-- Log-ID: 2026-11-17T21:32:05.768296+00:00 -->
