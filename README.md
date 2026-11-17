@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-16 22:46 (UTC)
+📅 **Last Update:** 2026-11-17 01:19 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **6** 👍 · 0 💬
-* **[Building an Async Java REST Client with CompletableFuture, Concurrent Requests, and Virtual Threads](https://dev.to/deividas-strole/building-an-async-java-rest-client-with-completablefuture-concurrent-requests-and-virtual-55o)** — **1** 👍 · 0 💬
-* **[5 commands that list every deprecated call your code still makes (Python, TS, Go, Java, Kotlin)](https://dev.to/getversyka/5-commands-that-list-every-deprecated-call-your-code-still-makes-python-ts-go-java-kotlin-2ja9)** — **1** 👍 · 0 💬
+* **[We added one nullable column and every pod failed its order lookups until each connection had seen the error](https://dev.to/sergey_shinder_ab2d943365/we-added-one-nullable-column-and-every-pod-failed-its-order-lookups-until-each-connection-had-seen-kca)** — **1** 👍 · 1 💬
+* **[Real-Time Java: Control Loops the Garbage Collector Never Stops](https://dev.to/codenameone/real-time-java-control-loops-the-garbage-collector-never-stops-4gop)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Where to Draw the Boundaries When AI Agents Write Code: Building a Control Layer Around Kiro CLI and Running It for a Month](https://dev.to/aws-builders/where-to-draw-the-boundaries-when-ai-agents-write-code-building-a-control-layer-around-kiro-cli-52k8)** — **19** 👍 · 4 💬
-* **[PostgreSQL 19's pg_plan_advice turned a 28ms query into 264ms under load](https://dev.to/alexgeorgiev17/postgresql-19s-pgplanadvice-turned-a-28ms-query-into-264ms-under-load-46o5)** — **16** 👍 · 0 💬
-* **[Deploying new Temporal workflow code while workflows are running](https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150)** — **10** 👍 · 2 💬
+* **[Deploying new Temporal workflow code while workflows are running](https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150)** — **10** 👍 · 3 💬
+* **[Is multi-cloud more resilient? The math says no](https://dev.to/aws-builders/is-multi-cloud-more-resilient-the-math-says-no-221i)** — **9** 👍 · 2 💬
+* **[Day 84: A Task That Always Changes and a Deny at 200](https://dev.to/ndcodes/day-84-a-task-that-always-changes-and-a-deny-at-200-1ein)** — **7** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to fix ERR_HTTP2_PROTOCOL_ERROR in Chrome (what actually causes it, and how to find it on your server)](https://dev.to/upordownonline/how-to-fix-errhttp2protocolerror-in-chrome-what-actually-causes-it-and-how-to-find-it-on-your-3a8i)** — **2** 👍 · 0 💬
 * **[Changing DNS providers? A 12-point checklist so your site and email survive the move](https://dev.to/upordownonline/changing-dns-providers-a-12-point-checklist-so-your-site-and-email-survive-the-move-362a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-16T22:46:00.569913+00:00 -->
+<!-- Log-ID: 2026-11-17T01:19:09.460435+00:00 -->
