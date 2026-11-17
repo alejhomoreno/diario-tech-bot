@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-17 01:19 (UTC)
+📅 **Last Update:** 2026-11-17 04:57 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Dash: An Endless Runner That Races Through Your City](https://dev.to/codenameone/dash-an-endless-runner-that-races-through-your-city-57o7)** — **6** 👍 · 0 💬
+* **[Real-Time Java: Control Loops the Garbage Collector Never Stops](https://dev.to/codenameone/real-time-java-control-loops-the-garbage-collector-never-stops-4gop)** — **6** 👍 · 0 💬
 * **[We added one nullable column and every pod failed its order lookups until each connection had seen the error](https://dev.to/sergey_shinder_ab2d943365/we-added-one-nullable-column-and-every-pod-failed-its-order-lookups-until-each-connection-had-seen-kca)** — **1** 👍 · 1 💬
-* **[Real-Time Java: Control Loops the Garbage Collector Never Stops](https://dev.to/codenameone/real-time-java-control-loops-the-garbage-collector-never-stops-4gop)** — **1** 👍 · 0 💬
+* **[Taking ShopEase to 1,000 Concurrent Users: High-Concurrency Load Testing with k6](https://dev.to/shitanshu686/taking-shopease-to-1000-concurrent-users-high-concurrency-load-testing-with-k6-2fgd)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Deploying new Temporal workflow code while workflows are running](https://dev.to/remdore/deploying-new-temporal-workflow-code-while-workflows-are-running-4150)** — **10** 👍 · 3 💬
-* **[Is multi-cloud more resilient? The math says no](https://dev.to/aws-builders/is-multi-cloud-more-resilient-the-math-says-no-221i)** — **9** 👍 · 2 💬
-* **[Day 84: A Task That Always Changes and a Deny at 200](https://dev.to/ndcodes/day-84-a-task-that-always-changes-and-a-deny-at-200-1ein)** — **7** 👍 · 0 💬
+* **[Silent Failure #9: The Heartbeat Was Green Because Nothing Ran](https://dev.to/dafili/silent-failure-9-the-heartbeat-was-green-because-nothing-ran-1l8b)** — **2** 👍 · 2 💬
+* **[No Pipeline, No Problem: Building an Instant Serverless CloudOps, FinOps & DevSecOps Agent on Amazon Bedrock](https://dev.to/lizui_still_learning/no-pipeline-no-problem-building-an-instant-serverless-cloudops-finops-devsecops-agent-on-1oa7)** — **1** 👍 · 0 💬
+* **[Electron Release Engineering: A Practical Guide to Versioning, CI Build Matrices, Update Channels, Artifact Integrity, and Safe Rollbacks](https://dev.to/mp3sss31/electron-release-engineering-a-practical-guide-to-versioning-ci-build-matrices-update-channels-21g2)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[How to fix ERR_HTTP2_PROTOCOL_ERROR in Chrome (what actually causes it, and how to find it on your server)](https://dev.to/upordownonline/how-to-fix-errhttp2protocolerror-in-chrome-what-actually-causes-it-and-how-to-find-it-on-your-3a8i)** — **2** 👍 · 0 💬
 * **[Changing DNS providers? A 12-point checklist so your site and email survive the move](https://dev.to/upordownonline/changing-dns-providers-a-12-point-checklist-so-your-site-and-email-survive-the-move-362a)** — **2** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-17T01:19:09.460435+00:00 -->
+<!-- Log-ID: 2026-11-17T04:57:35.188713+00:00 -->
