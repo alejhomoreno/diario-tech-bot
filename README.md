@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-18 00:14 (UTC)
+📅 **Last Update:** 2026-11-18 04:01 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Our order service built against a library snapshot someone had deployed from a feature branch](https://dev.to/sergey_shinder_ab2d943365/our-order-service-built-against-a-library-snapshot-someone-had-deployed-from-a-feature-branch-1ni0)** — **1** 👍 · 0 💬
-* **[Class and Object in Java](https://dev.to/esakki_muthu_55/class-and-object-in-java-5d35)** — **1** 👍 · 0 💬
-* **[Every deploy gave a full share of traffic to JVMs that had not compiled anything yet](https://dev.to/sergey_shinder_ab2d943365/every-deploy-gave-a-full-share-of-traffic-to-jvms-that-had-not-compiled-anything-yet-7km)** — **1** 👍 · 0 💬
+* **[How One Base64 Bug Can Leak Your Java Heap (Java4Shell, CVE-2026-114938)](https://dev.to/thegdsks/java4shell-root-cause-and-detection-without-the-hype-5596)** — **6** 👍 · 0 💬
+* **[Calif Says AI Found Java4Shell (CVE-2026-114938) in an Hour for Under $200](https://dev.to/thegdsks/calif-says-ai-found-java4shell-in-an-hour-for-under-200-ghh)** — **6** 👍 · 0 💬
+* **[Java4Shell CVE-2026-114938: Is Your Server Next? Find Every Vulnerable JVM](https://dev.to/thegdsks/java4shell-runbook-find-every-vulnerable-jvm-today-4ei0)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **19** 👍 · 13 💬
-* **[Day 85: A Task That Always Changes and Two Halves](https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic)** — **13** 👍 · 0 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **21** 👍 · 15 💬
+* **[Day 85: A Task That Always Changes and Two Halves](https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic)** — **14** 👍 · 1 💬
 * **[Git 2.56's git add --resolved only checks conflict markers while git still calls a file unmerged](https://dev.to/alexgeorgiev17/git-256s-git-add-resolved-only-checks-conflict-markers-while-git-still-calls-a-file-unmerged-jgm)** — **11** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Your proxy hides your IP, but your DNS lookups still happen at home. One letter fixes it.](https://dev.to/ishantsinghdev/your-proxy-hides-your-ip-but-your-dns-lookups-still-happen-at-home-one-letter-fixes-it-1mdi)** — **0** 👍 · 1 💬
+* **[Why WireGuard Fails on LXC NAT VPS (and How to Fix It)](https://dev.to/vpsfreeio/why-wireguard-fails-on-lxc-nat-vps-and-how-to-fix-it-1om5)** — **1** 👍 · 1 💬
+* **[Inside Kubernetes Gateway API: How Controllers Translate HTTPRoutes into Envoy Proxy Configurations](https://dev.to/sreekanth_kuruba_91721e5d/inside-kubernetes-gateway-api-how-controllers-translate-httproutes-into-envoy-proxy-configurations-3l05)** — **0** 👍 · 1 💬
 * **[Six Access Points Is Too Many (On Default Settings): Planning Seven VLANs Without Losing My Mind](https://dev.to/edstuurman/six-access-points-is-too-many-on-default-settings-planning-seven-vlans-without-losing-my-mind-206j)** — **0** 👍 · 0 💬
-* **[How to Connect Eaglercraft, Bedrock, and Education Edition to Java Servers Without Port Bloat](https://dev.to/wummsydev/how-to-connect-eaglercraft-bedrock-and-education-edition-to-java-servers-without-port-bloat-b85)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-18T00:14:46.255950+00:00 -->
+<!-- Log-ID: 2026-11-18T04:01:20.927698+00:00 -->
