@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-18 04:01 (UTC)
+📅 **Last Update:** 2026-11-18 21:07 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[How One Base64 Bug Can Leak Your Java Heap (Java4Shell, CVE-2026-114938)](https://dev.to/thegdsks/java4shell-root-cause-and-detection-without-the-hype-5596)** — **6** 👍 · 0 💬
-* **[Calif Says AI Found Java4Shell (CVE-2026-114938) in an Hour for Under $200](https://dev.to/thegdsks/calif-says-ai-found-java4shell-in-an-hour-for-under-200-ghh)** — **6** 👍 · 0 💬
-* **[Java4Shell CVE-2026-114938: Is Your Server Next? Find Every Vulnerable JVM](https://dev.to/thegdsks/java4shell-runbook-find-every-vulnerable-jvm-today-4ei0)** — **6** 👍 · 0 💬
+* **[Java4Shell (CVE-2026-114938): The Bug That Leaked Before Its Patch](https://dev.to/thegdsks/java4shell-one-stray-sign-vs-your-java-server-4j3j)** — **9** 👍 · 0 💬
+* **[Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://dev.to/codenameone/port-your-spring-code-with-fewer-edits-and-libraries-that-bring-their-own-server-207p)** — **1** 👍 · 0 💬
+* **[Java4Shell (CVE-2026-114938): is your Java server affected?](https://dev.to/axrisi/java4shell-cve-2026-114938-is-your-java-server-affected-1a4d)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **21** 👍 · 15 💬
-* **[Day 85: A Task That Always Changes and Two Halves](https://dev.to/ndcodes/day-85-one-direction-and-two-halves-5cic)** — **14** 👍 · 1 💬
-* **[Git 2.56's git add --resolved only checks conflict markers while git still calls a file unmerged](https://dev.to/alexgeorgiev17/git-256s-git-add-resolved-only-checks-conflict-markers-while-git-still-calls-a-file-unmerged-jgm)** — **11** 👍 · 0 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **46** 👍 · 35 💬
+* **[Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply](https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog)** — **14** 👍 · 2 💬
+* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **12** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Why WireGuard Fails on LXC NAT VPS (and How to Fix It)](https://dev.to/vpsfreeio/why-wireguard-fails-on-lxc-nat-vps-and-how-to-fix-it-1om5)** — **1** 👍 · 1 💬
-* **[Inside Kubernetes Gateway API: How Controllers Translate HTTPRoutes into Envoy Proxy Configurations](https://dev.to/sreekanth_kuruba_91721e5d/inside-kubernetes-gateway-api-how-controllers-translate-httproutes-into-envoy-proxy-configurations-3l05)** — **0** 👍 · 1 💬
-* **[Six Access Points Is Too Many (On Default Settings): Planning Seven VLANs Without Losing My Mind](https://dev.to/edstuurman/six-access-points-is-too-many-on-default-settings-planning-seven-vlans-without-losing-my-mind-206j)** — **0** 👍 · 0 💬
+* **[[TECH] - 002 | When One Router Disrupted US Air Travel: A Lesson in Infrastructure Reliability](https://dev.to/wathsalaggg/tech-002-when-one-router-disrupted-us-air-travel-a-lesson-in-infrastructure-reliability-4dc8)** — **2** 👍 · 1 💬
+* **[A reconnect schedule is a thundering-herd problem](https://dev.to/rescueshell/a-reconnect-schedule-is-a-thundering-herd-problem-1mo3)** — **1** 👍 · 0 💬
+* **[Why You Should Never Plug an Unknown USB Drive Into Your PC](https://dev.to/simone_busatto99/why-you-should-never-plug-an-unknown-usb-drive-into-your-pc-28j1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-18T04:01:20.927698+00:00 -->
+<!-- Log-ID: 2026-11-18T21:07:55.769543+00:00 -->
