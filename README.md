@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-18 21:07 (UTC)
+📅 **Last Update:** 2026-11-18 23:43 (UTC)
 
 ---
 
@@ -23,8 +23,8 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **46** 👍 · 35 💬
-* **[Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply](https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog)** — **14** 👍 · 2 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **48** 👍 · 37 💬
+* **[Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply](https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog)** — **16** 👍 · 2 💬
 * **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **12** 👍 · 0 💬
 
 ## 🔖 Top Networking
@@ -33,4 +33,4 @@
 * **[A reconnect schedule is a thundering-herd problem](https://dev.to/rescueshell/a-reconnect-schedule-is-a-thundering-herd-problem-1mo3)** — **1** 👍 · 0 💬
 * **[Why You Should Never Plug an Unknown USB Drive Into Your PC](https://dev.to/simone_busatto99/why-you-should-never-plug-an-unknown-usb-drive-into-your-pc-28j1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-18T21:07:55.769543+00:00 -->
+<!-- Log-ID: 2026-11-18T23:43:04.945414+00:00 -->
