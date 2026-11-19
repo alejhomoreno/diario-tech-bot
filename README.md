@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-19 03:58 (UTC)
+📅 **Last Update:** 2026-11-19 21:12 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://dev.to/codenameone/port-your-spring-code-with-fewer-edits-and-libraries-that-bring-their-own-server-207p)** — **6** 👍 · 0 💬
-* **[Oracle publica 655 patches e corrige falha Java4Shell](https://dev.to/guiadeti/oracle-publica-655-patches-e-corrige-falha-java4shell-306c)** — **1** 👍 · 0 💬
-* **[Has Your Company Been Audited for Oracle Java? Here's What You Need to Know](https://dev.to/smalltoolsstudio/has-your-company-been-audited-for-oracle-java-heres-what-you-need-to-know-56hd)** — **0** 👍 · 0 💬
+* **[Finding the Bug Got Cheap. Shipping the Fix Didn't.](https://dev.to/justinpennington/finding-the-bug-got-cheap-shipping-the-fix-didnt-lbe)** — **0** 👍 · 1 💬
+* **[Debug Your Dart in a Java Debugger, and JFX Central on a Phone](https://dev.to/codenameone/debug-your-dart-in-a-java-debugger-and-jfx-central-on-a-phone-366e)** — **0** 👍 · 0 💬
+* **[I Built a Java Agent That Injects Tenant Filters Into Every SQL Query Automatically](https://dev.to/maksoud13/i-built-a-java-agent-that-injects-tenant-filters-into-every-sql-query-automatically-4ac2)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **53** 👍 · 38 💬
-* **[Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply](https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog)** — **16** 👍 · 2 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **62** 👍 · 47 💬
+* **[What this week's nginx HTTP/2 CVEs mean for the server I actually run](https://dev.to/alexgeorgiev17/what-this-weeks-nginx-http2-cves-mean-for-the-server-i-actually-run-3nbf)** — **13** 👍 · 4 💬
 * **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **13** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[[TECH] - 002 | When One Router Disrupted US Air Travel: A Lesson in Infrastructure Reliability](https://dev.to/wathsalaggg/tech-002-when-one-router-disrupted-us-air-travel-a-lesson-in-infrastructure-reliability-4dc8)** — **2** 👍 · 1 💬
-* **[A reconnect schedule is a thundering-herd problem](https://dev.to/rescueshell/a-reconnect-schedule-is-a-thundering-herd-problem-1mo3)** — **1** 👍 · 0 💬
-* **[Why You Should Never Plug an Unknown USB Drive Into Your PC](https://dev.to/simone_busatto99/why-you-should-never-plug-an-unknown-usb-drive-into-your-pc-28j1)** — **1** 👍 · 0 💬
+* **[How long a DigitalOcean Cloud Firewall change takes to apply](https://dev.to/remdore/how-long-a-digitalocean-cloud-firewall-change-takes-to-apply-kkb)** — **8** 👍 · 1 💬
+* **[I Designed a Communication Protocol Around Four Message Types](https://dev.to/pietroth/i-designed-a-communication-protocol-around-four-message-types-4mln)** — **0** 👍 · 0 💬
+* **[Cloud Bill Stories #1 — NAT Gateway que cobraba €850 al mes por no hacer nada](https://dev.to/juliandegracia/cloud-bill-stories-1-nat-gateway-que-cobraba-eu850-al-mes-por-no-hacer-nada-22m2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-19T03:58:52.598091+00:00 -->
+<!-- Log-ID: 2026-11-19T21:12:50.832491+00:00 -->
