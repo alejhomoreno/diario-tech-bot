@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-18 23:43 (UTC)
+📅 **Last Update:** 2026-11-19 03:58 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Java4Shell (CVE-2026-114938): The Bug That Leaked Before Its Patch](https://dev.to/thegdsks/java4shell-one-stray-sign-vs-your-java-server-4j3j)** — **9** 👍 · 0 💬
-* **[Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://dev.to/codenameone/port-your-spring-code-with-fewer-edits-and-libraries-that-bring-their-own-server-207p)** — **1** 👍 · 0 💬
-* **[Java4Shell (CVE-2026-114938): is your Java server affected?](https://dev.to/axrisi/java4shell-cve-2026-114938-is-your-java-server-affected-1a4d)** — **1** 👍 · 0 💬
+* **[Port Your Spring Code With Fewer Edits, and Libraries That Bring Their Own Server](https://dev.to/codenameone/port-your-spring-code-with-fewer-edits-and-libraries-that-bring-their-own-server-207p)** — **6** 👍 · 0 💬
+* **[Oracle publica 655 patches e corrige falha Java4Shell](https://dev.to/guiadeti/oracle-publica-655-patches-e-corrige-falha-java4shell-306c)** — **1** 👍 · 0 💬
+* **[Has Your Company Been Audited for Oracle Java? Here's What You Need to Know](https://dev.to/smalltoolsstudio/has-your-company-been-audited-for-oracle-java-heres-what-you-need-to-know-56hd)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **48** 👍 · 37 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **53** 👍 · 38 💬
 * **[Kubernetes Under the Hood: What Actually Happens When You Run kubectl apply](https://dev.to/smtahosin/kubernetes-under-the-hood-what-actually-happens-when-you-run-kubectl-apply-5cog)** — **16** 👍 · 2 💬
-* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **12** 👍 · 0 💬
+* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **13** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[A reconnect schedule is a thundering-herd problem](https://dev.to/rescueshell/a-reconnect-schedule-is-a-thundering-herd-problem-1mo3)** — **1** 👍 · 0 💬
 * **[Why You Should Never Plug an Unknown USB Drive Into Your PC](https://dev.to/simone_busatto99/why-you-should-never-plug-an-unknown-usb-drive-into-your-pc-28j1)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-18T23:43:04.945414+00:00 -->
+<!-- Log-ID: 2026-11-19T03:58:52.598091+00:00 -->
