@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-20 03:52 (UTC)
+📅 **Last Update:** 2026-11-20 20:56 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Finding the Bug Got Cheap. Shipping the Fix Didn't.](https://dev.to/justinpennington/finding-the-bug-got-cheap-shipping-the-fix-didnt-lbe)** — **0** 👍 · 1 💬
-* **[I Built a Java Agent That Injects Tenant Filters Into Every SQL Query Automatically](https://dev.to/maksoud13/i-built-a-java-agent-that-injects-tenant-filters-into-every-sql-query-automatically-4ac2)** — **0** 👍 · 0 💬
-* **[Java4Shell ameaça servidores Minecraft em CPUs AVX-512 VBMI](https://dev.to/guiadeti/java4shell-ameaca-servidores-minecraft-em-cpus-avx-512-vbmi-5god)** — **0** 👍 · 0 💬
+* **[NestJS for Spring Boot developers: a TypeScript backend that will feel familiar](https://dev.to/nestjs/nestjs-for-spring-boot-developers-a-typescript-backend-that-will-feel-familiar-1208)** — **1** 👍 · 0 💬
+* **[13 popular Python projects moved to 3.11 and still can't close their soupsieve alerts](https://dev.to/samuelrojasdev/13-popular-python-projects-moved-to-311-and-still-cant-close-their-soupsieve-alerts-published-i4e)** — **1** 👍 · 0 💬
+* **[What Does a Java Developer Do in a Company? A Complete CTO Guide](https://dev.to/sadique_anwar_b90373bc79c/what-does-a-java-developer-do-in-a-company-a-complete-cto-guide-4ec)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
 * **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **83** 👍 · 20 💬
-* **[Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak](https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e)** — **80** 👍 · 6 💬
 * **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **76** 👍 · 12 💬
+* **[Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks](https://dev.to/hadil/enterprise-sso-for-b2b-saas-how-to-prepare-before-your-first-big-customer-asks-50p6)** — **75** 👍 · 5 💬
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **61** 👍 · 48 💬
-* **[Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0](https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic)** — **13** 👍 · 2 💬
-* **[Day 87: A Redirected Module and a Renamed Publisher](https://dev.to/ndcodes/day-87-a-redirected-module-and-a-renamed-publisher-1280)** — **13** 👍 · 0 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **74** 👍 · 56 💬
+* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **13** 👍 · 0 💬
+* **[Day 88: A Marker in the File and a Disputed Status Code](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5)** — **11** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Using the SCP Command in Linux](https://dev.to/vultr/using-the-scp-command-in-linux-gc6)** — **0** 👍 · 0 💬
-* **[Using the Netstat Command in Linux](https://dev.to/vultr/using-the-netstat-command-in-linux-o8i)** — **0** 👍 · 0 💬
-* **[DAC vs AOC vs Optical Transceivers: Which Fits Your Rack Budget](https://dev.to/shayne914816/dac-vs-aoc-vs-optical-transceivers-which-fits-your-rack-budget-53pn)** — **0** 👍 · 0 💬
+* **[Introducing: Neural Hive Networking (NHN) - a Novel Conceptual Networking Framework](https://dev.to/webxos/introducing-neural-hive-networking-nhn-a-novel-conceptual-networking-framework-2o7j)** — **3** 👍 · 0 💬
+* **[I finally stopped avoiding IPv6 — and it was simpler than I thought](https://dev.to/appexuk/i-finally-stopped-avoiding-ipv6-and-it-was-simpler-than-i-thought-3n48)** — **0** 👍 · 0 💬
+* **[[Boost]](https://dev.to/cloudtracer_admin_e08357b/-2kck)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-20T03:52:36.213499+00:00 -->
+<!-- Log-ID: 2026-11-20T20:56:59.068409+00:00 -->
