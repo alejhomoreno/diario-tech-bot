@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-20 00:01 (UTC)
+📅 **Last Update:** 2026-11-20 03:52 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Finding the Bug Got Cheap. Shipping the Fix Didn't.](https://dev.to/justinpennington/finding-the-bug-got-cheap-shipping-the-fix-didnt-lbe)** — **0** 👍 · 1 💬
-* **[Debug Your Dart in a Java Debugger, and JFX Central on a Phone](https://dev.to/codenameone/debug-your-dart-in-a-java-debugger-and-jfx-central-on-a-phone-366e)** — **0** 👍 · 0 💬
 * **[I Built a Java Agent That Injects Tenant Filters Into Every SQL Query Automatically](https://dev.to/maksoud13/i-built-a-java-agent-that-injects-tenant-filters-into-every-sql-query-automatically-4ac2)** — **0** 👍 · 0 💬
+* **[Java4Shell ameaça servidores Minecraft em CPUs AVX-512 VBMI](https://dev.to/guiadeti/java4shell-ameaca-servidores-minecraft-em-cpus-avx-512-vbmi-5god)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **62** 👍 · 48 💬
-* **[What this week's nginx HTTP/2 CVEs mean for the server I actually run](https://dev.to/alexgeorgiev17/what-this-weeks-nginx-http2-cves-mean-for-the-server-i-actually-run-3nbf)** — **13** 👍 · 4 💬
-* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **13** 👍 · 0 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **61** 👍 · 48 💬
+* **[Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0](https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic)** — **13** 👍 · 2 💬
+* **[Day 87: A Redirected Module and a Renamed Publisher](https://dev.to/ndcodes/day-87-a-redirected-module-and-a-renamed-publisher-1280)** — **13** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[How long a DigitalOcean Cloud Firewall change takes to apply](https://dev.to/remdore/how-long-a-digitalocean-cloud-firewall-change-takes-to-apply-kkb)** — **8** 👍 · 1 💬
-* **[I Designed a Communication Protocol Around Four Message Types](https://dev.to/pietroth/i-designed-a-communication-protocol-around-four-message-types-4mln)** — **0** 👍 · 0 💬
-* **[Cloud Bill Stories #1 — NAT Gateway que cobraba €850 al mes por no hacer nada](https://dev.to/juliandegracia/cloud-bill-stories-1-nat-gateway-que-cobraba-eu850-al-mes-por-no-hacer-nada-22m2)** — **0** 👍 · 0 💬
+* **[Using the SCP Command in Linux](https://dev.to/vultr/using-the-scp-command-in-linux-gc6)** — **0** 👍 · 0 💬
+* **[Using the Netstat Command in Linux](https://dev.to/vultr/using-the-netstat-command-in-linux-o8i)** — **0** 👍 · 0 💬
+* **[DAC vs AOC vs Optical Transceivers: Which Fits Your Rack Budget](https://dev.to/shayne914816/dac-vs-aoc-vs-optical-transceivers-which-fits-your-rack-budget-53pn)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-20T00:01:40.699788+00:00 -->
+<!-- Log-ID: 2026-11-20T03:52:36.213499+00:00 -->
