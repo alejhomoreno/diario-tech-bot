@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-20 23:29 (UTC)
+📅 **Last Update:** 2026-11-21 03:47 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
+* **[TOTP second factor, optional per user and required by role](https://dev.to/prascli/totp-second-factor-optional-per-user-and-required-by-role-4fi8)** — **5** 👍 · 0 💬
 * **[NestJS for Spring Boot developers: a TypeScript backend that will feel familiar](https://dev.to/nestjs/nestjs-for-spring-boot-developers-a-typescript-backend-that-will-feel-familiar-1208)** — **1** 👍 · 0 💬
 * **[13 popular Python projects moved to 3.11 and still can't close their soupsieve alerts](https://dev.to/samuelrojasdev/13-popular-python-projects-moved-to-311-and-still-cant-close-their-soupsieve-alerts-published-i4e)** — **1** 👍 · 0 💬
-* **[What Does a Java Developer Do in a Company? A Complete CTO Guide](https://dev.to/sadique_anwar_b90373bc79c/what-does-a-java-developer-do-in-a-company-a-complete-cto-guide-4ec)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **74** 👍 · 56 💬
-* **[Day 86: A Per-Host Variable and an Account-Wide Rule](https://dev.to/ndcodes/day-86-a-per-host-variable-and-an-account-wide-rule-538c)** — **13** 👍 · 0 💬
-* **[Day 88: A Marker in the File and a Disputed Status Code](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5)** — **12** 👍 · 0 💬
+* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **77** 👍 · 57 💬
+* **[Your IR Runbook Is a PDF Nobody Reads at 3 AM. I Turned Mine Into a State Machine.](https://dev.to/le_beltagy/your-ir-runbook-is-a-pdf-nobody-reads-at-3-am-i-turned-mine-into-a-state-machine-32o8)** — **15** 👍 · 7 💬
+* **[Day 88: A Marker in the File and a Disputed Status Code](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5)** — **14** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[I finally stopped avoiding IPv6 — and it was simpler than I thought](https://dev.to/appexuk/i-finally-stopped-avoiding-ipv6-and-it-was-simpler-than-i-thought-3n48)** — **0** 👍 · 0 💬
 * **[[Boost]](https://dev.to/cloudtracer_admin_e08357b/-2kck)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-20T23:29:58.796371+00:00 -->
+<!-- Log-ID: 2026-11-21T03:47:02.027401+00:00 -->
