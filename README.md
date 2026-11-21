@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-21 03:47 (UTC)
+📅 **Last Update:** 2026-11-21 19:58 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[TOTP second factor, optional per user and required by role](https://dev.to/prascli/totp-second-factor-optional-per-user-and-required-by-role-4fi8)** — **5** 👍 · 0 💬
-* **[NestJS for Spring Boot developers: a TypeScript backend that will feel familiar](https://dev.to/nestjs/nestjs-for-spring-boot-developers-a-typescript-backend-that-will-feel-familiar-1208)** — **1** 👍 · 0 💬
-* **[13 popular Python projects moved to 3.11 and still can't close their soupsieve alerts](https://dev.to/samuelrojasdev/13-popular-python-projects-moved-to-311-and-still-cant-close-their-soupsieve-alerts-published-i4e)** — **1** 👍 · 0 💬
+* **[Spring Boot for Beginners: Why Should We Choose It, and What Projects Is It Best For?](https://dev.to/gihan_benaragama/spring-boot-for-beginners-why-should-we-choose-it-and-what-projects-is-it-best-for-1oh)** — **1** 👍 · 0 💬
+* **[Calendars, Gantt Charts and Booking Apps Without Writing a Calendar](https://dev.to/codenameone/calendars-gantt-charts-and-booking-apps-without-writing-a-calendar-42ng)** — **0** 👍 · 0 💬
+* **[ZGC vs G1: Trading CPU for Pause-Free Memory Reclamation](https://dev.to/gxqwb_ai/zgc-vs-g1-trading-cpu-for-pause-free-memory-reclamation-327)** — **0** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,14 +23,14 @@
 
 ## 🔖 Top Devops
 
-* **[AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.](https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7)** — **77** 👍 · 57 💬
-* **[Your IR Runbook Is a PDF Nobody Reads at 3 AM. I Turned Mine Into a State Machine.](https://dev.to/le_beltagy/your-ir-runbook-is-a-pdf-nobody-reads-at-3-am-i-turned-mine-into-a-state-machine-32o8)** — **15** 👍 · 7 💬
-* **[Day 88: A Marker in the File and a Disputed Status Code](https://dev.to/ndcodes/day-88-a-dead-service-and-a-disputed-status-code-48j5)** — **14** 👍 · 0 💬
+* **[Day 89: A Dead Service and a Private Container That Serves](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo)** — **19** 👍 · 0 💬
+* **[What survived when I moved a small Compose app into Swarm mode](https://dev.to/alexgeorgiev17/what-survived-when-i-moved-a-small-compose-app-into-swarm-mode-5ee0)** — **7** 👍 · 1 💬
+* **[My --config-test accepted a listen address that could never bind](https://dev.to/marcusbeauregard/my-config-test-accepted-a-listen-address-that-could-never-bind-51o6)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
-* **[Introducing: Neural Hive Networking (NHN) - a Novel Conceptual Networking Framework](https://dev.to/webxos/introducing-neural-hive-networking-nhn-a-novel-conceptual-networking-framework-2o7j)** — **3** 👍 · 0 💬
-* **[I finally stopped avoiding IPv6 — and it was simpler than I thought](https://dev.to/appexuk/i-finally-stopped-avoiding-ipv6-and-it-was-simpler-than-i-thought-3n48)** — **0** 👍 · 0 💬
-* **[[Boost]](https://dev.to/cloudtracer_admin_e08357b/-2kck)** — **0** 👍 · 0 💬
+* **[Adding a Cloud Is a Network Project: Onboarding a New Account Without Rewiring the Estate](https://dev.to/onelifevibe/adding-a-cloud-is-a-network-project-onboarding-a-new-account-without-rewiring-the-estate-595j)** — **1** 👍 · 1 💬
+* **[Debugging Slow Network Through a USB-C Dock](https://dev.to/schiff_heimlich/debugging-slow-network-through-a-usb-c-dock-1fbb)** — **1** 👍 · 0 💬
+* **[How Does Load Balancing Work and Why Do High-Traffic Websites Need It?](https://dev.to/arthur_luca/how-does-load-balancing-work-and-why-do-high-traffic-websites-need-it-2hac)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-21T03:47:02.027401+00:00 -->
+<!-- Log-ID: 2026-11-21T19:58:01.383665+00:00 -->
