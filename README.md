@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-22 20:11 (UTC)
+📅 **Last Update:** 2026-11-22 22:59 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Day 90: A Mask in the Way and a Policy Pointing at Nothing](https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o)** — **24** 👍 · 12 💬
 * **[Day 89: A Dead Service and a Private Container That Serves](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo)** — **19** 👍 · 0 💬
 * **[How long it actually takes a GPGME fix to reach Ubuntu](https://dev.to/alexgeorgiev17/how-long-it-actually-takes-a-gpgme-fix-to-reach-ubuntu-30go)** — **8** 👍 · 0 💬
+* **[Automating Container Delivery on AWS: Building a CI/CD Pipeline for a Dockerized Web App on ECS Fargate](https://dev.to/bilal_bukhari_75aeb34a969/automating-container-delivery-on-aws-building-a-cicd-pipeline-for-a-dockerized-web-app-on-ecs-2em4)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Debugging Slow Network Through a USB-C Dock](https://dev.to/schiff_heimlich/debugging-slow-network-through-a-usb-c-dock-1fbb)** — **1** 👍 · 0 💬
 * **[Why HTTP 204 Pings Lie on Throttled Networks: Building HotaruNet (Android + Windows)](https://dev.to/deadboy0098/why-http-204-pings-lie-on-throttled-networks-building-hotarunet-android-windows-2jg0)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-22T20:11:08.763007+00:00 -->
+<!-- Log-ID: 2026-11-22T22:59:38.560772+00:00 -->
