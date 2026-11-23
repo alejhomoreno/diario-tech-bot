@@ -5,32 +5,32 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-22 22:59 (UTC)
+📅 **Last Update:** 2026-11-23 03:31 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
 * **[Forwarded headers: native strategy vs framework in Spring Boot](https://dev.to/prascli/forwarded-headers-native-strategy-vs-framework-in-spring-boot-1lab)** — **5** 👍 · 0 💬
-* **[I Asked AI Models to Optimize a Java Hot Path. Then I Audited Their Benchmarks.](https://dev.to/mensonones/i-asked-ai-models-to-optimize-a-java-hot-path-then-i-audited-their-benchmarks-22ib)** — **1** 👍 · 1 💬
-* **[We set command in our Deployment to add one JVM flag and our pods stopped trusting our partner's certificate](https://dev.to/sergey_shinder_ab2d943365/we-set-command-in-our-deployment-to-add-one-jvm-flag-and-our-pods-stopped-trusting-our-partners-21eo)** — **1** 👍 · 0 💬
+* **[I Asked AI Models to Optimize a Java Hot Path. Then I Audited Their Benchmarks.](https://dev.to/mensonones/i-asked-ai-models-to-optimize-a-java-hot-path-then-i-audited-their-benchmarks-22ib)** — **2** 👍 · 1 💬
+* **[When Pix lookups succeed and payments stop: rate limiting with Bucket4j and Redis](https://dev.to/flpcamargos/when-pix-lookups-succeed-and-payments-stop-rate-limiting-with-bucket4j-and-redis-2p0l)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
 * **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **83** 👍 · 20 💬
+* **[How to Add Login, SSO, and MFA to a Next.js SaaS with Managed Keycloak](https://dev.to/hadil/how-to-add-login-sso-and-mfa-to-a-nextjs-saas-with-managed-keycloak-56dj)** — **83** 👍 · 2 💬
 * **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **76** 👍 · 12 💬
-* **[Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks](https://dev.to/hadil/enterprise-sso-for-b2b-saas-how-to-prepare-before-your-first-big-customer-asks-50p6)** — **75** 👍 · 7 💬
 
 ## 🔖 Top Devops
 
 * **[Day 89: A Dead Service and a Private Container That Serves](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo)** — **19** 👍 · 0 💬
-* **[How long it actually takes a GPGME fix to reach Ubuntu](https://dev.to/alexgeorgiev17/how-long-it-actually-takes-a-gpgme-fix-to-reach-ubuntu-30go)** — **8** 👍 · 0 💬
-* **[Automating Container Delivery on AWS: Building a CI/CD Pipeline for a Dockerized Web App on ECS Fargate](https://dev.to/bilal_bukhari_75aeb34a969/automating-container-delivery-on-aws-building-a-cicd-pipeline-for-a-dockerized-web-app-on-ecs-2em4)** — **1** 👍 · 1 💬
+* **[Silent Failure #15: The Draft That Existed and Was Never Shown](https://dev.to/dafili/silent-failure-15-the-draft-that-existed-and-was-never-shown-22ga)** — **1** 👍 · 0 💬
+* **[RSS 피드 서비스의 대상 주소 자동 동기화 구축기](https://dev.to/joo0/rss-pideu-seobiseuyi-daesang-juso-jadong-donggihwa-gucuggi-4f2j)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
-* **[Weak ties and your job search: what LinkedIn's 20-million-person experiment found](https://dev.to/bhavishya_singla_05a678e6/weak-ties-and-your-job-search-what-linkedins-20-million-person-experiment-found-5epp)** — **1** 👍 · 1 💬
-* **[Debugging Slow Network Through a USB-C Dock](https://dev.to/schiff_heimlich/debugging-slow-network-through-a-usb-c-dock-1fbb)** — **1** 👍 · 0 💬
-* **[Why HTTP 204 Pings Lie on Throttled Networks: Building HotaruNet (Android + Windows)](https://dev.to/deadboy0098/why-http-204-pings-lie-on-throttled-networks-building-hotarunet-android-windows-2jg0)** — **0** 👍 · 1 💬
+* **[What I find interesting about VPC Peering](https://dev.to/princeson_okwarauba_66f8c/what-i-find-interesting-about-vpc-peering-bag)** — **2** 👍 · 5 💬
+* **[Wireshark for Defensive Network Analysis: Read the Traffic Without Guessing](https://dev.to/lfazioli/wireshark-per-lanalisi-difensiva-leggere-il-traffico-senza-indovinare-had)** — **1** 👍 · 0 💬
+* **[📶 Wi-Fi Says "Can't Connect to This Network"? 3 Fixes Before You Reimage](https://dev.to/supbrice/wi-fi-says-cant-connect-to-this-network-3-fixes-before-you-reimage-n7k)** — **1** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-22T22:59:38.560772+00:00 -->
+<!-- Log-ID: 2026-11-23T03:31:50.451317+00:00 -->
