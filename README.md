@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-24 06:47 (UTC)
+📅 **Last Update:** 2026-11-24 22:56 (UTC)
 
 ---
 
@@ -17,15 +17,15 @@
 
 ## 🔖 Top Keycloak
 
-* **[How to Add Login, SSO, and MFA to a Next.js SaaS with Managed Keycloak](https://dev.to/hadil/how-to-add-login-sso-and-mfa-to-a-nextjs-saas-with-managed-keycloak-56dj)** — **84** 👍 · 2 💬
+* **[How to Add Login, SSO, and MFA to a Next.js SaaS with Managed Keycloak](https://dev.to/hadil/how-to-add-login-sso-and-mfa-to-a-nextjs-saas-with-managed-keycloak-56dj)** — **89** 👍 · 2 💬
 * **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **83** 👍 · 21 💬
 * **[Your SaaS Has 10,000 Users. Who Removes Their Access When They Leave?](https://dev.to/hadil/your-saas-has-10000-users-who-removes-their-access-when-they-leave-2676)** — **76** 👍 · 12 💬
 
 ## 🔖 Top Devops
 
-* **[Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)** — **11** 👍 · 2 💬
-* **[Why Your GitHub Actions Bill Jumped (And Why Workflow Totals Hide the Cause)](https://dev.to/senflyboy/why-your-github-actions-bill-jumped-and-why-workflow-totals-hide-the-cause-27pm)** — **1** 👍 · 1 💬
-* **[The Art of the Canary in the Age of AI](https://dev.to/copyleftdev/the-art-of-the-canary-in-the-age-of-ai-2o41)** — **1** 👍 · 0 💬
+* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **28** 👍 · 6 💬
+* **[Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)** — **17** 👍 · 2 💬
+* **[Turning on Postgres logical replication without a restart](https://dev.to/alexgeorgiev17/turning-on-postgres-logical-replication-without-a-restart-4b35)** — **10** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Pasting config into a serial console drops lines: why it happens and how to fix it](https://dev.to/jackedin_app/pasting-config-into-a-serial-console-drops-lines-why-it-happens-and-how-to-fix-it-4lkp)** — **0** 👍 · 0 💬
 * **[A neural network for the "cloud"](https://dev.to/webxos/a-neural-network-for-the-cloud-1kk1)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-24T06:47:20.381838+00:00 -->
+<!-- Log-ID: 2026-11-24T22:56:02.038492+00:00 -->
