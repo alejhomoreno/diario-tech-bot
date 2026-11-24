@@ -5,14 +5,14 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-24 03:38 (UTC)
+📅 **Last Update:** 2026-11-24 06:47 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Ship Your Game on Steam, and Why the Art Matters More Than the Engine](https://dev.to/codenameone/ship-your-game-on-steam-and-why-the-art-matters-more-than-the-engine-1n28)** — **5** 👍 · 2 💬
-* **[Kafka Listeners, Mail and Live Streams in Your Backend, With Records as Entities](https://dev.to/codenameone/kafka-listeners-mail-and-live-streams-in-your-backend-with-records-as-entities-13ae)** — **5** 👍 · 1 💬
+* **[Ship Your Game on Steam, and Why the Art Matters More Than the Engine](https://dev.to/codenameone/ship-your-game-on-steam-and-why-the-art-matters-more-than-the-engine-1n28)** — **6** 👍 · 2 💬
+* **[Can a Unified JSON API Beat the Libraries It Wraps?](https://dev.to/hannyu/can-a-unified-json-api-beat-the-libraries-it-wraps-4gne)** — **1** 👍 · 0 💬
 * **[Tool-Based Skill Integration: Giving Your Java Agent an activate_skill Tool](https://dev.to/said_olano/tool-based-skill-integration-giving-your-java-agent-an-activateskill-tool-ll7)** — **0** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
@@ -24,8 +24,8 @@
 ## 🔖 Top Devops
 
 * **[Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)** — **11** 👍 · 2 💬
-* **[Why Closing an SSH Channel Does Not Kill the Command Running Inside It](https://dev.to/hoagminh/why-closing-an-ssh-channel-does-not-kill-the-command-running-inside-it-50kl)** — **2** 👍 · 4 💬
-* **[Silent Failure #16: The Sweep Counted What I Planned, Not What I Read](https://dev.to/dafili/silent-failure-16-the-sweep-counted-what-i-planned-not-what-i-read-3hmi)** — **1** 👍 · 0 💬
+* **[Why Your GitHub Actions Bill Jumped (And Why Workflow Totals Hide the Cause)](https://dev.to/senflyboy/why-your-github-actions-bill-jumped-and-why-workflow-totals-hide-the-cause-27pm)** — **1** 👍 · 1 💬
+* **[The Art of the Canary in the Age of AI](https://dev.to/copyleftdev/the-art-of-the-canary-in-the-age-of-ai-2o41)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Pasting config into a serial console drops lines: why it happens and how to fix it](https://dev.to/jackedin_app/pasting-config-into-a-serial-console-drops-lines-why-it-happens-and-how-to-fix-it-4lkp)** — **0** 👍 · 0 💬
 * **[A neural network for the "cloud"](https://dev.to/webxos/a-neural-network-for-the-cloud-1kk1)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-24T03:38:49.344980+00:00 -->
+<!-- Log-ID: 2026-11-24T06:47:20.381838+00:00 -->
