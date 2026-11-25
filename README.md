@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-25 01:45 (UTC)
+📅 **Last Update:** 2026-11-25 05:14 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Ship Your Game on Steam, and Why the Art Matters More Than the Engine](https://dev.to/codenameone/ship-your-game-on-steam-and-why-the-art-matters-more-than-the-engine-1n28)** — **6** 👍 · 2 💬
-* **[Can a Unified JSON API Beat the Libraries It Wraps?](https://dev.to/hannyu/can-a-unified-json-api-beat-the-libraries-it-wraps-4gne)** — **1** 👍 · 0 💬
-* **[Tool-Based Skill Integration: Giving Your Java Agent an activate_skill Tool](https://dev.to/said_olano/tool-based-skill-integration-giving-your-java-agent-an-activateskill-tool-ll7)** — **0** 👍 · 1 💬
+* **[Best AI Code Review Tools for Java](https://dev.to/dev_kiran/best-ai-code-review-tools-for-java-3oi7)** — **16** 👍 · 0 💬
+* **[Letting AI assistants draft posts, but never publish them: building an MCP server with its own OAuth 2.1 server](https://dev.to/ishika1435/letting-ai-assistants-draft-posts-but-never-publish-them-building-an-mcp-server-with-its-own-5397)** — **1** 👍 · 1 💬
+* **[We added one field to the object in our sessions and rolling back made the errors worse](https://dev.to/sergey_shinder_ab2d943365/we-added-one-field-to-the-object-in-our-sessions-and-rolling-back-made-the-errors-worse-1fke)** — **1** 👍 · 0 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **34** 👍 · 10 💬
-* **[Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)** — **17** 👍 · 2 💬
+* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **38** 👍 · 13 💬
 * **[git bisect doesn't work on lockfiles — so I built whichdep](https://dev.to/kameh0use/git-bisect-doesnt-work-on-lockfiles-so-i-built-whichdep-4d37)** — **10** 👍 · 9 💬
+* **[Turning on Postgres logical replication without a restart](https://dev.to/alexgeorgiev17/turning-on-postgres-logical-replication-without-a-restart-4b35)** — **10** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Pasting config into a serial console drops lines: why it happens and how to fix it](https://dev.to/jackedin_app/pasting-config-into-a-serial-console-drops-lines-why-it-happens-and-how-to-fix-it-4lkp)** — **0** 👍 · 0 💬
 * **[A neural network for the "cloud"](https://dev.to/webxos/a-neural-network-for-the-cloud-1kk1)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-25T01:45:42.297203+00:00 -->
+<!-- Log-ID: 2026-11-25T05:14:49.063300+00:00 -->
