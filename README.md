@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-24 22:56 (UTC)
+📅 **Last Update:** 2026-11-25 01:45 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **28** 👍 · 6 💬
+* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **34** 👍 · 10 💬
 * **[Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)** — **17** 👍 · 2 💬
-* **[Turning on Postgres logical replication without a restart](https://dev.to/alexgeorgiev17/turning-on-postgres-logical-replication-without-a-restart-4b35)** — **10** 👍 · 1 💬
+* **[git bisect doesn't work on lockfiles — so I built whichdep](https://dev.to/kameh0use/git-bisect-doesnt-work-on-lockfiles-so-i-built-whichdep-4d37)** — **10** 👍 · 9 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Pasting config into a serial console drops lines: why it happens and how to fix it](https://dev.to/jackedin_app/pasting-config-into-a-serial-console-drops-lines-why-it-happens-and-how-to-fix-it-4lkp)** — **0** 👍 · 0 💬
 * **[A neural network for the "cloud"](https://dev.to/webxos/a-neural-network-for-the-cloud-1kk1)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-24T22:56:02.038492+00:00 -->
+<!-- Log-ID: 2026-11-25T01:45:42.297203+00:00 -->
