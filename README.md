@@ -5,15 +5,15 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-25 05:14 (UTC)
+📅 **Last Update:** 2026-11-25 22:10 (UTC)
 
 ---
 
 ## 🔖 Top Java
 
-* **[Best AI Code Review Tools for Java](https://dev.to/dev_kiran/best-ai-code-review-tools-for-java-3oi7)** — **16** 👍 · 0 💬
-* **[Letting AI assistants draft posts, but never publish them: building an MCP server with its own OAuth 2.1 server](https://dev.to/ishika1435/letting-ai-assistants-draft-posts-but-never-publish-them-building-an-mcp-server-with-its-own-5397)** — **1** 👍 · 1 💬
-* **[We added one field to the object in our sessions and rolling back made the errors worse](https://dev.to/sergey_shinder_ab2d943365/we-added-one-field-to-the-object-in-our-sessions-and-rolling-back-made-the-errors-worse-1fke)** — **1** 👍 · 0 💬
+* **[How to Extract Specific Fields from PDFs Using Open-Source AI and LLMs](https://dev.to/lyraethyx/how-to-extract-specific-fields-from-pdfs-using-open-source-ai-and-llms-5dcl)** — **3** 👍 · 0 💬
+* **[Our Java pod was killed for memory with a third of its heap free because glibc gave it an arena for every core on the node](https://dev.to/sergey_shinder_ab2d943365/our-java-pod-was-killed-for-memory-with-a-third-of-its-heap-free-because-glibc-gave-it-an-arena-for-4k3c)** — **2** 👍 · 1 💬
+* **[I built a 444 KB offline Android running tracker in pure Java (zero Gradle, zero INTERNET permission)](https://dev.to/ayushxxy/i-built-a-444-kb-offline-android-running-tracker-in-pure-java-zero-gradle-zero-internet-27el)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Keycloak
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **38** 👍 · 13 💬
-* **[git bisect doesn't work on lockfiles — so I built whichdep](https://dev.to/kameh0use/git-bisect-doesnt-work-on-lockfiles-so-i-built-whichdep-4d37)** — **10** 👍 · 9 💬
-* **[Turning on Postgres logical replication without a restart](https://dev.to/alexgeorgiev17/turning-on-postgres-logical-replication-without-a-restart-4b35)** — **10** 👍 · 1 💬
+* **[Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)** — **56** 👍 · 27 💬
+* **[My AI memory marked 471 notes as verified. Nothing had verified them.](https://dev.to/heinrichneb/my-ai-memory-marked-471-notes-as-verified-nothing-had-verified-them-3m87)** — **8** 👍 · 2 💬
+* **[Day 92: A Name the Inventory Chose and a Check Before the Delete](https://dev.to/ndcodes/day-92-a-name-the-inventory-chose-and-a-check-before-the-delete-4081)** — **6** 👍 · 0 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[Pasting config into a serial console drops lines: why it happens and how to fix it](https://dev.to/jackedin_app/pasting-config-into-a-serial-console-drops-lines-why-it-happens-and-how-to-fix-it-4lkp)** — **0** 👍 · 0 💬
 * **[A neural network for the "cloud"](https://dev.to/webxos/a-neural-network-for-the-cloud-1kk1)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-25T05:14:49.063300+00:00 -->
+<!-- Log-ID: 2026-11-25T22:10:26.517535+00:00 -->
