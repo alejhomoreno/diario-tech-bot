@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-26 22:09 (UTC)
+📅 **Last Update:** 2026-11-27 01:18 (UTC)
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## 🔖 Top Devops
 
-* **[CVE-Harta: Autonomous Vulnerability Remediation](https://dev.to/kitarp29/cve-harta-autonomous-vulnerability-remediation-5e1h)** — **7** 👍 · 1 💬
-* **[Linux Server Backup That Actually Restores](https://dev.to/shuvo_h/linux-server-backup-that-actually-restores-1994)** — **1** 👍 · 1 💬
-* **[[Kalamos Development] Auto-Update Lessons: Private Key Isolation, Build-Signing Separation, Key Rotation, and CI Queuing](https://dev.to/evanlin/kalamos-development-auto-update-lessons-private-key-isolation-build-signing-separation-key-4g)** — **1** 👍 · 0 💬
+* **[NetworkPolicy Is Not Workload Identity](https://dev.to/zenmesh/networkpolicy-is-not-workload-identity-17ol)** — **1** 👍 · 1 💬
+* **[Your Karpenter Spot NodePool Probably Has a Hidden Mass-Extinction Risk — Here Is How I Tested It](https://dev.to/ahafarag/your-karpenter-spot-nodepool-probably-has-a-hidden-mass-extinction-risk-here-is-how-i-tested-it-2pen)** — **0** 👍 · 3 💬
+* **[I moved etcd off my SD card before it could kill my cluster](https://dev.to/mrtoadie/i-moved-etcd-off-my-sd-card-before-it-could-kill-my-cluster-fi4)** — **0** 👍 · 3 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[One Proxy, Three Tools, Three Different Failures: A Decision Tree for npm, Docker, and prebuild-install on Locked-Down Networks](https://dev.to/mrl5z2k0/one-proxy-three-tools-three-different-failures-a-decision-tree-for-npm-docker-and-2k71)** — **1** 👍 · 0 💬
 * **[DNS exfiltration explained: how data leaves a network that blocks outbound traffic](https://dev.to/sandscale/dns-exfiltration-explained-how-data-leaves-a-network-that-blocks-outbound-traffic-1lj2)** — **0** 👍 · 0 💬
 
-<!-- Log-ID: 2026-11-26T22:09:12.688265+00:00 -->
+<!-- Log-ID: 2026-11-27T01:18:40.838271+00:00 -->
