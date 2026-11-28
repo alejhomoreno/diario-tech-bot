@@ -5,7 +5,7 @@
 ### 🛠️ Built with:
 <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'></code> <code><img height='30' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'></code>
 
-📅 **Last Update:** 2026-11-28 04:33 (UTC)
+📅 **Last Update:** 2026-11-28 20:46 (UTC)
 
 ---
 
@@ -17,15 +17,15 @@
 
 ## 🔖 Top Keycloak
 
+* **[JWT Says ‘Admin’. Should Your API Believe It?](https://dev.to/hadil/jwt-says-admin-should-your-api-believe-it-4m4m)** — **100** 👍 · 15 💬
 * **[How to Add Login, SSO, and MFA to a Next.js SaaS with Managed Keycloak](https://dev.to/hadil/how-to-add-login-sso-and-mfa-to-a-nextjs-saas-with-managed-keycloak-56dj)** — **95** 👍 · 2 💬
 * **[Your Login Works. Now Prove Who Did What](https://dev.to/hadil/your-login-works-now-prove-who-did-what-26p5)** — **83** 👍 · 21 💬
-* **[Enterprise SSO for B2B SaaS: How to Prepare Before Your First Big Customer Asks](https://dev.to/hadil/enterprise-sso-for-b2b-saas-how-to-prepare-before-your-first-big-customer-asks-50p6)** — **80** 👍 · 7 💬
 
 ## 🔖 Top Devops
 
-* **[Chasing down why Ansible stalled on a fresh Ubuntu 26.04 box](https://dev.to/alexgeorgiev17/chasing-down-why-ansible-stalled-on-a-fresh-ubuntu-2604-box-5678)** — **12** 👍 · 1 💬
-* **[Building from $0.00: The Roman Numeral Trap (III vs. IV) & Four Real Agentic Telemetry Failures](https://dev.to/jsb-securedme/building-from-000-the-roman-numeral-trap-iii-vs-iv-four-real-agentic-telemetry-failures-315f)** — **6** 👍 · 0 💬
-* **[Why the 2026 "2Shell" and "2Root" bugs are hard to exploit](https://dev.to/hiu_nguynhuy_09af3ae03/why-the-2026-2shell-and-2root-bugs-are-hard-to-exploit-i49)** — **1** 👍 · 1 💬
+* **[Our infrastructure was code. We still deployed by hand](https://dev.to/ahi/our-infrastructure-was-code-we-still-deployed-by-hand-3ddm)** — **2** 👍 · 2 💬
+* **[My AI Agent Kept Pushing Broken Releases Without Asking—So I Built a Hardware Lock to Stop It (git-oops v1.2.1)](https://dev.to/hao610/my-ai-agent-kept-pushing-broken-releases-without-asking-so-i-built-a-hardware-lock-to-stop-it-2k85)** — **1** 👍 · 2 💬
+* **[I killed a SQLite writer mid-commit to see what would survive](https://dev.to/alexgeorgiev17/i-killed-a-sqlite-writer-mid-commit-to-see-what-would-survive-b38)** — **1** 👍 · 1 💬
 
 ## 🔖 Top Networking
 
@@ -33,4 +33,4 @@
 * **[A Python Session Is Not a Proxy Session: Build a Local Lab to See Why](https://dev.to/ipgleamoversea/a-python-session-is-not-a-proxy-session-build-a-local-lab-to-see-why-5d92)** — **0** 👍 · 1 💬
 * **[Fix SNMP Timeout: No Response in snmpwalk and snmpget](https://dev.to/chamav/fix-snmp-timeout-no-response-in-snmpwalk-and-snmpget-ccp)** — **0** 👍 · 1 💬
 
-<!-- Log-ID: 2026-11-28T04:33:13.912887+00:00 -->
+<!-- Log-ID: 2026-11-28T20:46:46.193113+00:00 -->
